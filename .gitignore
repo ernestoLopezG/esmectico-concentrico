@@ -1,0 +1,12 @@
+# Archivos temporales de Lout
+*.lix
+*.lout.lix
+*~
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de LibreOffice en uso
+.~lock.*
+
