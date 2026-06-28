@@ -198,31 +198,7 @@
 ???}}
 
 {@@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/dcarga.1"}
-  \b{Orbitales y distribución interna de carga.}
-{ @LInput }} } }
+@@D "2529 153"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.1"}
@@ -232,7 +208,13 @@
 
 {@@E {
 { @@A { @@E {
-@@D "3196 204"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/dcarga.1"} } }
 }
@@ -241,7 +223,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/dcarga.1"}}}
 
 {@@E {
-@@D "3648 233"
+@@D "3267 209"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/dcarga.1"}
@@ -250,7 +232,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "3140 200"
+@@D "2529 153"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.1"}
@@ -266,7 +248,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "3196 204"
+@@D "3281 210"
 }
 {@@V @DupRunner} } }
  }
@@ -333,7 +315,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "4446 273"
+@@D "4137 255"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -358,7 +340,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "3140 200"
+@@D "2529 153"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.2"}
@@ -367,12 +349,12 @@
 ???}}
 
 {@@E {
-@@D "3196 204"
+@@D "3281 210"
 }
 {{} @@V @SendRef miller}}
 
 {@@E {
-@@D "3140 200"
+@@D "2529 153"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.3"}
@@ -382,7 +364,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "3196 204"
+@@D "3281 210"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/dcarga.2"} } }
 }
@@ -391,7 +373,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/dcarga.2"}}}
 
 {@@E {
-@@D "6347 383"
+@@D "6038 365"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/dcarga.2"}
@@ -400,7 +382,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "3140 200"
+@@D "2529 153"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.2"}
@@ -416,7 +398,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "3196 204"
+@@D "3281 210"
 }
 {@@V @DupRunner} } }
  }
@@ -588,7 +570,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "3196 204"
+@@D "3281 210"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/dcarga.3"} } }
 }
@@ -597,7 +579,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/dcarga.3"}}}
 
 {@@E {
-@@D "10046 589"
+@@D "9737 571"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/dcarga.3"}
@@ -606,7 +588,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "3140 200"
+@@D "2529 153"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.3"}
@@ -622,13 +604,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "3196 204"
+@@D "3281 210"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "7171 424"
+@@D "6862 406"
 }
 {@@V @DupRunner} } }
  }
@@ -842,7 +824,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "14058 814"
+@@D "13748 796"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/dcarga.4"} } }
 }
@@ -851,7 +833,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/dcarga.4"}}}
 
 {@@E {
-@@D "14511 843"
+@@D "14201 825"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/dcarga.4"}
@@ -860,7 +842,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "14002 810"
+@@D "13692 792"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.4"}
@@ -876,7 +858,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "14058 814"
+@@D "13748 796"
 }
 {@@V @DupRunner} } }
  }
@@ -1089,7 +1071,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "14002 810"
+@@D "13692 792"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.5"}
@@ -1098,7 +1080,7 @@
 ???}}
 
 {@@E {
-@@D "14002 810"
+@@D "13692 792"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.6"}
@@ -1108,7 +1090,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "14058 814"
+@@D "13748 796"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/dcarga.5"} } }
 }
@@ -1117,7 +1099,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/dcarga.5"}}}
 
 {@@E {
-@@D "19095 1109"
+@@D "18785 1091"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/dcarga.5"}
@@ -1126,7 +1108,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "14002 810"
+@@D "13692 792"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.5"}
@@ -1142,7 +1124,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "14058 814"
+@@D "13748 796"
 }
 {@@V @DupRunner} } }
  }
@@ -1377,7 +1359,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "14058 814"
+@@D "13748 796"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/dcarga.6"} } }
 }
@@ -1386,7 +1368,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/dcarga.6"}}}
 
 {@@E {
-@@D "23732 1378"
+@@D "23422 1360"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/dcarga.6"}
@@ -1395,7 +1377,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "14002 810"
+@@D "13692 792"
 }
 {@Figure
   \a{"9.3806.cap/hadr/dcarga.6"}
@@ -1411,13 +1393,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "14058 814"
+@@D "13748 796"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "19913 1150"
+@@D "19603 1132"
 }
 {@@V @DupRunner} } }
  }
@@ -1666,7 +1648,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "14058 814"
+@@D "13748 796"
 }
 {@LUse @BookSetup} } }
 }
@@ -1713,7 +1695,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "28620 1662"
+@@D "28310 1644"
 }
 {?? @@V @Do ??} } }
 }

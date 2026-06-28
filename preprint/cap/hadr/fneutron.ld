@@ -307,65 +307,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fneutron.1"}
-  \b{Factor de forma del neutrón}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/fneutron.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "4069 247"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -438,7 +380,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fneutron.2"}}}
 
 {@@E {
-@@D "7152 424"
+@@D "6148 366"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fneutron.2"}
@@ -451,7 +393,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "7166 425"
+@@D "6162 367"
 }
 {@LUse @BookSetup} } }
 }
@@ -481,7 +423,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "7166 425"
+@@D "6162 367"
 }
 {@@V @DupRunner} } }
  }
@@ -694,12 +636,12 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "7166 425"
+@@D "6162 367"
 }
 {{} @@V @SendRef arrington}}
 
 {@@E {
-@@D "7682 449"
+@@D "6678 391"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fneutron.3"}
@@ -711,7 +653,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "7696 450"
+@@D "6692 392"
 }
 {@Section
   \a{"10.1196.cap/hadr/fneutron.1"}
@@ -749,7 +691,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "12032 710"
+@@D "11028 652"
 }
 {?? @@V @Do ??} } }
 }
@@ -781,7 +723,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fneutron.3"}}}
 
 {@@E {
-@@D "13110 767"
+@@D "12106 709"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fneutron.3"}
@@ -794,7 +736,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "13124 768"
+@@D "12120 710"
 }
 {@LUse @BookSetup} } }
 }
@@ -824,7 +766,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "13124 768"
+@@D "12120 710"
 }
 {@@V @DupRunner} } }
  }
@@ -891,7 +833,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "14297 831"
+@@D "13293 773"
 }
 {{??} @@V @Do {??}} } }
 }

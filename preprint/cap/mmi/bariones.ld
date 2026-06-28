@@ -746,65 +746,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/mmi/bariones.1"}
-  \b{Ajuste de las masas de las epícimas}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/mmi/bariones.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "11429 686"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -888,7 +830,7 @@
   \b{@@V type 1}}}
 
 {@@E {
-@@D "14360 852"
+@@D "13365 794"
 }
 {@@V listitem
   \a{"4.1748.cap/mmi/bariones.5"}
@@ -897,7 +839,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "14346 851"
+@@D "13351 793"
 }
 {@@V @MakeList 2} } }
 }
@@ -908,14 +850,14 @@
   \b{@@V type 2}}}
 
 {@@E {
-@@D "14360 852"
+@@D "13365 794"
 }
 {@@V listitem
   \a{"4.1748.cap/mmi/bariones.6"}
 ???}}
 
 {@@E {
-@@D "14360 852"
+@@D "13365 794"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.4"}
@@ -925,7 +867,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "14416 856"
+@@D "13421 798"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/mmi/bariones.4"} } }
 }
@@ -934,7 +876,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.4"}}}
 
 {@@E {
-@@D "15354 926"
+@@D "14359 868"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.4"}
@@ -943,7 +885,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "14360 852"
+@@D "13365 794"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.4"}
@@ -959,7 +901,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "14416 856"
+@@D "13421 798"
 }
 {@@V @DupRunner} } }
  }
@@ -1172,7 +1114,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "14360 852"
+@@D "13365 794"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.5"}
@@ -1197,7 +1139,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.5"}}}
 
 {@@E {
-@@D "19785 1183"
+@@D "18790 1125"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.5"}
@@ -1210,7 +1152,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "19799 1184"
+@@D "18804 1126"
 }
 {@LUse @BookSetup} } }
 }
@@ -1240,7 +1182,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "19799 1184"
+@@D "18804 1126"
 }
 {@@V @DupRunner} } }
  }
@@ -1474,7 +1416,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "20312 1208"
+@@D "19317 1150"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.6"}
@@ -1484,7 +1426,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "19799 1184"
+@@D "18804 1126"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/mmi/bariones.6"} } }
 }
@@ -1493,7 +1435,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.6"}}}
 
 {@@E {
-@@D "24918 1485"
+@@D "23923 1427"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.6"}
@@ -1502,7 +1444,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "20312 1208"
+@@D "19317 1150"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.6"}
@@ -1518,7 +1460,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "19799 1184"
+@@D "18804 1126"
 }
 {@@V @DupRunner} } }
  }
@@ -1807,7 +1749,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "29930 1779"
+@@D "28935 1721"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/mmi/bariones.7"} } }
 }
@@ -1816,7 +1758,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.7"}}}
 
 {@@E {
-@@D "30373 1808"
+@@D "29378 1750"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.7"}
@@ -1825,7 +1767,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "29874 1775"
+@@D "28879 1717"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.7"}
@@ -1841,7 +1783,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "29930 1779"
+@@D "28935 1721"
 }
 {@@V @DupRunner} } }
  }
@@ -2117,7 +2059,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "29874 1775"
+@@D "28879 1717"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.8"}
@@ -2127,7 +2069,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "29930 1779"
+@@D "28935 1721"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/mmi/bariones.8"} } }
 }
@@ -2136,7 +2078,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.8"}}}
 
 {@@E {
-@@D "35784 2128"
+@@D "34789 2070"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.8"}
@@ -2145,7 +2087,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "29874 1775"
+@@D "28879 1717"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.8"}
@@ -2161,7 +2103,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "29930 1779"
+@@D "28935 1721"
 }
 {@@V @DupRunner} } }
  }
@@ -2461,7 +2403,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "29888 1776"
+@@D "28893 1718"
 }
 {@Section
   \a{"10.1196.cap/mmi/bariones.1"}
@@ -2499,7 +2441,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "41380 2460"
+@@D "40385 2402"
 }
 {?? @@V @Do ??} } }
 }

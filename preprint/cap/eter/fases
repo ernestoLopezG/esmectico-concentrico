@@ -19,7 +19,13 @@ Las soluciones del capítulo 2 demuestran que los neutrinos solo necesitan un sus
 @NP
 
 La cristalización en capas concentricas proporciona de forma natural la curvatura postulada. No siendo necesario ningún gradiente de indice de refracción - dado que la velocidad de propagación es c en todo el sustrato por construcción -  sino simplemente la existencia de tres sustratos dispuestos concentricamente. No hay diferencia de velocidades entre fases que produzca curvatura de rayos.
-@DP El confinamiento es siempre matemático (evanescencia o localización en interfaz). El guiado no es óptico sino modal: cada pulsación es un modo propio de su región del sustrato, matemáticamente incompatible con las soluciones de las regiones adyacentes. No hay propagación radial ni reflexión en las interfaces - hay evanescencia o localización en interfaz. La sincronización entre regiones es posible en las interfaces (donde las condiciones de contorno acoplan los modos), pero no implica transferencia de energía en dirección radial.
+@DP
+Nota: Esta afirmación requiere una precisión importante. La velocidad de propagación c no tiene gradiente en las dimensiones compactadas (@Math {partialdiff c slash partialdiff xi = partialdiff c slash partialdiff tau = 0}) - no hay diferencia de velocidades según @Math {xi o tau} que produzca curvatura de rayos en esas dimensiones. En las dimensiones extendidas, sin embargo, c varía con la temperatura local del sustrato, que a su vez depende de la distribución de masa (sección 3.3, gravedad como refracción del segundo sonido). Esta distinción es uno de los cambios conceptuales más profundos del modelo respecto a la Relatividad General: lo que la RG describe como "dilatación del tiempo" cerca de una masa es, en el modelo, una reducción de la velocidad de propagación de todas las pulsaciones en las dimensiones extendidas - incluyendo las que forman los relojes. El tiempo no se estira: los relojes van más lentos porque están formados por pulsaciones que se propagan más lentamente. La referencia no es el tiempo newtoniano sino el estado de vacío del sustrato (T inalterada, ausencia de masa): es respecto a ese estado donde c varía localmente en las dimensiones extendidas por efecto de la temperatura del esméctico, que en ningún caso es la temperatura que percibimos del vacío, sino la propia del sustrato, muy similar a la temperatura de Planck.
+
+
+
+@DP
+El confinamiento es siempre matemático (evanescencia o localización en interfaz). El guiado no es óptico sino modal: cada pulsación es un modo propio de su región del sustrato, matemáticamente incompatible con las soluciones de las regiones adyacentes. No hay propagación radial ni reflexión en las interfaces - hay evanescencia o localización en interfaz. La sincronización entre regiones es posible en las interfaces (donde las condiciones de contorno acoplan los modos), pero no implica transferencia de energía en dirección radial.
 @DP
 Los neutrinos electrónico y muónico son modos del esméctico A puro (q -> 0) - su extensión hacia el esméctico C es matemáticamente despreciable y no afecta a los cálculos. El neutrino tauónico, en cambio, es un conector topológico (Tipo IIbis, a=0, @Math {upsilon =1 slash 2 } de Floquet) sin dominio fijo: se extiende desde el esméctico A hasta el C, lo que le permite participar en reorganizaciones hadrónicas profundas que los otros dos neutrinos no pueden mediar.
 @DP
@@ -47,7 +53,8 @@ rule { yes }
 }
 @DP
 Nótese que más alla del límite exterior no es posible conocer nada, si estamos en un torbellino dentro de algo mayor o si todo lo que existe es el torbellino quedará por definición fuera del alcance de la Ciencia.
-
+@DP
+Esta estructura de fases no es estática - emerge del proceso cosmológico y tiene consecuencias directas en la física de las partículas. Las dos secciones siguientes desarrollan ambas direcciones.
 @End @SubSection
 
 
@@ -218,7 +225,7 @@ libre no puede suministrar por sí solo.
 @DP
 Sin embargo, las necesidad de la creación prácticamente simultanea de dos pares electrón "/" positrón y neutrino "/" antineutrino hace que cuando ambas estén disponibles, prevalezca la captura electrónica sobre la beta positiva.
 @DP
-La reacción beta ordinaria, sin embargo siempre es exotérminca. La asimetría entre ambas reacciones refleja directamente la asimetría
+La reacción beta ordinaria, sin embargo siempre es exotérmica. La asimetría entre ambas reacciones refleja directamente la asimetría
 de masas entre epícimas: m_p > m_l hace que la dirección pesada -ligera sea siempre la favorecida energéticamente en condiciones de vacío.
 @DP Y la pregunta final, ¿ puede un neutrino externo realizar la misma función? Y la respuesta es nuevamente, sí. Es la captura de neutrinos:
 @DP

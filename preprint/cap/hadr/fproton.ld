@@ -305,13 +305,7 @@
 
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "49 4"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.2"} } }
 }
@@ -329,25 +323,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "5231 307"
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fproton.1"}
-  \b{Factor de forma del protón}
-{ @LInput }} } }
+@@D "2510 155"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.2"}
@@ -363,7 +339,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "5231 307"
+@@D "49 4"
 }
 {@@V @DupRunner} } }
  }
@@ -534,12 +510,12 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "5231 307"
+@@D "49 4"
 }
 {{} @@V @SendRef hofstader}}
 
 {@@E {
-@@D "5742 331"
+@@D "2510 155"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.3"}
@@ -564,7 +540,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.3"}}}
 
 {@@E {
-@@D "9454 550"
+@@D "9076 526"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.3"}
@@ -577,7 +553,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {@LUse @BookSetup} } }
 }
@@ -607,7 +583,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {@@V @DupRunner} } }
  }
@@ -799,7 +775,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "9979 575"
+@@D "9601 551"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.4"}
@@ -808,17 +784,17 @@
 ???}}
 
 {@@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {{} @@V @SendRef puckett}}
 
 {@@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {{} @@V @SendRef jones}}
 
 {@@E {
-@@D "9979 575"
+@@D "9601 551"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.5"}
@@ -828,7 +804,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.4"} } }
 }
@@ -837,7 +813,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.4"}}}
 
 {@@E {
-@@D "14203 829"
+@@D "13825 805"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.4"}
@@ -846,7 +822,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "9979 575"
+@@D "9601 551"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.4"}
@@ -862,7 +838,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {@@V @DupRunner} } }
  }
@@ -1076,7 +1052,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.5"} } }
 }
@@ -1085,7 +1061,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.5"}}}
 
 {@@E {
-@@D "18519 1077"
+@@D "18141 1053"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.5"}
@@ -1094,7 +1070,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "9979 575"
+@@D "9601 551"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.5"}
@@ -1110,13 +1086,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "9468 551"
+@@D "9090 527"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "15033 870"
+@@D "14655 846"
 }
 {@@V @DupRunner} } }
  }
@@ -1372,7 +1348,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "23151 1344"
+@@D "22773 1320"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.6"} } }
 }
@@ -1381,14 +1357,14 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.6"}}}
 
 {@@E {
-@@D "23561 1373"
+@@D "23183 1349"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.6"}
   \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/hadr/fproton.6"}}}}}
 
 {@@E {
-@@D "23165 1345"
+@@D "22787 1321"
 }
 {@TitleMarker
   \a{"9.3806.cap/hadr/fproton.6"}
@@ -1396,7 +1372,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "23151 1344"
+@@D "22773 1320"
 }
 {@@V @DupRunner} } }
  }
@@ -1651,7 +1627,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "23095 1340"
+@@D "22717 1316"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.7"}
@@ -1660,7 +1636,7 @@
 ???}}
 
 {@@E {
-@@D "23095 1340"
+@@D "22717 1316"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.8"}
@@ -1669,7 +1645,7 @@
 ???}}
 
 {@@E {
-@@D "23151 1344"
+@@D "22773 1320"
 }
 {{} @@V @SendRef boster}}
 
@@ -1690,14 +1666,14 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.7"}}}
 
 {@@E {
-@@D "28545 1676"
+@@D "28167 1652"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.7"}
   \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/hadr/fproton.7"}}}}}
 
 {@@E {
-@@D "28573 1678"
+@@D "28195 1654"
 }
 {@TitleMarker
   \a{"9.3806.cap/hadr/fproton.7"}
@@ -1705,7 +1681,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "28559 1677"
+@@D "28181 1653"
 }
 {@@V @DupRunner} } }
  }
@@ -1982,7 +1958,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "28559 1677"
+@@D "28181 1653"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.8"} } }
 }
@@ -1991,14 +1967,14 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.8"}}}
 
 {@@E {
-@@D "33659 1983"
+@@D "33281 1959"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.8"}
   \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/hadr/fproton.8"}}}}}
 
 {@@E {
-@@D "28573 1678"
+@@D "28195 1654"
 }
 {@TitleMarker
   \a{"9.3806.cap/hadr/fproton.8"}
@@ -2006,7 +1982,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "28559 1677"
+@@D "28181 1653"
 }
 {@@V @DupRunner} } }
  }
@@ -2307,7 +2283,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "28559 1677"
+@@D "28181 1653"
 }
 {@LUse @BookSetup} } }
 }
@@ -2346,7 +2322,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.9"}}}
 
 {@@E {
-@@D "39441 2332"
+@@D "39063 2308"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.9"}
@@ -2359,7 +2335,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "39455 2333"
+@@D "39077 2309"
 }
 {@LUse @BookSetup} } }
 }
@@ -2389,7 +2365,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "39455 2333"
+@@D "39077 2309"
 }
 {@@V @DupRunner} } }
  }
@@ -2707,7 +2683,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "39968 2357"
+@@D "39590 2333"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.10"}
@@ -2716,7 +2692,7 @@
 ???}}
 
 {@@E {
-@@D "39968 2357"
+@@D "39590 2333"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.11"}
@@ -2726,7 +2702,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "39455 2333"
+@@D "39077 2309"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.10"} } }
 }
@@ -2735,14 +2711,14 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.10"}}}
 
 {@@E {
-@@D "45935 2727"
+@@D "45557 2703"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.10"}
   \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/hadr/fproton.10"}}}}}
 
 {@@E {
-@@D "39469 2334"
+@@D "39091 2310"
 }
 {@TitleMarker
   \a{"9.3806.cap/hadr/fproton.10"}
@@ -2750,7 +2726,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "39455 2333"
+@@D "39077 2309"
 }
 {@@V @DupRunner} } }
  }
@@ -3090,7 +3066,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "39455 2333"
+@@D "39077 2309"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.11"} } }
 }
@@ -3099,7 +3075,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.11"}}}
 
 {@@E {
-@@D "51936 3091"
+@@D "51558 3067"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.11"}
@@ -3108,7 +3084,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "39968 2357"
+@@D "39590 2333"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.11"}
@@ -3124,13 +3100,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "39455 2333"
+@@D "39077 2309"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "46548 2758"
+@@D "46170 2734"
 }
 {@@V @DupRunner} } }
  }
@@ -3511,12 +3487,12 @@
 ???}}
 
 {@@E {
-@@D "58463 3484"
+@@D "58085 3460"
 }
 {{} @@V @SendRef slac}}
 
 {@@E {
-@@D "58407 3480"
+@@D "58029 3456"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.13"}
@@ -3528,7 +3504,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "58421 3481"
+@@D "58043 3457"
 }
 {@Section
   \a{"10.1196.cap/hadr/fproton.1"}
@@ -3566,7 +3542,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "59112 3527"
+@@D "58734 3503"
 }
 {?? @@V @Do ??} } }
 }
@@ -3583,7 +3559,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "58463 3484"
+@@D "58085 3460"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.12"} } }
 }
@@ -3592,7 +3568,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.12"}}}
 
 {@@E {
-@@D "60188 3584"
+@@D "59810 3560"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.12"}
@@ -3601,7 +3577,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "58407 3480"
+@@D "58029 3456"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.12"}
@@ -3617,7 +3593,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "58463 3484"
+@@D "58085 3460"
 }
 {@@V @DupRunner} } }
  }
@@ -3684,7 +3660,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "61017 3624"
+@@D "60639 3600"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -3710,7 +3686,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "58463 3484"
+@@D "58085 3460"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.13"} } }
 }
@@ -3719,7 +3695,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.13"}}}
 
 {@@E {
-@@D "62576 3711"
+@@D "62198 3687"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.13"}
@@ -3728,7 +3704,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "58407 3480"
+@@D "58029 3456"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.13"}
@@ -3744,7 +3720,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "58463 3484"
+@@D "58085 3460"
 }
 {@@V @DupRunner} } }
  }
