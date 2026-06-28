@@ -1,0 +1,223 @@
+@Section
+@Title { Aplicación de la ecuación de onda a las epícimas.}
+@Begin
+@LP
+Antes de desarrollar el cálculo es necesario precisar la naturaleza física de las combinaciones de epícimas, que difiere cualitativamente de los sistemas atómicos ordinarios.
+@DP
+Las epícimas son ondas de superficie (soluciones tipo II) que solo pueden existir en el límite interior del universo. Al contrario que los electrones en un átomo, las epícimas no orbitan un centro de fuerza - coexisten en la misma posición espacial, superponiéndose coherentemente como ocurre en un superfluido bosónico. Esta coexistencia es posible porque la energía de enlace entre epícimas supera su masa en reposo, lo que implica que el principio de exclusión de Pauli no les es aplicable: el coste energético de separar dos epícimas es mayor que su propia masa, por lo que no pueden existir de forma independiente y la estadística fermiónica carece de sentido para ellas.
+@DP
+Las epícimas ligeras son eléctricamente neutras. La carga eléctrica en el modelo solo puede ser portada por una pulsación tipo III (pulsación electrónica). Por tanto, las epícimas eléctricamente cargadas son siempre combinaciones de una epícima ligera con una pulsación electrónica que coexiste con ella en el mismo punto. Esta pulsación no orbita la epícima ni forma una estructura interna - aporta su carga eléctrica y su masa (0,511 MeV) al conjunto por simple superposición coherente.
+@DP
+La degeneración de orbitales en el régimen @Math {alpha ' >> 1} simplifica radicalmente el cálculo. Cuando la constante de acoplamiento electrofuerte @Math {alpha ' } es muy grande, todos los niveles energéticos de la ecuación de onda para un potencial @Math {1 slash r} convergen al mismo valor, independientemente de los números cuánticos n y l. La energía de correlación entre dos epícimas superpuestas es siempre un porcentaje fijo de la masa reducida del par - concretamente:
+@DP
+@Math {E_enlace = -1,7072 cdot m'c sup {2}}
+@DP
+sin necesidad de especificar ningún orbital. Solo en el muón, el barión más ligero según la hipótesis y aquel donde @Math {alpha ' } es mínimo, la degeneración no es perfecta y es necesario usar el desarrollo completo de la ecuación, como se muestra al final de este capítulo.
+Esta imagen de superposición coherente tiene una consecuencia que constituye uno de los resultados más significativos de este trabajo: la estabilidad del protón como único barión absolutamente estable emerge de forma natural de la geometría de la superposición, sin parámetros adicionales. Como se desarrolla en la sección 5.2, el factor de estabilidad conjunto - producto del solapamiento temporal y espacial entre las ondas superpuestas - crece con el número de epícimas en la onda interior hasta alcanzar un máximo en torno a 25-27 epícimas, a partir del cual se mantiene constante. Los bariones con ese número de epícimas en su onda interior son por tanto los más ligeros con estabilidad máxima, y corresponden precisamente a los protones y neutrones. La asimetría adicional de la estructura del protón frente a la del neutrón le confiere una estabilidad superior, explicando que sea el único barión completamente estable sin necesidad de invocar ningún principio de conservación externo.
+
+
+
+
+
+
+
+@DP   
+Dado que las epícimas poseen cargas electrofuertes muy grandes deberían ser capaces de formar estructuras similares a los átomos, pero unidas por las cargas electrofuertes en vez de por las cargas eléctricas, y por tanto con energías de enlace mucho mayores. La ecuación de onda para un potencial que decrece con la inversa del radio nos proporciona los siguientes niveles energéticos:
+@DP 
+@Math {E= -mc sup {2} blbrack 1 +-sqrt { {n ' sup {2}} over {n' sup{2}+ alpha ' sup {2}}  } brbrack } con
+@DP
+@Math {  alpha' = { q sub {1} q sub {2}  } over {hbar  c 4 pi  epsilon sub{0} }}
+@DP 
+@Math {m ->  masa reducida}, @Math { n'=n-delta(l)} , @Math {delta(l)=l-l'} , y l= entero positivo, y l' la solución a la siguiente ecuación:
+@DP
+@Math {l'sup { 2 } +l' - alpha ' sup  { 2 } -l ( l+1 )= 0}
+@DP 
+Si l=0 (orbitales esféricos) entonces
+@DP
+@Math {l'={ -1 +- sqrt{1+4 alpha 'sup {2}} } over 2}
+@DP 
+Como en el caso de los hadrones  @Math{alpha' >> 1}  podemos hacer la siguiente aproximación:
+@DP 
+@Math {l'  congruent   { -1 +-  2 alpha' sup {2 } } over 2 congruent alpha' sup {2 }}, lo que nos proporciona los siguientes posibles valores de la energía:
+@DP
+@Math {E= -mc sup {2} blbrack 1 +-sqrt { {alpha ' sup {2}} over {alpha ' sup {2}+ alpha ' sup {2}}  }brbrack = -mc sup {2} blbrack 1 +- sqrt{ 1 over 2 } brbrack}
+@DP 
+y por tanto:
+@DP
+@Math {E sub {ENLACE}= -0,2928 mc sup {2}} o @Math {E sub {ENLACE}= -1,7072 mc sup {2} }
+@DP 
+La primera solución se corresponde con la experimental de los orbitales electrónicos, veamos pues alguna reacción nuclear, por ejemplo, el decaimiento de un neutrón libre según la siguiente reacción:
+@DP 
+ @Math {n -> p sup {+} + e sup {-} + nu sub e} 
+@DP 
+La primera solución nos proporcionaría una energía de enlace igual a:
+@DP 
+@Math { E sub {ENLACE}   =0,2928 cdot m(e)  = 0, 15 MeV}
+@DP
+Y la segunda solución nos proporcionaría una energía de enlace igual a:
+@DP 
+@Math {E sub {ENLACE}=  1,7072 cdot m(e) = 0,87 MeV}
+@DP
+como la máxima energía cinética del electrón medida ha sido de 0,782 ± 0,13 MeV se escoge la segunda solución. 
+@DP 
+@B{El hecho de que la energía de enlace sea superior a la energía en reposo va a tener dos consecuencias muy importantes}, la primera es que explica que no se hayan detectado las epícimas por separado hasta ahora, la segunda es @I{que no se va a cumplir el principio de exclusión de Pauli en las epícimas}. 
+@DP 
+La formula anterior justifica un sistema de masas lineal para los hadrones. Ya en 1952 Nambu había propuesto que las masa de los hadrones estaban cuantizadas con un quantum de aproximadamente 70 MeV, en realidad 35 MeV correspondiendo los múltiplos impares con los bariones, mientras que los mesones serían los múltiplos pares.
+@DP 
+Analicemos entonces las diferentes combinaciones que pueden darse.
+@DP 
+@Underline {Tipo POSITRONIO ( Mesones)} Formados por dos ondas iguales, por tanto espín total cero.
+@DP
+Nótese que + y - se refieren a cargas electrofuertes.
+@DP 
+@Figure @Caption { Tipo positronio } @Location {TryAfterLine} {0.3 @Scale @IncludeGraphic "img/Libro-img062.eps"} 
+@DP 
+La masa reducida será entonces  @Math {m ' = { m sup {2} } over { 2m } = m over 2 }
+@DP 
+y por tanto la energía de enlace será igual a 
+@DP
+@Math { E sub {ENLACE} = 1,7072 m ' = 1,7072 m over 2  = 0,8536 m }
+@DP 
+Y la masa total será entonces @Math {M=2m+0,8536m=2,8536m}.
+@DP 
+De donde podemos obtener aproximadamente la masa de la epícima
+@DP 
+@Math {m sub {epícima}  congruent   {35} over {2,8536} = 12,27 MeV slash c sup { 2 }} 
+@DP 
+@Underline {Tipo HELIO  ( Bariones )}3 ondas. Espín total  @Math {1 slash 2}
+@DP
+A.1 Número de epícimas divisible por 4.
+  
+  @Figure @Caption { Tipo Helio. Nº epícimas divisible por 4 } @Location {TryAfterLine} {0.4 @Scale @IncludeGraphic "img/Libro-img063.eps"} 
+  @DP 
+  La masa reducida será entonces
+  @DP
+  @Math {m ' = { 2m cdot m } over { 2m+m } =  2 over 3 m  }
+  @DP 
+  y por tanto la energía de atracción será
+  @DP
+  @Math {E sub {Atracción} = 1,7073  2 over 3 m }
+  @DP 
+Esta energía de enlace se ve reducida debido a la repulsión entre las dos epícimas más ligeras, ya que tienen la misma carga electrofuerte. Esta repulsión se puede estimar como el producto de las dos epícimas más ligeras multiplicados por 1,7072, pero considerando que ambos ya están fijados por la epícima de mayor masa se utilizaran como masas de partida las masas previamente reducidas, es decir @Math {2 slash 3 m}.
+@DP 
+REPULSIÓN= @Math {1,7073 cdot blbrack {2 slash 3m cdot 2 slash 3 m}    over { 2 slash 3m + 2 slash 3 m }brbrack= 1,7073    m over 3}
+@DP 
+Por tanto, la energía de enlace será: 
+@DP
+@Math {E sub {enlace} = 2 cdot ATRACCIÓN - REPULSIÓN= 1,7073  blpar {4} over {3} m - 1 over 3 m brpar = 1,7073  m }
+@DP 
+Esto es, la misma que en el tipo positronio. Dado que el tipo positronio es más simétrico y simple ( dos ondas frente a tres) el tipo helio debe estar gravemente penalizado. @I {Esto explica porqué los múltiplos pares de 35 MeV son preferiblemente mesones}.
+@DP 
+A.2 Número de epícimas par, pero no divisible por 4.
+@DP  
+  @Figure @Caption { Número de epícimas par, pero no divisible por 4 } @Location {TryAfterLine} {0.4 @Scale @IncludeGraphic "img/Libro-img064.eps"} 
+ @DP 
+Siguiendo el mismo método de cálculo:
+@DP
+  @Math {m 'sub {1} = { 3m cdot 2m } over { 3m+2m } =  6 over 5 m   }; @Math {m 'sub {2} = { 3m cdot m } over { 3m+m } =  3 over 4 m  } ; Repulsión @Math {m 'sub {3} = { 6 slash 5m cdot 3 slash 4m } over { 6 slash 5m+3 slash 4m } =  0,46153 m  }
+ @DP
+ Por tanto, la masa total será: @Math {M = 3m +2m +m + 1,7072 [ 6 slash 5m+3 slash 4m-0,46453 m]  =8,5411 m}
+ @DP 
+ Si fuese un mesón @Math {M = 3m +3m + 1,7072 m slash 2  =8,5608 m}
+ @DP 
+  La solución bariónica es ahora más ligera, y por tanto prevalece. Esto explica porqué los múltiplos impares de 35 MeV son preferiblemente bariones.
+  @DP
+  El barión más ligero posible debería tener una masa igual a @Math {m sub {mu}   =8,5411 cdot 12,27 = 104,79 MeV}
+  @DP 
+  Esta estimación es un 0,82% más ligera que la masa experimental del muón @Math {m sub {mu}=105,65 MeV}
+@DP 
+Previamente habíamos postulado la existencia de epícimas ligeras y pesadas, @I {pero no existía previamente ninguna referencia a la existencia de un sistema multilinear de masas para las partículas subatómicas}.
+@DP 
+Gracias al gran trabajo del Dr Palazzi ha sido posible superar esta dificultad. Sus trabajos no han recibido la atención que merecen, pero afortunadamente se encuentran disponibles en su página web @Verbatim {http://www.particlez.org}. Palazzi @Cite {$palazzi}, aplicando apropiadas técnicas estadísticas, es capaz de sistematizar las masas de virtualmente todos los mesones y bariones mediante un sistema linear basado en dos partículas, una ligera sin carga (33.88 MeV @Math {slash c sup 2} ) que podemos identificar con las epícimas ligeras y otra ligeramente más pesada y con carga eléctrica (36.84 MeV @Math {slash c sup 2} ) que podemos asimilar con la epícima pesada. 
+@DP 
+Ahora podemos conocer las masas de las epícimas:
+@DP
+@Math {m sub {epícima ligera }  congruent   {33,88} over {2,8536} = 11,87 MeV slash c sup { 2 }}
+@DP
+@Math {m sub {epícima pesada }  congruent   {36,84} over {2,8536} = 12,91 MeV slash c sup { 2 }    }
+@DP 
+Intentaremos aplicar lo anterior a las partículas más simples. En los bariones la menor energía de repulsión se obtiene cuando la distancia entre las ondas con la misma carga es maximizada, por lo que las dos ondas más pequeñas deben ser lo más desiguales posible. La carga eléctrica debe acumularse en las dos ondas más interiores, ya que las cargas de diferente signo tienden a estar lo más cerca posible. Esto no significa que el resto de combinaciones no puedan existir, al menos temporalmente como estados excitados.
+@NP 
+@Underline {Propuesta para el muón}
+@Figure @Caption { Propuesta para el muón } @Location {TryAfterLine} { @Scale @IncludeGraphic "img/Libro-img065.eps"} 
+@DP 
+@Math {m sub {a} = 11,87+2 cdot 12,91= 37,69 MeV}
+@DP 
+@Math {m sub {b}= 11,87 +12,91 = 24,78 MeV}
+@DP
+@Math {m sub {c}=11,87 MeV} 
+@DP
+@Math {m 'sub {1} = { 37,69 cdot 24,78 } over { 37,69+24,78 } =  14,95 MeV } 
+@DP 
+@Math {m 'sub {2} = { 37,69 cdot 11,87 } over { 37,69+11,87 } =  9,027 MeV }
+@DP
+@Math {m 'sub {rep} = -{ 14,95 cdot 9,027 } over { 14,95+ 9,027 } =  -5,6285 MeV} 
+@DP  
+Por tanto:
+@DP 
+@Math {m sub {mu} = 37,69+24,78+11,87+1,7072 cdot ( 14,95+9,027-5,6285 ) = 105,6641 MeV}
+@DP 
+Como la masa experimental del muón es @Math{m sub {mu} }= 105,6583 MeV el error disminuye hasta el 0,006%.
+@DP 
+@Underline {Propuesta para el @Math{pi @Sup 0 }}
+@DP
+@Figure @Caption { Propuesta para el @Math{pi @Sup 0 } } @Location {TryAfterLine} {0.31 @Scale @IncludeGraphic "img/Libro-img066.eps"} 
+@DP 
+@Math { 4*11,87=47,48 MeV}
+@DP
+@Math { 4*11,87=47,48 MeV}
+@DP 
+@Math {m 'sub {1} = { 47,48 cdot 47,48 } over { 47,48+47,48 } =  23,74 MeV   -> m sub {pi sup {0}}  = 47,48+47,48+ 1,7078 cdot 23,74 = 135,49 MeV} 
+@DP
+Como la masa experimental es: @Math {m sub {pi sup{0}}}=135,0 MeV el error es igual a 0,35%.
+@DP
+@Underline{Propuesta para el @Math {pi sup +}}.
+@DP  
+  @Figure @Caption { Propuesta para el @Math {pi sup +} } @Location {TryAfterLine} {1.5 @Scale @IncludeGraphic "img/Libro-img067.eps"} 
+ @DP 
+  
+ @Math {m 'sub {1} = { 49,56 cdot 48,52 } over { 49,56+48,52 } =  24,5172 MeV  -> m sub {pi sup {0}}  = 49.56+48.52+ 1.7078 cdot 24.5172 = 139.93 MeV}
+ @DP
+Como la masa experimental es @Math {m sub {pi sup +}} =139,57 MeV el error es igual a 0,26%.
+@DP  
+@Underline {Propuesta para el protón.}
+@DP  
+  @Figure @Caption { Propuesta para el protón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img068.eps"} 
+  @DP 
+@Math {m 'sub {1} = { 329.85 cdot 319.02 } over { 329.85+319.02 } =  162.17 MeV  }
+@DP
+@Math {m 'sub {2} = { 329.85 cdot 11.87 } over { 329.85+11.87 } =  11.46 MeV   }
+@DP
+@Math {m 'sub {rep} = -{ 162.17 cdot 11.46 } over { 162.7+ 11.46 } =  -10.70 MeV} 
+@DP
+  Por tanto: 
+ @DP
+ @Math {m sub {PROTON} = 329,85+319,02+11,87-1,7072 cdot ( 162,17+11,46-10,70 ) = 938,88 MeV}
+ @DP 
+  Como la masa experimental del protón es: @Math {m sub {PROTON}=938.272 MeV} el error es igual a 0,07%.
+  @NP
+@Underline {Proupuesta para el neutrón}.
+ @DP  
+  @Figure @Caption { Propuesta para el neutrón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img069b.eps"} 
+  @DP 
+@Math {m 'sub {1} = { 330,89 cdot 319,02 } over { 330,89+319,02 } =  162,42 MeV  }
+@DP 
+@Math {m 'sub {2} = { 330,89 cdot 11,87 } over { 330,89+11,87 } =  11,46 MeV }
+@DP
+@Math {m 'sub {rep} = -{ 162,42 cdot 11,46 } over { 162,42+ 11,46 } =  -10,70  MeV}
+@DP 
+Por tanto: 
+@DP
+@Math {m sub {NEUTRÓN} = 330,89+319,02+11,87+1,7072 cdot ( 162,42+11,46-10,70 ) = 940,35 MeV}
+@DP 
+Como la masa experimental del neutrón es: @Math {m sub {NEUTRÓN}=939.56 MeV} el error es igual a 0,08%. 
+@DP
+Por supuesto, existen otras posibilidades para el protón, por ejemplo (27,+10;26,-9 ;1,0) en vez de   (27,-9;26,+10;  1,0) con una masa de  938,84 MeV y para el neutrón, por ejemplo (27,-10; 25,+10;2,0) en vez de  (27,+10 ;26,-10 ;1,0) con una masa de 938,32 MeV. De hecho, como las masas de los dos tipos de epícimas son de  aproximadamente 11-12 MeV siempre podremos encontrar una o varias combinaciones que se ajusten a las masas experimentales, especialmente en las partículas pesadas. 
+@DP
+Es importante destacar que existen múltiples combinaciones de ondas posibles, algunas de las cuales serán más estables que otras y posiblemente muchas de ellas coexistan en diferentes porcentajes y en diferentes estados de excitación, particularmente cuando las golpeamos para estudiarlas. Es decir, no solo varía el número total de epícimas, sino la proporción de epícimas neutras frente a epícimas cargadas y la distribución de estas epícimas entre las diferentes ondas, aparte de los posibles estados orbitales (s,p,d,..) esto ocasiona que muchas de estas combinaciones tengan masas muy similares, especialmente si estas son elevadas. No es de extrañar por tanto las graves dificultades que encuentran los físicos de partículas al intentar analizar las colisiones y extraer conclusiones, especialmente a altas energías, ya que se multiplican casi exponencialmente el número de partículas posibles y los choques modifican aún más las partículas estudiadas.
+@DP
+Además, como hemos usado una aproximación clásica para determinar la energía de repulsión existe un error sistemático. Por tanto, necesitamos otras propiedades de las partículas con el fin de obtener la estructura de epícimas de los mesones y bariones. A lo largo de este trabajo se utilizará el momento magnético intrínseco y la distribución interna de cargas eléctricas y electrofuertes.
+ 
+ 
+@End @Section 
+ 

@@ -1,0 +1,75 @@
+@SubSection 
+@Title { Influencia cualitativa de la curvatura del espacio en fenómenos que suceden a escalas muy superiores a la de las dimensiones compactadas.
+ }
+@Begin
+@PP
+
+
+En el análisis tradicional de la teorías del tipo Kaluza-Klein las constantes de las leyes físicas, (@Math {{mu} sub {0} ,   G ,epsilon sub {0}....})deben variar según el número de dimensiones en los que se expresen. Este convencimiento se ha basado en consideraciones similares a las que se exponen a continuación. @PP
+Si tomamos el equivalente a la ley de Gauss para el campo gravitatorio en su forma integral tenemos: @DP
+@Math {oint sub {s }  E sub {g} cdot dS =4 pi G cdot m}
+ @I {El flujo gravitatorio a través de una superficie cerrada es igual a la masa encerrada en dicha superficie multiplicada por 4{@Sym pi}G }. Si suponemos una masa puntual y consideramos una esfera que la contiene tendremos: @DP
+
+@Math {4 pi r sup {2} cdot E sub {g5D} =4 pi G cdot m sub {0}} @DP
+
+Nótese que la ecuación resultante es una ecuación tetradimensional, ya que @Math {m sub {0}=   {hbar} over {2 xi sub{0} c}} , y por tanto  @DP
+@Math {E =E ( L sub {x},  L sub {y},  L sub {z}, xi sub{0} )}
+@DP
+
+Realizando un ejercicio de imaginación podemos suponer un mundo de 5D en el cual una de las dimensiones espaciales extendidas se compactase linealmente hasta una extensión a tal y como se muestra en la figura. Veamos que ocurriría cuando los físicos de ese mundo analizasen la ley de Gauss en 4 D.  
+@DP
+@Figure 
+@Caption {   Efecto sobre la ley de Gauss al compactar linealmente una dimensión espacial.}
+@Location {TryAfterLine}
+{
+0.5 @Scale @IncludeGraphic "img/fig6.eps"
+}
+@DP
+
+Los científicos de este mundo plano de 4D medirían un campo Eg  y le intentarían aplicar la ley de Gauss obteniendo el siguiente resultado: @DP
+
+@Math {{2 pi r}  cdot E sub {g4D} =4 pi  cdot m sub {0} }
+
+@DP
+		
+
+Igualando las ecuaciones en 5 y 4 dimensiones tendremos: @DP
+
+@Math {2 pi r cdot E sub {g4D} = 2 pi ra cdot E sub {g5D}}
+
+ luego  @Math {E sub {g4D} = a cdot E sub {g5D}}
+
+Como E @Sub {g4D} tiene que ser igual a E @Sub {g5D} habría que añadir una constante para que  la formula en 4D proporcionase un resultado correcto: @DP
+@Math {{2 pi r}  cdot E sub {g4D} =4 pi a cdot m sub {0} } @DP
+
+ , es decir aparece una constante de gravitación G = a.
+
+Como a es muy pequeño el campo medido al compactar una dimensión es mucho menor. 
+En el caso de dos dimensiones que se compactan en un circulo de radio a tendríamos:
+@DP
+
+@Figure 
+@Caption {   Compactación de dos dimensiones.}
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig7.eps"
+}
+
+@Math { 4 pi a sup {2} cdot E sub {g3D} = m sub {0} } y @Math { 2E sub {g1D} = m sub {0}} {@Sym arrowright} @Math { E sub {g1D}= 2 pi a sup { 2} cdot E sub {g2D} } @DP
+
+Nota: La superficie 0D de una esfera unidimensional es igual a 2.
+@DP 
+Es decir al compactar circularmente una dimensión el campo quedaría alterado en un factor igual a 
+2{@Sym pi}a @Sup {2}, lo que nos permitiría estimar el radio de las dimensiones compactadas de la relación:@DP
+@Math {G approxequal 2 pi cdot R sub {u} sup {2}  } {@Sym arrowright} @Math { R sub {u}  approxequal   sqrt{ G over{ 2 pi}} approxequal 3 cdot 10 sup {-6} m } 
+
+Resulta evidente que dado que se ha utilizado la aproximación para espacio plano del campo gravitatorio la estimación del radio de las dimensiones compactadas no puede ser muy exacta, pero permitiría conocer el orden de magnitud de éstas. @PP
+Por otro lado, los fenómenos que suceden a escalas inferiores siguen la ley de la inversa del cubo, por lo que aparentan tener mayor intensidad. En definitiva, la curvatura actuaría como una lente convergente, disminuyendo la intensidad de los fenómenos lejanos e incrementando la intensidad aparente de los que suceden a escalas muy pequeñas, lo que al menos de manera cualitativa podría justificar la diferencia de escalas entre las 4 fuerzas fundamentales de la Naturaleza. 
+@LP
+Si tenemos en cuenta que según los postulados de este trabajo las dimensiones de la masa son los de la inversa de una longitud  nos quedaría @Math {[G]= L sup {3} M sup {-1} T sup {-2} = L sup {4}  T sup {-2}} e interpretando el tiempo como una longitud: @Math { [G]= L sup {2} } . @LP  
+
+En consecuencia la curvatura del espacio-tiempo hexadimensional justifica la relación entre la masa 
+inercial y la masa gravitatoria cuando hablamos de fenómenos que suceden a escalas muy 
+superiores al tamaño de las dimensiones espaciales compactadas. Por tanto la mayor parte de las constantes deberían desaparecer cuando efectuamos los cálculos en 6D.  ( @Math{   {mu hat} sub {0g} =1,   G hat =1,....} ). 
+
+@End @SubSection

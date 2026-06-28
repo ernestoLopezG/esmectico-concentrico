@@ -1,0 +1,15 @@
+@SubSection 
+@Title { Interpretación del principio de incertidumbre.}
+@Begin
+@DP
+
+
+ 
+El principio de incertidumbre para la posición y el momento afirma que @DP 
+@Math {Delta x cdot Delta p  greaterequal hbar  over {2}} @DP por tanto la incertidumbre del momento debe satisfacer @Math {Delta p  greaterequal hbar  over {2 Delta x}}.  Si usamos la ecuación relativista que liga la energía con el momento @Math {p = gamma m sub {0} v } cuando la incertidumbre del momento supera el valor de m @Sub 0 c entonces la incertidumbre de la energía superaría el valor de  m @Sub 0 c @Sup {2}, suficiente para generar otra partícula del mismo tipo. Por tanto debe existir una limitación fundamental en la incertidumbre de la posición @DP
+ @Box @Math { Delta x   greaterequal  {1 over {2} cdot  pmatrix {   hbar  over {m sub {0}c}  }}} @DP
+o lo que es lo mismo @CurveBox @Math { Delta x  greaterequal xi sub {0}}. 
+@DP @I {
+Se infiere por tanto que el principio de incertidumbre deriva del hecho de estudiar fenómenos que suceden en 5 dimensiones espaciales como si se tratase de fenómenos con 3 dimensiones espaciales. No es de extrañar por tanto que la longitud de onda Compton represente la longitud que define el limite entre  el comportamiento como partícula o como onda. }
+
+@End @SubSection

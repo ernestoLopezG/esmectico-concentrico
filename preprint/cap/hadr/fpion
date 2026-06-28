@@ -1,0 +1,102 @@
+@Section
+@Title { Factor de forma del pión}
+@Begin
+@DP 
+@B { Estructura interna teórica.}
+@DP
+De acuerdo al sistema multilineal de masas de Palazzi  @Cite {$palazzi}  se propone la siguiente estructura teórica para el pión
+@DP
+ 
+@CentredDisplay 
+@Tbl
+rule { yes }
+
+aformat { @Cell paint { black } A  | @Cell B | @Cell C | @Cell D}
+bformat { @Cell A | @Cell B | @Cell C | @Cell D}
+{
+
+@Rowa
+A { white @Color PIÓN  }
+B { Carga electrofuerte}
+C { Carga eléctrica}
+D { Radio de Bohr }
+
+@Rowb
+A { Onda 0 }
+B { +4 }
+C { +2}
+D {2,09  fm}
+
+@Rowb
+A {Onda 1 }
+B { -4}
+C { -1}
+D {2,09 fm}
+
+
+}
+@DP
+ 
+ @B { Densidad de carga teórica. }
+ @DP
+ La densidad de carga eléctrica será entonces igual a :
+ @DP
+ @Math {rho (r) = 1 over {pi}   blpar 1 over { 2.09 } brpar sup {3}  e sup {-{2r} slash  {2.09 }   }  }
+ @DP 
+  que podemos representar 
+ @DP 
+  @Figure @Caption { Densidad de carga teórica del pión. } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img096.eps"} 
+ 
+ @DP 
+ @B { Datos experimentales }
+ @DP
+ Los experimentos para determinar el factor de forma de los piones no pueden realizarse con los piones en reposo respecto al marco de referencia del laboratorio, presentando además grandes energías, superiores siempre a 50 GeV. Según @Cite {$carmignotto} el factor de forma del pión puede ser parametrizada según un ajuste empírico de la siguiente forma
+ @DP
+ @Math {G sub {E pi}(Q sup {2})= A  {1} over {1+B Q sup {2}}+(1-A){1} over { lpar   1+C Q sup {2} rpar sup {2}}} donde A=0.384, B= 1.203 and C=1.054
+  @DP 
+  Con datos fiables hasta un valor de q² de 3 (GeV @Math {slash} c)² aproximadamente.
+ @DP  
+ @B {Limite a la deformación de los piones}
+ @DP
+  Dado que en los trabajos experimentales los piones son altamente energéticos deben utilizarse todas las correcciones analizadas en este trabajo, deformación elástica, deformación completa de Lorentz y disminución del radio de Bohr. Recordemos que la máxima deformación elástica posible en los mesones era:
+  @DP
+   @Math { a dot sub {0}   congruent   a sub {0 } cdot { sqrt { 1 - 0,5 sup {2}  }} = 0,866 a sub { 0} }
+  @DP
+  Para determinar el grado máximo de deformación alcanzable por el pión se ha representado la vida media de los mesones con carga eléctrica frente a su masa. En el mismo gráfico se han representado las masas del pión excitado al disminuir el radio de Bohr en potencias de 2 como lineas verticales y el límite de vida 
+ media de 10 @Sup {-20} s como límite arbitrario de detectabilidad.
+  @DP
+  @Figure @Caption { Vida media de los mesones vs Múltiplos de masa del Pión } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img097.eps"} 
+  @DP 
+  Puede observarse que entre a @Math {slash} 4 y a @Math {slash} 8 se encuentra una zona de alta inestabilidad, por lo que es de esperar que los piones que se deformen más que a @Math {slash} 4 no alcancen los detectores y por tanto no contribuyan al factor de forma. Podemos representar la densidad 
+ teórica normalizada a 2D utilizando @Math {a sub {0}={2.09 cdot 0.866 } slash {4 }  } (en verde) para comparar con la densidad transversal obtenida por Miller.
+ @DP
+  
+  @Figure @Caption { Comparación con densidad experimental de Miller } @Location {TryAfterLine} {0.7 @Scale @IncludeGraphic "img/Libro-img098.eps"} 
+  
+ @DP
+ 
+ @B {Factor de forma teórico. }
+ @DP
+  Actuando de forma análoga el factor de forma supuesta una deformación de Lorenzt completa será:
+@DP  
+@Scale @Math {G sub {E} (q²)=sqrt{blpar{4(12a sub{0} sup {5} q-16 a sub{0} sup {3})} over {a sub{0} sup {3} (a sub{0} sup {6} q sup {3}+12a sub{0} sup {4} q sup {2}+48 a sub{0} sup {2} q sup {1}+64)} brpar  sup {2}+
+ blpar-{4(24 a sub{0} sup {4} q sup {0.5}-2a sub{0} sup {6} q sup {1.5})} over {a sub{0} sup {3} (a sub{0} sup {6} q {3}+12a sub{0} sup {4} q sup {2}+48a sub{0} sup {2} q sup {1}+64) }brpar sup 2}}
+@DP 
+@Math {a sub { 0 }= 2.09 slash 4 cdot 0.866}
+@DP
+  que podemos representar frente a la parametrización de Miller hasta 3 GeV @Math {slash} c², ya que los datos experimentales a mayor q² adolecen de falta de precisión. Como puede comprobarse, es una buena aproximación, pero no exacta.
+  @DP
+  @Figure @Caption { Comparación curva teórica frente a parametrización de Miller } @Location {TryAfterLine} {0.6 @Scale @IncludeGraphic "img/Libro-img099.eps"} 
+ @DP 
+  Simplemente considerando que algunos piones deformados a a @Math {slash} 8 consiguen llegar a los detectores es posible alcanzar un ajuste  muy bueno en el rango 0-3 GeV @Math {slash} c si consideramos una relación 90-10%.
+ @DP 
+@Math {G sub {E} (q²)=90 over 100 G sub {E} (q²) sub {a slash 4  }+10 over 100 G sub {E} (q²) sub {a slash 8  }}
+@DP 
+  
+  @Figure @Caption { 90% a @Math {slash} 4 - 10% a @Math {slash} 8  } @Location {TryAfterLine} {0.6 @Scale @IncludeGraphic "img/Libro-img100.eps"} 
+ 
+ 
+ @DP 
+
+
+@End @Section

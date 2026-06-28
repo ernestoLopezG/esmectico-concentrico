@@ -1,0 +1,45 @@
+@SubSection 
+@Title {Campo gravitomagnético producido por las partículas elementales. }
+@Begin
+@PP
+ 
+Las partículas elementales girando en trayectorias muy pequeñas a la velocidad de la luz deben producir un campo de inducción Bg considerable provocando un campo de fuerzas que cualitativamente es similar al campo eléctrico, tal como se muestra en la figura. @LP
+
+
+@Figure 
+@Caption {   Ejemplo en 3 dimensiones de como un movimiento circular de una masa puede provocar la ilusión de la existencia de una carga eléctrica. }
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig8.eps"
+}
+@LP
+Distinto sentido {@Sym arrowright} Atracción. Mismo sentido {@Sym arrowright} Repulsión. @LP
+ 
+Como habíamos visto en la sección anterior las leyes del gravitomagnetismo expresados en seis dimensiones no deben necesitar de ninguna constante, o, lo que es lo mismo la constante gravitatoria en 6D debe ser @Math { G hat = 1}. @LP 
+Para calcular el campo de inducción generado por las partículas elementales se puede asimilar al campo generado por una espira circular. @DP
+
+@Math {B= {mu  sub {0} i} over {2R} }  		   ELECTROMAGNETISMO 5D  @CurveBox @Math {B= B(L sub {x},L sub {y},L sub {z},M,T)} * @DP
+
+@Math {B sub {g}= {-4 pi  G hat } over {c} cdot{ {i sub {g}} over {2 R sup {2}}}  }    GRAVITOMAGNETISMO 6D  @CurveBox @Math {B= B(L sub {x},L sub {y},L sub {z},xi ,eta , T)} @DP  
+* Nota: Si consideramos la masa como la inversa de una longitud cualquier ecuación que contenga la dimensión masa ( ó carga eléctrica, ya que la relación @Math {carga"/"masa} es constante para cada tipo de partículas elementales) se debe considerar como una ecuación en 5 dimensiones, 4 espaciales más una temporal. @LP
+Si el campo eléctrico es la expresión en 5D del campo gravitomagnético en 6D entonces B=Bg  @LP
+@Math {B over {B sub {g}} = { mu sub {0} 2cR sup {2}} over {-4 pi  G hat cdot 2R} cdot{ {i } over {i sub {g}}}=1}
+@LP
+
+la relación entre la intensidad eléctrica y la intensidad gravitatoria es la misma que la relación entre la carga y la masa de una partícula elemental. Por tanto se puede escribir: @LP
+ 
+@Math {{mu sub {0} cR } over {-4 pi  G hat } cdot{ {q } over {m sub {0}}}=1 }@LP
+
+Teniendo en cuenta que hemos postulado que @Math { G hat = 1} y que @Math {R= xi sub {e} =  hbar over {2 m sub {e}c} = 1,93079616 cdot 10 sup {-13}} @LP
+@Math { {mu sub {0} c xi sub {e} } over {-4 pi   } cdot{ {q sub {e}} over { m sub {e} }}=1 } y por tanto @DP
+
+@Math { { {q sub {e}} over { m sub {e} }}= 1,72759870 cdot 10 sup 11} @DP
+					
+en unidades del S.I. @LP
+
+Si comprobamos la relación experimental carga-masa del electrón tendremos: @DP
+@Box @Math {  { {q } over { m sub {0} }}= {e} over {m sub {e0} }= {1,602176 cdot 10 sup {-19}} over {9,10938291 cdot 10 sup -31 } =1,75881946 cdot 10 sup 11} @DP
+que difiere en un 1,8% del valor estimado. @LP
+Por tanto, al considerar la masa como la inversa de una longitud es posible salvar la principal dificultad que presentaba la teoría de Kaluza-Klein. @LP
+Es de observar que simplemente considerando un valor de @Math { G hat = 1,01807176} se puede obtener un valor de la relación carga-masa del electrón correcta.
+@End @SubSection

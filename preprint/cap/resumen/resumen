@@ -1,0 +1,179 @@
+
+ @DP
+  Buscando interpretaciones alternativas a la teoría de la Relatividad Especial y más concretamente a la ecuación que liga la energía de un cuerpo en movimiento con su velocidad se encontró que tal vez esta teoría conlleva implícitamente el desplazamiento a la velocidad de la luz en al menos una dimensión adicional. Desde este punto de vista la geometrización del tiempo postulada por Minkonswki sería un error de interpretación y podría ser sustituida con ventaja por la asunción del desplazamiento a la velocidad de la luz de todas las partículas en una nueva dimensión al estilo de la postulada por Kaluza.  La adopción posterior de los postulados de Klein acerca del tamaño y topología de la dimensión de Kaluza junto con la isotropía experimental del Universo obligarían a postular la existencia de al menos otra dimensión adicional, lo que nos llevaría a la existencia de un plano de dimensiones compactadas en el que las partículas en aparente reposo se moverían en trayectorias cerradas a la velocidad de la luz. 
+ @DP 
+ Cualquier partícula en reposo absoluto es poseedora de cierta energía, y las dos teorías nos proporcionan diferentes formulaciones. Por un lado la TRG nos dice que ésta toma el valor E=mc², mientras que la expresión de la energía residual de vibración de un oscilador cuántico es @Math {E sub {r} = h cdot upsilon slash 2}. Dado que ambas teorías han tenido un gran éxito en su respectivo campo de aplicación, ¿ por qué no asumir que ambas son correctas? Si consideramos que ambas energías deben ser la misma y suponiendo movimientos circulares es posible estimar el radio de las trayectorias en el plano de las dimensiones adicionales. Esto permite interpretar la masa de las partículas realmente elementales como la inversa de la dimensión compactada radial y de valor @Math {xi sub {0} =  {hbar} over {2 m sub {0}c} }, que para el caso del electrón sería de 1,93079616 10 @Sup {-13} m.
+ @DP
+ La combinación de este movimiento circular en las dimensiones compactadas con un movimiento en las dimensiones extendidas produciría trayectorias helicoidales y lo que ahora se interpreta como velocidad del tiempo debería considerarse como la velocidad de las partículas en el plano de las dimensiones compactadas. Un estudio más detallado de estos movimientos helicoidales proporciona una explicación coherente a la longitud de onda de D'Broglie y permite inferir que el principio de incertidumbre proviene del hecho de intentar analizar fenómenos que suceden en 5 dimensiones espaciales como si tuviesen solo 3 dimensiones espaciales. 
+@DP
+Las ecuaciones de Einstein en su aproximación de campo débil se pueden linearizar, lo que permite escribirlas de una manera muy similar al electromagnetismo. Esta formulación es conocida como gravitomagnetismo.  Dado que en el gravitomagnetismo dos corrientes de masa paralelas que circulan en el mismo sentido se repelen es posible encontrar una explicación intuitiva a la carga eléctrica como fuerzas entre corrientes de masa paralelas.
+@DP
+Al analizar cualitativamente el efecto que la curvatura del espacio tiene sobre las leyes físicas se observó que ésta actuaba de un modo similar a como actúa una lente convergente sobre una imagen, es decir, incrementa los efectos a distancias cortas, mientras que los disminuye a largas distancias. Por tanto muchas constantes físicas ( @Math {mu sub {0},G,epsilon sub {0}....} )   deben aproximarse a la unidad cuando expresemos las leyes de la naturaleza en las 6 dimensiones postuladas. Es decir, las constantes son consecuencia de intentar analizar fenómenos que suceden en 5 dimensiones espaciales como si tuviesen solo 3 dimensiones espaciales. 
+@DP 
+Por otro lado este análisis permite interpretar la constante gravitatoria G como la superficie de las dimensiones compactadas, y se puede estimar el radio de las dimensiones compactadas en @Math {xi sub {u}  congruent   sqrt{ G over{ 2 pi}} = 3.2587 cdot 10 sup {-6} m }. 
+@DP 
+Siguiendo estas directrices e interpretando el vector inducción eléctrico como la formulación en 5 dimensiones del vector inducción gravitomagnética  en 6 dimensiones se obtiene que la relación masa-carga del electrón debería ser igual a 
+@DP  
+@Math {  { {q } over {m sub {0} sup {2}}}= {-8 pi  G hat }over{mu sub {0} hbar  }  =1,89650465 cdot 10 sup{41}}  
+@DP 
+El valor experimental difiere ligeramente, ya que es de  @Math {  { {e } over {m sub {e} sup {2}}} =1,93077784 cdot 10 sup{41}}.
+ @DP 
+Por tanto, al considerar a la masa como la inversa de una longitud es posible superar una de las grandes dificultades que presentaban las teorías de tipo Kaluza-Klein. Para obtener un valor correcto basta tomar un valor de  @Math {G hat = 1,01807176} . Para explicar este valor se postula una forma elíptica en vez de circular para las dimensiones compactadas. Se obtiene que el momento magnético debería ser 
+@DP 
+@Math {mu sub {g}=   {-4 pi  hat G m  sub {0}} over {mu sub {0} }} 
+@DP 
+, cuyo valor coincide con el magnetón de Bohr. Es decir, es posible estimar la carga y el momento magnético del electrón únicamente a partir de su masa.
+@DP
+Una vez explicado el origen del campo eléctrico el magnetismo se puede obtener del potencial eléctrico a través de los postulados del electromagnetismo relativista.
+@DP  
+Si se aplican las ecuaciones de Einstein en su aproximación de campo débil a un espacio como el postulado en este trabajo se obtienen soluciones en forma de ondas. Dichas ondas se desplazan en trayectorias helicoidales debido al confinamiento producido por la curvatura de las dos dimensiones compactadas. Al utilizar un sistema de coordenadas cilíndrico-elíptico el laplaciano es separable, por lo que la solución estará compuesta por el producto de dos funciones, una dependiente de las dimensiones compactadas y otra de las dimensiones extendidas.
+@DP  
+    @Math {H(xi,eta,x,y,z)=Phi(xi,eta) cdot Psi(r,theta,phi)}.
+@DP    
+La solución para las dimensiones compactadas es una onda estacionaria expresada como funciones de Mathieu de orden semientero y parámetro q negativo. Se interpreta el orden de la solución como el espín de las partículas- pulsaciones.
+ @DP
+Estas ondas estacionarias son asimétricas en su sentido de giro, lo que provoca la aparición  del campo electromagnético por fuerzas entre corrientes de masa paralelas y es el sentido de giro el que marca el signo de la carga (y diferencia las partículas de las antipartículas) . Las partículas-pulsación con espín semientero presentan además asimetría geométrica (fermiones), mientras que las partículas con espín enteros son simétricas geométricamente (bosones con masa).  La asociación de dos electrones con espines opuestos (par de Cooper) y su comportamiento similar al de los bosones demuestra gráficamente esta idea.
+@DP  
+
+@Scale @IncludeGraphic "img/Libro-img110.eps"
+ 
+
+@DP 
+La aplicación de los postulados de la hipótesis inicial lleva a que el número de ondas circular de corte  sea @Math {  k sub {c} = {m sub {0} c } over { hbar } i}. Se ha mostrado que esto permite relacionar la velocidad de grupo de la onda con su frecuencia, de tal forma que se obtiene la ecuación relativista de la energía de un cuerpo. Es decir, @B {el confinamiento de la onda gravitatoria provoca la aparición de la masa inercial.}
+ 
+ @DP
+ También se ha mostrado que se debería utilizar la ecuación de Klein-Gordon en 6 dimensiones para modelizar el comportamiento de la partícula-pulsación. Para el caso de las dimensiones extendidas se ha estudiado los siguientes casos:
+ @DP @DashList 
+ @ListItem { @Underline {Partícula en reposo}: La onda aparenta ser una fuente puntual de campo gravitatorio y eléctrico con un plano de polarización.} 
+ @ListItem { @Underline {Partícula en estado de movimiento uniforme}: La onda vista frontalmente aparenta ser una fuente puntual de campo gravitatorio y eléctrico, pero vista transversalmente aparenta ser una onda plana con una longitud de onda equivalente a la que postuló D'Broglie.  Esta solución justifica la concepción dual onda-partícula.} 
+ @ListItem {@Underline {Átomo de hidrógeno}: Se obtienen las mismas soluciones que la ecuación de Schrodinger, tanto para el caso relativista, como el no relativista.}
+@EndList 
+@DP 
+Todo lo anterior lleva a postular que las partículas elementales están constituidos por pulsaciones gravitatorias guiadas por la curvatura de las dimensiones compactadas. Por tanto no pueden considerarse como partículas puntuales y se debe interpretar el cuadrado de la función de onda como el flujo de energía de la onda gravitatoria, rechazando la interpretación de Copenhague de la Mecánica cuántica. Esto soluciona la mayor parte de los experimentos paradójicos, como el de la doble rendija, por ejemplo.
+@DP
+Al resolver la ecuación de onda para las dimensiones compactadas se han encontrado cinco soluciones , dos de ellas con una masa tan similar que se pueden identificar con una sola
+partícula. Como se ha asignado la solución de mayor masa al electrón, las otras soluciones de mucha menor masa deben asignarse a los neutrinos. Por otro lado, como no se ha encontrado una solución de mayor masa que pudiese explicar la existencia de los hadrones se ha postulado la existencia de un agujero central en  el plano de las dimensiones compactadas. Este postulado permite nuevas soluciones en forma de ondas de superficie combinadas con  alguna de las otras cinco anteriormente encontradas. Estas combinaciones se han asimilado a las epícimas y se ha escogido como su símbolo la letra ibera  @IncludeGraphic "img/ko.eps" . Por tanto se ha establecido un nuevo sistema de partículas consistente en los siguientes componentes y sus combinaciones lineales.
+@DP 
+                                                                                        
+    
+ @CentredDisplay @Tbl
+
+rule { yes }
+{
+
+
+@Row
+format {@Cell A |  @Cell B   |  @Cell C |  @Cell D  }
+A {Partícula-pulsación}
+B {masa }
+C {Tipo de interacción }
+D {Carga (En culombios equivalentes) }
+
+@Row
+format {@Cell A |  @Cell B   |  @Cell C |  @Cell D  }
+A { @Math {upsilon sub e }                                                                                 }
+B {  0,01983 eV }
+C {NEUTRÍNICA   }
+D { 4,9 10 @Sup {-25}  }
+@Row
+format {@Cell A |  @Cell B   |  @Cell C |  @Cell D  }
+A { @Math {upsilon sub mu} }
+B { 0,0283 eV }
+C {NEUTRÍNICA}
+D {1,12 10 @Sup {-23} }
+@Row
+format {@Cell A |  @Cell B   |  @Cell C |  @Cell D  }
+A { @Math {upsilon sub tau} }
+B { 0,07356 eV }
+C {NEUTRÍNICA}
+D {1,37 10 @Sup {-23}}
+@Row
+format {@Cell A |  @Cell B   |  @Cell C |  @Cell D  }
+A { e @Sup {+,-} }
+B {  0,511MeV  }
+C {ELECTROMAGNÉTICA }
+D {1,602 10 @Sup{-19} }
+@Row
+format {@Cell A |  @Cell B   |  @Cell C |  @Cell D  }
+A { @IncludeGraphic "img/ko.eps" {} @Sup {0} {} @Sub {ligero} }
+B { 11,62 MeV }
+C {ELECTROFUERTE }
+D {1,665 10 @Sup {-18}}
+@Row
+format {@Cell A |  @Cell B   |  @Cell C |  @Cell D  }
+A { @IncludeGraphic "img/ko.eps" {} @Sup {+,-} {} @Sub {pesado}    }
+B { 13,39 MeV }
+C { ELECTROMAGNETICA @LP ELECTROFUERTE  }
+D {1,602 10 @Sup {-19} @LP 1,857 10@Sup{-18} }
+
+}
+
+ @DP
+ Es destacable que la carga electrofuerte de la epícima pesada es prácticamente igual a la carga de Planck.                 
+ @DP 
+   
+   @Figure @Caption { Sistema de partículas} @Location {TryAfterLine} { @Scale @IncludeGraphic "img/Libro-img139.eps"} 
+   
+      
+ 
+ @DP 
+ Es importante destacar que las combinaciones lineales de estas ondas son prácticamente infinitas y se amplían enormemente al incrementar la energía utilizada. Se recomienda por tanto un nuevo análisis de los datos de los aceleradores en base a los principios anteriores, dando prioridad a los experimentos a moderadas energías, frente a los costosísimos experimentos a energías enormes, que poca información pueden proporcionar, excepto como demostración tecnológica. 
+ @DP
+ Se ha mostrado que las ondas estacionarias que conforman las partículas pueden interactuar entre sí únicamente mediante tres 
+ mecanismos.
+ @DP 
+ @Underline {1º Mediante arrastre del espacio-tiempo:}
+ @DP
+ Aparentemente las perturbaciones al desplazarse arrastran el medio de propagación. Se producen fuerzas entre flujos paralelos de masa (repulsivas si tienen el mismo sentido y atractivas si circulan en sentidos contrarios) y son el @B {origen de las fuerzas tipo electromagnéticas}, difiriendo de estas por el orden de magnitud. Estas son las interacciones electrofuertes, electromagnéticas y neutrínicas. Estas interacciones son independientes unas de otras porque suceden a diferentes niveles de las dimensiones compactadas.Únicamente las soluciones que se asimilan a los neutrinos  pueden interactuar con todas las demás porque sus ondas ocupan completamente las dimensiones compactadas. 
+ @DP 
+ @Underline {2º y 3º Mediante modificación del índice refractivo y deformando el medio de propagación}:
+ @DP
+ @B {Se produce así la adquisición de la masa gravitatoria}. Estas interacciones se expresan como fuerzas gravitatoria, electrofuertes, electromagnéticas o neutrínicas.
+ @DP
+ Por el hecho de poseer carga electrofuerte las epícimas pueden formar estructuras similares a los orbitales electrónicos, pero con mucha más energía de enlace. De hecho, al resolver la ecuación de Klein-Gordon en seis dimensiones se obtienen energías de enlace superiores a la masa de las epícimas, lo que explica que no se hayan detectado las epícimas por separado hasta ahora. 
+ @DP 
+ Se ha postulado que los mesones están formados mayoritariamente por soluciones de dos ondas (espín entero), mientras que los bariones estarían formados mayoritariamente por soluciones de tres ondas (espín semientero). Las soluciones de la ecuación de onda en estas condiciones justifican un sistema multilineal de masas como el postulado por Palazzi en  Linear Mass Rules an hadronic shells: The Baryons.  
+ @DP 
+ Específicamente se proponen soluciones para los piones, el kaón y los principales bariones. En todos los casos es posible estimar sus masas con un error máximo de un 0.3%. La hipótesis también es capaz de determinar el momento magnético intrínseco, el tamaño de los hadrones y la distribución interna de cargas. Estas propiedades se han comparado con éxito con los datos experimentales, necesitando en el caso del pión cargado hipótesis adicionales para obtener su momento magnético. La hipótesis es capaz de explicar en base a la asimetría de las soluciones porqué todos los mesones son inestables y establecer que los bariones solo son estables cuando están compuestos de 50 epícimas o más,correspondiendo los más ligeros estables a protones y neutrones.
+ @DP
+
+@Figure @Caption {  Principales bariones } @Location {TryAfterLine} {@Scale  @IncludeGraphic "img/fig97.eps"}  
+@DP
+ Se han estudiado las distribuciones internas de carga de estas partículas mediante los factores de forma experimentales, resultando que las partículas son modificadas por el proceso de difusión mediante tres mecanismos: ligera deformación elástica, deformación de Lorenzt y modificación del modo de vibración. Se recomienda la medición de la densidad transversal de carga como una transformada de Fourier en dos dimensiones del primer factor de forma de Dirac, tal y como mostró Miller.
+ @DP 
+ Es posible estimar el potencial de la fuerza nuclear fuerte residual entre dos nucleones siempre y cuando no se les considere como partículas puntuales, dicho potencial puede ser parametrizado mediante la suma de dos potenciales de Wood-Saxon y un potencial lineal. Aplicándola al deuterón se puede obtener fácilmente la solución a la ecuación de onda, lo que permite estimar una energía de enlace igual a 2,22 MeV y estimar adecuadamente su radio de masa. 
+ @DP
+ Se postula que la curvatura del plano de las dimensiones compactadas se origina debido a un gradiente de índice de refracción en el plano de las dimensiones compactadas. Esto permite el giro de los ejes de las trayectorias elípticas de las ondas estacionarias que conforman la materia, lo que introduce un nuevo grado de libertad que explica todos los experimentos sobre giros en el espacio y modificación del espín, pero obliga a que el espacio-tiempo se comporte de manera anisotrópica y a que la velocidad de las ondas sea linealmente dependiente de su frecuencia. Es decir, que el espacio-tiempo se comporta de forma similar a un cristal liquido. 
+ @DP
+ Finalmente se postula que la radiación electromagnética está formada por vibraciones transversales del espacio-tiempo, en contraposición a las partículas materiales, que estan conformadas por vibraciones longitudinales. Esto nos permite establecer una clasificación de las partículas en base al modo de vibración.
+@DP
+
+@CentredDisplay @Tbl
+rule { yes }
+aformat { @StartHSpan @Cell @B  A | @HSpan | @HSpan }
+bformat { @StartHSpan @Cell  A | @HSpan | @Cell B }
+cformat { @Cell A | @Cell B | @Cell C }
+{
+@Rowa
+A { Vibraciones del Espacio-Tiempo }
+@Rowb
+A { Longitudinales -> @B {MATERIA} }
+B { Transversales -> @B {ENERGÍA} }
+
+@Rowc
+A { Asimétricos: @LP @B Fermiones }
+B { Simétricos: @LP @B {Bosones con masa}}
+C { @LP @B Fotones }
+}
+ @DP
+ Para establecer una analogía con la teoría de cuerdas la hipótesis aquí expuesta propone que el Universo está formado por una única 5-brana, cuyas múltiples vibraciones conforman toda la materia y la energía. Los parámetros libres del modelo se reducen a las propiedades del fluido que conforma el espacio-tiempo y a la geometría de este.
+ @DP
+ Es destacable finalmente que las matemáticas necesarias para desarrollar este modelo estén al nivel de primer curso de cualquier grado universitario en contraste con los elevados conocimientos necesarios en los modelos actuales de mayor exito. 
+ @DP 
+ @DP 
+ @DP 
+ @DP
+ Ut in omnibus glorificetur Deus
+ @DP 
+ En el año de nuestro Señor Jesucristo de 2020.
+ @DP Revisado Mayo 2026

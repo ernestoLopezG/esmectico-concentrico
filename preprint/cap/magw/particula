@@ -1,0 +1,177 @@
+@SubSection 
+@Title { Solución para las dimensiones extendidas.}
+@Begin
+@LP
+Seguimos solucionando el resto de variables, si recordamos (2) @DP
+@Box @Math {{nabla  sub {3D} sup {2} Psi} over {Psi}+ beta sup {2} = 0 } @DP
+entonces podemos considerar 2 casos: @DP
+
+
+@Underline {Caso A. Partícula-Pulsación inmóvil. {@Sym beta}=0 }@DP
+
+Tenemos entonces: @DP
+
+@Box @Math {{nabla  sub {3D} sup {2} Psi} over {Psi} = 0 }          {(8) de soluciones: }@DP
+
+@Math {Psi= constante=C sub {1}} (9)
+@DP 
+@Math {Psi=C sub {2} over sqrt {x sup {2} + y sup {2} + z sup {2} }} (10)
+@DP
+Es notable observar que (10) es totalmente análogo a los potenciales gravitatorio y eléctrico. Sin embargo  la solución no es valida si x=y=z=0, ya que proporciona valores infinitos . Por otro lado, al afirmar que las partículas son las vibraciones del espacio-tiempo la solución de (10) no puede extenderse hasta el infinito, ya que su integral nos proporcionaría valores infinitos. Se propone por tanto la siguiente forma para la solución:
+@DP
+@Box {
+		@Math {Si r lessequal lambda sub {c}  --------- rightarrow  Psi=C sub {1}}
+		@DP
+		@Math { Si    lambda sub {c} > r   < r sub {f} --- rightarrow  Psi=C sub {2} over sqrt {x sup {2} + y sup {2} + z sup {2} }+C sub {3}}
+		@DP
+		@Math { Si     r   > r sub {f} --- rightarrow  Psi=0}
+		@DP
+	}		
+@DP
+donde @Math {lambda sub c} es la longitud de onda Compton del electrón y r @Sub f el tamaño máximo de la pulsación. El alcance finito de la solución en las dimensiones extendidas no implica que la interacción gravitacional desaparezca más allá de rf - la energía no puede desaparecer. Cuando la amplitud cae por debajo del umbral de compresión del esméctco en r = rf, actúa como excitador puntual del modo de ondulación del esméctico, que tiene un umbral energético menor y una dispersión anómala @Math {(omega sup {2} proportional k sup {4})} que produce un decaimiento espacial más lento @Math {( similar 1 slash sqrt {r})}. Este cambio de modo se desarrolla en el Capítulo 3 y tiene consecuencias directas sobre la materia oscura aparente y la estructura a gran escala del universo. La solución puede ser representada de la siguiente manera:
+@DP
+@Figure 
+@Caption { Solución en función de r para una partícula-pulsación inmóvil.}
+@Location {TryAfterLine}
+{
+ 0.5 @Scale @IncludeGraphic "img/fig49.eps" 
+}
+@DP
+
+Es de observar que una pulsación gravitomagnética hexadimensional debido a las restricciones que impone la topología del espacio aparece como una fuente hueca de campo gravitatorio y eléctrico en un espacio tetradimensional.  
+@DP
+Una vez conocida la solución para las dimensiones extendidas del potencial gravitatorio o eléctrico de una partícula en reposo podemos calcular la energía del campo eléctrico del electrón. La energía será igual al producto del potencial por la carga eléctrica, teniendo en cuenta que para distancias inferiores a la longitud de Compton el  potencial es constante y por tanto no aporta nada a la integral y suponiendo que el potencial es cero en el infinito la energía total será:
+@DP
+@Math {E= 1 over {4 pi epsilon sub {0}} {1} over {lambda sub C } e cdot e }
+@DP
+
+como @Math {lambda sub {c} = h over {mc}} entonces @Math {E= 1 over {4 pi epsilon sub {0}} {e sup {2}} {m sub {e}c} over {h}  } @DP 
+
+Este resultado se puede expresar en función de la constante de estructura fina @Sym alpha . Si multiplicamos y dividimos por @Math {2 pi c sup {2}} nos queda:
+@DP
+
+@Math {E= alpha over { 2 pi} {c sup {2}} m sub {e}  } {@Sym arrowright} @CurveBox @Math {E over {c sup {2}}= alpha over { 2 pi}  m sub {e} } @DP 
+
+Luego la masa asignable al campo eléctrico será igual a @Math { alpha over { 2 pi}  m sub {e} } @DP 
+
+Como esta masa no aporta nada a la carga eléctrica deberemos modificar la constante @Math {G hat} @DP  
+
+Llamando m' a la masa del electrón una vez descontada la que pertenece a su campo eléctrico y @Math {G hat ' } a la nueva estimación de la constante gravitatoria en 6 D podemos escribir análogamente a lo que habíamos propuesto anteriormente: @DP
+@Math { { {q } over {m' sub {0}}}= {-4 pi  G hat }over  {mu sub {0} cdot { hbar  over {2m sub {0}'c}} }} @DP
+
+
+
+y teniendo en cuenta que @Math {m'=   blpar 1- alpha over { 2 pi} brpar m  } tendremos que: @DP
+
+
+@Math { G' hat = { G hat}over { blpar  1- {alpha }over {2 pi}  brpar sup {2} }}
+
+@DP
+
+
+Podemos ahora estimar el momento magnético con la nueva masa y el nuevo valor de @Math {G ' hat} @DP
+
+
+@Math {mu sub {g}=   {-4 pi  G'hat m' sub {0}} over {mu sub {0} }} {@Sym arrowright} @Math {mu sub {g}=   -4 pi  G hat over {blpar 1- {alpha }over {2 pi}  brpar sup {2}} cdot m blpar 1- { alpha }over {2 pi}  sub {0} over {mu sub {0} }brpar } {@Sym arrowright} @Math { mu sub {g}=   {-4 pi  G hat  m  sub {0} }over {mu sub {0} } cdot {1 over {blpar 1- {alpha }over {2 pi}  brpar}}} 
+
+@DP
+es decir @DP
+
+@CurveBox @Math {mu sub {g}=   mu sub {b} cdot {1 over {blpar 1- {alpha }over {2 pi}  brpar}}}
+@DP
+
+lo que coincide con la corrección del loop del primer orden que se obtiene en la electrodinámica cuántica para el momento magnético anómalo.
+@DP
+Sin embargo, los experimentos de scattering contradicen esta solución, pues confirman que los electrones se comportan como cargas puntuales, ¿ como es posible esto?. Si se tratase de partículas en el sentido clásico de la palabra, la hipótesis debería ser descartada, pero al considerar a los electrones como vibraciones es posible solucionar el enigma. 
+@DP
+
+Si consideramos un electrón sometido a choque, la aceleración no puede ser instantánea, la energía debe por tanto ser almacenada, ¿pero donde?. No existe más posibilidad que en la misma vibración que conforma la partícula, incrementando su masa, o lo que es lo mismo, reduciendo la distancia en la que se presenta un potencial constante.
+@DP
+@Figure 
+@Caption { Modificación cualitativa de las partículas por el choque.}
+@Location {TryAfterLine}
+{
+0.5 @Scale @IncludeGraphic "img/fig50.eps" 
+}
+@DP
+
+
+Los diferentes tonos de azul representan la variación en la pulsación conforme es excitada. Dado que para incrementar la resolución del scattering es necesario incrementar la energía de las partículas el agujero central será más pequeño cuanto más energéticos sean los fotones incidentes, impidiendo por tanto su detección por este método.  
+@DP
+
+@Underline {Caso B. Partícula-Pulsación en movimiento uniforme}.
+
+@DP
+@Box @Math {{ {nabla sup {2}} sub {3D} Psi} over {Psi}+ beta sup {2} = 0 }
+@DP
+Si consideramos un movimiento uniforme a lo largo del eje Z y suponiendo que:
+@DP
+@Math { Psi (x,y,z)= Z(z) cdot P(x,y)  }
+@DP 
+lo que nos permite separar nuevamente en dos ecuaciones:
+@DP
+@Math {{nabla sup {2} Z(z) } over {Z} + beta sup {2} = 0 }
+@DP
+@Math {{ {nabla sup {2}}  P(x,y)} over {P} = 0 }
+@DP
+La solución en el eje de desplazmiento de la partícula es conocida e igual a:
+@DP
+@Math { Z(z)=  C sub {4} Sen( beta z) } 
+@DP
+Mientras que la solución en el plano normal al desplazamiento se reduce al conjunto de las funciones armónicas en el plano. Podemos expresar el laplaciano en coordenadas polares:
+@DP
+@Math {{nabla sup {2}} P(r,phi)= {partialdiff sup {2} P} over {partialdiff r sup 2} + {1 over {r} } cdot {  partialdiff  P} over {partialdiff r } + { 1 over {r sup 2}} cdot {{partialdiff sup {2} P} over{partialdiff phi sup 2}}}
+@DP
+Entre todas las soluciones posibles de la ecuación de Laplace en coordenadas polares - de la forma @Math {r sup {n} cdot cos(n phione)} y @Math {r sup {-n} cdot cos(n phione)}  - solo la solución con n=1 satisface simultáneamente tres condiciones físicas: decae en el infinito @Math {(r sup {-n} con n>0)}, presenta una singularidad en el origen compatible con una fuente puntual, y es de menor orden posible - es decir, de mínima energía. Las soluciones con n>1 decaen más rápidamente y corresponden a multipolo de orden superior, no a una fuente elemental. La solución con n=1 es por tanto la analógica 2D del campo de un dipolo, y es la única compatible con el carácter elemental de la pulsación.
+@DP
+@Math { P (r,phi)= C sub {5} cdot {{cos (-phi + theta) }over r}}
+@DP
+Que podemos representar
+@DP
+@Figure 
+@Caption {Solución para el plano normal al movimiento. }
+@Location {TryAfterLine}
+{
+2.2 @Scale @IncludeGraphic "img/fig77.eps" 
+}
+@DP
+De esta solución surge naturalmente la polarización de las partículas, representada por la fase @Sym {theta}. La siguiente figura representa dos soluciones en el plano normal mediante curvas de nivel, lo que permite apreciar mejor los planos de polarización.
+@DP 
+@Figure 
+@Caption { Solución frontal para una partícula-pulsación libre con movimiento uniforme. Dos planos de polarización}
+@Location {TryAfterLine}
+{
+ @Scale @IncludeGraphic "img/fig76.eps" 
+}
+@DP
+La fase @Math {theta} determina el plano de polarización de la pulsación y constituye un grado de libertad de la misma - puede tomar cualquier valor en @Math {[0, 2 pi]} . La estructura del esméctico, sin embargo, no es neutral respecto a @Math {theta}: la birrefringencia de la fase nemática C del sustrato favorece dos orientaciones de helicidad opuesta, que corresponden respectivamente a la partícula y a su antipartícula. La conexión entre la estructura del sustrato y la distinción partícula"/"antipartícula se desarrolla en el Capítulo 3.
+@DP
+La solución en las dimensiones extendidas para una partícula libre en movimiento uniforme se compondrá por tanto por el producto de una onda plana por un potencial bidimensional en el plano perpendicular al movimiento. Si observamos las partículas elementales (neutrinos y electrones) de frente nos vuelven a aparecer como fuentes de campo gravitatorio y eléctrico, pero vistos transversalmente al movimiento aparecen como ondas planas.
+
+
+@DP
+@Figure 
+@Caption { Solución transversal para una partícula-pulsación libre con movimiento uniforme.}
+@Location {TryAfterLine}
+{
+0.65 @Scale @IncludeGraphic "img/fig52.eps" 
+}
+@DP
+
+
+Como podemos ver, las partículas elementales se comprimen longitudinalmente por efecto del movimiento.
+@DP
+@B {Reinterpretación de @Math {Psi}}
+@DP
+Ya habíamos adelantado que en el Capítulo 3 se desarrollan consideraciones que nos llevan a postular que el sustrato de estas ondas es un superfluido cuántico cristalizado en esméctco. Esta identificación tiene una consecuencia inmediata sobre la interpretación de @Math {Psi}: su significado ya no puede ser densidad de materia-energía, ni ninguna otra magnitud que hayamos podido medir anteriormente - simplemente porque nunca se nos había ocurrido buscarla. @Math {Psi} describe la deformación relativa del sustrato esméctco, una magnitud geométrica sin precedente en la física conocida.
+@DP
+Por tanto la normalización @Math {Psi=1 en r <= lambda sub {c}} no es una elección arbitraria sino la expresión de una inversión causal fundamental respecto a la física estándar. En la descripción habitual, la energía de una partícula determina su longitud de onda (@Math{E = hc slash lambda}). En el presente modelo ocurre lo contrario: la geometría del sustrato impone las longitudes de onda permitidas en las dimensiones compactadas - exactamente como una guía de ondas impone los modos que puede albergar - y de esa geometría emerge la masa. La partícula no tiene esa longitud de onda porque tenga esa energía; tiene esa energía porque la geometría solo permite esa longitud de onda.
+@DP
+En consecuencia, la amplitud de  en las dimensiones extendidas no codifica la información energética de la partícula - esa información reside en la geometría de las dimensiones compactadas. Lo que @Math {Psi} describe es la deformación relativa del sustrato: la unidad en el interior (@Math { r <= lambda c}) significa deformación completa, y el decaimiento @Math {C sub {2} slash r} en el exterior describe cómo esa deformación se atenúa hasta el mínimo geométrico posible - una capa de espesor lP - en r = rf.
+@DP
+Esta distinción nos recuerda la naturaleza de las interacciones. Todos los modos de vibración del sustrato modifican su índice de refracción y arrastran el medio en mayor o menor medida - el mecanismo subyacente es siempre el mismo. Lo que diferencia las interacciones no es su naturaleza sino la escala geométrica a la que actúan y la eficacia relativa de cada efecto en esa escala. A grandes escalas, donde las pulsaciones son suaves y el arrastre es despreciable, domina la modificación del índice de refracción - esto es lo que percibimos como gravedad, análoga a la curvatura del espacio-tiempo en Relatividad General (véase sección 2.2). A escalas menores, donde las pulsaciones son más energéticas y el arrastre del sustrato superfluido es significativo, emergen las interacciones neutrínica, electromagnética y nuclear - manifestaciones del mismo mecanismo a diferentes resoluciones geométricas.
+
+@NP
+
+
+@End @SubSection

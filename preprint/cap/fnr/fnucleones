@@ -1,0 +1,121 @@
+@Section
+@Title {Potencial nuclear residual entre dos nucleones}
+@Begin
+@BeginSubSections
+@SubSection
+@Title {Potenciales electrofuertes del protón y el neutrón}
+@Begin
+@DP
+El potencial electrofuerte de un protón puede ser expresado mediante:
+@DP 
+ 
+@Math {Psi (r) =  1 over {4 pi epsilon sub {0}} (Q) sub {p} sup {2}  1 over {pi}blbrack    {    27 blpar 1 over {a sub {0} } brpar  sup {3} e sup {-2r slash {a sub {0} } }}-26 blpar 1 over{ a sub {1} } brpar sup {3} e sup {-2r slash {a sub {1} }} - blpar 1 over {a sub {2}  }brpar   sup {3} e sup {-2r slash {a sub {2} } }  brbrack}
+@DP 
+Con a @Sub {0}=0.31522 fm, a @Sub {1}=0.3275 fm y a @Sub {2}=8,4099 fm y Q @Sub {1} la carga electrofuerte equivalente del protón, que sería para la primera onda @Math {(9 cdot 1.855+18 cdot 1.669) slash 27 = 1,731 10 sup { -18} C} y para la segunda onda @Math {(10 cdot 1.855+16 cdot 1.669) slash 26 = 1,7405 10 sup { -18} C} con una media de @Math {1,7357 10 sup {-18} C}.
+@DP
+El potencial electrofuerte de un neutrón puede ser expresado mediante:
+@DP 
+ 
+@Math {Psi (r) =  1 over {4 pi epsilon sub {0}} (Q) sub {n} sup {2}  1 over {pi}blbrack    {    25 blpar 1 over {b sub {0} } brpar  sup {3} e sup {-2r slash {b sub {0} } }}-24 blpar 1 over{ b sub {1} } brpar sup {3} e sup {-2r slash {b sub {1} }} - blpar 1 over {b sub {2}  }brpar   sup {3} e sup {-2r slash {b sub {2} } }  brbrack}
+@DP 
+Con b @Sub {0}=0.31492 fm, b @Sub {1}=0.3269 fm y b @Sub {2}=8,592 fm y Q @Sub {n} la carga electrofuerte equivalente del neutrón, que sería para la primera onda @Math {(23 cdot 1.855+2 cdot 1.669) slash 25 = 1,84012 10 sup { -18} C} y para la segunda onda @Math {(23 cdot 1.855+1 cdot 1.669) slash 24 = 1,8472 10 sup { -18} C} con una media de @Math {1,8437 10 sup {-18} C}.
+
+@DP
+Si expresamos los potenciales electrofuertes en MeV y usamos fm las expresiones serían:
+@DP 
+@Scale @Math {Psi (r) sub {P} = 9 10 sup {9}  (1.7357 10 sup {-18} C) sup {2} cdot {1 over pi} {10 sup {15}} over {1.609 10 sup {-19}  10 sup {6}} blbrack    {    27 blpar 1 over {0,3161} brpar  sup {3} e sup {-2r slash {0,3161} }}-26 blpar  1 over{ 0,3281 } brpar sup {3} e sup {-2r slash {0,3281 }}- blpar 1 over {8,624  }brpar   sup {3} e sup {-2r slash {8.624 } }  brbrack}
+@DP
+@Scale @Math {Psi (r) sub {N} = 9 10 sup {9}  (1,8437 10 sup {-18} C) sup {2} cdot {1 over pi} {10 sup {15}} over {1.609 10 sup {-19}  10 sup {6}} blbrack    {    25 blpar 1 over {0,3156} brpar  sup {3} e sup {-2r slash {0,3156} }}-24 blpar  1 over{ 0,3275 } brpar sup {3} e sup {-2r slash {0,3275 }}- blpar 1 over {8,624  }brpar   sup {3} e sup {-2r slash {8.624 } }  brbrack}
+
+@DP
+que podemos representar. 
+@DP 
+@Figure @Caption { Potencial electrofuerte } @Location {TryAfterLine} { @Scale @IncludeGraphic "img/Libro-img104.eps"} 
+@DP 
+Estos potenciales son acordes con las máximas energías de enlace observadas en la naturaleza, que presentan valores máximos de aproximadamente 8.8 MeV por nucleón.
+@End @SubSection
+@SubSection
+@Title {Interacción nucleón-nucleón} 
+@Begin
+@DP 
+Ahora bien, este potencial se ha descrito utilizando una imaginaria carga electrofuerte puntual, lo cual es perfectamente valido a escalas mayores, pero que no describe correctamente los fenómenos a la escala del fentometro. El potencial entre nucleones debe tener en cuenta la interacción en todos los puntos que forman parte del nucleón. Como ejemplo podemos representar el potencial electrofuerte de dos protones separados una distancia a= 0,8 fm.
+@DP 
+@Figure @Caption { Dos protones a= 0,8 fm } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img124.eps"} 
+@DP  
+En el segundo gráfico se ha alterado la escala vertical para apreciar con más detalle la interacción. Una forma de estimar la interacción sería multiplicar los potenciales y posteriormente integrar este producto a lo largo de todo el volumen.
+@DP      
+@Figure @Caption { Producto de potenciales } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img126.eps"} 
+@NP 
+Se ha integrado solo la parte dependiente de r, es decir: 
+@DP 
+@Scale @Math {F (r) =  int int int from{V}  to { } blbrack { 27 blpar 1 over {a sub {0} } brpar sup {3} e sup {-2r slash {a sub {0} } }}-26 blpar 1 over{ a sub {1} } brpar sup {3}  e sup {-2r slash {a sub {1} }}- blpar 1 over {a sub {2}  } brpar sup {3}  e sup {-2r slash {a sub {2} } } brbrack cdot blbrack { 25 blpar 1 over {b sub {0} } brpar sup {3} e sup {-2r slash {b sub {0} } }}-24 blpar 1 over{ b sub {1} } brpar sup {3}  e sup {-2r slash {b sub {1} }}- blpar 1 over {b sub {2}  } brpar sup {3}  e sup {-2r slash {b sub {2} } } brbrack dV }
+@DP 
+Con a @Sub {0}=0.3161 fm, a @Sub {1}=0.3281 fm y a @Sub {2}=8,624 fm y b @Sub {0}=0.3156 fm, b @Sub {1}=0.3275 fm y b @Sub {2}=8,624 fm y luego se ha utilizado un factor de escala tal que @Math{ F(0)=   {Psi sub {N} (0) + Psi sub {P} (0)} over 2}.
+@DP
+La integral se ha realizado numéricamente en wxmáxima. Obsérvese la modificación para poder utilizar coordenadas cartesianas y el factor 1.1302.. para expresar las diferentes cargas electrofuertes. El parámetro a representa la distancia entre los dos nucleones ( se ha escogido protón-neutrón para representar la interacción media) .
+@DP 
+@Verbatim {
+ 
+ eIntegralx2PN_vol(a,dy,dz) := block([f:0, y,z],
+  
+ for z from -2.5 thru 2.5 step dz do
+  {     
+    for y from -2.5 thru 2.5 step dy do
+    {f:f+    quad_qags((-27*(2/(0.3161)^3*exp(-2*abs((x^2+y^2+z^2)^0.5)/(0.3161)))
+                +26*(2/(0.3281)^3*exp(-2*abs((x^2+y^2+z^2)^0.5)/(0.3281)))
+                +1*(2/(8.624)^3*exp(-2*abs((x^2+y^2+z^2)^0.5)/(8.624)))
+)*
+       1.130246768089198* (-25*(2/(0.3156)^3*exp(-2*abs(((x-a)^2+y^2+z^2)^0.5)/(0.3156)))
+        +24*(2/(0.3275)^3*exp(-2*abs(((x-a)^2+y^2+z^2)^0.5)/(0.3275)))
+                +1*(2/(8.624)^3*exp(-2*abs(((x-a)^2+y^2+z^2)^0.5)/(8.624)))
+), x, -6, 6)*dy
+    
+    
+    
+    }
+    },
+    
+  f)
+}
+@DP 
+Se ha escogido como volumen a integrar un paralelepípedo de dimensiones 6 x 2,5 x 2,5 fm de lado con una resolución de dx=dy=0,1 fm. Los resultados han sido:
+@DP 
+@Verbatim {
+[
+[0,3616.846414069583],[0.1,3201.385507104461],[0.2,2350.877541025964],
+[0.3,1498.189507029132],[0.4,840.7860804209859],[0.5,409.1044665787224],
+[0.6,159.3732292538085],[0.7,32.20492157349359],[0.8,-22.29802713626394],
+[0.85,-33.61727975453241],[0.9,-38.50838264279695],[0.925,-39.25660740928497],
+[0.95,-39.17486278121196],[1,-37.2289795331129],[1.05,-33.81632116587219],
+[1.1,-29.72411065240701],[1.2,-21.38184763665949],[1.3,-14.33673847264041],
+[1.4,-9.111035322950277],[1.5,-5.540632287063081],[1.6,-3.247025355371193],
+[1.7,-1.848965640344897],[1.8,-1.038327319634802],[1.9,-0.5926151789572619],
+[2,-0.3626337997521036],[2.2,-0.2093248802561584],[2.5,-0.201668913732585]
+]
+}
+@DP 
+Ya que @Math {Psi (0) sub {P}=6460.06} y @Math {Psi (0) sub {N}=6939.41} el factor de escala será 
+@DP
+@Math {{(6460,06 + 6939,41) slash 2} over {3616,84} =1,8524}.
+@DP 
+Ya podemos representar por tanto el potencial entre dos nucleones aislados.
+@DP 
+@Figure @Caption {  Potencial entre dos nucleones aislados} @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img128.eps"} 
+ @DP 
+ Nótese que la distancia de equilibrio se ha desplazado hacia la derecha y es aproximadamente igual a 1 fm ( 0.925 fm.). El potencial mínimo a esta separación es igual a -72.70 MeV. 
+ @DP
+ O bien con menos detalle:
+ @DP 
+ @Figure @Caption { Potencial de interacción entre dos nucleones aislados } @Location {TryAfterLine} { 2.5 @Scale @IncludeGraphic "img/Libro-img129.eps"} 
+ @DP  
+ El potencial de interacción nuclear entre dos nucleones puede ser parametrizado mediante la suma de dos potenciales de Wood-Saxon.
+ @DP
+ @Math {Psi sub {x} (MeV) = 7700 over {1+e sup {{x-0.25}  over 0.124}}-176 over { 1+e sup{{x-1} over 0.18}}}
+ @DP 
+ que podemos representar
+ @DP
+ @Figure @Caption { Potencial entre dos protones  } @Location {TryAfterLine} { 2.5 @Scale @IncludeGraphic "img/Libro-img130.eps" @DP 2.5 @Scale @IncludeGraphic "img/Libro-img131.eps" } 
+     
+@End @SubSection
+@EndSubSections
+@End @Section

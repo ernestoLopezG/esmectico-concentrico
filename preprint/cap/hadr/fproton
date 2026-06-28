@@ -1,0 +1,265 @@
+@Section
+@Title { Factor de forma del protón}
+@Begin
+@DP 
+ @B {Resultados experimentales}
+ @DP
+  La determinación experimental de los factores de forma del protón se realizó inicialmente en los años 50 mediante el método de separación de Rosenbluth, que está basado en que la interacción entre las partículas puede describirse mediante el intercambio de un único fotón virtual, es decir, cada protón interactúa con una única partícula incidente. Las primera mediciones dieron como resultado que el factor de forma podía aproximarse a un dipolo de la siguiente manera.
+  @DP
+@Math {G sub {E}(q sup 2)=1 over  { blpar 1 + q sup 2 over 0.71 brpar sup 2 }}
+ @DP 
+ Las medidas experimentales fueron mejorándose continuamente hasta finales de la década de los noventa en experimentos en que no se tenía en cuenta la polarización de las partículas implicadas. De esta época data la parametrización de Boster
+ @DP
+ @Math {G sub {E} (Q sup 2 ) =1 over {  1 + 0.62Q +0.68Q sup {2}+ 2.80Q sup{3} + 0.83Q sup{4}}}
+ @DP 
+ Posteriormente fue desarrollado un método para determinar los factores de forma basado en la polarización de las partículas en retroceso. Este método, llamado de recoil polarization ha proporcionado resultados no compatibles con el método anterior, especialmente en la determinación de G @Sub {E}.
+ @DP
+ Posteriormente se ha intentado, con mayor o menor éxito, igualar los resultados de los dos métodos mejorando por un lado la correcciones radiativas, y por otro considerando que la interacción entre las partículas se puede describir mediante el intercambio de dos fotones virtuales, en vez de solo uno (es decir, cada protón puede ser golpeado más de una vez). De cualquier forma, los datos experimentales se reparten de forma bastante dispersa. El gráfico tomado de @Cite {$gao} así lo muestra.
+ @DP 
+  @Figure @Caption { Resultados experimentales } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img080.eps"} 
+@DP
+ 
+ @B {Estructura interna teórica.}
+ @DP
+ Anteriormente habíamos determinado que el barión estable de menor masa posible debería estar compuesto por:
+ @DP
+ Onda 0 : 27 epícimas.   Onda 1: 26 epícimas  Onda 3: 1 epícima.
+ @DP
+ El porcentaje de  bariones cargados se determinó de manera que los valores de masa y momento magnético se ajustasen lo máximo a los valores experimentales, resultando
+ @DP
+@CentredDisplay 
+@Tbl
+rule { yes }
+
+aformat { @Cell paint { black } A  | @Cell B | @Cell C | @Cell D}
+bformat { @Cell A | @Cell B | @Cell C | @Cell D}
+{
+
+@Rowa
+A { white @Color PROTÓN  }
+B { Carga electrofuerte}
+C { Carga eléctrica}
+D { Radio de Bohr }
+
+@Rowb
+A { Onda 0 }
+B { -27 }
+C { -9}
+D {0,3161 fm}
+
+@Rowb
+A {Onda 1 }
+B { +26}
+C { +10}
+D {0,3281 fm}
+
+@Rowb
+A {  Onda 2 }
+B { +1}
+C {  0 }
+D {8,624 fm}
+}
+@DP  
+@B {Densidad de carga teórica}
+@DP
+La densidad de carga eléctrica será entonces igual a:
+@DP
+@Math {rho (r) = 1 over {pi} blbrack   { -9}  blpar 1 over { 0.3161} brpar sup {3} e sup {-2r slash  0.3161   } + { 10 }  blpar 1 over { 0.3281} brpar sup { 3} e sup {-2r slash 0.3281   } brbrack}
+@Figure @Caption { Densidad de carga teórica protón  } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img070.eps"} 
+@DP 
+normalizado a 3 dimensiones.
+@DP
+@B{Factor de forma teórico sin correcciones.}
+@DP 
+La transformada de Fourier de la función exponencial @Math {1 over pi  blpar 1 over { a} brpar sup {3} e sup {-2r slash a  }   }  supuesta simetría esférica es conocida e igual a
+@DP 
+@Math {F=16 over { lpar a sup 2 cdot q sup 2 + 4  rpar sup 2 }} si normalizamos para que F(0)=1.
+@DP 
+Como la transformada de Fourier de una combinación lineal de funciones es igual a la combinación lineal de las transformadas de dichas funciones entonces podemos escribir:
+@DP 
+@Math {F(q sup {2})=-9 cdot {16 over{ lpar a sup 2 sub {0} cdot q sup 2 +4 rpar } sup 2} +10 cdot {16 over{ lpar a sup 2 sub {1} cdot q sup 2  +4 rpar }sup 2} } 
+@DP 
+con a @Sub {0} = 0,3161 fm y a @Sub {1} =0,3281 fm.
+@DP 
+Relación que podemos representar comparándola con los datos originales de Hofstader en @Cite {$hofstader}.
+@DP 
+
+@Figure @Caption { Comparación con los datos de Hofstader } @Location {TryAfterLine} { @Scale @IncludeGraphic "img/Libro-img081.eps"} 
+@DP
+Lo que supone una aproximación bastante razonable.
+@DP 
+@B {Corrección por deformación elástica }
+@DP
+Anteriormente se determinó que la contracción debida al choque elástico de dos partículas sería igual a
+@DP 
+@Math { a dot sub {0} sup { } = a sub {0 } cdot { sqrt { 1 - alpha sup {2} cdot  q sup {2} over {  q sup {2}+ { m sub {0} sup {2} c sup {2}}  }}}}
+@DP 
+donde @Math {alpha} representaba el tanto por uno del momento intercambiado. Como los protones están formados por tres ondas, pero solo las dos más internas tienen carga eléctrica supondremos que el leptón incidente absorbe el 50% del momento intercambiado q y que las dos ondas más internas del protón se reparten el momento entre ellas, pero absorbiendo ligeramente más (un 6% aproximadamente)la más externa. Por tanto quedaría
+@DP 
+ 
+@Math {F(q sup {2})=-9 cdot {16 over {( a dot sup {2} {} sub {0} cdot q sup 2 slash 0.039+4) sup 2}} +10 cdot {16 over{( a dot sup {2} {} sub {1} cdot q sup 2  slash 0.039+4) sup 2}} }
+@DP 
+  obsérvese el factor 0,039 para poder usar GeV.
+  @DP
+ con @Math { a dot sub {0}  = a sub {0 } cdot { sqrt { 1 - {{(0.25 cdot 0.485) sup {2}} cdot  q sup {2}} over {  q sup {2} + { 0.47} sup 2  }}}} y @Math { a dot sub {1}  = a sub {1 } cdot { sqrt {1 - { (0.25 cdot (1-0.485)) sup {2} cdot  q sup {2}} over {  q sup {2}+ { 0.47} sup 2  }}}}
+ @DP 
+ 
+ que representándolo nuevamente contra la aproximación de dipolo quedaría
+@DP 
+ 
+  
+  @Figure @Caption { Corrección por deformación elástica } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img082.eps"} 
+  
+@DP 
+Podemos compararla con los datos obtenidos en las últimas mediciones utilizando el método de difusión polarizada en @Cite {$puckett} y @Cite {$jones}. 
+@DP 
+@Figure @Caption { Comparación con los datos de difusión polarizada } @Location {TryAfterLine} {0.5 @Scale @IncludeGraphic "img/Libro-img083.eps"} 
+@DP
+No presenta un ajuste perfecto, pero en todo caso mucho mejor que la aproximación de dipolo. 
+@DP
+@B { Corrección por contracción de Lorentz}
+@DP 
+Como ya hemos visto en el punto anterior la densidad de carga se modifica:
+@DP 
+@Math {rho (r) = 4 cdot r sup {2} blbrack   { -9}  blpar  1 over { a sub {0}} brpar  sup {3} e sup {-2r slash  a sub {0}  } + { 10 }  blpar  1 over { a sub {1}} brpar  sup { 3} e sup {-2r slash a sub {1}  } brbrack}
+ @DP
+ con @Math { a dot sub {0}  = a sub {0 } cdot { sqrt { 1 - {{(0.25 cdot 0.485) sup {2}} cdot  q sup {2}} over {  q sup {2} + { 0.47} sup 2  }}}} y @Math { a dot sub {1}  = a sub {1 } cdot { sqrt {1 - { (0.25 cdot (1-0.485)) sup {2} cdot  q sup {2}} over {  q sup {2}+ { 0.47} sup 2  }}}}
+ @DP
+Dado que el disco aplanado siempre es perpendicular al movimiento la transformada de Fourier de esta densidad de carga se reduce a una integral simple:
+@DP  
+@Math {F(q) = int from { 0}   to {infinity } rho (r)  e sup {-iqr} dr} 
+@DP 
+definida como es habitual en física
+@DP 
+Como la densidad de carga es un número real podemos obtener fácilmente la parte real e imaginaria de la transformada de Fourier
+@DP 
+@Math {F(q) = f sub {1} + i f sub {2} = int  from {0} to { infinity } rho (r) cos (qr) dr - i int from {0} to { infinity }     rho (r) sin (qr) dr}
+@DP 
+Por tanto
+@DP 
+@Math { f sub { 1}(q)= int from {0} to { infinity }    4 cdot r sup {2} blbrack   { -9}  blpar 1 over { a sub {0}} brpar sup {3} e sup {-2r slash a sub {0}  } + { 10 }  blpar 1 over { a sub {1}} brpar sup { 3} e sup {-2r slash a sub {1}  } brbrack cos (qr) dr } 
+@DP 
+@Math { f sub { 2}(q)= int from {0} to { infinity } 4 cdot r sup {2} blbrack   { -9}  blpar 1 over { a sub {0}} brpar sup {3} e sup {-2r slash a sub {0}  } + { 10 }  blpar 1 over { a sub {1}} brpar sup { 3} e sup {-2r slash a sub {1}  } brbrack sin (qr) dr} 
+@DP 
+Nota: f1 y f2 no se corresponden con las funciones de forma de Dirac y Pauli. 
+@DP 
+Las dos integrales se pueden resolver simbólicamente con wxmáxima y representar después la amplitud total @Math {G sub {E} = sqrt {f sub {1} sup {2}+ f sub {2} sup {2}}} para r=0, comparándolo con la aproximación de dipolo y con la curva corregida por deformación elástica.
+@DP 
+ 
+@Math {f sub {1} = {36 cdot (24a sub {0}sup {4} q-2a sub {0} sup {6} q sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4} +48a sub {0} sup {2} q sup {2}+64)}-{40 cdot (24a sub {1} sup {4} q-2a sub {1} sup {6} q sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)}} 
+@DP
+@Math {f sub {2} = 
+{40 cdot (12a sub {1} sup {5} q sup {2}-16a sub {1} sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4} +48a sub {1} sup {2} q sup {2}+64)}-{36 cdot (12a sub {0} sup {5} q sup {2}-16a sub {0} sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}}
+@DP 
+y por tanto
+@DP 
+@Scale @Math {G sub {E} = sqrt {blpar {36 cdot (24a sub {0} sup {4} q-2a sub {0} sup {6} q sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}-{40 cdot (24a sub {1} sup {4} q-2a sub {1} sup {6} q sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)} brpar sup { 2 }
+
++ blpar {40 cdot (12a sub {1} sup {5} q sup {2}-16a sub {1} sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)}-{36 cdot (12a sub {0} sup {5} q sup {2}-16a sub {0} sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}       brpar sup { 2 }
+
+
+ }}
+@DP 
+ 
+  Sin embargo, esta deformación depende principalmente (aunque no solo) del cuadrimomento intercambiado, puesto que en los experimentos los protones suelen encontrarse en reposo respecto al sistema de referencia del laboratorio. Mediante consideraciones análogas a las del punto 3.1 la contracción de Lorenzt en función del cuadrimomento intercambiado será igual a @Math {f={ sqrt { 1 -  q sup {2} over {  q sup {2}+ { m sub {0} sup {2} c sup {2}}  }}}}. Como aproximación para estudiar los estados en los que los blancos presentan deformaciones intermedias podemos utilizar la media entre el factor de forma elástico y el deformado por  Lorenzt ponderada por el grado de deformación de Lorenzt de esta manera.
+ @DP
+@Math {G sub  { E est} =  lpar 1 - f rpar  G sub { E Lorentz } +  G sub { E elástico } cdot lpar f rpar}
+ @DP
+ Los datos experimentales deberían encontrarse por tanto entre la curva estimada si el protón fuese totalmente rígido y la curva de deformación máxima posible, dependiendo de la energía de retroceso de los protones y de la técnica utilizada, pues los métodos no polarizados son más sensibles a esta deformación.
+ @DP
+ @Figure @Caption {  } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img084.eps"} 
+
+  @DP
+  Dado que en las parametrizaciones habituales no se ha tenido en cuenta suficientemente la velocidad de retroceso es muy  probable que las curvas experimentales se ajusten a combinaciones lineales simples de las curvas de Lorentz y elástica. De hecho si representamos 
+@DP
+@Math {G sub  { E est} =1 over {2}   blbrack 0.5  G sub { E Lorentz } + 0.5  G sub { E elástico }  brbrack  }
+@DP 
+@Figure @Caption {  } @Location {TryAfterLine} {2.3 @Scale @IncludeGraphic "img/Libro-img086.eps"} 
+@DP 
+Obsérvese como las dos curvas abrazan la aproximación de dipolo. La coincidencia de esta combinación lineal de la curva elástica con la curva de Lorentz es muy buena a grandes q².
+@DP 
+@Figure @Caption {  } @Location {TryAfterLine} {2.3 @Scale @IncludeGraphic "img/Libro-img087.eps"} 
+@DP
+El significado físico de esto no está claro, pero es evidente que no puede ser una coincidencia. Si analizamos la parametrización de Boster @Cite {$boster} obtenida con los datos de los experimentos sin polarización realizados hasta 1994 puede observarse que ya refleja la relación entre el cuadrimomento intercambiado y el grado de deformación, que se traduce en una curva que se separa de la correspondiente al dipolo, acercándose  a la de deformación máxima.
+@DP 
+@Math {G sub {E} (Q 2 ) =1 over {  1 + 0.62Q +0.68Q sup {2}+ 2.80Q sup{3} + 0.83Q sup{4}}} 
+@DP
+@Figure @Caption {  Parametrización de Bosted} @Location {TryAfterLine} {0.7 @Scale @IncludeGraphic "img/Libro-img088.eps"} 
+@DP 
+Anteriormente habíamos estimado la curva de deformación máxima como:
+@DP 
+ @Math {G sub  { E est} =  lpar1 - f rpar G sub { E Lorentz } +  G sub { E elástico } cdot lpar f rpar}
+ @DP 
+ Si la representamos normalizándola por el factor ¼  y utilizando 
+ @DP
+@Math { a dot sub {0}  = a sub {0 } cdot { sqrt { 1 - {{(0.25 cdot 0.485) sup {2}} cdot  q sup {2}} over {  q sup {2} + { m sub {0} over 2} sup 2  }}}} 
+@DP
+@Math { a dot sub {1}  = a sub {1 } cdot { sqrt {1 - { (0.25 cdot (1-0.485)) sup {2} cdot  q sup {2}} over {  q sup {2}+ { m sub {0} over 2} sup 2  }}}}
+@DP
+ 
+  y m @Sub {0}=0,938 GeV, observamos un paralelismo notable.
+  @DP
+  @Figure @Caption {  } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img089.eps"} 
+ @DP 
+ Podemos usar la siguiente combinación lineal
+ @DP
+ @Math {G sub  { E est} =1 over {2} blbrack   0.5 cdot  lbrack lpar 1 - f rpar G sub { E Lorentz } + f G sub { E elástico }  rbrack + 0.5 lbrack 0.5  G sub { E Lorentz } + 0.5  G sub { E elástico }  rbrack  brbrack}
+@DP
+ @Figure @Caption { Combinación lineal. Bosted } @Location {TryAfterLine} {0.55 @Scale @IncludeGraphic "img/Libro-img090.eps"} 
+ @DP 
+ ½ sería el mismo factor de normalización que en la combinación que proporcionaba la aproximación de dipolo.
+ @DP
+ @B {Modificación del modo de vibración.}
+ @DP
+ La solución es análoga al punto anterior
+ @DP
+@Scale @Math {G sub {E} = sqrt {blpar {36 cdot (24a sub {0} sup {4} q-2a sub {0} sup {6} q sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}-{40 cdot (24a sub {1} sup {4} q-2a sub {1} sup {6} q sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)} brpar sup { 2 }
+
++ blpar {40 cdot (12a sub {1} sup {5} q sup {2}-16a sub {1} sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)}-{36 cdot (12a sub {0} sup {5} q sup {2}-16a sub {0} sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}       brpar sup { 2 }
+
+
+ }}
+ @DP
+ Pero en este caso se considera que las partículas están totalmente deformadas tanto elásticamente como por la deformación de Lorenzt y sus radios de Bohr han disminuido a la mitad o a su cuarta parte, dependiendo de la energía disponible.
+ @DP
+   @B {Caso 1}   con @Math { a dot sub {0} sup { } = a sub {0} cdot 0.9682 over 2} y @Math { a dot sub {1} sup { } = a sub {1 } cdot 0.9682 over 2}
+   @DP
+   @B {Caso 2}   con @Math { a dot sub {0} sup { } = a sub {0} cdot 0.9682 over 4} y @Math { a dot sub {1} sup { } = a sub {1 } cdot 0.9682 over 4}
+   @DP
+   @B {Caso 3} .....
+ @DP
+ El caso en que nos encontremos dependerá en gran medida de la masa invariante W, en efecto si partimos de su definición
+ @DP
+ @Math {W sup {2}=2 cdot m sub {0} cdot E+m sub {0} sup {2}-q sup 2}
+ @DP
+ la energía perdida por la partícula incidente será
+ @DP
+ 
+@Math { E={W sup {2}-m sup {2} sub {0}+q sup {2}} over {2 cdot m sub {0}}}
+@DP 
+descartando el término del momento transferido (no utilizable para las deformaciones) nos queda 
+@DP 
+@Math { E={W sup {2}-m sup {2} sub {0}} over {2cdot m sub 0}}
+ @DP
+ que para el caso del protón @Math {m sub {0}=0,938 GeV}
+@DP
+@Math { E sub disponible ={W sup {2}-0.938 sup {2}} over {2 cdot 0.938}} 
+@DP 
+ 
+ Para el caso 1 la energía disponible debe ser mayor que 0,938 GeV, por tanto la masa invariante mínima será de
+@DP
+@Math {W sub mínima1 =sqrt {2 cdot 0.938 sup {2}+0.938 sup {2}}= 1,62 GeV} 
+@DP 
+Para el caso 2 la energía disponible debe ser mayor que 3 veces 0,938 GeV, luego
+@DP 
+@Math { W sub mínima2 =sqrt {2 cdot 3 cdot 0.938 sup {2}+0.938 sup {2}}= 2,48 GeV}
+@DP 
+Por tanto quedarían las siguientes curvas en función de la masa invariante W:
+@DP  
+  @Figure @Caption { Modificación del modo de vibración } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img091.eps"} 
+ @DP 
+  Es de observar que para el primer caso hemos normalizado dividiendo por 4 y en el segundo caso por @Math {4 pi} para intentar ajustarnos a las normalizaciones utilizadas en los experimentos. Podemos superponer los resultados con el gráfico obtenido de  @Cite {$slac}.
+ @DP 
+@Figure @Caption { Superposición con los datos experimentales } @Location {TryAfterLine} {0.6 @Scale @IncludeGraphic "img/Libro-img092.eps"} 
+ 
+@End @Section

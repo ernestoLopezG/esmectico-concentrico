@@ -1,0 +1,64 @@
+@SubSection 
+@Title { Ejemplo de aplicación. Momento magnético intrínseco del electrón.}
+@Begin
+@LP
+
+
+Veamos como se pueden convertir las formulas electromagnéticas 5D a gravitomagnéticas 6D.@LP
+
+@Figure 
+@Caption {  Momento magnético intrínseco. }
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig10.eps"
+}
+@LP
+								
+La expresión del momento gravitomagnético debería ser análogamente el producto de la intensidad másica por la superficie abrazada por la espira. Sin embargo como las distancias involucradas son inferiores a G debemos utilizar formulas referidas a 6 dimensiones.
+Para convertir la formula a 6D partimos de la definición de momento magnético.
+@DP
+@Math {mu = 1 over {2} int r x idl }
+@DP
+Los pasos a seguir son los siguientes: @LP
+
+
+1. Eliminar constantes( salvo aquellas que provengan de las leyes de Maxwell). @LP
+
+@Math {mu =  int r times idl }
+@LP
+2. Dividir por r para pasar de 5D a 6D. (De manera análoga a como lo hemos hecho anteriormente) @LP
+@Math {mu =  1 over {r} int r times idl = i int dl = i cdot 2  pi R} @LP
+
+3. Utilizar la intensidad másica en vez de la intensidad eléctrica. @LP
+
+@Math {mu =  i sub { m} cdot 2  pi R} @LP
+
+
+4. Eliminar la constante electromagnética y sustituirla por la gravitomagnética, es decir, multiplicar por el factor @Math {{-4 pi G hat slash c} over {mu sub {0}}} .@DP
+
+@Box @Math {mu sub {g}= {-4 pi G hat slash  c} over {mu sub {0}} cdot  i sub {m} cdot 2 pi R  }
+ @DP 
+
+El flujo másico será   @Math {i sub {m} = m sub {0} cdot upsilon}   donde @Math {upsilon = {nº vueltas} over {segundo } = c over {2 pi R}}   ya que habíamos postulado que  el electrón viaja a la velocidad de la luz en las dimensiones compactadas. @DP
+
+@LP Luego   
+
+@Box @Math {mu sub {g}= {-4 pi G hat  } over {mu sub {0} c} cdot{ {m sub {0}c} over {2 pi R} cdot 2 pi R } =  {-4 pi G hat  m sub {0}} over {mu sub {0} }} @DP
+
+sustituyendo para el caso del electrón y como  @Math { G hat = 1,01807176}  tendremos @DP
+@Math { mu sub {g}=   {-4 pi cdot 9,109 10 sup {-31} cdot 1,01807176} over { 4 pi 10 sup {-7}}= - 9,2740055 10  sup {-24}}
+
+@DP
+
+en unidades del SI. @LP
+
+
+La estimación produce un valor muy similar al magnetón de Bohr , que es de 9,274 00915 10 @Sup {- 24}  en el mismo sistema de unidades.@DP
+
+Nota: La formula anterior puede también obtenerse fácilmente a partir de la expresión tradicional del momento magnético  en función  del espín @Math { mu  = q over {2m} S = q over {2m} {hbar} over {2} } @DP 
+y sustituyendo @Math {q over m=  {-4 pi G hat  } over {mu sub {0} c   } cdot { {2 mc} over { hbar} }} @DP 
+Sin embargo, de momento no puede explicarse el valor anómalo del momento magnético del electrón, lo que se hará más adelante en este trabajo. 
+
+
+
+@End @SubSection

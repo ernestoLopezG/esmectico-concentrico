@@ -1,0 +1,310 @@
+@Section
+@Title { Estructura de fases del esméctico concéntrico.}
+@Begin
+
+@BeginSubSections
+@SubSection
+@Title {Necesidad y descripción de la estructura de fases }
+@Begin
+@DP
+Las soluciones del capítulo 2 demuestran que los neutrinos solo necesitan un sustrato- el esméctico A ya sugerido en "Solo Ondas". Pero el electrón no puede ser una combinación de esas soluciones - los cálculos numéricos revisados muestran que ninguna combinación lineal cumple las condiciones de contorno requeridas. Eso exige una región adicional cualitativamente distinta: el esméctico C y su interfaz con el A. Y las epícimas exigen una tercera región: el fluido isótropo interior y su interfaz con el C. Las tres regiones no son un postulado adicional - son la consecuencia necesaria de que las seis pulsaciones fundamentales existan como modos propios estables.
+@DP
+@Figure
+@Caption {  Estructura de fases del esméctico concéntrico (sección transversal, no a escala). }
+@Location {TryAfterLine}
+{0.5 @Scale @IncludeGraphic "img/Libro-img145.eps"
+}
+@DP
+ El núcleo central (negro) corresponde a la región isótropa fluida, de radio del orden de 10 fm. La zona intermedia con director inclinado @Math {(theta similar 45°)} corresponde al esméctico C, cuya interfaz exterior con el esméctico A actúa como guía de onda para el electrón @Math {( similar 10 sup {-13} m)}. La región exterior de capas horizontales corresponde al esméctico A, que se extiende hasta @Math  {R_u = surd (G slash 2 pi) similar 3.26 mu m}, radio de las dimensiones compactadas. La escala característica del estrato exterior del hadrón @Math {(a sub {2} similar 8.5 fm)} coincide con la escala de la epícima ligera en las dimensiones compactadas @Math {( xi sub {0}(ep_l) = hbar c slash (2m_l) similar 8.5 fm)}, diferencia del 1.6%.
+@NP
+
+La cristalización en capas concentricas proporciona de forma natural la curvatura postulada. No siendo necesario ningún gradiente de indice de refracción - dado que la velocidad de propagación es c en todo el sustrato por construcción -  sino simplemente la existencia de tres sustratos dispuestos concentricamente. No hay diferencia de velocidades entre fases que produzca curvatura de rayos.
+@DP El confinamiento es siempre matemático (evanescencia o localización en interfaz). El guiado no es óptico sino modal: cada pulsación es un modo propio de su región del sustrato, matemáticamente incompatible con las soluciones de las regiones adyacentes. No hay propagación radial ni reflexión en las interfaces - hay evanescencia o localización en interfaz. La sincronización entre regiones es posible en las interfaces (donde las condiciones de contorno acoplan los modos), pero no implica transferencia de energía en dirección radial.
+@DP
+Los neutrinos electrónico y muónico son modos del esméctico A puro (q -> 0) - su extensión hacia el esméctico C es matemáticamente despreciable y no afecta a los cálculos. El neutrino tauónico, en cambio, es un conector topológico (Tipo IIbis, a=0, @Math {upsilon =1 slash 2 } de Floquet) sin dominio fijo: se extiende desde el esméctico A hasta el C, lo que le permite participar en reorganizaciones hadrónicas profundas que los otros dos neutrinos no pueden mediar.
+@DP
+Las epícimas comparten con el @Math {upsilon _ tau} las mismas interfaces de localización (fluido-C y borde del universo para la ligera; fluido-C e interfaz C-A para la pesada), pero a diferencia del @Math {upsilon _ tau} - cuya condición a=0 permite una caracterización analítica exacta - las condiciones de Floquet de las epícimas no admiten solución analítica ni asintótica tratable. Sus masas se determinarán empíricamente desde la estructura hadrónica, no desde la ecuación de Mathieu.
+@DP
+
+@Table
+@Caption {Regiones del Esméctico}
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B | @Cell C  | @Cell D  }
+rule { yes }
+{
+@Rowa A {  Región  } B {  Escala} C {Fase propuesta} D {Propiedades relevantes}
+@Rowa A { Agujero interior  } B { @Math {less xi sub {0}(ep) similar 10 sup {-15} m} } C {Líquida "/" isótropa} D {Sin orden orientacional ni posicional. No transmite ondas transversales.}
+
+@Rowa A { Capa electrofuerte  }  B { @Math { xi sub {0}(ep) similar 10 sup {-15} m} } C {Superficie fluido} D {Universalidad fuerza electrofuerte}
+@Rowa A { Zona interior  } B { @Math {xi sub {0}(ep) rightarrow xi sub {0(e)}}  } C {Nemática C} D {Orden orientacional con director inclinado respecto a las capas. Anisotrópico.}
+@Rowa A { Capa eléctrica  } B { @Math {similar xi sub {0}(e) similar 10 sup {-13} m} } C {Interfaz C-A} D {Transición de fase abrupta.Origen de la universalidad de la carga eléctrica.}
+@Rowa A { Zona neutrínica  } B { @Math {xi sub {0}(e) rightarrow R_u} } C {Nemática A} D {Director perpendicular a las capas. Genera trayectorias elípticas .}
+@Rowa A {  Límite exterior } B { @Math {similar R_u similar 10 sup {-6} m}  } C {Interfaz A-?} D {Límite Universo en las dimensiones compactadas}
+
+
+
+}
+@DP
+Nótese que más alla del límite exterior no es posible conocer nada, si estamos en un torbellino dentro de algo mayor o si todo lo que existe es el torbellino quedará por definición fuera del alcance de la Ciencia.
+
+@End @SubSection
+
+
+
+@SubSection
+@Title {Consecuencias de la estructura de fases en la Cosmología}
+@Begin
+@DP
+En el punto 3.4 se desarrolla el mecanismo que genera y mantiene la estructura de fases, que no preexiste al Big Bang sino que emerge del propio proceso de contracción. A medida que el universo envejece, R_u decrece y todas las escalas de longitud se comprimen proporcionalmente. En el actual periodo de expansión del Universo las interfaces se desplazan pero mantienen sus posiciones relativas, y la física de las partículas permanece invariante en primer orden.
+@DP
+Los dos finales posibles del universo corresponden a los dos límites de estabilidad del esméctico:
+@DP
+Big Crunch por solidificación: cuando las dimensiones compactadas se contraen hasta la longitud de Planck, el esméctico alcanza su límite de compresión. La distancia mínima entre capas es el tamaño de las partículas del fluido primordial. El medio se solidifica, pierde su capacidad de transmitir ondas, y la materia se disuelve. El rebote es la transición de fase inversa - un nuevo Big Bang.
+@DP
+Big Rip por inestabilidad del torbellino: si la expansión de las dimensiones extendidas supera el límite de estabilidad hidrodinámica del torbellino y toda la estructura puede rasgarse en jirones. El esméctico perdería su estructura de capas, la guía de onda desaparecería, y la materia se disolvería en el fluido primordial isótropo.
+@DP
+El destino final del universo se reduce, en el modelo, a una carrera entre dos tasas: la contracción de las dimensiones compactadas hacia su límite inferior (l_P, Big Crunch por solidificación) frente a la posibilidad de que la expansión de las dimensiones extendidas supere el límite de estabilidad hidrodinámica del torbellino (Big Rip por desgarro).
+@DP
+La relación 3E+2C=0 (sección 3.2) no admite equilibrio: mientras se mantenga, la contracción de las compactadas es monótona y continua,
+no se detiene espontáneamente. La ausencia de equilibrio no es aquí un defecto a remediar -como lo fue para Einstein, que introdujo la constante cosmológica para forzar un universo estático que sus ecuaciones originales no permitían, y que más tarde abandonó al confirmarse la expansión- sino una propiedad estructural necesaria: sin ella, el universo no tendría un destino final hacia el que evolucionar. El Big Crunch es por tanto el destino por defecto del universo - la pregunta no es si ocurrirá, sino si ocurrirá antes de que la expansión alcance el límite de estabilidad hidrodinámica del torbellino y lo desgarre primero.
+@DP
+El modelo no determina todavía cuál de las dos tasas alcanza su límite primero: el límite de estabilidad hidrodinámica del torbellino no está cuantificado - es, por ahora, un parámetro libre conceptual, de estatus similar al factor 4 pendiente en la asimetría materia-antimateria (sección 3.6). Formalizar ese límite -y con él, predecir cuál de los dos finales es el más probable- queda como problema abierto.
+@DP
+@End @SubSection
+
+
+
+@SubSection
+@Title {Consecuencias de la estructura de fases en las soluciones a la ecuación de onda}
+@Begin
+@DP
+La aparición de 2 interfaces @I {permite} la existencia de 2 nuevos tipos de ondas, las ondas de interfaz - relacionadas con la carga eléctrica-  y las ondas de superficie - relacionadas con las cargas electrofuertes.
+@DP
+Podemos agrupar por tanto las soluciones por sus características físicas.
+@DP @Underline {Soluciones del Esméctico A}
+@DP @Math {upsilon sub {e}} y @Math {upsilon sub {mu}. } Carga neutrínica
+@DP @Underline {Soluciones del Esméctico A y C}
+@DP @Math {upsilon sub {tau}. } Carga neutrínica
+@DP @Underline {Ondas de la interfaz A-C}
+@DP Electrones.Soluciones con carga eléctrica.
+@DP @Underline {Ondas de superficie}
+@DP Epícimas. Soluciones con carga electrofuerte.
+@DP
+@B {Justificación de la aplicación de la ecuación de Mathieu a una estructura circular.}
+@DP
+La onda de interfaz presenta un problema inherente a su existencia. La pulsación en la parte exterior de la interfaz es altamente evanescente, lo que en la práctica hace que la pulsación interior represente a la totalidad de la onda. Pero si bien su existencia por el interior si es posible matemáticamente, el baricentro de la solución Tipo I es inferior a su @Math {xi sub {0}}, lo que provocaría una tendencia de la onda de interfaz a separarse de su región de existencia. En el capítulo 2 esta dificultad se ha resuelto asociandola a una pulsación tipo I @Math {upsilon sub {e}}, que traslada su baricentro a la coordenada @Math {2 cdot xi sub {0}}. Esto tiene dos consecuencias importantes:
+@DP
+Estabiliza la onda al empujarla efectivamente contra la interfaz.
+@DP
+Como la q de electrón tiene un valor negativo muy elevado la función angular de Mathieu colapsa a un punto, lo que concentra la presión de raciación y @I {deforma dinámicamente la interfaz a una forma elíptica}.
+@DP
+@B {El espín como nuevo grado de libertad}
+@DP
+La presentación de la topología elíptica como dinamica y no preexistente tiene una consecuencia importantisima. La aparición de un nuevo grado de libertad, la orientación del eje elíptico. De un plumazo, todos los experimentos paradójicos sobre el espín, como el de Stern-Gerlach, quedan acomodados de forma natural en el modelo, sin forzar nada.
+@DP
+@B {Las ondas de superficie como soluciones tipo II bis}
+@DP
+Las ondas de superficie como soluciones tipo II presentan un baricentro tan desplazado al interior de la zona fluida que siempre ha habido muchas dudas sobre su estabilidad efectiva, por lo que en el capítulo 2 siempre se las ha presentado asociadas a otro tipo de pulsaciones, lo cual resolvía el conflicto matemáticamente, pero no físicamente. A continuación se expone la razón por la que la estructura de fases consigue resolver esta dificultad.
+@DP
+El mecanismo de acoplamiento epícima-onda de interfaz se describe en 2.1.3 como un refuerzo mutuo, pero sin un mecanismo geométrico que explique por qué coexisten sin conflicto.
+@DP
+La onda de interfaz (Tipo III, electrón) tiene su baricentro desplazado hacia el exterior respecto al centro de las dimensiones compactadas - que acabamos de ver produce una deformación elipsoidal (estiramiento). Una epícima de Tipo II clásico (decreciente) tendría el baricentro desplazado hacia el interior, produciendo una deformación opuesta (encogimiento). Si ambas fueran pulsaciones independientes actuando sobre el mismo eje, se contradirían - la única forma de coexistir sin conflicto sería actuar sobre ejes perpendiculares (90°), lo que requeriría una justificación adicional.
+@DP
+Sin embargo, si la epícima es una pulsación única de forma U (decreciente-creciente, sin nodo), su efecto neto sobre la deformación no es un "tirón" en una sola dirección - tiene dos extremos con comportamientos opuestos, que pueden ser autocontenidos. En ese caso, el conflicto de los 90° no aparece: no hay un tirón neto que contradiga al de la onda de interfaz, sino una deformación de naturaleza distinta que coexiste sin interferencia. La pregunta "¿a qué ángulo?" pierde sentido porque la epícima-U no es una flecha con dirección, sino una deformación con simetría propia.
+@DP
+Esto resuelve simultáneamente tres preguntas que de otro modo requerirían respuestas separadas: por qué están unidas (comparten la misma interfaz C-A como condición de frontera), a qué ángulo se alinean (la pregunta desaparece), y si la deformación tira o empuja (la forma U se deforma, sin dirección privilegiada). Un solo postulado (epícima = forma U) disuelve tres preguntas en lugar de responderlas.
+@DP
+@B {Geometría sin nodos. Las cuatro formas posibles}
+@DP
+En 2.1.3.2 se estableció que las soluciones radiales deben tener q<0, porque q>0 implicaría funciones oscilantes - un desplazamiento de onda en sentido radial, incompatible con que las partículas-pulsación sigan trayectorias elípticas fijas.
+@DP
+Ese mismo argumento puede llevarse hasta su conclusión local: si un desplazamiento radial global está prohibido, también debe estarlo cualquier desplazamiento radial local. Un nodo interior (cruce por cero de @Math {Psi}) sería, localmente, exactamente la firma de una onda viajera en sentido radial - un punto de inversión de fase. Prohibir nodos interiores es la misma física de q<0, aplicada punto a punto en vez de a la familia global.
+@DP
+Bajo esta condición - sin nodos en todo @Math {xi element [0,xi _u]} - solo quedan cuatro formas posibles para @Math {Psi(xi)}:
+@DP
+- Creciente (Tipo I: Io, Ie): condición @Math {CDG = xi sub {0}}. Candidatos verificados: @Math {upsilon sub {e}, upsilon sub {mu} }
+@DP
+- Decreciente (Tipo II: Ko, Ke): descartada empíricamente - "no se ha encontrado ninguna solución que cumpla las condiciones de contorno" (2.1.3.2). Es la única de las cuatro formas que "da la espalda" al extremo exterior @Math {xi sub {u}}, lo que podría ser la razón física de su descarte.
+@DP
+- Creciente-decreciente con cúspide (Tipo III): máximo en @Math {xi=xi sub {0}}. Candidato: onda de interfaz (electrón).
+@DP
+- Decreciente-creciente, forma U (Tipo IIbis): condición topológica, Floquet @Math {upsilon = half, a=0, independiente de xi sub {0}}. Candidato verificado: @Math {upsilon sub {tau} } con q=-0.64.
+@DP
+La condición 'sin nodo, con comportamiento relevante en ambos extremos de @Math {xi}' podría ser el criterio que define una pulsación como una sola perturbación coherente del sustrato. Un nodo partiría la solución en dos piezas con fases opuestas - ya no sería una partícula, sino dos perturbaciones coexistentes.
+@DP
+Se postula entonces que las que las epícimas son Tipo IIbis (forma U), cada una sobre su propio dominio:
+@DP
+- Epícima pesada: dominio [interfaz líquido-C, interfaz C-A].
+@DP
+- Epícima ligera: dominio [interfaz líquido-C, superficie exterior (@Math {xi sub {u}=sub {u}})].
+
+@DP
+@Figure
+@Caption {  Pulsaciones del esméctico. }
+@Location {TryAfterLine}
+{0.5 @Scale @IncludeGraphic "img/Libro-img146.eps"
+}
+
+
+
+
+
+@DP
+En la figura 3.2 se dibujan seis soluciones a la ecuación de onda desarrolladas en el capítulo 2  sobre la estructura de fases del esméctico concéntrico (esquema no a escala, eje horizontal aproximadamente logarítmico). Las líneas verticales marcan, de izquierda a derecha: el centro del universo (fluido isótropo), la interfaz fluido @Math {slash}esméctico C, la interfaz esméctico C @Math {slash} esméctico A, y el borde del universo @Math {(R_u = 3.26  mu m)}. Los neutrinos @Math{ upsilon e }y @Math{upsilon  mu} (gris) son modos del esméctico A puro (Tipo I, Bessel ordinario, q tendiendo a 0); el neutrino @Math {upsilon  tau} (naranja) es modo IIbis, siempre positivo y sin nodos, conector topológico entre el interior y el exterior. El electrón  @Math {e sup -} (rojo) es onda de interfaz C @Math {slash} A (Tipo III), con máximo localizado en la interfaz esméctico C @Math {slash} esméctico A. La epícima ligera @I{ko_l} (verde) y la epícima pesada @I{ko_p (azul)} son ondas de superficie; su mayor masa respecto al electrón se refleja en la mayor estrechez y altura de sus funciones de onda.
+
+@DP
+
+@End @SubSection
+
+
+
+@SubSection
+@Title {Decaimiento de partículas }
+@Begin
+@DP
+@B{Conversión de epícima pesada en ligera (o viceversa)}
+@DP
+Hemos visto que de las dos soluciones en U la epícima cargada presenta mayor masa. Una descomposición natural sería:
+@DP
+Epícima pesada @Sup {-} -> Epícima ligera @Sup {-} + e @Sup {-}.
+@DP
+Esta reacción, si bien se produce de forma natural no es rapidísima, como cabría esperar de partículas afectadas por la fuerza electrofuerte. De hecho es bastante lenta, como ejemplo paradigmático la descomposición del neutrón en protón, que tiene una vida media de aproximadamente 20 minutos. Desde el modelo aquí presentado esto tiene una explicación natural.
+@DP
+Mientras la configuración en u de la epícima pesada existe como tal, ningún componente necesita un contrapeso externo: la superficie del líquido isotropo y la interfaz  mutua (C-A) está cubierta por el otro. La onda de interfaz, para poder liberarse, necesita de un neutrino eléctrónico que traslade su cdg más alla de la interfaz C-A. Esto sólo puede lograrse mediante la creación de un par @Math {upsilon sub {e} slash {{ upsilon} widebelow {minus}}  sub {e}}. El neutrino @Math {upsilon sub {e}} permite la liberación del electrón, la expansión de la U de la epícima pesada hasta @Math {xi sub {u}} convirtiendose en ligera y emitiendose un @Math {{{ upsilon} widebelow {minus}} sub {e}}.
+@DP
+@Math {n  arrowright p sup {+} + e sup {-} + {{ upsilon} widebelow {minus}} sub {e}}
+@DP
+La captura electrónica catalizada por antineutrinos electrónicos sería un ejemplo de la reacción opuesta.
+@DP
+Esta reacción inversa - la captura electrónica inducida por antineutrinos, @Math { {{ upsilon} widebelow {minus}} sub {e} + e sup {-} + p sup {+} arrowright n } - no es solo una predicción teórica del modelo sino un proceso estudiado experimentalmente. Oldeman, Meloni y Saitta (2010) demostraron que es un proceso resonante con sección eficaz potencialmente grande cuando el antineutrino es monocromático y su energía coincide exactamente con la diferencia de energía entre los estados inicial y final. El carácter resonante es coherente con el mecanismo del modelo: la reorganización geométrica de la epícima ligera en pesada solo es posible cuando la energía disponible satisface exactamente las condiciones de contorno del sustrato - de ahí que el proceso sea selectivo en energía y no ocurra con cualquier antineutrino.
+@DP
+Pero normalmente no existen disponibles antineutrinos con la energía adecuada para esta captura resonante. La Naturaleza resuelve esto creando el par neutrino-antineutrino internamente: el antineutrino actúa como catalizador y el neutrino escapa. Así se explica la captura electrónica ordinaria:
+@DP
+@Math {  e sup {-} + p sup {+} arrowright n + nu sub {e} }
+@DP
+Notese que la creación del par neutrino-antineutrino no viola ninguna ley de conservación - el número leptónico neto creado es cero - y la energía necesaria para la creación del par proviene de la diferencia de masas entre los productos iniciales y finales.
+@DP
+Este mecanismo de descomposición tiene como consecuencia la @I {Conservación del número leptónico}.
+@DP
+En efecto, se crean simultáneamente un neutrino electrónico (número leptónico +1) y un antineutrino electrónico (número leptónico -1), con número leptónico neto cero. En la reacción beta ordinaria el neutrino se 'consume' formando el electrón; el antineutrino escapa. La conservación del número leptónico se cumple en todo momento - no hay asimetría fundamental, solo asimetría funcional en el destino de cada leptón del par.
+@DP
+Además, esto genera una predicción falsable. La energía disponible para la desintegración beta debe incluir la energía de creación del par neutrino"/"antineutrino. Esto establece una relación cuantitativa entre la diferencia de masas neutrón-protón y las masas de los leptones involucrados:
+@DP
+@Math { (m sub {n} - m sub {p}) cdot c sup {2}  =  E sub {cinética (e sup {-})}  +  E sub {cinética {{ upsilon} widebelow {minus}} sub {e})}  +  2m sub { nu sub {e} }c sup 2}
+@DP
+El último término - la energía de creación del par - no aparece en la descripción estándar porque en ella el antineutrino se considera preformado. En el modelo, este término es explícito y cuantificable, lo que podría proporcionar una estimación independiente de la masa del neutrino electrónico.
+@DP
+La cuestión ahora es, ¿no podría ese mismo par inducir el cambio de un protón a un neutrón?, la respuesta es sí y no, porque necesita de la creación adicional de un par electrón "/" positrón.En efecto, la desintegración beta positiva:
+@DP
+@Math { p arrowright n + e sup {+} + nu sub {e}}
+@DP
+El mecanismo inverso requeriría:
+@DP
+Se crea un par @Math {e sup {+} slash e sup {-}} (la onda de interfaz en ambas direcciones).
+@DP
+Se crea simultáneamente un par @Math {upsilon sub {e} slash {{ upsilon} widebelow {minus}}  sub {e}}.
+@DP
+El @Math { {{ upsilon} widebelow {minus}}  sub {e}} cataliza la conversión de epícima ligera en pesada (el proceso inverso).
+@DP
+El @Math {nu sub {e}} y el @Math {e sup +} escapan libres, mientras que el @Math {e sup -} queda absorbido en la reorganización.
+@DP
+La conversión epícima ligera @Math {arrowright} pesada requiere energía porque la epícima pesada tiene mayor masa (m_p > m_l, diferencia @Math {similar 1.76 MeV}). En un protón libre no hay fuente de energía externa disponible - la reacción está energéticamente prohibida. Esto es coherente con el dato experimental: m_n > m_p (diferencia @Math {similar 1.293 MeV}), lo que hace que la beta positiva sea endotérmica para el protón libre.
+@DP
+Dentro de un núcleo, la energía de ligadura nuclear puede compensar la diferencia de masas. Si el protón está en un estado de mayor
+energía de ligadura que el neutrón resultante, la reacción puede ser exotérmica a nivel nuclear aunque sea endotérmica para el
+nucleón aislado. El modelo es coherente: la energía de reorganización del sustrato en el entorno nuclear proporciona lo que el protón
+libre no puede suministrar por sí solo.
+@DP
+Sin embargo, las necesidad de la creación prácticamente simultanea de dos pares electrón "/" positrón y neutrino "/" antineutrino hace que cuando ambas estén disponibles, prevalezca la captura electrónica sobre la beta positiva.
+@DP
+La reacción beta ordinaria, sin embargo siempre es exotérminca. La asimetría entre ambas reacciones refleja directamente la asimetría
+de masas entre epícimas: m_p > m_l hace que la dirección pesada -ligera sea siempre la favorecida energéticamente en condiciones de vacío.
+@DP Y la pregunta final, ¿ puede un neutrino externo realizar la misma función? Y la respuesta es nuevamente, sí. Es la captura de neutrinos:
+@DP
+@Math {nu sub {e} + n arrowright p + e sup {-}}
+@DP
+El @Math {nu sub {e}} entrante hace el papel del @Math {nu sub {e}} creado en el par neutrino "/" antineutrino   de la beta ordinaria - traslada el cdg de la onda de interfaz más allá de la interfaz C-A.
+@DP
+ No es necesario crear el par porque el @Math {nu sub {e}} ya viene de fuera.
+@DP
+El resultado es idéntico: conversión de epícima pesada en ligera  + liberación del electrón.
+@DP
+Esta reacción es la que detectan los experimentos de neutrinos solares (SNO, Super-Kamiokande): el neutrino solar captura un
+neutrón del deuterio y produce un protón y un electrón detectable. Es una verificación experimental directa del mecanismo de catálisis
+por neutrino electrónico que el modelo propone.
+@DP
+En resumen tenemos un cuadro desde el modelo es completamente simétrico:
+@DP
+@Math { pesada arrowright ligera} (exotérmica en vacío):
+@DP
+Beta ordinaria: @Math {n arrowright p sup {+} + e sup {-} + {{ upsilon} widebelow {minus}} sub {e}} (par creado, @Math {{ upsilon} widebelow {minus} sub e} escapa)
+@DP
+Captura de neutrino: @Math {nu sub {e} + n arrowright p + e sup {-}} (@Math { nu sub e} aportado externamente)
+@DP
+@Math {ligera rightarrow pesada }  (endotérmica en vacío, posible en núcleos):
+@DP
+Beta positiva: @Math {p  arrowright n + e sup {+} + nu sub {e}} (en núcleos con energía disponible)
+@DP
+Captura electrónica: @Math {  e sup {-} + p sup {+} arrowright n + nu sub {e} } (electrón capturado por protón)
+@DP
+Captura Oldeman:  @Math { {{ upsilon} widebelow {minus}} sub {e} + e sup {-} + p sup {+} arrowright n } (antineutrino + electrón colaboran)
+@DP
+En todos los casos, el mecanismo subyacente es el mismo: el neutrino electrónico actúa como agente geométrico que traslada el cdg de la
+onda de interfaz a través de la interfaz C-A, permitiendo la conversión entre epícimas pesadas y ligeras. La dirección de la
+reacción y los productos concretos dependen de si el catalizador se crea en la reacción (beta ordinaria), se aporta externamente
+(captura de neutrino, Oldeman), o la reacción ocurre en sentido inverso (beta positiva, captura electrónica).
+@DP
+
+@B {Reducción de número de estratos:}
+@DP
+Sin embargo, en la  descomposición del muón y del pión la liberación de un neutrino muonico extra refleja otro mecanismo -la reducción del número de estratos (capítulo 5).
+@DP
+En el caso del muón pasamos de una partícula bariónica de 3 estratos a 3 pulsaciones elementales independientes.
+@DP
+@Math {mu sup {-} arrowright e sup {-} + {{ upsilon} widebelow {minus}} sub {e}  + upsilon sub {mu}  }
+@DP
+En el caso de la descomposición del pión no hay conversión de epícima pesada a ligera, por lo que no es necesaria la creación del par neutrino-antineutrino electrónico, ya que el cambio es de estructura (4 estratos a 3 estratos), no de tipo de epícima - de ahí que solo intervenga el neutrino muónico, asociado a la creación-destrucción del estrato adicional.
+@DP
+@Math {pi sup {+} arrowright mu sup {+} +   upsilon sub {mu} }
+@DP
+
+La aparición del neutrino muónico en estas reacciones tiene una justificación geométrica: un estrato no puede desaparecer completamente sin dejar rastro  debe conservarse al menos su momento angular colectivo. El neutrino muónico es el portador de ese momento angular residual del estrato que se destruye. Esto explica por qué aparece exactamente un neutrino muónico por estrato destruido, no más ni menos.
+@DP
+Sin embargo, queda sin resolver por qué es específicamente el neutrino @I {muónico} el asociado a la creación y destrucción de estratos, y no el electrónico o el tauónico. Una pista posible: en las reacciones de partículas muy masivas se observa la aparición de neutrinos tauónicos en lugar de muónicos, lo que sugiere que el tipo de neutrino emitido podría estar relacionado con la escala de energía de la reorganización del sustrato - electrónico para conversiones de tipo de epícima (escala de MeV), muónico para destrucción de estratos ordinarios (escala de decenas a cientos de MeV), tauónico para reorganizaciones más profundas o masivas (escala de GeV). Esta hipótesis queda como problema abierto prioritario: su verificación cuantitativa requeriría identificar la escala de energía exacta que determina qué neutrino actúa como portador del momento angular en cada tipo de reorganización del sustrato.
+@DP
+El espín en el modelo refleja dos realidades simultaneamente:
+@DP
+@B {Momento angular bien definido (número cuántico j)}: cuando un estrato se descompone en pulsaciones individuales, el momento angular total del estrato debe repartirse entre los productos. La conservación no es un postulado - es la aplicación de las leyes físicas básicas.
+@DP
+@B {Orientación del eje elíptico (grado de libertad geométrico)}: el paso de un estrato (con su eje elíptico colectivo) a pulsaciones individuales (cada una con su propio eje) es una redistribución de la deformación elíptica del sustrato. El neutrino que cataliza la reacción no solo traslada el cdg geométricamente - también "reparte" la orientación del eje colectivo del estrato entre las pulsaciones que emergen, exactamente como las condiciones de contorno del sustrato lo permiten.
+@DP
+Ambas realidades son en realidad la misma cosa vista a dos escalas: el momento angular colectivo del estrato (escala hadrónica) y la orientación individual del eje elíptico de cada pulsación (escala de la pulsación individual). La conservación del momento angular en la reacción es la manifestación macroscópica de que el sustrato mantiene la coherencia de sus deformaciones elípticas a escala microscópica - sin postulados adicionales.
+@DP
+@B {Capturas con cambio de estructura bariónica:}
+@DP
+
+
+
+@End @SubSection
+
+@DP
+
+Pendiente
+
+
+Pareamiento de epícimas por rotaciones opuestas - suma coherente de deformaciones tipo Cooper.
+@DP
+El antineutrino como agente geométrico de reorganización hadrónica - captura electrónica  como verificación
+@DP
+El ángulo @Math {theta similar 45°} del esméctico C desde el parámetro de orden de Landau:
+@DP @Math {theta = arctan(surd (1 - m_e slash m_ep)) sin parámetros libres.}
+@DP
+Las partículas como agujeros de Kerr desnudos regularizados - la singularidad en anillo de Kerr como idealización continua de la interfaz C-fluido. La estructura de fases regulariza la singularidad sin eliminar la topología.
+@DP
+Nota especulativa sobre U(1)×U(1): el mecanismo físico de los dos tipos de streaming, la geometría del toro como origen de la invarianza gauge U(1) del electromagnetismo, extensión a las otras interacciones como problema abierto, fuera de las capacidades matemáticas del autor.
+
+
+@EndSubSections
+
+@End @Section

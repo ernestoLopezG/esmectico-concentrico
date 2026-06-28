@@ -1,0 +1,42 @@
+@SubSection 
+@Title { Topología elíptica de las dimensiones compactadas.}
+@Begin
+@PP
+La aproximación elíptica adoptada aquí recuerda superficialmente a las órbitas de Sommerfeld, pero difiere en su naturaleza: no describe una trayectoria sino la topología de las dimensiones compactadas. Su justificación es el ajuste al momento magnético anómalo del electrón, pero la geometría exacta de las dimensiones compactadas requiere una derivación más profunda desde los postulados del modelo
+
+@PP
+
+La forma más sencilla  de incrementar la inducción magnética manteniendo el perímetro recorrido consiste en deformar la trayectoria circular a una elipse. @LP
+
+@Figure 
+@Caption {  Trayectoria elíptica}
+@Location {TryAfterLine}
+{
+0.5 @Scale @IncludeGraphic "img/fig9.eps"
+}
+@LP
+En efecto, si observamos la expresión que permite calcular la inducción magnética en el centro de una espira de corriente elíptica tendremos:@DP
+ @Math {B sub {z} = mu sub {0} I {l} over {4S}} @DP   
+donde l = perímetro, S = superficie, I= Intensidad eléctrica.@LP
+Para estimar la longitud se ha utilizado la siguiente formula aproximada:@DP
+
+@Math {L ~  pi lpar 3(a+b)-sqrt{(3a+b)(a+3b)}   rpar}
+@DP
+
+Si elegimos una espira circular de radio unidad y la deformamos manteniendo el perímetro constante @B {basta con elegir una espira de semiejes a=1,10576 y b=0,8883 para incrementar la relación longitud-superficie y por tanto el campo de inducción magnética B por un factor de 1,018068}, lo que proporcionaría el valor correcto de relación masa-carga para el electrón.@LP
+Se ha estimado la longitud de la elipse obtenida anteriormente mediante la relación: @DP
+ 
+@Math {L= 4 a int sub{0} sup { pi / 2} sqrt{1-e sup {2}sin sup{2} theta } d theta}
+@DP 
+ 
+donde e representa la excentricidad de la la elipse. Se ha encontrado que el error cometido al utilizar la formula aproximada es de 3,42 10 @Sup {-6} por uno. @LP
+No obstante es posible seguir utilizando  la hipótesis circular en muchos casos simplemente manteniendo la constante  @Math { G hat = 1,01807176} , que ahora se considera un factor de forma.
+@DP
+
+Si utilizamos esta corrección veremos que ahora la expresión : @DP
+@Math { sqrt {s(s+1)} cdot {8 pi G }over {c sup {4}} slash 1,01807176 =  1,7664 cdot 10 sup {-43}},@DP
+es prácticamente igual al factor @Math { hbar over {2c} = 1,7598 cdot 10 sup {-43}}
+@DP con s= @Char {onehalf}.
+
+
+@End @SubSection

@@ -1,0 +1,39 @@
+@SubSection 
+@Title { La longitud de onda de D'Broglie.}
+@Begin
+@PP
+
+
+El siguiente razonamiento ha sido tomado de @Cite {$alcerro}. Puede consultar en el punto 2.3.3 la deducción de la longitud de onda de D'Broglie según la hipótesis aquí desarrollada. @LP
+La composición del movimiento circular en el plano de las dimensiones compactadas con cualquier desplazamiento en el resto de dimensiones conformaría trayectorias helicoidales @DP
+
+@Figure 
+@Caption { Trayectorias reales de las partículas en el espacio.}
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig4.eps"
+}
+@DP @CNP 
+La onda transversal asociada a una partícula material que se moviese hipotéticamente a la velocidad de la luz tendría una longitud de onda igual a  @Math {lambda sub {0}=  {h} over {m sub {0} cdot c} }.  
+@DP 
+
+@Figure 
+@Caption {  Triangulo de velocidades.}
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig5.eps"
+}
+
+
+
+Sin embargo, para un observador tetradimensional que estudiase este fenómeno le parecería que a la partícula material tiene asociada una onda de longitud de onda {@Sym lambda} aparente igual a la proyección sobre las dimensiones no compactadas. 
+
+De la figura: @Math {cos alpha  = v over c} y @Math { cos alpha= {lambda sub {0}} over {lambda  sub {apa}}= {h over {m sub {0} cdot c}} over {lambda sub {apa}}} , luego @Math {{v} over {c}= {h over {m sub {0} cdot c}} over {lambda sub {apa}}} y finalmente: @DP
+
+@Math { lambda sub {apa} = h over {m sub {0} cdot v}}
+
+@DP
+
+Como la longitud de onda aparente es una dimensión en la dirección del movimiento aparecerá contraído por el efecto relativista @Math {  lambda sub {apa} = h over {m sub {0} cdot v} cdot sqrt{1-(v over {c})sup {2}}}  , que coincide con la longitud de onda de D'Broglie para las partículas materiales.
+
+@End @SubSection

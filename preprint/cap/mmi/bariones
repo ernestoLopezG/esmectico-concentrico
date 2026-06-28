@@ -1,0 +1,78 @@
+@Section
+@Title {Ajuste de las masas de las epícimas}
+@Begin
+@DP
+Podemos intentar asignar una estructura tentativa para las partículas cuyas masas y momentos magnéticos sean bien conocidos, es decir, los bariones relativamente más estables. Se ha establecido como criterio un error máximo del 3% en las estimaciones de masas y momentos. Como excepción en el neutrón se ha primado la masa sobre el momento debido a que con esa configuración presenta el mismo tamaño que el protón, lo que resulta imprescindible para la estimación correcta de la fuerza nuclear fuerte residual. Los resultados se muestran a continuación,
+@Figure @Caption { Propuestas para los bariones } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/fig88.eps"} 
+@DP
+Podemos destacar las siguientes características:
+@DP
+@BulletList
+@ListItem {Las partículas con un número par de epícimas en la onda mayor son neutras eléctricamente, mientras que las que presentan un número impar tienen carga eléctrica}
+@ListItem {Aparentemente la estabilidad no está relacionada con una proporción determinada de epícimas pesadas o ligeras, sino que más bien los bariones estables se concentran alrededor de determinados valores de masa}
+@ListItem {Es posible obtener los primeros valores de @I {masa estable} con una simple serie geométrica de base el protón y constante 1,08810049708318.
+@DP
+@Figure @Caption { Valores de masa estables } @Location {TryAfterLine} { @IncludeGraphic "img/fig89.eps"} }
+
+@ListItem {Existe una relación clara entre el error másico (en porcentaje) y el tanto por uno de epícimas pesadas.}
+@EndList
+@DP
+
+@Figure @Caption { % error másico vs proporción de epícimas pesadas } @Location {TryAfterLine} { @IncludeGraphic "img/fig90.eps"} 
+@DP
+El gráfico anterior sugiere que la masa de la epícima pesada puede ser mayor que la estimada anteriormente. Para sondear esta idea se ha vuelto a ajustar la masa de las dos epícimas utilizando solo los bariones con momento magnético conocido y descartando el neutrón y la partícula @Math {Xi sub 0} debido a que no se encuentran en la secuencia principal. También se ha descartado el muón porque su escasa masa impide que pueda utilizarse la aproximación habitual para estimar su masa, como veremos más adelante.
+@DP
+Las nuevas estimaciones de masa y las nuevas cargas electrofuertes han sido:
+@DashList
+@ListItem {Epícima ligera: 11,5870 MeV @Sym {arrowright} 1,665 10 @Sup {-18} C }
+@ListItem { Epícima pesada: 13,4098 MeV @Sym {arrowright} 1,857 10 @Sup {-18} C }
+@EndList
+@DP
+Sorprendentemente la carga electrofuerte de la epícima pesada es prácticamente igual a la carga de Planck (1,8755 10 @Sup {-18} C)
+@DP
+Con estas nuevas masas ( que podemos seguir llamando de Palazzi igualmente) se ha ajustado la composición de epícimas del neutrón y de la partícula @Math {Xi sub 0} resultando:
+@DP
+
+ @Figure @Caption { Nueva propuesta para los bariones } @Location {TryAfterLine} {@Scale  @IncludeGraphic "img/fig91.eps"} 
+@DP
+Es de observar que ahora la única partícula que presenta un número par de epícimas en la primetra onda es el barión lambda. La estimación de la masa del muón es con diferencia la peor, pero dado que se trata de una partícula muy ligera, es muy posible que la aproximación utilizada para la energía de enlace @Math {E sub {enlace}=1,7072 mc sup 2} no sea adecuada. En efecto suponiendo una carga electrofuerte media de las ondas externas de @Math {1,5 cdot 1,863 cdot 10 sup {-18} C } nos queda:
+@DP
+@Math { alpha ' = {3 cdot 1,5 cdot (1,863 10 sup {-18}) sup {2} } over { 4 pi epsilon sub {0} hbar c} = 4,4247 } 
+  
+@DP
+lo que proporciona un valor de l'=3,952 y por tanto @Math {E sub {enlace}=1,6666 mc sup 2}
+@DP
+Para el neutrón y el protón la energía de enlace sería de @Math {1,70679 mc sup 2 y 1,70684 mc sup 2 }, por lo que la aproximación utilizada es correcta. Solo tenemos que corregir por tanto la estimación del muón:
+@DP
+@Figure @Caption {  Nueva propuesta para los bariones } @Location {TryAfterLine} {@Scale  @IncludeGraphic "img/fig93.eps"}  
+@DP
+Es destacable que las estimaciones de masa tienen un error medio de 0,22 %, las estimaciones de los momentos magnéticos son casi siempre por defecto y tienen un error medio de aproximadamente el 6%. Estos errores además están fuertemente relacionados con el porcentaje de epícimas ligeras-pesadas, con un R @Sup {2} = 0,59, lo que sugeriría un error sistemático debido probablemente a una deficiente estimación del momento total más bien que a un defecto de la hipótesis propuesta.
+@DP
+@Figure @Caption {  % error m. magnético vs proporción de epícimas pesadas } @Location {TryAfterLine} {@Scale  @IncludeGraphic "img/fig92.eps"}  
+@DP
+Por simple tanteo se ha descubierto en los bariones que si asignamos las masas de cada onda proporcionalmente a su número de epícimas se puede conseguir una estimación del momento magnético correcta. Por ejemplo, en el caso del muón con una masa experimental de 105,658 MeV tendremos una estructura teórica de:
+@DP
+Onda 1:		3 epícimas, 2 cargadas. 
+@DP
+@Math {m sub {1} = 105,658 cdot {3} over {3+2+1} = 52,829 MeV rightarrow mu sub {1}= {-2 cdot 1,602 cdot 10 sup {-19} cdot hbar} over { 2 cdot 52,829 cdot 1,78 cdot 10 sup {-30}} = -1,7968 cdot 10 sup {-25}}  
+@DP
+Onda 2:		2 epícimas, 1 cargada.
+@DP
+@Math {m sub {1} = 105,658 cdot {2} over {3+2+1} = 35,2193 MeV rightarrow mu sub {1}= {-1 cdot 1,602 cdot 10 sup {-19} cdot hbar} over { 2 cdot 35,2193 cdot 1,78 cdot 10 sup {-30}} = 1,34758 cdot 10 sup {-25}} 
+@DP
+Onda 3:		1 epícima sin carga. @Math {mu sub {3} = 0}
+@DP
+Luego @Math { mu = mu sub {1} + mu sub {2} + mu sub {3}= -1,7968 cdot 10 sup {-25}+1,34758 cdot 10 sup {-25}+0= -4,4992 cdot 10 sup {-26}}
+@DP
+Por lo que el error disminuye desde el 4,18% hasta el 0,03%.
+@DP
+Aplicando el nuevo método para estimar el momento magnético y reajustando el porcentaje de epícimas cargadas-neutras en los bariones @Math {Xi sub {0}, Xi sup {-} y Sigma sup {+}} los errores disminuyen apreciablemente hasta una media de 0,43% en la estimación de las masas y un 1,14% en los momentos magnéticos:
+@DP
+@Figure @Caption {  Propuesta definitiva para los bariones } @Location {TryAfterLine} {@Scale  @IncludeGraphic "img/fig97.eps"}
+@DP
+La bondad de la aproximación se resalta si representamos el error en la medida experimental de los momentos frente a los errores teóricos obtenidos con la estimación utilizada en este trabajo, donde puede observarse una alta correlación.
+@DP
+@Figure @Caption {  Relación entre los errores teóricos y experimentales } @Location {TryAfterLine} {@Scale  @IncludeGraphic "img/fig98.eps"}
+@DP 
+
+@End @Section

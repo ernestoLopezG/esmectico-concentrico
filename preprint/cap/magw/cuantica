@@ -1,0 +1,161 @@
+@Section
+	@Title { Discusión. Significado físico de la mecánica cuántica}
+	@Begin
+	@BeginSubSections
+		
+		@SubSection 
+			@Title {  Concepto de partícula. Origen de la inercia.}
+			@Begin
+			@PP
+			Es notable observar que la solución de la ecuación de onda gravitomagnética para una pulsación libre aparenta ser una partícula frontalmente, ya que aparece como una fuente de campo gravitatorio y eléctrico, pero visto transversalmente justifica plenamente su comportamiento ondulatorio. ( hipótesis de D'Broglie). 
+De esta forma, si consideramos a las partículas elementales como pulsaciones gravitomagnéticas podemos explicar: @DP
+@DashList
+	@ListItem {El experimento de la doble rendija, en el que cada electrón efectivamente interfiere consigo mismo.}
+	@ListItem {El efecto Aharonov-Bohm, en el cual un electrón se ve influido por un campo magnético confinado en un solenoide tiene explicación simplemente considerando que parte de la pulsación que representa el electrón atraviesa el solenoide, quedando por tanto afectado. }
+	@ListItem {El que se considere al electrón como un objeto sin dimensión ( puntual), sin ninguna estructura interna.}
+@EndList 
+Por otro lado, esto conlleva a la @I {ausencia de la acción a distancia}. El campo de fuerza de las partículas se percibe porque efectivamente estamos atravesando las pulsaciones que conforman las partículas.@LP
+Para  determinar el origen de la inercia resulta muy interesante observar la propagación de las ondas electromagnéticas en una guía de ondas como las que se utilizan para transmitir señales electromagnéticas. Las ondas cuya frecuencia es inferior a una frecuencia mínima, denominada de corte, no se transmiten, mientras que las de frecuencia superior se transmiten a una velocidad mayor cuanto más alta es su frecuencia, es decir, las pulsaciones más energéticas presentan una velocidad de grupo mayor.@LP
+El modo de propagación de una onda cuya frecuencia sea w en una guía de onda con una frecuencia de corte w0  viene dada por la siguiente relación: @DP
+
+@Math {beta = 1 over c sqrt{ omega sup {2} - omega sup {2} sub {0}} }  
+@DP 
+La velocidad con la que efectivamente se transmiten la información y la energía dentro de una guía de onda viene representada por la velocidad de grupo, que se define como la derivada de la frecuencia con respecto al modo de propagación dw @Sym slash dk. @LP
+Derivando la expresión anterior con respecto a w tenemos: @DP
+@Math {{d beta} over {d omega} = omega over{ c sqrt{ omega sup {2} - omega sup {2} sub {0}}}}
+@DP
+así que la velocidad de grupo de una onda de frecuencia @Sym {omega} en una guía de onda con una frecuencia de corte @Math {omega sub 0} es: 
+ @Math {v sub {g}= {d omega } over {d beta} = { c sqrt{ omega sup {2} - omega sup {2} sub {0}}} over {omega} = c sqrt {1 - blpar { omega sub {0} } over { omega}  brpar sup {2}  } } @DP
+y reordenando tenemos: @DP
+@Math {blpar v sub {g} over {c} brpar sup {2} =   1 - blpar { omega sub {0} } over { omega}  brpar sup {2} } {@Sym arrowright} @Math {{omega sub {0} } over {omega} =  sqrt {1 - blpar { v sub {g} } over { c}  brpar sup {2}  } } {@Sym arrowright} @Math {{omega  } over {omega sub {0}} = 1 over  {sqrt {1 - blpar { v sub {g} } over { c}  brpar sup {2}  } }  } y por tanto:@DP
+@Math {{omega  }  = {omega sub {0}} over  {sqrt {1 - blpar { v sub {g} } over { c}  brpar sup {2}  } }} @DP
+Si multiplicamos por la constante de Planck h tenemos: @DP
+@Math {{omega h }  = { omega sub {0} h} over  {sqrt {1 - blpar { v sub {g} } over { c}  brpar sup {2}  } } } @DP
+y recordando que la energía de una onda viene dada por la expresión @Math {E = h omega} nos queda: @DP
+ @Math {{E }  = { E sub {0} } over  {sqrt {1 - blpar { v sub {g} } over { c}  brpar sup {2}  } } }
+@DP
+Es decir, de una manera bastante sorprendente una onda electromagnética adquiere las mismas propiedades que una partícula material cuando es guiada por una estructura metálica o por otras condiciones de contorno, como es el caso de la fibra de vidrio. @I {Este es el origen de la masa inercial.} @LP
+Además las ondas estacionarias pueden interaccionar entre ellas mediante tres mecanismos, la alteración del índice de refracción aparente (dilatación del tiempo), la contracción del espacio  (curvatura del espacio) y el arrastre del medio de propagación (arrastre de marco).
+@DP
+Las pulsaciones gravitomagnéticas presentan por tanto masa inercial, interacción gravitatoria, eléctrica, fuerte y neutrínica, y se desplazan según la relatividad especial. Este resultado tiene una consecuencia filosófica profunda: la dualidad onda-partícula no es una propiedad misteriosa de la materia cuántica sino una consecuencia directa de la geometría del modelo. Vista frontalmente - en la dirección de propagación en las dimensiones extendidas - una pulsación aparece como una fuente puntual de campo gravitatorio y eléctrico, exactamente como una partícula clásica. Vista transversalmente, su naturaleza ondulatoria es evidente. No hay dualidad - hay una única realidad física que adopta apariencias distintas según la dirección de observación.@I {Debe abandonarse por tanto la concepción dual de la materia: las partículas elementales son pulsaciones gravitomagnéticas, y su comportamiento aparentemente dual es simplemente una consecuencia de observarlas desde distintas perspectivas geométricas}.
+@DP
+Este resultado tiene además una consecuencia cuantitativa notable: toda la física de una pulsación gravitomagnética - su masa inercial, su masa gravitatoria, sus cargas eléctricas, electrofuertes y neutrínicas - emerge de un único parámetro, la frecuencia de corte @Math {omega sub {0}}. La masa inercial es @Math { hbar omega sub {0} slash c sup {2}} , determinada por la guía de ondas. La masa gravitatoria es la misma cantidad, porque la modificación del índice de refracción que genera la gravedad - debida a la energía negativa de la onda estacionaria en las dimensiones compactadas - depende de la misma frecuencia de corte. La igualdad entre masa inercial y masa gravitatoria no es un postulado - es una consecuencia de que ambas son el mismo parámetro geométrico de la pulsación. El streaming gravitomagnético - origen de las interacciones eléctrica, electrofuerte y neutrínica - depende igualmente de  @Math {omega sub {0}} a través del tensor de Lighthill gravitomagnético. La carga eléctrica escala como  @Math {omega sub {0} sup {0.75}}, no como  @Math {omega sub {0}}, lo que explica la ley @Math {q slash m sup {0.75} = constante}: carga y masa son potencias distintas de la misma frecuencia de corte.
+
+
+
+
+		@End @SubSection
+		
+		@SubSection 
+			@Title {  Ecuación de Klein-Gordon. }
+			@Begin
+			@PP
+			Si partimos de la ecuación de onda gravitomagnética en 6D tenemos: @DP
+
+@Math {( nabla sub {6D} sup {2} + k sup {2}) cdot H = 0} @DP
+
+@DP
+Como se estableció en la sección 2.1.4, el número de onda de corte kc es imaginario para las soluciones confinadas en las dimensiones compactadas - consecuencia de que q debe ser negativo para garantizar soluciones no periódicas. Este carácter imaginario es el que aparece aquí de forma natural.
+@DP
+
+Como @Math {k sup {2} = blpar {m sub {0}c} over {hbar} i brpar sup {2} + beta sup {2}}podemos escribir: {@Sym arrowright} 
+
+@Math {blbrack nabla sup {2} sub {6D} +   blpar {m sub {0}c} over {hbar} i brpar sup {2} + beta sup {2} brbrack cdot H = 0} (a) @DP
+
+La velocidad de grupo se define como: @Math {v sub {g} = {c sup {2} beta} over {2 pi f sub {0}}} {@Sym arrowright} @Math { beta  = {v sub {g} cdot  2 pi f sub {0}} over { c sup {2}}}
+@DP
+Si tenemos en cuenta que @Math {omega= 2 pi f sub {0}} podemos escribir:@DP
+@Math { beta  = {v sub {g} cdot  omega} over { c sup {2}} = blpar  v sub {g} over {c} brpar cdot blpar omega over {c} brpar}
+@DP
+
+Considerando que  @Math {k = omega over c} y sustituyendo en (a) @DP
+
+@Math {blpar omega over {c} brpar sup {2}=  blpar {m sub {0}c} over {hbar} i brpar sup {2} + blpar  v sub {g} over {c} brpar sup {2} cdot blpar omega over {c} brpar sup {2} } {@Sym arrowright} @Math {blpar omega over {c} brpar sup {2}  blbrack 1- blpar  v sub {g} over {c} brpar sup {2} brbrack       =  blpar {m sub {0}c} over {hbar} i brpar sup {2}}, como @Math {v sub {g} over {c} = epsilon} @DP tenemos @DP
+
+@Math {blpar omega over {c} brpar sup {2}  blbrack 1- epsilon sup {2} brbrack       =  blpar {m sub {0}c} over {hbar} i brpar sup {2}} 
+@DP
+y recordando que hemos postulado que k era imaginario tenemos :
+@DP
+@Math {k= {m sub {0}c} over {hbar} cdot {1 over {sqrt{1 - epsilon sup {2} } }} cdot i}
+@DP
+, si tenemos en cuenta que 
+@DP
+@Math {m= {m sub {0}} over {sqrt{1 - epsilon sup {2} } }}
+@DP
+
+y sustituimos en la ecuación de onda tendríamos entonces:
+@DP
+@Box { @Math {blpar nabla sub {6D} sup {2} + blpar    {m c} over {hbar} i brpar sup {2} brpar cdot H = 0} }
+@DP
+
+Similar a la ecuación de Klein-Gordon independiente del tiempo. Esta ecuación debe resolverse para seis dimensiones, no para cuatro, por eso esta ecuación fracasó cuando se aplicó al átomo de hidrógeno.
+
+@DP
+Si  multiplicamos y dividimos por c nos queda: 
+@DP
+@CurveBox @Math {k= 1 over {hbar c} cdot {{m sub {0}c sup {2}} over {sqrt{1 - epsilon sup {2} } }} cdot i = {Energía sub {onda}} over {hbar c} cdot i}
+@DP
+Esta ultima relación nos va a permitir resolver la ecuación de onda de las partículas elementales cuando están sometidos a un campo de fuerzas. 
+
+@End @SubSection
+		
+@SubSection 
+@Title {  Longitud de onda de D'Broglie.}
+@Begin
+			
+@DP 
+Por otro lado si volvemos a la ecuación:
+@DP
+@Math {k= {m sub {0}c} over {hbar} cdot {1 over {sqrt{1 - epsilon sup {2} } }} cdot i}
+@DP
+ y teniendo en cuenta que 
+@DP
+@Math {k sup {2} = blpar {m sub {0}c} over {hbar} i brpar sup {2} + beta sup {2}}
+@DP
+Podemos escribir 
+@DP
+@Math { blpar   {m sub {0}c} over {hbar} i brpar sup {2} cdot {1 over {{1 - epsilon sup {2} } }} = blpar {m sub {0}c} over {hbar} i brpar sup {2} + beta sup {2}}
+@DP y @DP
+@Math { blpar   {m sub {0}c} over {hbar} i brpar sup {2} cdot blbrack  blpar    {1 over {{1 - epsilon sup {2} } }} brpar-1 brbrack =   beta sup {2} }
+@DP
+ Por tanto 
+@DP 
+@Math {  beta sup {2} = blpar   {m sub {0}c} over {hbar} i brpar sup {2} cdot blbrack      {{1-1+ epsilon sup {2}} over {{1 - epsilon sup {2} } }}  brbrack = blpar   {m sub {0}c} over {hbar} i brpar sup {2} cdot blbrack      {{ epsilon sup {2}} over {{1 - epsilon sup {2} } }}  brpar}
+@DP
+Luego:
+
+@DP @Math { beta   =   {m sub {0}c} over {hbar}  cdot blbrack  {{ epsilon} over {sqrt{1 - epsilon sup {2} } }}  brbrack i}
+ y como @Math {v sub {g} over {c} = epsilon} nos queda finalmente:
+@DP
+@Math {beta   =   {m sub {0}v sub {g}} over {hbar}  cdot blpar      {{ 1} over {sqrt{1 - epsilon sup {2} } }}  brpar i}
+@DP
+La longitud de onda asociada al modo de propagación será:
+@DP
+@Math {beta = pi over lambda rightarrow rightarrow lambda = pi over beta =   {pi hbar cdot sqrt{1 - epsilon sup {2} } } over {m sub {0}v sub {g}}    i =  {pi h cdot sqrt{1 - epsilon sup {2} } } over {2 pi m sub {0}v sub {g}}    i}
+@DP
+Finalmente tendremos:
+@DP
+ @CurveBox {@Math {lambda =   { h cdot sqrt{1 - epsilon sup {2} } } over {2  m sub {0}v sub {g}}    i}}
+@DP
+lo que representa una semilongitud de onda de D'Broglie, resultado esperado en base a la diferente definición de número de onda.
+
+
+		
+		@End @SubSection
+		
+	@EndSubSections
+	@End @Section
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ 

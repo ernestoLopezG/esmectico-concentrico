@@ -1,0 +1,38 @@
+@Section 
+@Title { Método alternativo para estimar el momento magnético intrínseco. }
+@Begin
+@DP
+Dado que ya tenemos una expresión para la densidad de carga de los hadrones es posible desarrollar un método más preciso para la estimación del momento magnético. El momento magnético intrínseco de una epícima cargado será:
+@DP 
+@Math {mu sub {h}= q over {m} cdot {{hbar} over {2}}= {-1,6026 10 sup {-19}} over {1,78 10 sup {-30} cdot 2,8536 cdot 12.91}  {1,05457 10 sup {-34}}over {2} = 1,288 10 sup {-25}}
+@DP 
+al que llamaremos magnetón hadrónico. Analicemos la expresión del momento magnético intrínseco.
+@DP 
+@Math {mu = q over {m} L } Como @Math {L  propto (r,m) entonces  mu propto (r,q)}
+@DP
+Entonces podemos proponer como expresión del momento magnético de un hadrón
+@DP 
+@Math {mu = mu sub {h} cdot int r Psi   dr} 
+@DP 
+Veamos algunos ejemplos, 
+@DP 
+Muón.
+@DP
+0.8 @Scale @Math {mu = mu sub {h} cdot int r Psi   dr = 1,288 10 sup {-25} int from {0} to {infinity} r cdot blpar -2 {1} over {2,799} e sup {-2r over {2,799}} + 1 {1} over {4,2318} e sup {-2r over {4,2318}} brpar dr = 
+1,288 10 sup {-25} cdot 0,3415 = -4,4007 10 sup {-26}}, por lo que el error aumenta hasta el 1,76%.
+@DP 
+Protón
+@DP 
+0.8 @Scale @Math {mu = mu sub {h} cdot int r Psi   dr = 1,288 10 sup {-25} int from {0} to {infinity} r cdot blpar -9 {1} over {0,3152} e sup {-{2r} over {0,3152}} + 10 {1} over {3,275} e sup {-{2r} over {0,3275}} brpar dr = 1,288 10 sup {-25} cdot 0,10954 = 1,41157 10 sup {-26}}, por lo que el error disminuye hasta el 0,63%.
+@DP 
+Neutrón
+@DP 
+0.8 @Scale @Math {mu = mu sub {h} cdot int r Psi  dr = 1,288 10 sup {-25} int from {0} to {infinity } r cdot blpar -21 {1} over {0,31515}  e sup {-{2r} over {0,31515}} + 21 {1} over {0,3275} e sup {-{2r} over {0,3275}} brpar dr = 1,288 10 sup {-25} cdot 0.064312 = 8,3552 10 sup {-27}}, por lo que el error disminuye hasta el 13,5%.
+
+
+
+
+@End @Section
+
+
+

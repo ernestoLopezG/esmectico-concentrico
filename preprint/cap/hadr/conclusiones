@@ -1,0 +1,25 @@
+@Section
+@Title {Conclusiones}
+@Begin
+@DP
+Aparentemente las partículas son mucho menos rígidas de lo que hasta ahora se había considerado, resultando deformadas en el proceso de difusión mediante cuatro mecanismos: 
+@DP 
+@DashList 
+ @ListItem {Ligera deformación.}
+ @ListItem {Deformación relativista desde esferas a discos planos ( pasando de esta forma de una transformada de Fourier en 3D a una transformada de Fourier en 2D)}
+ @ListItem {Compresión siguiendo una serie geométrica de factor 2.}
+ @ListItem {Modificación de la estructura interna de epícimas.}
+@EndList 
+@DP
+Estos mecanismos no dependen solo de la energía intercambiada, sino también de la energía de las partículas incidentes, así como de si la partícula a estudiar es la incidente o forma parte de un blanco estacionario respecto al marco de referencia del laboratorio.
+@DP 
+ 
+Se han aplicado estos conceptos con éxito a los factores de forma del protón, neutrón, pión y muón, en choques elásticos e inelásticos, resultando los casos más complejos aquellos en los que las partículas a estudiar se encuentran estacionarias y se deforman más o menos en función del retroceso experimentado. Igualmente se puede inferir que existe un rango de energías en los cuales es posible extraer más información para cada partícula, resultando un error incrementar sin más la energía de los choques, puesto que en este caso cualquier partícula aparecerá puntual a partir de determinadas energías. Se infiere por tanto la inexistencia de los quarks.
+@DP 
+Se ha mostrado también que al obtener de la densidad transversal como una transformada de Fourier en dos dimensiones del factor de forma de Dirac F @Sub {1 } la coincidencia con las densidades teóricas es muy grande, ya que minimiza los errores debido a la deformación de las partículas y a los efectos relativistas.
+@DP 
+Finalmente y utilizando estos postulados se consigue explicar porque la fuerza nuclear fuerte residual presenta @B {potenciales aparentes} cercanos a 100 MeV en experimentos de difusión mientras que la máxima energía experimental de enlace de los nucleones es de aproximadamente 8,8 MeV.
+@DP 
+ 
+
+@End @Section

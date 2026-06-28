@@ -1,0 +1,67 @@
+@SubSection 
+@Title { La fórmula relativista de la energía.}
+@Begin
+@PP
+
+La fórmula relativista de la energía de un cuerpo en movimiento es:
+@PP
+@Math {E sup {2} =  ( m sub {0} c sup {2}  ) sup {2} +  ( p c   ) sup {2}}
+donde: 
+@BulletList
+@ListItem { E =Energía de un cuerpo en movimiento  }
+@ListItem { m @Sub o = masa en reposo del cuerpo }
+@ListItem{c= velocidad de la luz }
+@ListItem{p= momento lineal del cuerpo, igual al producto de la masa por la velocidad.}
+@EndList
+
+
+@PP 
+Si escribimos la energía en función de las componentes de la velocidad Vx,Vy y Vz tendremos: 
+@PP
+@Math {E sup {2} = (m sub{0} cdot c cdot c) sup {2}+ (m sub{0} cdot c cdot V sub {x}) sup {2}+(m sub{0} cdot c cdot V sub {y}) sup {2}+(m sub{0} cdot c cdot V sub {z}) sup {2}}
+@PP
+ecuación que sugiere que todos los cuerpos se mueven a la velocidad de la luz en una dirección perpendicular a Vx, Vy y Vz. 
+
+Desde este punto de vista el término m @Sub{o}c @Sup 2 se puede identificar con la energía debida a un movimiento en el plano de las dimensiones adicionales.Este movimiento a la velocidad de la luz de las partículas elementales sería en la dirección {@Sym tau}. 
+@PP
+
+@Figure 
+@Caption { Sistema de coordenadas compactadas. }
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig3.eps"
+}
+@PP
+Ahora bien, debido a la topología circular de la dimensión adicional dicho movimiento visto perpendicularmente desde las otras dimensiones expandidas debería percibirse como una vibración. 
+@PP
+Considerando la modificación propuesta en 1913 por Albert Einstein y Otto Stern de la formula deducida en 1900 por Max Plank para un radiador de energía aislada tenemos:@PP @PP
+@Math {E= {h cdot upsilon}  over { e sup {{h cdot upsilon}over {K cdot T}} -1 }+ {h cdot upsilon}over 2}
+@PP @PP
+donde:@PP
+h= constante de Planck , K= constante de Boltzman ,@PP {@Sym upsilon}= frecuencia T= temperatura absoluta @PP
+se puede observar que incluso a la temperatura del cero absoluto cualquier partícula posee una energía residual de vibración igual a: 
+@PP
+@Math {E sub {r} = h cdot upsilon over 2}
+@PP
+Que es igual a la energía residual de vibración de un oscilador cuántico
+@PP
+Podemos igualar las 2 energías @Math {E = m sub {0} c sup {2}} y @Math {E sub {r} = h cdot upsilon over 2}. Resultando entonces:@PP
+@Math{ m sub {0} c sup {2} = h cdot upsilon over 2} y por tanto @Math {upsilon = { 2 cdot m sub {0} c sup {2} } over h}. @PP
+Ligando la masa de las partículas elementales a una frecuencia,  que sorprendentemente, coincide con el "Zitterbewegung". @Cite {$zitterbewegung}
+@PP
+Si la trayectoria fuese circular y suponiendo que todas las partículas viajan a la velocidad de la luz se puede deducir el radio de dicho movimiento circular: @PP 
+ @Math {upsilon = c over {2 pi xi sub {0} }} y @Math { upsilon = {2m sub {0}c sup {2} }over {h}}, por tanto: @PP @PP
+
+@Math {xi sub {0} = h over {4 pi m sub {0}c} =  {hbar} over {2 m sub {0}c}} 
+@PP
+Para el caso del electrón tendríamos
+@PP @PP
+@Box @Math {xi sub {e} = hbar  over {2 m sub {e}c} = 1,93079616 cdot 10 sup {-13} m} @PP @PP	 
+donde @Math {hbar} representa la constante reducida de Planck y {@Sym xi} el radio de la trayectoria circular a través de las dos dimensiones compactadas. El perímetro sería: @PP @PP
+
+@Math {p sub {e}= h over {2 m sub {0} c}}
+@PP @PP
+ lo que representa una semilongitud de onda de D'Broglie para una partícula de masa m que se desplazase hipotéticamente a la velocidad de la luz. 
+
+
+@End @SubSection

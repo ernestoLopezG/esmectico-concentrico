@@ -1,0 +1,97 @@
+@Section
+@Title { Factor de forma del kaón}
+@Begin
+@DP 
+@B { Estructura interna teórica.}
+@DP
+De acuerdo al sistema multilineal de masas de Palazzi @Cite {$palazzi} se propone la siguiente estructura teórica para el kaón
+@DP
+ 
+@CentredDisplay 
+@Tbl
+rule { yes }
+
+aformat { @Cell paint { black } A  | @Cell B | @Cell C | @Cell D}
+bformat { @Cell A | @Cell B | @Cell C | @Cell D}
+{
+
+@Rowa
+A { white @Color KAÓN  }
+B { Carga electrofuerte}
+C { Carga eléctrica}
+D { Radio de Bohr }
+
+@Rowb
+A { Onda 0 }
+B { +14 }
+C { +7}
+D { 0,5896  fm}
+
+@Rowb
+A {Onda 1 }
+B { -14}
+C { -6}
+D {0,5896 fm}
+
+
+}
+@DP
+ 
+ 
+ @B {Densidad de carga teórica.}
+ @DP 
+ La densidad de carga eléctrica será entonces igual a :
+ @DP
+ @Math {rho (r) = 1 over {pi}   blpar 1 over { 0,5896 } brpar sup {3}  e sup {-{2r} slash  {0,5896 }   }  }
+ @DP 
+  que podemos representar 
+ @DP 
+  @Figure @Caption { Densidad de carga teórica del kaón. } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/fig64.eps"} 
+ 
+ @DP 
+ @B { Datos experimentales }
+ @DP
+En los años 80 se realizaron una serie de mediciones @Cite {$amendolia} y @Cite {$dally} con kaones altamente energéticos ( 250 GeV) a valores muy bajos de q².
+ @DP
+   @Figure @Caption { Factor de forma a bajo q @Sup {2} } @Location {TryAfterLine} {2.3 @Scale @IncludeGraphic "img/fig65.eps"} 
+  @DP 
+ Resultando que los datos podían aproximarse a un monopolo de la forma 
+ @DP
+ @Math {G sup {2} sub {EK} =blpar 1- {q sup 2} over {6 cdot 0.34}  brpar sup {-2}} 
+ @DP 
+ Posteriormente, en 2015 se publican datos a mayor q² @Cite {$ghah}, que no concuerdan con la parametrización obtenida de los datos a bajo q².
+ 
+  @DP
+   @Figure @Caption { Factor de forma a q @Sup {2} más elevados } @Location {TryAfterLine} {2.3 @Scale @IncludeGraphic "img/fig66.eps"} 
+  @DP 
+ @B {Limite a la deformación de los kaones}
+ @DP
+  Dado que en los trabajos experimentales los kaones son altamente energéticos deben utilizarse todas las correcciones analizadas en este trabajo, deformación elástica, deformación completa de Lorentz y disminución del radio de Bohr. Recordemos que la máxima deformación elástica posible en los mesones era:
+  @DP
+   @Math { a dot sub {0}   congruent   a sub {0 } cdot { sqrt { 1 - 0,5 sup {2}  }} = 0,866 a sub { 0} }
+  @DP
+  Para determinar el grado máximo de deformación alcanzable por el kaón se ha representado la vida media de los mesones con carga electrica frente a su masa. En el mismo gráfico se han representado las masas del kaón excitado al disminuir el radio de Bohr en potencias de 2 como lineas verticales y el límite de vida 
+ media de 10 @Sup {-20} s como límite arbitrario de detectabilidad.
+  @DP
+  @Figure @Caption { Vida media de los mesones vs Múltiplos de masa del Kaón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/fig67.eps"} 
+  @DP 
+  Puede observarse que entre a  y @Math {a slash 2} se encuentra una zona de alta inestabilidad, sin embargo,
+las altísimas energías del haz de kaones deben proporcionar una ingente cantidad de kaones ultradeformados, y aunque es de esperar que los kaones que se deformen más que @Math {a slash 4} tengan muy pocas probabilidades de alcanzar los detectores es posible que contribuyan al factor de forma.
+ @DP
+  @B {Factor de forma teórico. }
+ @DP
+  Actuando de forma análoga el factor de forma supuesta una deformación de Lorenzt completa será:
+@DP  
+@Scale @Math {G sub {E} (q²)=sqrt{blpar{4(12a sub{0} sup {5} q-16 a sub{0} sup {3})} over {a sub{0} sup {3} (a sub{0} sup {6} q sup {3}+12a sub{0} sup {4} q sup {2}+48 a sub{0} sup {2} q sup {1}+64)} brpar  sup {2}+
+ blpar-{4(24 a sub{0} sup {4} q sup {0.5}-2a sub{0} sup {6} q sup {1.5})} over {a sub{0} sup {3} (a sub{0} sup {6} q {3}+12a sub{0} sup {4} q sup {2}+48a sub{0} sup {2} q sup {1}+64) }brpar sup 2}}
+@DP
+@DP 
+Se tantea con @Math {a sub { 0 }= 0.5896  cdot 0.866}, @Math {a sub { 0 }= 0.5896 slash 2 cdot 0.866}
+@DP y finalmente con  @Math {a sub { 0 }= 0.9 cdot 0.5896 slash 2 cdot 0.866 + 0.1 cdot 0.5896 slash 4 cdot 0.866}
+@DP 
+ @Figure @Caption { Factor de forma teórico vs Datos experimentales } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/fig68.eps"} 
+  
+ 
+
+
+@End @Section

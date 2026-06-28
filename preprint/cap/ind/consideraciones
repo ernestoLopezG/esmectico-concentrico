@@ -1,0 +1,20 @@
+@Section
+@Title { Consideraciones a la teoría de Kaluza-Klein }
+@Begin
+@PP
+Aunque el @I {"theorema egregium"} de Gauss indique que es posible definir la curvatura de una superficie desde dentro, es decir, sin hacer referencia a la manera en que esa superficie se inserta en el espacio euclídeo 3D, se postula que físicamente la curvatura de una dimensión exige la existencia de otra sobre la que curvarse. Si nos centramos en la hipotética 4ª dimensión espacial de topología cerrada de la teoría de Kaluza-Klein tenemos 2 opciones:
+@PP
+1. La 4ª dimensión espacial se curva sobre alguna de las dimensiones espaciales conocidas, lo que provocaría que el espacio no fuese isótropo(las leyes de la Física cambiarían según las direcciones espaciales) , circunstancia que contradice la experiencia. 
+@PP
+2. La 4ª dimensión espacial se curva sobre otra dimensión espacial extra también compactada , como por ejemplo en el caso de un toroide. En este caso, e independientemente de su numero, podemos separar las dimensiones en 2 grandes grupos, las extendidas y las compactadas. 
+@PP
+
+@Figure 
+@Caption {   Representación de una hipotética cuarta dimensión espacial arrollada sobre una dimensión extendida o sobre otra dimensión compactada. }
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig2.eps"
+}
+
+
+@End @Section

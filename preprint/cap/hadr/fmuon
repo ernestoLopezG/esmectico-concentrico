@@ -1,0 +1,129 @@
+@Section
+@Title { Factor de forma del muón}
+@Begin
+@DP
+@B{Estructura interna teórica.}
+@DP
+De acuerdo al sistema multilineal de masas de Palazzi  @Cite {$palazzi} se propone la siguiente estructura teórica para el muón
+@DP   
+@CentredDisplay 
+@Tbl
+rule { yes }
+
+aformat { @Cell paint { black } A  | @Cell B | @Cell C | @Cell D}
+bformat { @Cell A | @Cell B | @Cell C | @Cell D}
+{
+
+@Rowa
+A { white @Color MUÓN  }
+B { Carga electrofuerte}
+C { Carga eléctrica}
+D { Radio de Bohr }
+
+@Rowb
+A { Onda 0 }
+B { -3 }
+C { -2}
+D { 2,793 fm}
+
+@Rowb
+A {Onda 1 }
+B { +2}
+C { +1}
+D {4,178 fm}
+
+@Rowb
+A {  Onda 2 }
+B { +1}
+C {  0 }
+D {8,429 fm}
+}
+@DP 
+@B { Densidad de carga teórica}
+@DP
+La densidad de carga eléctrica será entonces igual a :
+@DP
+ @Math {rho (r) = 1 over {pi} blbrack   { -3}  blpar 1 over { 2,793} brpar sup {3}  e sup {-2r slash 2,793   } + { 2 }  blpar 1 over { 4.178} brpar sup { 3}  e sup {-2r slash 4.178   } brbrack}
+@DP 
+  Que podemos representar
+@DP  
+  @Figure @Caption { Densidad de carga teórica del muón } @Location {TryAfterLine} { 2.5 @Scale @IncludeGraphic "img/Libro-img101.eps"} 
+  @DP 
+@B { Datos experimentales}
+@DP
+ Normalmente en los experimentos se utilizan haces de muones altamente energéticos, del orden de centenares de GeV. El grado de compresión teóricamente posible es tan alto que no es raro que actualmente se considere al muón como una partícula puntual, igual que al electrón. Es posible comparar la posible diferencia entre el factor de forma del protón extraído mediante scattering con muones o electrones para estudiar la estructura del muón. En experimentos realizados en la década de los setenta se utilizaron haces de muones relativamente poco energéticos, del orden de 5.3 a 7.8 GeV @Cite {$kostoulas}, se encontró que la leve diferencia entre los 
+ factores de forma del protón extraídos con electrones o muones podía ser expresada mediante una función
+ @DP
+ @Math {r(q²)={G² sub {(mu-p)}} over {G² sub {(e-p)}}}
+ @DP 
+  , donde G(q²) es el factor de forma del protón. Ajustándolo a un dipolo de la forma
+  @DP
+  @Math { r(q sup {2})=N over {(1+q sup {2}  slash Lambda  sup {2}) sup {2}}}
+  @DP 
+  se obtuvo  que el mejor ajuste se conseguía con N=1.043±0.080 y @Math {Lambda sup {-2}  =+0.064 +- 0.056 (GeV slash c)}
+  @DP
+  Lo que implica que el factor de forma del muón sería.
+  @DP
+@Math {G sub mu (q sup {2})= sqrt { 1 over {r(q2)}}=1 over N {(1+q sup {2} slash  Lambda sup {2}) } = 0.9787 {(1+ 0.051  q sup {2} ) }}
+ @DP
+ @B {Limite a la deformación de los muones}
+ @DP
+  Dado que en los trabajos experimentales los muones son altamente energéticos deben utilizarse todas las correcciones analizadas en este trabajo, deformación elástica, deformación completa de Lorentz y disminución del radio de Bohr.
+  @DP
+  Para la deformación elástica se considera un reparto proporcional al tamaño de los orbitales. Luego:
+  @DP
+  @Math { a dot sub {0} congruent   a sub {1 } sqrt {1-(0.5 cdot (1-2.793 slash 4.178)) sup 2} = 0.9861 cdot a sub {0 } }
+  @DP 
+  @Math { a dot sub {1} congruent  a sub {1 } sqrt {1-(0.5 cdot 2.793 slash 4.178) sup 2} = 0.9424 cdot a sub {1 } }
+  @DP
+ Para determinar el grado máximo de deformación alcanzable por el muón se ha representado la vida media de los bariones con carga eléctrica frente a su masa. En el mismo gráfico se han representado las masas del muón excitado al disminuir el radio de Bohr en potencias de 2 como lineas verticales y el límite de vida 
+ media de @Math {10 sup {-20} s} como límite arbitrario de detectabilidad.
+ @DP
+ @Figure @Caption { Estabilidad de los bariones } @Location {TryAfterLine} {0.7 @Scale @IncludeGraphic "img/Libro-img102.eps"} 
+ @DP 
+ Puede observarse que entre @Math {a slash 32} y @Math {a slash 64} se encuentra una zona de alta inestabilidad, por lo que es de esperar que los muones que se deformen más que @Math {a slash 32} no alcancen los detectores y por tanto no contribuyan al factor de forma. Luego se utilizará
+ @DP
+@Math { a dot sub {0}  = 0.9861 cdot a sub {0 } over 32}
+@DP
+@Math { a dot sub {1}  = 0.9424 cdot a sub {1 } over 32}
+@DP 
+@B {  Factor de forma teórico}
+@DP
+Considerando una deformación de Lorentz completa la solución sería
+@DP 
+@Scale @Math {G sub {E} = sqrt {blpar {8 cdot (24a sub {0} sup {4} q-2a sub {0} sup {6} q sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}-{4 cdot (24a sub {1} sup {4} q-2a sub {1} sup {6} q sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)} brpar sup { 2 }
+
++ blpar {4 cdot (12a sub {1} sup {5} q sup {2}-16a sub {1} sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)}-{8 cdot (12a sub {0} sup {5} q sup {2}-16a sub {0} sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}       brpar sup { 2 }
+
+}}
+@DP 
+que podemos representar frente a los datos experimentales de [12]
+@DP 
+@Figure @Caption {  Muón comprimido 32 veces frente a datos experimentales} @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img103.eps"} 
+@DP
+ Como especulación, la masa del muón comprimido 16 veces sin tener en cuenta la compresión elástica sería igual a
+ @DP
+ @Math {m sub {est mu -16}=  0.105658 cdot 016= 1.690528 GeV}
+ @DP
+ sorprendentemente parecida a la masa del tauón.
+@DP 
+ La media ponderada de compresión elástica de las diferentes ondas que componen el muón será:
+ @DP
+ @Math {f = {(3 cdot 0.9439+2 cdot 0.9854+1)} over 6 = 0.967}
+ @DP
+  .Luego se su masa se incrementará en
+ @DP
+ @Math {m sub {est mu -16} =    1.690528 slash 0.967= 1.7482 GeV} que difiere un 1.2% de la masa del tauón (1.77 GeV).
+ @DP 
+ Sería interesante por tanto buscar una partícula leptónica en el rango de
+ @DP
+ @Math {m sub {est mu -32} =   0,105658 cdot 32 slash 0.967 = 3.496 GeV}
+ @DP 
+  teniendo en cuenta que la hipótesis aquí desarrollada suele tener errores máximos del 2% en la estimación de las masas de las partículas. 
+ 
+ 
+ 
+
+
+
+@End @Section

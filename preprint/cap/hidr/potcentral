@@ -1,0 +1,66 @@
+@Section
+@Title { Ecuación de onda para un potencial central eléctrico}
+@Begin
+@PP
+
+Si utilizamos un sistema de coordenadas esféricas para las dimensiones extendidas y elíptico para las compactadas y consideramos un potencial eléctrico tridimensional la ecuación de onda independiente del tiempo sería:
+@DP
+@Math {( nabla sub {6D} sup {2} + k sup {2}) cdot H = 0}
+@DP
+donde @Math {k= {E sub {onda} } over {hbar c} i} 
+@DP
+La energía total de la pulsación tendrá los siguientes términos: @DP
+@DashList
+ @ListItem {Energía de la pulsación en reposo: @Math {E sub {0}= mc sup {2}} }
+ @ListItem {Energía cinética: @Math {E sub {c}}}
+ @EndList
+ Como la energía cinética no es conocida a priori y el electrón se va a mover en un campo potencial eléctrico podemos expresarla como la diferencia entre:
+ @DashList
+@ListItem {Energía mecánica: @Math {E sub {m}} }
+@ListItem {Energía potencial eléctrica. Si consideramos que debido a su gran masa con respecto al electrón  el protón se mantiene inmóvil podemos expresar la energía debida al campo eléctrico como:
+@DP
+@Math { E sub {ELEC}= -{1} over {4 pi  epsilon sub {0}} cdot {Q q} over {r} = -{1} over {4 pi  epsilon sub {0}} cdot { e sup {2}} over {r}}}
+@EndList 
+Por tanto tendremos que:
+ @DP
+@Math {k= {E sub {onda} } over {hbar c} i = { mc sup {2} + E sub {m} - {1} over {4 pi  epsilon sub {0}} { e sup {2}} over {r}} over {hbar c} i = blpar {mc sup {2} + E sub {m} } over {hbar c} - {e sup {2}} over {hbar c 4 pi  epsilon sub {0}} { 1} over {r}    brpar i}
+@DP
+y si llamamos a @Math {alpha={e sup {2}} over {hbar c 4 pi  epsilon sub {0}}} @DP
+podemos escribir: @DP
+
+@Math {nabla sub {6D} sup {2} H - blpar {mc sup {2} + E sub {m}} over {hbar c} - {alpha} over {r} brpar sup {2} H=0  }
+@DP
+Desarrollando tenemos:@DP 
+ @Math {nabla  sup {2} H - blpar {m sup {2} c sup {4}} over {hbar sup {2} c sup {2}} + {E sub {m} sup {2}} over {hbar sup {2} c sup {2}} + {2 E sub {m} mc sup {2}} over {hbar sup {2} c sup {2}} + {alpha sup {2}} over { r sup {2}} - {2mc sup {2} alpha } over {hbar c r} - {2 E sub {m} alpha} over { hbar c r} brpar H = 0 } 
+ @DP 
+ agrupando nos queda: 
+ @DP
+ @Math { nabla  sup {2} H -blpar {mc} over {hbar} brpar sup {2} H - blpar {E sub {m}} over {hbar c} brpar sup {2} H - {2mc sup {2}} over {hbar c} blpar {E sub {c}} over {hbar c} - {alpha} over {r} brpar H - blpar {alpha sup {2} } over {r sup {2} }- {2 E sub {m} alpha} over {hbar c r} brpar H= 0  }
+ @DP 
+ Se puede solucionar mediante separación de variables
+@DP 
+  @Math {H(xi,eta,x,y,z)=Phi(xi,eta) cdot Psi(r,theta,phi) }
+@DP 
+  que permite separar los laplacianos utilizando el mismo postulado que en la sección 2.1.2
+@DP  
+@Math {nabla sub {xi, eta} sup {2} Phi - blpar {mc} over {hbar} brpar sup {2} Phi = 0}  
+  De solución análoga a la de la partícula libre.    (I)@DP 
+@Math {nabla sub {r,theta, phi} sup {2} Psi  - blbrack    blpar {E sub {m}} over {hbar c} brpar sup {2} - {2 E sub {m} alpha} over {hbar c r} brbrack Psi  - {2mc sup {2}} over {hbar c} blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar Psi  - blpar {alpha sup {2} } over {r sup {2} } brpar Psi = 0 }
+ (II)
+ @DP 
+ Sacando factor común en (II)
+ @DP 
+@Math {nabla  sup {2} Psi  - {E sub {m}} over {hbar c} blbrack     {E sub {m}} over {hbar c}   - {2  alpha} over { r} brbrack Psi  - {2mc sup {2}} over {hbar c} blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar Psi  - blpar {alpha sup {2} } over {r sup {2} } brpar Psi = 0} 
+@DP
+ En el caso no relativista @Math {mc sup {2} >{}>{}>  E sub {m}} y el término @Math {{E sub {m}} over {hbar c} blbrack     {E sub {m}} over {hbar c}   - {2  alpha} over { r} brbrack Psi  } 
+ @DP 
+  es despreciable frente a
+ @DP 
+ @Math {{2mc sup {2}} over {hbar c} blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar  Psi  }@DP 
+  y por tanto podemos escribir:
+ @Box @Math {nabla  sup {2} Psi  -   {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar Psi  - blpar {alpha sup {2} } over {r sup {2} } brpar Psi = 0}
+ @DP 
+
+
+
+@End @Section

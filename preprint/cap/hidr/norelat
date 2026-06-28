@@ -1,0 +1,139 @@
+@Section
+@Title { Solución para las dimensiones extendidas. Caso no relativista}
+@Begin
+@DP
+ Si partimos de la ecuación:
+@DP 
+ @Math {nabla  sup {2} Psi  -   {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar Psi  - blpar {alpha sup {2} } over {r sup {2} } brpar Psi = 0 }
+ @DP 
+, aplicando el laplaciano en esféricas tenemos
+@DP 
+	@Math {1 over {r sup {2}} {partial} over {partial r} blpar r sup {2} {partial Psi  } over {partial r} brpar + 1 over {r sup {2} Sen  theta } {partial} over {partial theta} blpar Sen theta  {partial Psi  } over {partial theta} brpar  + 1 over {r sup {2} Sen sup {2} theta } {partial sup {2} Psi } over {partial phi} - {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar Psi  - blpar {alpha sup {2} } over {r sup {2} } brpar Psi = 0 }
+ @DP 
+ Si descomponemos 
+ @DP
+ @Math { Psi(r,theta,phi)=R(r)P(theta)T(phi)}
+  @DP 
+ tenemos entonces:
+ @DP 
+@Math {1 over {r sup {2}} {partial} over {partial r} blpar r sup {2} R'PT brpar + 1 over {r sup {2} Sen  theta } {partial} over {partial theta} blpar Sen theta RP'T brpar  + 1 over {r sup {2} Sen sup {2} theta } RPT'' -  {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar RPT - blpar {alpha sup {2} } over {r sup {2} } brpar RPT= 0 } 
+ @DP 
+ Si multiplicamos por 
+ @DP
+ @Math {{r sup {2} Sen sup {2} theta} over {RPT} }
+ @Math {{Sen sup {2} theta } over {R} {d} over {dr} blpar r sup {2} R' brpar + {Sen theta} over {P } {d} over {d theta} blpar Sen theta P' brpar  + {T''} over {T} - r sup {2} Sen sup  {2} theta {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar  - r sup {2} Sen sup  {2} theta blpar {alpha sup {2} } over {r sup {2} } brpar = 0 }
+ @DP 
+ Como tenemos un término que solo depende de @Sym phi y la suma debe ser constante por fuerza tenemos que:
+ @DP
+ @Math {{T''} over {T} = cte=-m sub {l} sup {2}}
+ @DP 
+ y cuya solución es 
+ @DP
+ @Math { T ( phi )= C sub {4} e sup {-i m sub {l} phi}} con m @Sub l semientero.
+ @DP
+ Sustituyendo entonces y dividiendo por @Math {  Sen sup {2} theta} 
+ @DP
+ @Math {{1 } over {R} {d} over {dr} blpar r sup {2} R' brpar + {1 } over {P Sen theta } {d} over {d theta} blpar Sen theta P' brpar  - {m sub {l} sup {2}} over {Sen sup {2} theta} - r sup {2}  {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar  -   alpha sup {2}  = 0 }
+ @DP 
+ Ya tenemos separadas las variables.
+ @DP
+ @Math {{1 } over {R} {d} over {dr} blpar r sup {2} R' brpar  - r sup {2}  {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar  -   alpha sup {2}  = l (l+1) }
+ @DP 
+ @Math {{1 } over {P Sen theta } {d} over {d theta} blpar Sen theta P' brpar  - {m sub {l} sup {2}} over {Sen sup {2} theta}   = -l(l+1) }
+ @DP 
+ Como @Math {alpha sup {2} << l(l+1)} podemos escribir:
+@DP 
+@Math {{1 } over {R} {d} over {dr} blpar r sup {2} R' brpar  - r sup {2}  {2m sub {0}c } over {hbar } blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar   = l (l+1) }                     {(a)}
+@DP 
+ 
+ @Math {{1 } over {P Sen theta } {d} over {d theta} blpar Sen theta P' brpar  - {m sub {l} sup {2}} over {Sen sup {2} theta}   = -l(l+1) }                     {(b)}
+ @DP 
+ @Math {{T''} over {T} =-m sub {l} sup {2}}                                                                     {(c)} 
+ @DP 
+ La ecuación (b) se trata de la función asociada de Legendre, que  junto con la ecuación (c) proporciona la solución de los armónicos esféricos. Las condiciones de contorno restringen la solución a l=0,1,2,.... junto con la condición @Math {0 <= bar ml bar <= l}
+ @DP 
+ En principio m @Sub {l}  puede adoptar valores semienteros, pero los polinomios de Legendre de orden semientero presentan valores infinitos para @Math {theta =1}, por lo que no pueden tener significado físico.
+ @DP
+ Vamos a analizar la ecuación (a) para determinar los niveles de energía:
+@DP 
+ Si aplicamos la regla de la cadena y reagrupamos
+@DP 
+@Math {2rR' + r sup {2} R'' - r sup {2}  { }  blpar {2m sub {0}c sup {2} E sub {m}} over {( hbar c) sup {2}} - {2m sub {0}c sup {2} alpha} over {hbar c r} brpar R  = l (l+1) R}
+@DP 
+ Definimos la función
+@DP
+ @Math {u(r)=rR}
+@DP
+@Math {u'(r)=rR'+R}
+@DP
+@Math {u''(r)=R'+rR''+R'=2R'+rR''}
+@DP 
+lo que nos permite escribir los dos primeros términos de forma simplificada:
+@DP
+@Math {2rR'+r sup {2}R'' =r(2R'+rR'')=ru''}
+y por tanto:
+@DP  
+@Math {u'' -   blpar {2m sub {0}c sup {2} E sub {m}} over {( hbar c) sup {2}} - {2m sub {0}c sup {2} alpha} over {hbar c r} + {l (l+1)} over {r sup {2}} brpar u  = 0} 
+@DP 
+ Si realizamos un estudio asintótico de la función anterior cuando @Math {r --> infinity} se puede escribir:
+ @DP
+ @Math {u'' -   blpar {2m sub {0}c sup {2} E sub {m}} over {( hbar c) sup {2}}  brpar u  = 0}
+ @DP 
+ si llamamos
+ @DP
+@Math { beta sup {2} = { { 2 mc sup {2} E sub {c} } over {(hbar c) sup {2}}    }}
+@DP
+podemos escribir:
+@DP
+ @Math {u'' -  blpar beta sup {2} - {2m sub {0}c  alpha} over {hbar  r} + {l (l+1)} over {r sup {2}} brpar u  = 0}
+ @DP 
+ Dividiendo por @Math {beta sup 2}:
+ @DP
+ @Math {{u''} over { beta sup {2}} -   blpar 1 - {2m sub {0}c  alpha} over { beta sup {2} hbar  r}  + {l (l+1)} over {beta sup {2} r sup {2}} brpar u  = 0}
+ @DP 
+ Como r aparece siempre multiplicado por @Math {beta} podemos realizar el siguiente cambio de variable @Math {rho = beta cdot r } definiendo la función @Math {U (rho)}:
+@DP
+@Math {{U''}  -  blpar 1 - {2m sub {0}c  alpha} over { beta hbar  rho} + {l (l+1)} over {rho sup {2}} brpar U  = 0}  
+@DP 
+ Si llamamos @Math {rho sub {0}= {2m sub {0}c  alpha} over { beta hbar  }  } tenemos
+@DP
+@Math {{U''}  -  blpar 1 - {rho sub {0}} over {   rho} + {l (l+1)} over {rho sup {2}} brpar U  = 0}                     {(d)} 
+@DP 
+ La ecuación (d) aparece en forma muy similar en la resolución de la ecuación de Schrodinger radial del átomo de hidrógeno y puede encontrarse su resolución en la literatura mediante su estudio asintótico y posterior desarrollo en serie. La condición para que la serie de términos no sea infinita es que para algún valor de j
+ se cumpla la igualdad siguiente:
+ @DP
+ @Math {2(j+l+1)=rho sub {0} } donde j es un número entero.
+ @DP 
+ si llamamos n=j+l+1 nos queda:
+ @DP
+ @Box @Math { 2n=rho sub {0}}
+ @DP
+ Si recordamos las definiciones:
+ @Math { beta sup {2} =  { 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}} } y @Math{rho sub {0}= {2m sub {0}c  alpha} over { beta hbar  }  }
+ @DP
+ podemos obtener la relación que cuantifica los niveles energéticos del electrón en el átomo de hidrógeno: 
+ @DP 
+ @Math {{2 mc alpha} over {hbar sqrt{2mE sub {m}  } over {hbar}  } = 2n -> { mc alpha} over {sqrt{2mE sub {m}  }  } = n }
+ @DP
+ Elevando al cuadrado
+ @DP
+ @Math {{ mc sup {2} alpha sup {2}} over {2E sub {m}    } = n sup {2}}
+ @DP
+ Y eligiendo la solución negativa
+ @DP 
+ @Box @Math {E sub {m}  =- { mc sup {2} alpha  sup {2}} over { 2n sup {2}   }}
+ @DP
+ que proporciona los mismos niveles energéticos que la ecuación de Schrodinger.
+ @DP
+ En realidad la ecuación (a) se trata de una variación de la función asociada de Lagerre y por tanto proporciona las mismas soluciones. Finalmente recalcar que la solución final vendrá dada por el producto de las 3 soluciones, es decir:
+ @DP
+ @Math {H(xi,eta,x,y,z,t)=Phi (xi,eta) cdot Psi(r,theta, phi) cdot e sup {- omega t i} }
+ @DP
+ , y que de dichas soluciones se pueden obtener los  momentos angulares, que serían:
+ @DP
+ @DashList
+ @ListItem {Momento angular orbital @Math {L = sqrt { l lpar l+1 rpar } cdot   hbar } } 
+ @ListItem {Proyección sobre el eje z del momento angular orbital @Math {L sub {z} = m sub {l} hbar} } 
+ @ListItem { Momento angular de espín @Math {L sub {s} = m sub {s} hbar = +-  {1} over {2} hbar } }
+@EndList
+@End @Section

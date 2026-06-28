@@ -1,0 +1,82 @@
+@Section
+@Title {Fuerza nuclear fuerte residual aparente}
+@Begin
+@DP
+Podemos establecer como hipótesis que la fuerza nuclear fuerte residual proviene del potencial electrofuerte. El potencial electrofuerte de un protón puede ser expresado mediante:
+@DP 
+@Math {Psi (r) =  1 over {4 pi epsilon sub {0}} (Q) sub {p} sup {2}  1 over {pi}blbrack    {    27 blpar 1 over {a sub {0} } brpar  sup {3} e sup {-2r slash {a sub {0} } }}-26 blpar 1 over{ a sub {1} } brpar sup {3} e sup {-2r slash {a sub {1} }} - blpar 1 over {a sub {2}  }brpar   sup {3} e sup {-2r slash {a sub {2} } }  brbrack}
+@DP 
+Con a @Sub {0}=0.3161 fm, a @Sub {1}=0.3281 fm y a @Sub {2}=8,624 fm y Q @Sub {1} la carga electrofuerte equivalente del protón, que sería para la primera onda @Math {(9 cdot 1.855+18 cdot 1.669) slash 27 = 1,731 10 sup { -18} C} y para la segunda onda @Math {(10 cdot 1.855+16 cdot 1.669) slash 26 = 1,7405 10 sup { -18} C} con una media de @Math {1,7357 10 sup {-18} C}.
+@DP
+El potencial electrofuerte de un neutrón puede ser expresado mediante:
+@DP 
+ 
+@Math {Psi (r) =  1 over {4 pi epsilon sub {0}} (Q) sub {n} sup {2}  1 over {pi}blbrack    {    25 blpar 1 over {b sub {0} } brpar  sup {3} e sup {-2r slash {b sub {0} } }}-24 blpar 1 over{ b sub {1} } brpar sup {3} e sup {-2r slash {b sub {1} }} - blpar 1 over {b sub {2}  }brpar   sup {3} e sup {-2r slash {b sub {2} } }  brbrack}
+@DP 
+Con b @Sub {0}=0.3156 fm, b @Sub {1}=0.3275 fm y b @Sub {2}=8,624 fm y Q @Sub {n} la carga electrofuerte equivalente del neutrón, que sería para la primera onda @Math {(23 cdot 1.855+2 cdot 1.669) slash 25 = 1,84012 10 sup { -18} C} y para la segunda onda @Math {(23 cdot 1.855+1 cdot 1.669) slash 24 = 1,8472 10 sup { -18} C} con una media de @Math {1,8437 10 sup {-18} C}.
+
+@DP
+Si expresamos los potenciales electrofuertes en MeV y usamos fm las expresiones serían:
+@DP 
+@Scale @Math {Psi (r) sub {P} = 9 10 sup {9}  (1.7357 10 sup {-18} C) sup {2} cdot {1 over pi} {10 sup {15}} over {1.609 10 sup {-19}  10 sup {6}} blbrack    {    27 blpar 1 over {0,3161} brpar  sup {3} e sup {-2r slash {0,3161} }}-26 blpar  1 over{ 0,3281 } brpar sup {3} e sup {-2r slash {0,3281 }}- blpar 1 over {8,624  }brpar   sup {3} e sup {-2r slash {8.624 } }  brbrack}
+@DP
+@Scale @Math {Psi (r) sub {N} = 9 10 sup {9}  (1,8437 10 sup {-18} C) sup {2} cdot {1 over pi} {10 sup {15}} over {1.609 10 sup {-19}  10 sup {6}} blbrack    {    25 blpar 1 over {0,3156} brpar  sup {3} e sup {-2r slash {0,3156} }}-24 blpar  1 over{ 0,3275 } brpar sup {3} e sup {-2r slash {0,3275 }}- blpar 1 over {8,624  }brpar   sup {3} e sup {-2r slash {8.624 } }  brbrack}
+
+ 
+@DP
+que podemos representar.
+@DP 
+@Figure @Caption { Potencial electrofuerte } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img104.eps"} 
+@DP 
+Sorprendentemente casi idénticos. Este potencial es acorde con las máximas energías de enlace observadas en la naturaleza, que presentan valores máximos de aproximadamente 8.8 MeV por nucleón. Sin embargo generalmente se considera que la fuerza nuclear fuerte residual es mucho más fuerte, alcanzando potenciales del orden de 100 MeV. Esto es debido a que se ha medido en experimentos de difusión entre nucleones, en los cuales hay que tener en cuenta las deformaciones estudiadas en este trabajo. A partir de ahora se utilizará solo el potencial electrofuerte del protón, pues prácticamente es igual al del neutrón.
+@DP 
+ 
+@B { Corrección por deformación elástica.}
+@DP 
+Dada la gran diferencia de tamaño entre el orbital exterior (que presenta carga electrofuerte, pero no eléctrica) y los interiores se considera que la deformación elástica afecta solo al orbital exterior, con un factor máximo de deformación de
+@DP
+@Math { sqrt{1-0,5 sup {2}}=0,866}
+@DP 
+Luego usaremos a @Sub {0}=0.3161 fm, a @Sub {1}=0.3281 fm y a @Sub {2}=7.4683 fm.
+@DP 
+@B { Corrección por deformación de Lorentz}
+@DP
+Como en este caso los nucleones son las partículas incidentes se considerará que la deformación de Lorenzt es completa, lo que nos dará una @I {expresión aparente para la fuerza nuclear fuerte residual} igual a:
+@DP 
+@Scale @Math {Psi (r) = 9 10 sup {9}  (1.7357 10 sup {-18} C) sup {2} cdot {4r²} {10 sup {15}} over {1.609 10 sup {-19}  10 sup {6}} blbrack    {    27 blpar  1 over {0,3161 } brpar   sup {3} e sup {-2r slash {0,3161 } }}-26 blpar   1 over{ 0,3281 } brpar  sup {3} e sup {-2r slash {0,3281 }}- blpar  1 over {7.4683  }brpar    sup {3} e sup {-2r slash {7.4683 } }  brbrack}
+@DP 
+que podemos representar comparándolo con el potencial de Reid68.
+@DP
+@Figure @Caption { Potencial nuclear residual aparente } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img105.eps"} 
+@DP 
+Expresión que ajusta mejor con el potencial Reid93.
+@DP 
+@Figure @Caption { Potencial nuclear residual aparente } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img106.eps"} 
+@DP 
+
+De forma sorprendente, la media del potencial electrofuerte con el potencial deformado completamente por Lorentz coincide con el potencial de Bonn (1987). Quizás en los experimentos se colisionaban nucleones en reposo con un haz a velocidades relativistas, y por tanto completamente deformado.
+@DP
+@Figure @Caption {  Media del potencial electrofuerte sin deformar y deformado. Superposición con datos experimentales } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/fig62.eps"}
+@DP
+Más sorprendente resulta el hecho de que al representar:
+@DP
+@Scale @Math {Psi (r) = 9 10 sup {9}  (1.7357 10 sup {-18} C) sup {2} cdot {4r} {10 sup {15}} over {1.609 10 sup {-19}  10 sup {6}} blbrack    {    27 blpar  1 over {0,3161 } brpar   sup {3} e sup {-2r slash {0,3161 } }}-26 blpar   1 over{ 0,3281 } brpar  sup {3} e sup {-2r slash {0,3281 }}- blpar  1 over {7.4683  }brpar    sup {3} e sup {-2r slash {7.4683 } }  brbrack}
+@DP
+se obtenga el potencial AV-18.
+@DP
+@Figure @Caption { Superposición con datos experimentales } @Location {TryAfterLine} {2.3 @Scale @IncludeGraphic "img/fig63.eps"}
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+
+@End @Section

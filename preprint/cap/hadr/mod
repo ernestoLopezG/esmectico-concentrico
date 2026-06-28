@@ -1,0 +1,101 @@
+@Section
+@Title { Modificación de las partículas por el proceso de difusión}
+@Begin
+@DP    
+ Las partículas que reciben el impacto deben ser modificadas por este . Aquí se exponen tres mecanismos que actúan consecutivamente en función de la energía utilizada o intercambiada en la difusión.
+@DP
+
+
+@BeginSubSections
+@SubSection
+@Title {Choques elásticos. Ligera deformación.}
+@Begin
+@DP 
+    
+ La transmisión del momento en un choque elástico no puede ser instantánea, de hecho, si observamos dos esferas metálicas chocando comprobaremos que en el momento del choque ambas se deforman, acumulando la energía cinética en forma de energía elástica y luego transformándola otra vez en energía cinética. Ahora bien, podemos pensar que al tratarse de fuerzas a distancia la analogía no es valida, pèro esto no implica que la deformación no se produzca igualmente, estamos hablando de la parte que corresponde al factor de forma ( la debida a la distribución interna de carga), no la parte que corresponde a la carga considerada puntual.
+ @DP
+ Por tanto las partículas se deforman, ¿ pero cuanto?. Bueno, en solo ondas el tamaño de la partícula depende de la masa de onda @Math {a sub { 0 }  = { hbar c} over {  sqrt { 2} m c sup {2}  }} , si la onda acumula energía, su masa debe aumentar y por tanto su tamaño debe disminuir.
+ @DP
+ Solo queda relacionar la energía intercambiada con el momento transmitido para poder determinar la influencia de este efecto en el factor de forma. Si llamamos a al tanto por uno que se almacena en la partícula a estudiar (que sería 0,5 en la mayoría de los casos tendremos)
+ @DP
+ @Math {alpha  cdot   q = { m sub {0} v } over sqrt{1-v sup {2} slash c sup {2}} }
+ @DP
+ elevando al cuadrado
+ @DP
+ @Math {alpha sup {2} cdot  q sup {2}  = {{ m sub 0} sup {2} v sup {2} } over {1-v sup {2} slash c sup {2}} }
+ @DP 
+@Math {alpha sup {2} cdot  q sup {2} - q sup {2} v sup {2} slash c sup {2}= { m sub {0} sup {2} v sup {2} }  ->   v sup {2}  = alpha sup {2} cdot  q sup {2} over { q sup {2} slash c sup {2}+ { m sub {0} sup {2}}  }}
+@DP
+la masa se incrementará por tanto en
+@DP
+@Math {m= m sub {0 } over { sqrt { 1 - alpha sup {2} cdot  q sup {2} over {  q sup {2}+ { m sub {0} sup {2} c sup {2}}  }}}}
+@DP 
+y consecuentemente el radio de Bohr disminuirá en la misma proporción
+@DP 
+@Math { a dot sub {0} sup { } = a sub {0 } cdot { sqrt { 1 - alpha sup {2} cdot  q sup {2} over {  q sup {2}+ { m sub {0} sup {2} c sup {2}}  }}}}
+@DP 
+Es de observar que cuando @Math {q >> m sub 0} entonces @Math { a dot sub {0}  congruent   a sub {0 } cdot { sqrt { 1 - alpha sup {2}  }}}
+@DP 
+Es decir, existe un límite a la deformación. Para el caso de los mesones, que se comportan como una sola onda el coeficiente de reparto @Math {alpha} tendría un valor igual 0,5 y la máxima deformación posible sería igual a @Math { a dot sub {0}   congruent   a sub {0 } cdot { sqrt { 1 - 0,5 sup {2}  }} = 0,866 a sub { 0} }.Para el caso de los bariones, que se han postulado formados por tres ondas, de las cuales habitualmente solo poseen carga  eléctrica las dos más internas @Math {alpha} sería igual a 0,25 y por tanto @Math { a dot sub {0} congruent   a sub {0 } cdot { sqrt { 1 - 0,25 sup {2}  }} = 0,9682 a sub { 0}}. Vemos que las tres ondas de los bariones son mucho más rigidas que las dos (una) ondas de los mesones. Sin embargo se obtienen  mejores ajustes si se considera que la onda más externa de los bariones almacena ligeramente más energía que la interna, proporcionalmente a su tamaño.
+   
+@End @SubSection
+
+@SubSection
+@Title {Velocidades relativistas. Influencia de la contracción de Lorentz en la distribución de carga.}
+@Begin
+@DP
+En la hipótesis aquí expuesta  la contracción de Lorentz es una contracción real de las partículas debida a las condiciones de contorno que impone el espacio anisotrópico de las dimensiones compactadas a la  transmisión de las ondas en su seno. Por tanto, provoca una modificación en la distribución de carga. Supongamos una hadrón que se desplaza a velocidades altamente relativistas (ya por ser la partícula incidente, ya sea el blanco en su retroceso):
+@DP
+  De una distribución con simetría esférica en tres dimensiones pasaríamos a una distribución plana anular. Para poder estimarlo simplemente hay que multiplicar la distribución de carga esférica por la superficie de una esfera, es decir @Math {4 pi r sup 2} , ya que toda la carga del casquete esférico a un radio determinado r pasaría a concentrase en un anillo del disco resultante a la misma distancia r.
+@DP 
+@CentredDisplay 
+@Tbl
+rule { yes }
+aformat { @Cell A | @Cell B  }
+bformat {@StartHSpan @Cell  A | @HSpan  }
+{
+@Rowb
+A { Influencia de la contracción de Lorentz}
+@Rowa
+A { Velocidades bajas }
+B { Velocidades altamente relativistas }
+@Rowa 
+A {@Math {rho (r) = 1 over {pi} blpar 1 over { a sub {0}} brpar sup { 3} e sup {-2r slash a sub {0}   }}}
+B {@Math {rho (r) =  4  r sup {2}  blpar 1 over { a sub {0}} brpar sup { 3} e sup {-2r slash a sub {0}   }}}
+
+} 
+  
+@DP
+@Figure @Caption { Deformación relativista } @Location {TryAfterLine} {1.2 @Scale @IncludeGraphic "img/Libro-img079.eps"} 
+ @DP 
+
+ 
+ 
+  Luego a muy altas velocidades @Math {-> rho (r) =  4 r sup {2}  blpar 1 over { a sub {0}} brpar sup { 3} e sup {-2r slash a sub {0}   }}  (Normalizado a la unidad)
+  @DP 
+  Debido a que este disco siempre es perpendicular a la velocidad de las partículas el calculo de la transformada de Fourier se simplifica considerablemente, pues se puede reducir a una integral monodimensional.
+  @DP
+  @Math {F(q)= int 4 r sup {2}   rho (r ) e sup {{iqr} over {hbar}}  d r}.
+  @DP 
+ 
+ 
+  Como los factores de forma se miden con respecto al sistema de referencia del laboratorio, habría que distinguir si las partículas a estudiar se encuentran en reposo con respecto al laboratorio (la mayor parte de los experimentos relativos a nucleones) o son las partículas incidentes. (los experimentos con piones, por ejemplo).
+  @DP
+  En el caso de ser partículas incidentes la deformación sera solo función de la energía inicial de las partículas. En caso de encontrarse en reposo la deformación también será función del momento intercambiado, como veremos más adelante cuando estudiemos el protón.
+
+@End @SubSection
+
+@SubSection
+@Title { Modificación del modo de vibración.}
+@Begin
+@DP
+ Para el caso de partículas incidentes y si la energía cinética propia es suficiente en el momento de la interacción se modifica el modo de vibración de la partícula reduciendo su radio en dos,cuatro,ocho,.. veces, almacenando de esta manera la energía que luego será repartida entre las partículas si se trata de 
+ choques elásticos. Es el caso típico de difusión utilizando partículas ultrarelativistas.
+ @DP
+ Para el caso en que las partículas estudiadas se encuentren en reposo en relación al marco de referencia del laboratorio  la energía disponible para esta deformación solo puede provenir de la transferida por la partícula incidente, por tanto este efecto no es muy frecuente en los choques elásticos, pero si en los  choques inelásticos donde se absorbe una gran cantidad de energía, en cuyo caso depende de la  masa invariante W, que representa la energía absorbida momentáneamente por la partícula y eliminada posteriormente mediante la emisión de rayos gamma y @Math {slash } o una lluvia hadrónica.
+ @DP 
+ 
+    
+@End @SubSection
+@EndSubSections
+@End @Section

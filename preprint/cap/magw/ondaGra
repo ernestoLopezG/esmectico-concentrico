@@ -1,0 +1,66 @@
+@SubSection 
+@Title { Ecuación de ondas gravitomagnéticas.}
+@Begin
+@LP
+Una advertencia al lector: los capítulos 2 y 3 nacieron separados, pero la hipótesis los ha ido entrelazando. La conclusión de que el medio de transmisión es un superfluido cuántico cristalizado en cristal líquido - con dos capas esméticas concéntricas y un núcleo en estado posiblemente líquido - no precede al capítulo 2 sino que emerge de él. Ambos capítulos deben leerse como un diálogo.
+@DP
+La ecuaciones del gravitomagnetismo son:@DP
+@CurveBox{
+
+@Math { nabla vec E vec sub {g}=-4 pi G rho}
+
+@DP
+@Math { nabla vec B vec sub {g}=0}
+@DP
+@Math { nabla vec times  vec E sub {g}= - 1 over {c} {{partial  Bg vec} over {partial  t}}}
+@DP
+@Math {nabla times B sub {g} =-{4 pi G} over {c } cdot  j vec sub {m} + {1} over {c } { partial  E vec sub {g}} over {partial t}}
+}
+@DP
+Si tenemos en cuenta que hemos postulado que @Math {   {mu} hat sub {0g} }tiene que ser igual a la unidad  para 6D y por tanto B=H podemos plantear las ecuaciones del gravitomagnetismo en ausencia de masas.
+@DP
+@Math{ nabla vec E vec sub {g}= 0  }                                  @Verbatim{(a)}
+@DP
+@Math{ nabla vec H vec sub {g}=0}                                 @Verbatim{(b)}
+@DP
+@Math{ nabla vec  times   E vec sub {g}= - 1 over {c} {partial vec Hg} over {partial  t} }                    @Verbatim{(c)}
+@DP
+@Math{nabla times H sub {g} = 1 over {c } { partial  E vec sub {g}} over {partial t} }                           @Verbatim{(d)}
+@DP
+
+
+
+
+
+Operando en (c) tenemos  @Math { nabla vec times ( nabla vec  times   E vec sub {g})=  nabla vec times blpar   - 1 over {c} {partial Hg vec } over {partial  t} brpar} @DP
+
+por tanto @Math { nabla vec times  nabla vec  times   E vec sub {g} =     - 1 over {c} {partial lpar nabla  Hg vec times Hg vec rpar } over {partial  t} } @DP
+
+y sustituyendo @Math {nabla times H sub {g} = 1 over {c } { partial  E vec sub {g}} over {partial t} } y @Math {  nabla vec  times  nabla vec times   E vec sub {g} =  nabla vec sup {2} E vec sub {g} } @DP
+
+
+nos queda @Box @Math { nabla vec sup {2}  E vec sub {g}   = - 1 over {c sup 2} {partial  nabla  sup {2}  Eg vec } over {partial  t } sup {2}} @DP 
+La velocidad de fase viene dada por @Math {v sub {p}= w over k} lo que significa que @Math {v sub {p} = 1 over {sqrt{1 over c sup 2} }= c} y por tanto:@DP
+@Box @Math { nabla vec sup {2}  E vec sub {g}   + 1 over {v sub {p} sup 2} {partial    Eg vec } over {partial  t } sup {2} = 0} 
+@DP
+Análogamente podemos obtener:@DP
+
+ @Box @Math { nabla vec sup {2}  H vec sub {g}   + 1 over {v sub {p} sup 2} {partial    Hg vec } over {partial  t } sup {2} = 0} 
+@DP
+
+Si suponemos que el campo tiene dependencia armónica con el tiempo de la forma. @DP
+
+@Math {   Psi vec =  bar    Psi vec sub {0}      e sup {-wt}  bar }
+
+@DP
+
+se llega a la conclusión: @Math { nabla vec sup {2}  E vec sub {g}   + w sup {2} over {v sub {p} sup 2} {    Eg vec  }  = 0} @DP
+
+si llamamos número de onda k al cociente @Math {w over {v sub {p} }  } podemos escribir: @DP
+
+@CurveBox @Math {  nabla vec sup {2}  E vec sub {g}   + {k sup 2} {    Eg vec  }  = 0}
+@DP
+ totalmente análoga a las ecuaciones de Helmholtz.
+
+
+@End @SubSection

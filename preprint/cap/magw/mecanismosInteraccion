@@ -1,0 +1,454 @@
+@Section
+@Title { Efectos no lineales de segundo orden en la amplitud. Unificación de las fuerzas  }
+@Begin
+@BeginSubSections
+
+
+
+@SubSection
+@Title { Componente estática: modificación del índice de refracción.}
+@Begin
+@BeginSubSubSections
+
+@SubSubSection
+@Title { Visión intuitiva.}
+@Begin
+@PP
+Aunque normalmente se considera que las ondas no interaccionan entre sí en el mismo sentido en el que interaccionan 2 partículas, por ejemplo, la realidad es que la existencia de efectos no lineales puede modificar el medio en el que se transmiten las ondas, especialmente en el caso de ondas estacionarias. Para poder profundizar más en estos conceptos acudiremos a analogías mecánicas. Observemos las ondas estacionarias que se producen en una cuerda tensa. @DP
+
+
+
+@Figure
+@Caption { Ondas estacionarias}
+@Location {TryAfterLine}
+{
+ @Scale @IncludeGraphic "img/fig53.eps"
+}
+@DP
+La expresión de la Energía cinética es: @DP
+@Math {E sub {c} = 1 slash 2 mu blpar {partial y }over {partial t} brpar sup {2} = 1 slash 2 mu blpar  omega A sen (kx) cos ( omega t) brpar sup {2}}
+mientras que la energía potencial es: @DP
+@Math {E sub {p} = 1 slash 2 T blpar {partial y }over {partial x} brpar sup {2} = 1 slash 2 T blpar K A cos (kx) sen (omega t) brpar sup {2}}
+@DP
+Es fácil ver que se encuentran desfasados @Sym pi @Sym slash 2. En los antinodos la energía cinética es máxima, pero su energía potencial es cero, es decir la cuerda no se deforma, sin embargo en los nodos la energía cinética se anula, mientras que la energía potencial se hace máxima. Esto producirá  en la cuerda dos efectos:
+@DP
+@NumberedList
+@ListItem { Variación de la longitud media ( Se estira ) {@Sym arrowright} @B {Curvatura del espacio}.}
+@ListItem { Variación de la tensión media ( Aumenta) {@Sym arrowright} @B {Variación velocidad de transmisión de las ondas}.}
+@EndList
+
+
+@DP
+Otra analogía que puede considerarse es el sonido ( onda longitudinal) donde también es posible observar dos ondas desfasadas entre sí @Sym pi @Sym slash 2, la de presión y la de velocidad. En los nodos de la onda de velocidad la presión media es máxima, mientras que en los antinodos de la onda de velocidad la presión media es mínima. Este efecto permite la levitación acústica.
+
+En la figura están representados la onda de velocidad, la onda de presión y las zonas de estabilidad  para la levitación de pequeños objetos.
+@DP
+
+
+@Figure
+@Caption { Levitación acústica}
+@Location {TryAfterLine}
+{
+0.6 @Scale @IncludeGraphic "img/fig54.eps"
+}
+@DP
+Al existir un gradiente de presión existe un gradiente de índice de refracción ( la velocidad del sonido aumenta en los nodos de velocidad) y una curvatura del espacio ( dilatación en los nodos de velocidad). Esto supone que cualquier onda viajera que atraviese la onda estacionaria quedará desviada ligeramente.
+@DP
+Las ondas gravitatorias difieren cualitativamente de las ondas acústicas en un aspecto fundamental: su número de onda de corte kc es imaginario. Esto es consecuencia directa de que q debe ser negativo para que las funciones radiales sean no periódicas - condición impuesta por la topología elíptica de las dimensiones compactadas. Una onda con número de onda imaginario no es propagante sino evanescente, y su energía asociada es negativa en el sentido de que constituye un potencial de confinamiento en lugar de energía cinética positiva.
+@DP
+En el caso de las ondas gravitatorias y debido a que la solución presenta energía negativa  los efectos serán contrarios, es decir:
+@NumberedList
+@ListItem { Disminución de la velocidad de propagación de las ondas.}
+@ListItem {Contracción del espacio.}
+@EndList
+
+@End @SubSubSection
+
+
+@SubSubSection
+@Title { Solución de Schwarzschild.}
+@Begin
+
+@DP
+
+La solución de Schwarzschild para las ecuaciones de campo de Einstein nos proporciona los dos efectos: 
+@DP
+
+@DashList
+@ListItem { Contracción del espacio: @Math {r' = blpar 1- {r sub {0}} over {r } brpar sup {1 over 2} r}}
+@ListItem { Ralentización del tiempo @Math {t' = blpar 1- {r sub {0}} over {r } brpar sup {1 over 2} t}}
+@EndList
+
+
+
+
+@DP
+donde @Math {r sub {0} = {2Gm} over {c sup {2}}} 
+@DP
+La ralentización del tiempo supone de hecho la creación de un gradiente de índice de refracción, ya que cuanto más lento avanza el tiempo menos velocidad efectiva presenta la luz en relación a un punto situado en el infinito. En realidad si se acepta que todo está formado por ondas no podemos distinguir entre una ralentización del tiempo o una disminución de la velocidad de propagación de las perturbaciones. 
+@DP
+Es de observar que este efecto no implicaría una variación de la velocidad de luz en el vacío absoluto, sino una disminución de la velocidad de la luz al atravesar una partícula-pulsación, al igual que la velocidad de la luz disminuye al atravesar diferentes medios.
+
+
+@End @SubSubSection
+
+@SubSubSection
+@Title { La ley de Newton como caso límite para campo débil y velocidades no relativistas.}
+@Begin
+@DP
+Supongamos una partícula-pulsación inmóvil en un campo gravitatorio. Si utilizamos la aproximación de rayo podemos calcular su trayectoria con relativa facilidad. Si consideramos que debido a su inmovilidad la curvatura del espacio no debe ser tenida en cuenta podemos estimar ahora el índice de refracción aparente debido a la dilatación gravitatoria del tiempo, que será igual al cociente entre la velocidad del tiempo en el infinito y la velocidad del tiempo en el punto a estudiar:
+@DP
+@Figure 
+@Caption { Origen de la curvatura del tiempo}
+@Location {TryAfterLine}
+{
+0.7 @Scale @IncludeGraphic "img/fig55.eps" 
+}
+@DP
+@Math {n (r)= {c} over {v} = {t} over {t'}= {t} over {t sqrt{1- {r sub {0}} over {r}} } = blpar 1- {r sub {0}} over {r}  brpar sup {- 1 slash 2}}
+@DP
+
+Una vez conocida la ley que rige n en función de r resulta  sencillo calcular el radio de curvatura que presentará cualquier tipo de radiación al transmitirse en dicho medio. @DP
+
+@Math {1 over {rho  } = d over {dR} ln(n) = {1 over {n}} cdot {{dn} over {dN}} = 1 over {n} nabla  n vec cdot  N vec}
+donde @DP
+
+@Math {rho  equivalence radio de curvatura, N equivalence Normal al rayo. } 
+@DP 
+Debido a la simetría esférica del problema el gradiente de n será: @DP
+
+@Math { nabla  n vec=  d over {dr} blpar 1 - {r sub {0}} over {r} brpar sup {-1 over 2} = {{-1} over {2} } cdot {{r sub {0}} over {r sup {2}} blpar }1 - {r sub {0}} over {r} brpar sup {-3 over 2}} @DP
+
+Sustituyendo nos queda: @DP
+
+@Math {1 over {rho} = 1 over {blpar 1 - {r sub {0}} over {r} brpar sup {-1 slash 2}}  cdot blbrack { {-1} over {2} }cdot{ {r sub {0}} over {r sup {2}} } blpar 1 - {r sub {0}} over {r} brpar sup {-3 slash 2}  brbrack cdot { r vec} over { parenleftex r vec parenleftex } cdot N vec }
+@DP
+simplificando y teniendo en cuenta que por definición @Math {1 over {rho} = { d sup {2} r } over { ds sup {2}}}podemos escribir: @DP
+
+@Math {{ d sup {2} r } over { ds sup {2}} =  {-1} over {2} cdot {r sub {0}} over {r sup {2}} blpar {1 - {r sub {0}} over {r}} brpar sup {-1 }   { r vec} over { parenleftex  r vec parenleftex} cdot  N vec} @DP
+
+Para el caso de una partícula inmóvil en la superficie de la Tierra se pueden hacer las siguientes simplificaciones: 
+@DP
+@Math {blpar 1 - {r sub {0}} over {r} brpar sup {-1 }  approxequal 1},    @Math { { r vec} over { parenleftex r vec parenleftex} cdot N vec   approxequal   1}  @DP
+ 
+Luego nos queda: @DP
+
+@Math { { d sup {2} r } over { ds sup {2}} =  {-1} over {2} cdot {r sub {0}} over {r sup {2}} }
+
+@DP
+
+Si tenemos en cuenta que el rayo avanza a la velocidad de la luz es posible escribir: @DP
+
+@Math {s= ct ; {ds} over {dt}= c; {d sup {2}s} over {dt sup {2}}= 0 }
+
+y aplicando la regla de la cadena para convertir la derivada con respecto al arco en derivada con respecto al tiempo @DP
+@DP
+@Math {{d sup {2} r} over {dt sup {2}} = {d sup {2} r} over {ds sup {2}} blpar {d  s} over {dt } brpar sup {2} + {d  r} over {ds } cdot  {d sup {2} s} over {dt sup {2}} = {d sup {2}r} over {ds sup {2}} cdot c sup {2}}
+@DP
+Sustituyendo: @Math { {d sup {2} r} over {dt sup {2}} {1} over {c sup {2} }=  {-1} over {2} cdot {2GM} over {c sup {2}r sup {2}} } {@Sym arrowright} @Box @Math {{d sup {2} r} over {dt sup {2}} =   {GM} over {r sup {2}} = g  } obteniéndose  la ecuación de Newton.
+@DP
+Es destacable que en el caso de partículas no estáticas sería necesario tener en cuenta la contracción del espacio. Sin embargo, para el caso de la luz - que se propaga a velocidad c - el modelo reproduce correctamente la deflexión gravitatoria predicha por la Relatividad General. Una integración numérica de la ecuación de trayectoria de rayos usando el índice de refracción @Math {n(r) = (1 - r sub {0} slash r) sup {-1 slash 2}} proporciona una desviación de @Math {2.122 cdot 10 sup {-6}} radianes (1.743 segundos de arco) al pasar rasante al Sol, frente al valor observado experimentalmente de @Math {1.75 +- 0.09} segundos de arco - un error del 0.5%, dentro del margen experimental.
+
+@DP
+
+@End @SubSubSection
+
+@SubSubSection
+@Title { Fuerzas aparentes por gradientes de velocidades. }
+@Begin
+@DP
+@B{Fuerza centrífuga.}
+@DP
+Veamos en esta ocasión un caso en el que el gradiente de velocidad del tiempo se produce por velocidad, obteniéndose por tanto, fuerzas aparentes. Si suponemos un disco que gira con velocidad angular @Sym omega tendremos que la velocidad del tiempo será distinta según la distancia a su centro. En efecto: @DP
+
+@Math {Delta t = blpar 1- {v sup {2}} over {c sup 2 } brpar sup {-1 slash 2} cdot Delta t}
+
+@DP
+, y recordando que @DP
+
+@Math {v= omega r} {@Sym arrowright}  @Math {n(r) = blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 slash 2} } @DP
+El gradiente de n será entonces: @DP
+
+@Math { nabla n =d over dr blbrack   blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 over 2}  brbrack = -1 over {2} cdot {2 omega sup {2}} over {c sup {2}} r blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-3 slash 2}} 
+@DP
+
+Como @Math {1 over {rho  } = d over {dR} ln(n) = 1 over {n} cdot {dn} over {dN} = 1 over {n} nabla  n vec cdot  N vec }tendremos que: @DP
+@Math {1 over  rho  = -1 over {2} cdot {2 omega sup {2} r} over {c sup {2}}  blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 }} {@Sym arrowright} @Math {1 over  rho  = - { omega sup {2} r} over {c sup {2}}  blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 }}
+ @DP 
+Para el caso no relativista 
+@DP
+@Math {blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 } approxequal 1 }
+@DP
+y por tanto:
+@DP @Math {1 over  rho  approxequal - { omega sup {2} r} over {c sup {2}} } @DP
+@Math {1 over  rho  approxequal - { omega sup {2} r} over {c sup {2}} } @Sym arrowright @Math {dr sup {2} over {ds sup {2}}  = - { omega sup {2} r} over {c sup {2}} } @DP
+
+Si tenemos en cuenta que las perturbaciones se desplazan a la velocidad de la luz en las dimensiones compactadas es posible escribir:
+@DP
+@Math {s= ct ; {ds} over {dt}= c; {d sup {2}s} over {dt sup {2}}= 0 }
+@DP
+y aplicando la regla de la cadena para convertir la derivada con respecto al arco en derivada con respecto al tiempo
+@DP
+@Math {{d sup {2} r} over {dt sup {2}} = {d sup {2} r} over {ds sup {2}} cdot blpar {d  s} over {dt } brpar sup {2} + {d  r} over {ds } cdot {d sup {2} s} over {dt sup {2}} = {d sup {2}r} over {ds sup {2}} cdot c sup {2}}
+@DP
+
+Sustituyendo: @DP
+@Math {dr sup {2} over {dt sup {2}} {1} over {c sup 2} = - { omega sup {2} r} over {c sup {2}} } {@Sym arrowright} @Math {a = - { omega sup {2} r} } @DP 
+Es decir, la formula tradicional de la aceleración centrípeta. Para el caso relativista tendríamos que: @DP
+@Math {dr sup {2} over {dt sup {2}} cdot {1} over {c sup 2}   = - { omega sup {2} r} over {c sup {2}}  blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 }} {@Sym arrowright} @Math { a  = - { omega sup {2} r}   blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 }}, @DP  
+Esta aceleración se observaría localmente, desde nuestra posición estática y debido a la dilatación temporal lo que mediríamos sería: @DP
+@Math { a  = - { omega sup {2} r}   blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 slash 2 }} @DP
+Por tanto @I {la dilatación temporal y la contracción del espacio provocadas por las ondas estacionarias en las dimensiones compactadas son el origen de la gravedad y de otros fenómenos, como la fuerza centrífuga. El streaming gravitomagnético, desarrollado en la sección siguiente, constituye el segundo mecanismo de interacción }
+@DP
+@B{Constante cosmológica.}
+@DP
+
+En  @Cite {$ernesto} se muestra que la expansión del Universo que se refleja en la ley de Hubble provoca un gradiente de velocidad del tiempo, lo que origina una fuerza de repulsión entre las partículas independiente de la masa. La existencia de esta fuerza proporciona un valor para la constante cosmológica de 1.178 10@Sup {-52} m @Sup {-2} compatible con los últimos datos experimentales. @DP
+
+@NP
+@End @SubSubSection
+
+@EndSubSubSections
+@End @SubSection
+
+
+
+@SubSection
+@Title { Componente dinámica: streaming gravitomagnetico.}
+@Begin
+@BeginSubSubSections
+
+@SubSubSection
+@Title { Visión intuitiva. }
+@Begin
+@DP
+
+
+Otro posible efecto no lineal consiste en el arrastre del fluido en la dirección de propagación de la onda (p.e. streaming acústico). Este arrastre proporciona una explicación intuitiva de las fuerzas que aparecen entre corrientes de masa paralelas. 
+@DP
+Cuando dos pulsaciones viajan en el mismo sentido (Figura 2.19, izquierda), cada una crea un gradiente de índice de refracción @Math { nabla n}  que apunta hacia su eje. La pulsación vecina se encuentra en una zona donde el arrastre es mayor en el lado interior (entre las dos pulsaciones) que en el lado exterior. Esta asimetría produce una curvatura del frente de onda que aleja las dos pulsaciones entre sí - fuerza aparente de repulsión.
+@DP
+Cuando dos pulsaciones viajan en sentidos opuestos (Figura 2.19, derecha), la asimetría se invierte: el menor arrastre está ahora entre las dos pulsaciones, produciendo una curvatura que las acerca - fuerza aparente de atracción.
+@Figure
+@Caption { Fuerza aparente de repulsión y atracción}
+@Location {TryAfterLine}
+{
+0.6 @Scale @IncludeGraphic "img/fig56.eps"
+}
+
+
+
+
+
+@End @SubSubSection
+
+@SubSubSection
+@Title { Tensor de Lighthill gravitomagnético. }
+@Begin
+@DP
+@B {Expansión perturbativa de la ecuación de onda}
+@DP
+Punto formalizado por Claude y revisado por el autor.
+@DP
+La ecuación de onda gravitomagnética en 6D en ausencia de masas es:
+@DP
+@Math {partialdiff sup {2} { Chancery Slope } @Font { H } slash partialdiff t sup {2} - c sup {2} nabla sub {5+1} sup {2}  { Chancery Slope } @Font { H } = 0}
+@DP
+Aplicando separación de variables en coordenadas cilíndrico-elípticas, el campo se descompone como @Math {{ Chancery Slope } @Font { H } = Psi (x,y,z) · D(xi,eta) · T(t)}, donde @Math { Psi (x,y,z) } satisface la ecuación de Helmholtz en las tres dimensiones extendidas, D satisface las ecuaciones de Mathieu en las dos dimensiones compactadas @Math {(coordenadas xi radial y eta = z angular)}, y @Math {T(t) = cos( omega t)} es la parte temporal. Centrando el análisis en la coordenada angular @Math {z = eta} de las dimensiones compactadas, que es la que contiene la no linealidad relevante para el streaming, la solución de primer orden es:
+@DP
+@Math {{ Chancery Slope } @Font { H } sup {(1)}(z, t) = Psi(z) · cos (omega t) }
+@DP
+donde @Math {Psi(z)} es la solución de la ecuación angular de Mathieu:
+@DP
+@Math {Psi '' + (a - 2q cos 2z) Psi = 0}
+@DP
+Para obtener los efectos de segundo orden, se expande el campo como
+@DP
+@Math {H = H sup{(1)} + epsilon  H sup{(2)} + O(epsilon sup{(2)})} y se recogen los términos de orden @Math {epsilon sup 2}. La ecuación resultante para el campo de segundo orden es:
+@DP
+@Math {partialdiff sup {2} H sup {(2)} slash partialdiff t sup {2} - c sup {2} nabla sup {2} H sup {(2)} = partialdiff sup {2} langle L_"{"ij"}" rangle  slash partialdiff x sub "{"i"}" partialdiff x sub "{"j"}"}
+@DP
+donde el tensor de Lighthill gravitomagnético, promediado en el tiempo, es:
+@DP
+@Math {langle L_"{"ij"}" rangle = half cdot Psi sub {i}(z) cdot Psi sub {j}(z)}
+@DP
+Este promedio temporal es no nulo precisamente porque la solución de primer orden es una onda estacionaria. La no linealidad efectiva no requiere disipación sino únicamente la naturaleza estacionaria de la onda confinada en las dimensiones compactadas.
+@DP
+El tensor de Lighthill gravitomagnético genera una fuerza de arrastre (streaming gravitomagnético) igual a su gradiente y cuya componente a lo largo de la coordenada angular z es:
+@DP
+
+@Math {Fz = - half cdot partialdiff slash partialdiff z bar Psi (z) bar sup {2}}
+@DP
+
+@B{Justificación formal del paso 2}
+@DP
+El paso 2 de la derivación original (dividir por r para pasar de 5D a 6D) queda justificado formalmente como sigue: al integrar la ecuación de onda de segundo orden sobre las dimensiones compactadas, el tensor de Lighthill gravitomagnético @Math { langle L_"{"ij"}" rangle } contribuye con un factor de ponderación @Math {1 slash r(z)} efectivo, donde r(z) es el radio local de la trayectoria elíptica ponderado por la distribución de amplitud @Math { bar Psi(z) bar sup {2}}. En el caso circular (a = b = R, q = 0), este factor es @Math {1 slash R}, el perímetro y la velocidad se cancelan, y se recupera:
+@DP
+@Math { mu sub {g} = -4 pi G hat m sub {0} slash  mu sub {0}}
+con @Math {G hat = 1} de orden cero. La corrección elíptica dada del capítulo 1 y la corrección de masa del Capítulo 4 son efectos de primer orden que juntos reproducen @Math {g slash 2} con una precisión del 0.05%, coherente con los términos de orden superior no incluidos.
+@DP
+Nota aclaratoria: La derivación original del paso 2 se apoyaba en un factor de ponderación @Math {1 slash r} efectivo al integrar sobre las dimensiones compactadas. Con el desarrollo posterior de la sección 2.2.2.4 - fuente puntual y mezcla de regímenes Stokes-Eckart - esta justificación quedó superada por un argumento más directo. Se conserva aquí como nota histórica, señalando que el factor 1 slash r sigue siendo aplicable a las ondas de interfaz por razones independientes desarrolladas en el Capítulo 3.
+@DP
+@B {Arrastre sin disipación}
+@DP
+En la acústica clásica, el streaming acústico requiere disipación: la onda viajera necesita atenuarse para crear un gradiente de presión de radiación neto. Sin atenuación, los gradientes se cancelan al promediar en el tiempo y no existe fuerza neta. Esto ha llevado a algunos a cuestionar si el streaming gravitomagnético es posible en un espacio-tiempo sin disipación.
+@DP
+La respuesta es que la pregunta está mal planteada. En el modelo, las pulsaciones no son ondas viajeras sino ondas estacionarias confinadas en las dimensiones compactadas. Y para una onda estacionaria el argumento cambia completamente:
+@DP
+El promedio temporal del tensor de Lighthill gravitomagnético es no nulo precisamente porque la onda estacionaria tiene una distribución espacial fija de energía - no se cancela al promediar en el tiempo. El gradiente de esa distribución es la fuerza de arrastre gravitomagnético, y existe independientemente de si hay disipación o no. La disipación no crea el streaming - la naturaleza estacionaria de la onda es suficiente.
+@DP
+@B {Observación sobre la disipación y los regímenes de streaming. Efecto Andreev-Bashkin }
+@DP
+La literatura sobre streaming acústico distingue tres regímenes según la importancia relativa de las fuerzas viscosas e inerciales, caracterizados por el número de Reynolds acústico @Math {Re = U delta slash upsilon}:
+@DP
+@I{Streaming de Rayleigh-Schlichting} (Re << 1, viscoso): confinado en la capa límite acústica @Math {delta}, con decaimiento exponencial @Math {u proportional exp(-r slash delta)}. Requiere viscosidad para su existencia.
+@DP
+@I{Streaming de Eckart} (Re >> 1, inercial): se propaga lejos de la fuente con decaimiento @Math {u proportional 1 slash r} en el eje del haz y @Math {u proportional 1 slash r sup {2}} en el campo lejano fuera del eje.
+@DP
+@I{Streaming de Stokes dipolar} (sin viscosidad, campo lejano): solución de la ecuación de momento sin término viscoso, con fuente dipolar localizada. Da @Math {u proportional 1 slash r sup {2}}.
+@DP
+Aparentemente la distinción entre estos regímenes no debería existir porque el espacio-tiempo no tiene disipación, pero en realidad puede existir viscosidad sin disipación. La ausencia de disipación en el espacio-tiempo se explica por el efecto Andreev-Bashkin del superfluido cuántico:
+@DP
+El arrastre entre los componentes inercial y de fase del streaming es de tipo corriente-corriente, no densidad-densidad, y no produce pérdida de energía. El espacio-tiempo se comporta como viscoso porque hay arrastre mutuo entre componentes del superfluido, no porque haya rozamiento real.
+@DP En el capítulo 3 se desarrollará en toda su amplitud la consecuencias de que el espacio-tiempo pueda ser considerado un superfluido cuantico. De momento nos contentaremos con entender que puede existir viscosidad sin disipación y que por tanto habrá que analizar con cuidado que régimen es aplicable en cada caso concreto.
+
+
+
+
+
+@End @SubSubSection
+
+
+@SubSubSection
+@Title { Solución de Kerr y frame dragging. }
+@Begin
+@DP
+@B {Aproximaciones asintoticas}
+@DP
+La solución de Kerr a las ecuaciones de campo de Einstein proporciona una expresión analítica para este efecto,  el cual es conocido en relatividad como frame-dragging o arrastre de marco.La velocidad angular de arrastre del espacio-tiempo en el plano ecuatorial de una masa en rotación es:
+@DP @Math {omega = {Phi } over {t} = {2mra} over {lpar r sup {2} + a sup {2} rpar sup {2} }} donde @Math {m equivalence masa, r equivalence radio, a = {J} over {mc}} @DP
+Si estudiamos el caso en que  r>>>a podemos escribir la velocidad lineal de arrastre como @DP
+@Math {v= omega cdot r = {2mr sup {2}a} over {lpar r sup {2} + a sup {2} rpar sup {2} }   approxequal  {Constante} over {r sup {2}}}, @DP
+  
+es decir la fuerza de atracción-repulsión disminuye con el cuadrado de la distancia. @DP
+De hecho en la métrica de Kerr viene implícito uno de los postulados de esta hipotesis, en efecto si consideramos la solución de luz estacionaria para una partícula elemental nos quedaría: @DP
+
+@Math {r sub {e}={Gm} over {c sup {2}} + sqrt{ blpar {Gm } over {c sup {2}} brpar {2} - a sup {2}} } 
+ @DP
+Como a>>>Gm entonces podemos escribir: @DP
+@Math {r sub {e}= a i = {J} over {mc} i= {hbar  slash 2 }over {mc}i = {hbar  }over {2mc}i = xi sub {0}i}
+@DP
+Es de observar que el carácter imaginario del radio puede interpretarse como una dirección perpendicular a todas las demás. @DP
+@DP
+
+
+@B {Analogía entre el streaming gravitomagnético y la solución de Kerr}
+@DP La formalización de este punto surgió de forma espontanea por parte de Claude. El autor ha revisado el punto y asume plena responsabilidad sobre el.
+@DP
+Dado que la solución de Kerr se estudia en las dimensiones extendidas el único régimen aplicable es el de Stokes dipolar sin viscosidad, ya que experimentalmente no se ha observado viscosidad en el espacio-tiempo en dichas dimensiones..
+@DP
+El streaming gravitomagnético sigue la cadena causal ya establecida anteriormente:
+@DP
+La fuerza de arrastre depende del cuadrado de la densidad de energía @Math {bar Psi sup {2} bar}, la cual genera un campo de velocidades @Math {u(r,theta)}, lo que genera una modificación en el indice de refracción @Math { nabla n_K(r,theta)}, lo que va a provocar la curvatura de las trayectorias.
+@DP
+Paso 1. La densidad de energía de la pulsación en rotación decae como una onda toroidal:
+@DP
+@Math {bar Psi bar sup {2}(r,theta) proportional sin sup {2} theta slash  r sup {2}}
+@DP
+Paso 2. La fuerza de arrastre es el gradiente de la densidad de energía:
+@DP
+@Math {F_ phione = - half  cdot partialdiff  bar Psi bar sup {2} slash delta r proportional  sen sup {2} theta  slash  r sup {3}}
+@DP
+Paso 3. La velocidad de streaming tangencial, solución de la ecuación de Stokes con fuente dipolar:
+#u_?(r,?) = k · sin²? / r²
+#Paso 4. El arrastre modifica el índice de refracción:
+#?n_K(r,?) = -u_?/c = -(r_s·a·sin²?) / (2r²)
+#Paso 5. La curvatura de las trayectorias:
+#?(?n_K)/?r = r_s·a·sin²? / r³  ?  curvatura ? sin²?/r³  ?
+#Índice de refracción total: Schwarzschild + Kerr
+#El índice de refracción total es:
+#n(r,?) ? 1 + (r_s/2) · [1/r  ?  a·sin²?/r²]
+#Las ecuaciones del rayo en este medio son:
+#d²r/ds² ? -r_s/(2r²) + r_s·a·sin²?/r³
+#r·d²?/ds² ? -r_s·a·sin(2?)/(2r²)
+#Los decaimientos con r coinciden término a término con las ecuaciones de geodésica de Kerr en campo débil.
+
+
+
+@End @SubSubSection
+
+@SubSubSection
+@Title { Origen de las fuerzas y jerarquía de acoplamientos. }
+@Begin
+@DP
+
+Luego el arrastre del fluido justifica fuerzas de atracción-repulsión que disminuyen con el cuadrado de la distancia, y en el que el sentido de desplazamiento de la onda provoca la aparición de dos cargas que se atraen si son de diferente signo y que se repelen si son del mismo signo.@I{ Por tanto, el arrastre de fluido provoca fuerzas análogas a la eléctrica.} @DP
+Recordemos la forma de las soluciones a la ecuación de onda gravitomagnética para las dimensiones compactadas.@DP
+@Figure 
+@Caption { Soluciones a la ecuación de onda en las dimensiones compactadas }
+@Location {TryAfterLine}
+{
+0.4 @Scale @IncludeGraphic "img/fig58.eps" 
+}
+
+
+
+
+El arrastre @B{se producirá a diferentes valores de la coordenada {@Sym xi}} , es fácil ver que los neutrinos interaccionarán muy débilmente con el resto de partículas, mientras que los electrones interaccionaran fuertemente consigo mismos y con las epícimas cargadas, pero muy débilmente con los neutrinos y con las epícimas neutras. La intensidad relativa de estas interacciones también puede ser observada. @DP
+Es importante recalcar que las epícimas solo existen como combinaciones lineales con el resto de partículas, por lo que las diferentes combinaciones tendrán diferentes interacciones. Por ejemplo la epícima @IncludeGraphic "img/ko.eps"  a  se verá afectado por la gravedad ( cambios en el índice de refracción y deformaciones del medio de propagación) , por fuerzas electromagnéticas y por arrastre de la onda de superficie (fuerzas electrofuertes). 
+Análogamente la epícima @IncludeGraphic "img/ko.eps" c  debería ser afectado por la gravedad y por fuerzas neutrínicas y electrofuertes, pero no por fuerzas electromagnéticas. @DP
+
+Anteriormente habíamos determinado la relación entre la masa y la carga de las partículas elementales basándonos en consideraciones gravitomagnéticas. @DP
+
+
+@Math {{q sub { epícima } }over {{m sup {2}} sub { epícima} } = { e  }over {{m sup {2} }sub { e} }  ={q sub { nu sub{tau} } }over {{m sup {2}} sub { nu sub{tau}} }={q sub { nu sub{mu} } }over {{m sup {2} }sub { nu sub{mu}} }={q sub { nu sub{e} } }over {{m sup {2} }sub { nu sub{e}} }} 
+@DP
+
+Sin embargo, si suponemos que las fuerzas eléctricas provienen del arrastre del espacio-tiempo @I {esta relación no puede ser cierta.} Debido al mecanismo de interacción  la longitud del movimiento cerrado de las partículas no debe influir, sino únicamente debe influir la velocidad de arrastre. En el análogo del streaming acústico la velocidad de arrastre es directamente proporcional a la intensidad de la onda en el caso de un predominio de los términos viscosos o directamente proporcional a la raíz cuadrada de la intensidad de la onda en caso de un predominio de los términos inerciales @Cite  {$botton}. Si suponemos que la intensidad de la onda es directamente proporcional a la masa de la partícula tendremos un rango de cargas posibles para las diferentes partículas en función de su masa.
+@DP
+Si predominan las fuerzas inerciales @DP
+@Math {{q sub { epícima } }over {{m sup {0,5}} sub { epícima} } = { e  }over {{m sup {0,5}} sub { e} }  ={q sub { nu sub{tau} } }over {{m sup {0,5} }sub { nu sub{tau}} }={q sub { nu sub{mu} } }over {{m sup {0,5} }sub { nu sub{mu}} }={q sub { nu sub{e} } }over {{m sup {0,5}} sub { nu sub{e}} }}
+
+@DP
+si predominan las fuerzas viscosas @DP
+@Math {{q sub { epícima } }over {m  sub { epícima} } = { e  }over {m  sub { e} }  ={q sub { nu sub{tau} } }over {m  sub { nu sub{tau}} }={q sub { nu sub{mu} } }over {m  sub { nu sub{mu}} }={q sub { nu sub{e} } }over {m  sub { nu sub{e}} }}
+
+@DP
+o si existe un equilibrio entre fuerzas viscosas e inerciales, que es quizás el más probable porque proporciona para las epícimas un carga muy similar a la carga de Planck.  (@I{Nota: El comportarse como si existiese viscosidad no implica la existencia de perdidas de energía por rozamientos en el espacio-tiempo})
+@DP
+@Math {{q sub { epícima } }over {{m sup {epícima}} sub { epícima} } = { e  }over {{m sup {0,75}} sub { e} }  ={q sub { nu sub{tau} } }over {{m sup {0,75}} sub { nu sub{tau}} }={q sub { nu sub{mu} } }over {{m sup {0,75} }sub { nu sub{mu}} }={q sub { nu sub{e} } }over {{m sup {0,75}} sub { nu sub{e}} }}
+@DP
+ 
+Deberíamos hablar de culombios neutrínicos, culombios eléctricos o culombios electrofuertes, según el caso.
+A causa de consideraciones que se desarrollaran más adelante en este trabajo se ha asignando una masa de  11,87 MeV @Sym slash c @Sup {2}  a las epícimas ligeros y de 12,91 MeV @Sym slash c @Sup {2} a las epícimas pesadas. 
+@DP
+
+@Table 
+@Caption {Cargas de las partículas elementales}
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B | @Cell C  | @Cell D | @Cell E }
+rule { yes }
+{
+@Rowa A {  Pulsación  } B {  masa} C {8p @Font {Tipo de interacción}} D {8p @Font {Rango de carga (En culombios equivalentes)}} E {8p @Font {Carga más probable (En culombios equivalentes)}} 
+ 
+ @Rowa A { @Math {nu sub e}   } B { 0,01983 eV} C {8p @Font NEUTRÍNICA} D { 8p @Font {6,22 10 @Sup {-27} {@Sym arrowright}  3,16 10 @Sup {-23}}} E {4,429 10 @Sup {-25}} 
+ @Rowa A { @Math {nu sub mu}  } B { 0,0283 eV } C {8p @Font NEUTRÍNICA} D {8p @Font {8,87 10 @Sup-27 {@Sym arrowright}  3,77 10 @Sup -23}} E {5,78 10 @Sup -25}
+ @Rowa A { @Math {nu sub tau}  } B {0,07356 eV } C {8p @Font NEUTRÍNICA} D {8p @Font {2,31 10 @Sup-26 {@Sym arrowright}  6,08 10 @Sup-23}} E {1,18 10 @Sup-26}
+ @Rowa A { e+,- } B { 0,511MeV} C {8p @Font ELECTROMAGNÉTICA} D {8p @Font {1,602 10 @Sup-19}} E {1,602 10 @Sup-19}
+ @Rowa A { @IncludeGraphic "img/ko.eps" . @Sub {0 ligero} } B { 11,87 MeV} C {8p @Font ELECTROFUERTE} D {8p @Font {7,75 10 @Sup -19 {@Sym arrowright}  3,73 10 @Sup-18}} E {1,70  10 @Sup-18}
+ @Rowa A { @IncludeGraphic "img/ko.eps" . @Sub {+,- pesado} } B { 12,91 MeV} C {8p @Font {ELECTROMAGNÉTICA @LP ELECTROFUERTE}} D {8p @Font {1,602 10 @Sup-19 @LP 8,05 10 @Sup-19 {@Sym arrowright} 4,05  10 @Sup-18}} E {1,602 10 @Sup-19 @LP 1,805 10 @Sup-18}
+ 
+}
+@DP 
+@End @SubSubSection
+
+
+
+@EndSubSubSections
+@End @SubSection
+
+
+
+@EndSubSections
+@End @Section

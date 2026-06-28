@@ -1,0 +1,72 @@
+@Section
+@Title { La energía como vibraciones transversales}
+@Begin
+@DP
+Los cristales líquidos presentan propiedades intermedias entre un liquido y un solido elástico, lo que permite la transmisión de ondas transversales siempre y cuando estas tengan una frecuencia lo suficientemente elevada. Uno de los estados en los que pueden presentarse los cristales líquidos, la mesofase esméctica, está conformada por una serie de capas exactamente paralelas, cada una de las cuales termina en un escalón abrupto. Estas capas pueden fluir una sobre otra sin ninguna dificultad, pero en el movimiento en cualquier otra dirección el flujo es extremadamente viscoso.
+@DP
+Chandrasekhar en @Cite {$liquidcrystal} demuestra para la fase esméctica que si consideramos vibraciones de pequeña amplitud las ondas longitudinales pueden propagarse en dirección normal a las capas, mientras que las ondas transversales quedan fuertemente atenuadas. En el plano de las capas las ondas longitudinales y uno de los componentes de la onda transversal pueden propagarse. 
+@DP
+Podemos postular entonces que el espacio-tiempo presenta un comportamiento similar al de la mesofase esméctica de un cristal liquido cuyas capas fuesen concéntricas al centro de las dimensiones compactadas.
+@DP
+@Figure 
+@Caption {  Hipotética estructura en capas }
+@Location {TryAfterLine}
+{1.1 @Scale @IncludeGraphic "img/fig75.eps"
+}
+@DP
+Nuevamente ha de recordarse al lector que el considerar el espacio-tiempo como un cristal liquido es solo una analogía útil. En principio no es necesario para la hipótesis la existencia real de estas capas ni de ningún tipo de partícula fundamental que las conforme, lo fundamental es que las ondas transversales solo pueden desplazarse en alguna de las tres dimensiones extendidas y vibrar en la dirección de la coordenada @Sym {tau}.
+@DP 
+El movimiento acelerado de una partícula con carga eléctrica provocará una perturbación al nivel de la coordenada @Sym {xi} que corresponde a las interacciones electromagnéticas, que se desplazará a la velocidad de la luz en alguna de las dimensiones expandidas.  Es fácil observar que el movimiento alternativo del espacio tiempo en la dirección @Sym {tau} aparecerá en este caso como un campo eléctrico que cambia de signo. Por tanto, una onda transversal generada en estas condiciones aparecerá como un campo eléctrico alternativo que se desplaza en alguna de las direcciones expandidas a la velocidad de la luz.
+@DP 
+@Figure 
+@Caption {  Visión intuitiva de la radiación electromagnética }
+@Location {TryAfterLine}
+{0.6 @Scale @IncludeGraphic "img/fig74.eps"
+}
+@DP
+Por supuesto, este mecanismo permitiría la creación y transmisión de ondas electrofuertes y neutrínicas. Pero, ¿por qué no las hemos detectado todavía?. En el caso de las ondas electrofuertes no existen en la Naturaleza cargas electrofuertes aisladas, sería como intentar crear ondas electromagnéticas agitando neutrones. En el caso de las ondas electrodébiles su interacción con la materia sería muy débil, pero no inexistente. Esta sería una buena prueba experimental de la presente hipótesis. 
+@DP
+Por otro lado, la trayectoria elíptica de las vibraciones que habíamos asignado a las partículas materiales obliga por tanto a que estén conformadas por @B {vibraciones longitudinales}, lo que nos permite establecer una clasificación de las partículas en base al modo de vibración.
+@DP
+
+@CentredDisplay @Tbl
+rule { yes }
+aformat { @StartHSpan @Cell @B  A | @HSpan | @HSpan }
+bformat { @StartHSpan @Cell  A | @HSpan | @Cell B }
+cformat { @Cell A | @Cell B | @Cell C }
+{
+@Rowa
+A { Vibraciones del Espacio-Tiempo }
+@Rowb
+A { Longitudinales -> @B {MATERIA} }
+B { Transversales -> @B {ENERGÍA} }
+
+@Rowc
+A { Asimétricos: @LP @B Fermiones }
+B { Simétricos: @LP @B {Bosones con masa}}
+C { @LP @B Fotones }
+}
+
+@DP
+Podemos resolver la ecuación de onda hexadimensional para los fotones siguiendo los postulados anteriores
+@DP
+@Math {( nabla sub {6D} sup {2} + k sup {2}) cdot H = 0} @DP
+@DP
+El laplaciano en coordenadas cilíndrico elípticas es separable,por lo que podemos asumir que: @DP 
+@Math {H(xi,eta,x,y,z)=Phi(xi , eta) cdot Psi(x,y,z)}
+@DP
+que podemos separar en dos ecuaciones
+@DP
+@Math {{nabla {sup {2}} sub {xi, eta  } Phi( xi, eta)} over {Psi( xi, eta)} + k sub {c} sup {2} = 0 } @DP 
+@Math {{nabla {sup {2}} sub {3D} Psi(x,y,z)} over {Psi(x,y,z)}+ beta sup {2} = 0 } @DP
+@DP
+Al tratarse de ondas transversales que se desplazan en alguna dirección extendida tenemos que @Math {k sub {c}=0} y por tanto @Math {D( xi, eta)= Constante}
+@DP
+La segunda ecuación se puede separar nuevamente y presenta las mismas soluciones que en el caso de una partícula material aislada con movimiento lineal uniforme (en este caso a la velocidad de la luz) y ya discutidas anteriormente .
+@DP
+@Math { Z(z)=  C sub {4} Sen( beta z) } 
+@DP
+@Math { P (r,phi)= C sub {5} cdot {{cos (-phi + theta ) }over r}}
+@DP
+donde el parámetro @Sym {beta} es el número circular de onda del fotón y el parámetro @Sym {theta} la inclinación del plano de polarización. 
+@End @Section

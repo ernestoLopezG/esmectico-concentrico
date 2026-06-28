@@ -1,0 +1,43 @@
+@SubSection 
+@Title { El muón @Sup -}
+@Begin
+@DP
+@Figure @Caption { Propuesta para el muón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img065.eps"} 
+@DP 
+@Math {m 'sub {1} = { 37,69 cdot 24,78 } over { 37,69+24,78 } =  14,95 MeV} 
+@DP 
+@Math {m 'sub {2} = { 37,69 cdot 11,87 } over { 37,69+11,87 } =  9,027 MeV } 
+@DP 
+@Math {m 'sub {rep} = -{ 14,95 cdot 9,027 } over { 14,95+ 9,027 } =  -5,6285 MeV  }
+@DP
+Por tanto:
+@DP   
+@Math{m sub {mu} = 37,69+24,78+11,87+1,7072 cdot ( 14,95+9,027-5,6285 ) = 105,6641 MeV}
+@DP 
+Podemos asignar la energía de enlace de una manera proporcional a su masa, luego tendremos tres ondas con las siguientes propiedades: 
+@DP 
+Onda 1: Masa  33,3452 MeV Carga 1e+
+@DP
+Onda 2: Masa  50,7175 MeV Carga 2e-
+@DP
+Onda 3: Masa  15,8096 MeV Carga 0
+@DP  
+El momento magnético será:
+@DP
+@Math {mu sub {1} = { 2e cdot hbar } over { 2 m sub {1} } =   {2 cdot  1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 50,7175 cdot 1.78 10 sup {-30}}   =-1,871610 sup {-25} J slash T}
+@DP
+@Math {mu sub {2} = { e cdot hbar } over { 2 m sub {2} } =   { 1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 33,3452 cdot 1.78 10 sup {-30}}   =1,4233sup {-25 } J slash T}
+@DP
+@Math {mu sub {mu} = mu sub {1}+ mu sub {2} =-1,8716 10 sup{-25}+ 1,4233 10 sup {-25
+} = -4,48 10 sup {-26} J slash T}.
+@DP 
+Como el valor experimental es de  @Math {-4,49 cdot 10 sup { -26} J slash T} el error es del 0,16%.
+@DP
+El hecho de asignar al muón, no como un leptón, sino como el barión más ligero posible, es una decisión muy arriesgada, pero en el contexto de esta hipótesis casí inevitable. En primer lugar, la masa y el momento magnético estimados se aproximan muy bien a los reales, sin ningún parámetro libre - n=3, sólo una combinación posible. En segundo lugar la descomposición única en tres partículas refuerza esta idea - tres estratos -> tres leptones.
+@DP
+La objección puede provenir de la inexistencia de interacción fuerte en los muones. Sin embargo, la captura muónica por núcleos ( @Math {mu sup {-} + p arrowright n + nu sub {mu}}) es un proceso bien establecido experimentalmente. El experimento MuCap (PSI) mide tasas de captura de @Math {460-725 s sup -1} en hidrógeno, muy inferiores a las de procesos hadronicos típicos (@Math { similar 10 sup {23} s sup {-1}}) pero no despreciables. La tasa escala como @Math {Z sup 4} con el número atómico del núcleo captor.
+@DP
+Desde el modelo, la escasa tasa de captura tiene una explicación estructural natural. En la captura electrónica ordinaria (@Math {p + e sup {-} arrowright n + upsilon sub {e}}), el protón (n=27) pasa a neutrón (n=25) - una reorganización de epícimas dentro de la misma familia estructural, que el sustrato puede gestionar con relativa facilidad. En la captura muónica, en cambio, el protón (54 epícimas) debe absorber el muón (n=3, 6 epícimas adicionales) y reconfigurar el conjunto hacia el neutrón: no es una reorganización interna sino la disolución de una estructura bariónica completa (3,2,1) dentro de otra mucho mayor, seguida de una recristalización en una forma específica. La barrera no es energética sino topológica - la complejidad de la reorganización estructural impone una vida media larga, coherente con el criterio de Landau: las reorganizaciones que requieren muchos pasos en el sustrato tienen umbrales de velocidad crítica altos y por tanto tasas bajas.
+La dependencia @Math {Z sup 4} observada es compatible con este marco: a mayor Z, mayor número de nucleones disponibles para participar en la reorganización, aumentando las vías posibles de recristalización. La distinción cuantitativa entre esta interpretación y la del MS (interacción débil mediada geométricamente) queda como problema abierto.
+
+@End @SubSection

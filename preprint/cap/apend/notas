@@ -1,0 +1,16 @@
+
+ 
+@PP 
+Parte del desarrollo formal del trabajo, especialmente de los capítulos 2, 3 y 8 fue elaborado en sesiones de trabajo asistidas por IA (Claude, Anthropic, 2025). El autor asume plena responsabilidad intelectual del contenido.
+@DP
+El cálculo simbólico y la representación de funciones se ha realizado en gran parte con el programa wxmáxima 22.12.0, con motor de cálculo Máxima 5.46.0
+@DP
+Para la solución de ecuaciones diferenciales se han buscado soluciones análiticas publicadas, cuando esto no ha sido posible se ha acudido a su resolución numérica. La mayoria se han resuelto con wzgrapher y"/"o el programa escrito en Java The Schrödinger Numerov Eigensystem Model, pensado para solucionar la ecuación de Schrodinger independiente del tiempo con un potencial arbitrario, pero que puede utilizarse para obtener los valores propios de otras ecuaciones diferenciales de segundo orden relacionadas con ella simplemente modificando la expresión del potencial.
+@DP
+El ajuste de las estimaciones de masas y momentos magnéticos de los hadrones se han realizado con la hoja de cálculo LibreOffice Calc, programa que también se ha utilizado para generar algunas gráficas sencillas.
+@DP
+Cuando no se disponía de datos númericos de algunos experimentos, especialmente factores de forma, pero sí se disponía de gráficas publicadas y libres se ha procedido a su comparación superponiendo ambas gráficas mediante el software GIMP, ajustando las escalas para que fueran comparables.
+@DP
+Sin ánimo de ser repetitivo con lo que ya se ha señalado en el Prefacio, el autor desea clarificar que aunque la hipótesis está llena de postulados, se ha procurado que no sean "ad hoc", comprobando que dichos postulados solucionaban varias dificultades (normalmente relacionadas, aunque en algunos casos independientes entre sí) simultaneamente, y no únicamente una.
+@DP
+Finalmente indicar que a lo largo de este trabajo se han aceptado errores del orden del 1-2% como criterio de consistencia con el fin de conseguir un modelo unificado. Este umbral refleja no una limitación de la hipótesis sino el nivel de aproximación inherente a una primera formulación. Se prefiere una hipótesis que resuelva simultáneamente múltiples problemas independientes con esa precisión a una que ajuste un único observable hasta la octava cifra decimal sin capacidad explicativa en otros contextos.

@@ -1,0 +1,800 @@
+@SubSection 
+@Title { Solución para las dimensiones compactadas. Leptones.}
+@Begin
+@BeginSubSubSections
+
+@SubSubSection
+@Title { Ecuación radial y ecuación angular}		
+@Begin
+@DP
+
+En el sistema de coordenadas elípticas  (3) puede reescribirse de la siguiente manera: @Cite {$mclachlan} @DP
+
+@Math { 2 over {f sup {2} ( cosh (2 xi) -cos ( 2 eta))} blpar {partial} over {partial xi} + {partial} over {partial eta}   brpar  D + k sup {2} sub {c} cdot D = 0} 
+
+@DP
+Y suponiendo que D puede escribirse como @Math {D(xi,eta)=G(xi)cdot N (eta) }nos quedaría:
+@DP
+@Math {1 over {G} {partial sup {2} G } over {partial xi sup {2}} + { k sup {2} sub {c}} over {2} f sup {2} cosh (2 xi) = - {1} over {N} {partial sup {2} N  } over { partial eta sup {2}} + {k sub {c} sup {2}} over {2} f sup {2} cos (2 eta )}
+@DP
+
+
+que puede ser separada mediante una constante que llamaremos a ( No confundir con el semieje mayor de la elipse)
+@DP
+@Math {G'' -(a-2q cosh 2 xi) G = 0} @DP
+@Math {N'' -(a-2q cos 2 eta) N = 0} @DP
+
+
+
+donde se ha definido: @DP
+
+@Math {q= {k sub{c} sup {2} f sup {2}} over {4}} y la constante de separación a solo depende del parámetro q, es decir a= a(q).@DP
+
+Es notable observar que para el caso límite en que q=0 todas las soluciones se reducen a las ya conocidas como funciones de Bessel. 
+
+				
+@End @SubSubSection	
+
+@SubSubSection
+@Title { Visión intuitiva de las posibles soluciones.}		
+@Begin
+@DP
+
+Existen infinitas soluciones a este sistema de ecuaciones diferenciales. De una manera rápida podemos clasificarlas según los siguientes criterios: @DP
+
+La segunda ecuación representa la dependencia angular de la ecuación anterior y es conocida como ecuación de Mathieu, mientras que la primera ecuación representa la dependencia radial y es conocida como ecuación modificada de Mathieu. @DP
+
+Según el orden de las funciones m y su paridad. @DP
+
+Según el signo del parámetro q. @DP
+
+De primera o segunda especie atendiendo a su crecimiento. @DP
+
+
+Como ejemplo se dibujan más abajo las diferentes soluciones que se pueden obtener utilizando un valor absoluto del parámetro q igual a 10. 
+@DP
+@Table 
+@Caption {Funciones radiales de Mathieu}
+
+@CentredDisplay @Tbl
+
+rule { yes }
+{
+
+@Row
+format {  @StartHSpan @Cell A | @HSpan | @HSpan | @HSpan | @HSpan }
+A {  @CentredDisplay Radiales }
+
+@Row
+format { @StartVSpan @Cell A| @StartHSpan @Cell B | @HSpan | @StartHSpan @Cell C | @HSpan   }
+A {}
+B { Primera especie}
+C { Segunda especie }
+
+
+@Row
+format { @VSpan |  @Cell B | @Cell C |  @Cell D | @Cell E   }
+B { Pares }
+C { Impares }
+D { Pares}
+E { Impares}
+
+@Row
+format {@Cell A |  @Cell B | @Cell C |  @Cell D | @Cell E   }
+A { q > 0 @LP Oscilantes}
+B { 0.14 @Scale @IncludeGraphic "img/fig20.eps"}
+C { 0.14 @Scale @IncludeGraphic "img/fig21.eps" }
+D { 0.14 @Scale @IncludeGraphic "img/fig22.eps"}
+E { 0.14 @Scale @IncludeGraphic "img/fig23.eps"}
+
+
+@Row
+format {@Cell A |  @Cell B | @Cell C |  @Cell D | @Cell E   }
+A { q < 0 @LP Evanescentes }
+B { 0.14 @Scale @IncludeGraphic "img/fig24.eps"}
+C { 0.14 @Scale @IncludeGraphic "img/fig25.eps" }
+D { 0.14 @Scale @IncludeGraphic "img/fig26.eps"}
+E { 0.14 @Scale @IncludeGraphic "img/fig27.eps"}
+
+
+}
+@LP
+Las funciones radiales con q<0 se denominan evanescentes y si son de primera especie con la letra I, o K si se trata de funciones de la segunda especie. @LP
+@LP
+Las funciones radiales con q>0 se denominan oscilantes, y si son de primera especie con la letra J, o N sí se trata de funciones de la segunda especie. 
+@DP
+@Table 
+@Caption {Funciones angulares de Mathieu}
+@CentredDisplay @Tbl
+
+rule { yes }
+{
+@Row
+format {  @StartHSpan @Cell A | @HSpan | @HSpan | @HSpan | @HSpan }
+A {  @CentredDisplay Angulares }
+
+@Row
+format { @StartVSpan @Cell A| @StartHSpan @Cell B | @HSpan | @StartHSpan @Cell C | @HSpan   }
+A {}
+B { Pares. ce }
+C { Impares. se }
+
+
+@Row
+format { @VSpan |  @Cell B | @Cell C |  @Cell D | @Cell E   }
+B { Orden 1 }
+C { Orden 2 }
+D { Orden 1}
+E { Orden 2}
+
+@Row
+format {@Cell A |  @Cell B | @Cell C |  @Cell D | @Cell E   }
+A { q > 0 }
+B { 0.14 @Scale @IncludeGraphic "img/fig12.eps"}
+C { 0.14 @Scale @IncludeGraphic "img/fig13.eps" }
+D { 0.14 @Scale @IncludeGraphic "img/fig14.eps"}
+E { 0.14 @Scale @IncludeGraphic "img/fig15.eps"}
+
+
+@Row
+format {@Cell A |  @Cell B | @Cell C |  @Cell D | @Cell E   }
+A { q < 0 }
+B { 0.14 @Scale @IncludeGraphic "img/fig16.eps"}
+C { 0.14 @Scale @IncludeGraphic "img/fig17.eps" }
+D { 0.14 @Scale @IncludeGraphic "img/fig18.eps"}
+E { 0.14 @Scale @IncludeGraphic "img/fig19.eps"}
+
+
+
+
+}
+
+@DP
+
+
+No solo existen infinitas soluciones independientes entre sí, sino que las combinaciones lineales de estas soluciones también son soluciones posibles. Ahora bien, ¿ cuales de estas soluciones pueden corresponder a partículas? La solución vendrá de las condiciones de contorno. @LP
+
+En primer lugar hay que considerar que estamos intentando describir el movimiento de una partícula-pulsación que sigue trayectorias elípticas debido a la topología del espacio. Esto prohíbe las funciones radiales periódicas, que implicarían un desplazamiento radial de la onda, luego por fuerza @B {q debe ser negativa.} @LP  
+
+En cuanto al orden de las funciones la necesidad de poseer la menor energía posible ( al menos en las partículas estables) exige que el orden sea igual a ½.@LP
+
+Nos quedan por tanto para las soluciones angulares las funciones se y ce con parámetro q negativo y orden ½ y para las funciones radiales las funciones Io,Ie,Ko y Ke de orden ½ , así como sus combinaciones lineales. @LP
+
+Para que las soluciones tengan significado físico y atiendan a uno de los postulados principales de la hipótesis aquí expuesta la variable {@Sym xi} debe ser escalada con respecto a  {@Sym xi} @Sub {0}.
+
+Atendiendo a la forma de las posibles soluciones radiales vamos a clasificarlas en: @DP
+
+SOLUCIONES TIPO I: @DP
+
+Formadas por funciones siempre crecientes, es decir Io,Ie. @DP
+
+SOLUCIONES TIPO II: @DP
+
+Formadas por soluciones siempre decrecientes, es decir Ko,Ke. @DP
+
+SOLUCIONES TIPO II BIS: @DP
+
+Formadas por soluciones decrecientes-crecientes, siempre positivas y no descritas en la literatura, pero que se pueden conseguir numéricamente con las condiciones iniciales adecuadas. En la figura se muestra de forma cualitativa una de estas funciones con q=-0,64 @LP
+
+@Figure 
+@Caption {  Solución tipo II bis. }
+@Location {TryAfterLine}
+{
+4 @Scale @IncludeGraphic "img/fig28.eps"
+}
+
+@LP
+SOLUCIONES TIPO III
+@DP
+Es posible combinar la soluciones tipo I y II  en la coordenada @Math {xi sub {0}= hbar over {2 m sub {0}c}} con el fin de obtener : @DP
+
+@CentredDisplay @Tbl
+
+rule { yes }
+{
+@Row
+format {  @StartHSpan @Cell A | @HSpan  }
+A {   SOLUCIONES TIPO III }
+
+
+@Row
+format {@Cell A |  @Cell B    }
+A { 0.35  @Scale @IncludeGraphic "img/fig29.eps" }
+B { 0.35  @Scale @IncludeGraphic "img/fig30.eps"}
+
+@Row
+format {   @Cell A | @Cell B |    }
+A {SOLUCIÓN IMPAR}
+B { SOLUCIÓN PAR }
+
+
+
+}
+
+
+@DP
+
+
+Es posible dibujar las soluciones tipo III en el plano de las dimensiones compactadas @DP
+ 
+
+@CentredDisplay @Tbl
+
+rule { yes }
+{
+
+
+@Row
+format {@Cell A |  @Cell B    }
+A { 0.7  @Scale @IncludeGraphic "img/fig31.eps" }
+B { 0.5  @Scale @IncludeGraphic "img/fig32.eps"}
+
+@Row
+format {   @Cell A | @Cell B |    }
+A {Solución IeKe}
+B { Solución IoKo }
+
+
+
+}
+
+@DP
+
+
+Nótese que dadas las condiciones de contorno existe la posibilidad de tener una única onda desplazándose en una dirección, como las representadas anteriormente,  o tener dos ondas desplazándose en direcciones opuestas.  Más adelante se verá que el primer caso corresponde a los fermiones y el segundo a los bosones. @LP
+
+Podemos utilizar la topología circular  para calcular el momento angular de las partículas elementales atribuible a su giro en las dimensiones compactadas: @DP
+
+@Math {L = m  times r cdot v = m sub {e} xi c = m sub {e} {hbar} over {2 m sub {e}c} cdot c =hbar over 2 }
+@DP
+En base al resultado anterior es prácticamente inevitable asignar la propiedad cuántica de espín a la onda estacionaria de las partículas elementales en las dimensiones compactadas, identificándolo con la constante m @Sub {s}, el signo de esta constante representa la diferencia de fase y el diferente sentido de giro explicaría la diferencia entre electrones y positrones.   
+@DP 
+
+
+@CentredDisplay @Tbl
+
+rule { yes }
+{
+
+
+@Row
+format {@Cell A |  @Cell B    }
+A { 0.55  @Scale @IncludeGraphic "img/fig33.eps" @LP Electrón espín @Math {+½} }
+B { 0.55  @Scale @IncludeGraphic "img/fig34.eps" @LP Electrón espín @Math {-½} }
+
+@Row
+format {   @Cell A | @Cell B |    }
+A {0.55  @Scale @IncludeGraphic "img/fig35.eps" @LP Positrón espín @Math {+½}}
+B { 0.55  @Scale @IncludeGraphic "img/fig36.eps" @LP Positrón espín @Math {-½}}
+
+
+
+}
+
+@LP
+
+Es fácil ver que se puede extrapolar el resultado para estimar el momento angular de giro a partículas con diferente espín, resultando:
+@DP
+
+@Box @Math {L sub {s} = m sub {s} cdot hbar}
+@DP
+
+
+Sin embargo esta definición del espín no puede explicar los experimentos de variación del espín mediante giros en las dimensiones extendidas. Más adelante (Punto 14)se proporcionará una solución satisfactoria a este problema. 
+
+
+
+@End @SubSubSection	
+
+
+
+@SubSubSection
+@Title { Solución numérica.}		
+@Begin
+@DP
+
+
+
+Si suponemos que los electrones son ondas gravitatorias para el caso de un electrón en reposo tendríamos que la constante de propagación {@Sym beta}=0, en ese caso:  @DP
+
+@Math {k sup {2} = 0 sup {2} + k sub {c} sup {2} =k sub {c} sup {2}} @DP
+
+Si asociamos esta frecuencia de corte a la vibración que presentan todos los electrones  y consideramos que la definición de número de onda debe ser diferente en las ondas gravitatorias ( ya que no pueden ser negativas )  entonces tendríamos :
+ @DP
+@Math {k= {pi} over lambda} donde la longitud de onda debe ser igual al perímetro del movimiento circular de los electrones, es decir: @Math {lambda=h over {2m sub {0}c}}  lo que conlleva que:
+@DP
+@Math {k= k sub {c}={pi} over lambda = {2 pi m sub {0} c} over {h} = {m sub {0}c } over { hbar }}
+ y por tanto:  @Box @Math {xi sub {0}= {1} over {2 k sub {c}}}
+@DP
+
+El confinamiento de las ondas no se produce por el choque contra unas paredes metálicas, sino que es debida a la curvatura de las dimensiones compactadas. En estas condiciones se postula que kc sea imaginario. @DP
+
+@CurveBox @Math {k sub {c} = {m sub {0}c } over { hbar } i}
+@DP
+Por tanto la solución de la ecuación de onda en el plano de las dimensiones compactadas es una onda estacionaria que se puede expresar mediante combinaciones de funciones evanescentes de Mathieu de orden semientero y parámetro @Math {q= {k sub{c} sup {2} f sup {2}} over {4}} negativo. 
+@DP
+
+Si expresamos el foco en función del radio medio del plano de las dimensiones compactadas tendremos  que: @DP
+@Math {f sup {2}= ( a sup {2} - b sup {2}) cdot r sub {u  } sup { 2 }} con a= 1,10576 y b=0,8883 @DP
+
+y asumiendo que  @Math { r sub {u  } = xi sub {u } } @DP
+
+nos queda entonces @DP
+
+@Math {f sup {2}= ( a sup {2} - b sup {2}) cdot xi sub {u  } sup { 2 }} @DP
+
+
+
+sustituyendo tenemos @DP
+
+@Math {q= {k sub{c} sup {2} f sup {2}} over {4} = {k sub{c} sup {2} ( a sup {2} - b sup {2}) cdot xi sub {u  } sup { 2 }} over {4} = {1} over {4 xi sub {0} sup {2} } { ( a sup {2} - b sup {2}) cdot xi sub {u  } sup { 2 }} over {4}} @DP
+
+y finalmente @DP 
+
+@CurveBox @Math {q = { ( a sup {2} - b sup {2}) cdot xi sub {u  } sup { 2 }} over {16 xi sub {0} sup {2}}} @DP
+lo que nos permitirá establecer los límites de integración. @LP
+
+
+Las soluciones a las funciones de Mathieu se suelen expresar como series de funciones de Bessel o como series de productos de series de Bessel en el caso de funciones de orden entero, pero no existen publicadas soluciones análogas para el caso de funciones de orden semientero, por lo que tendremos que solucionar numéricamente las ecuaciones. @LP
+
+El procedimiento seguido ha sido el siguiente: @LP
+
+- Se han determinado el valor propio @I{a} para cada valor de q negativo utilizando el método de Numerov. En concreto se ha utilizado el programa escrito en Java The Schrödinger Numerov Eigensystem Model pensado para solucionar la ecuación de Schrodinger independiente del tiempo con un potencial arbitrario, pero que puede utilizarse para obtener los valores propios de la ecuación @LP
+
+@Math {N'' -(a-2q cos 2 eta) N = 0}
+@DP
+simplemente introduciendo como potencial V(x)= q cos 2 {@Sym eta} y como limites de integración 0 y 2{@Sym pi}. El valor propio @B a será entonces igual al doble de la energía obtenida para n=1. Así por ejemplo para obtener a(-100) tenemos @DP
+@CNP
+0.7 @Scale @IncludeGraphic "img/fig37.eps" @DP
+@CNP
+@Figure 
+@Caption {  Estimación numérica del parámetro a (-100)}
+@Location {TryAfterLine}
+{
+
+0.7 @Scale @IncludeGraphic "img/fig38.eps" 
+}
+
+@NP
+Por lo que a (-100) = -180,254. Los resultados para un amplio rango de valores de q se muestran a continuación
+@DP
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B | @Cell C | @Cell D  }
+rule { yes }
+{
+@Rowa A { q  } B { a } C { q } D { a }
+@Rowa A { -0,01 } B { 0,25 } C { -2 } D { -1,454 }
+@Rowa A { -0,02 } B { 0,25 } C { -3 } D { -2,81 }
+@Rowa A { -0,03 } B { 0,25 } C { -4 } D { -4,27 }
+@Rowa A { -0,04 } B { 0,25 } C { -5 } D { -5,796 }
+@Rowa A { -0,05 } B { 0,248 } C { -10 } D { -13,936 }
+@Rowa A { -0,06 } B { 0,248 } C { -20 } D { -31,314 }
+@Rowa A { -0,07 } B { 0,248 } C { -30 } D { -49,302 }
+@Rowa A { -0,08 } B { 0,246 } C { -40 } D { -67,606 }
+@Rowa A { -0,09 } B { 0,244 } C { -50 } D { -86,112 }
+@Rowa A { -0,1 } B { 0,244 } C { -100 } D { -180,254 }
+@Rowa A { -0,17 } B { 0,232 } C { -200 } D { -371,968 }
+@Rowa A { -0,2 } B { 0,224 } C { -500 } D { -955,532 }
+@Rowa A { -0,3 } B { 0,192 } C { -1000 } D { -1937,008 }
+@Rowa A { -0,4 } B { 0,148 } C { -2000 } D { -3910,814 }
+@Rowa A { -0,5 } B { 0,092 } C { -3000 } D { -5890,716 }
+@Rowa A { -0,6 } B { 0,028 } C { -4000 } D { -7873,774 }
+@Rowa A { -0,64 } B { 0 } C { -5000 } D { -9858,85 }
+@Rowa A { -0,65 } B { -0,008 } C { -6000 } D { -11845,36 }
+@Rowa A { -0,7 } B { -0,046 } C { -7000 } D { -13832,954 }
+@Rowa A { -0,8 } B { -0,126 } C { -8000 } D { -15821,408 }
+@Rowa A { -0,9 } B { -0,214 } C { -9000 } D { -17810,566 }
+@Rowa A { -1 } B { -0,308 } C { -10000 } D { -19800,312 }
+
+}
+@DP @NP
+Nótese que cuando q {@Sym arrowright} {@Sym infinity} entonces a {@Sym arrowright} 2q.
+@DP 
+ 
+
+
+@Figure 
+@Caption { Parámetro a}
+@Location {TryAfterLine}
+{
+3 @Scale @IncludeGraphic "img/fig41.eps" @DP
+3 @Scale @IncludeGraphic "img/fig40.eps"
+}
+
+@DP
+
+
+
+
+- Utilizando los valores de a obtenidos previamente se ha resuelto numéricamente la ecuación modificada de Mathieu para cada valor del parámetro q mediante el software gratuito wzgrapher. @DP
+
+- Se ha calculado el centro de gravedad del cuadrado de la función de onda, si este se encuentra en la coordenada @Math {xi over xi sub {0}= 1} se considera que se ha encontrado una solución. Los limites de integración se han obtenido de la relación
+@DP @Math {q = { ( a sup {2} - b sup {2}) cdot xi sub {u  } sup { 2 }} over {16 xi sub {0} sup {2}}} @DP
+
+Las condiciones para obtener cada solución han sido.  @DP
+
+@Underline{Soluciones tipo I}: @DP
+
+Dado que las posibles soluciones aparecerían a un valor muy bajo de q, Io se ha aproximado mediante la función de Bessel equivalente @DP
+
+@Math {I sub {1 slash 2} =sqrt { 2 over pi } {  Sinh(x)} over { x sup {1 slash 2} }} @DP
+
+@DP
+Esta función se ha obtenido resolviendo la ecuación
+@DP
+@Math {y'' =-( -0,125-2 cdot 0 cdot cosh(2x) ) y }
+@DP
+con los valores iniciales @Math {x sub {0}=0} , @Math { y(x sub {0})=1}, @Math {y'(x sub {0})=1}. @DP
+@DP
+Se usa q=0 porque las soluciones tipo I corresponden a valores de @Math {bar q bar} muy pequeños, donde el término @Math {2q cdot cosh(2x)} es despreciable frente al valor propio a= 0,25.
+@DP
+e Ie se ha obtenido resolviendo la ecuación @DP
+
+@Math {y'' =-( -0,125-2 cdot 0 cdot cosh(2x) ) y } @DP
+con los valores iniciales @Math {x sub {0}=0} , @Math {y(x sub {0})=1}, @Math {y'(x sub {0})=0}. @DP
+
+@Figure 
+@Caption { Parámetro a}
+@Location {TryAfterLine}
+{
+ @Scale @IncludeGraphic "img/fig42.eps" 
+}
+
+@DP
+Los valores de q que cumplen con las condiciones de contorno son -0,0465 y -0,09477 @DP
+@DP
+Dado que las soluciones anteriores se obtuvieron hace años, se ha procedido su revisión con la asistencia de Claude 4.6 (2025)
+@DP
+Las soluciones exactas de ambas ecuaciones son:
+@DP
+Io: @Math{ y(x) = sinh(k cdot x) slash k},    Ie: @Math { y(x) = cosh(k cdot x)},  con @Math { k =  surd 0.125 = 0.35355}
+@DP
+La condición de contorno CDG = 1 determina L para cada solución (límites de integración), y luego @Math {q = (a sup {2}_ell - b sup {2}_ell) cdot L sup {2} slash 16 = 0.4336 cdot L sup {2} slash 16}.
+@DP
+Integrando se obtiene
+@DP
+
+@Math {CDG_Io(L) = {L cdot sinh(2kL) slash (4k) - cosh(2kL) slash (8k sup {2}) + 1 slash (8k sup {2}) - L sup {2} slash 4}
+           over {sinh(2kL) slash (4k) - L slash 2}}
+@DP
+
+ @Math {CDG_Ie(L) = {L cdot sinh(2kL) slash (4k) - cosh(2kL) slash (8k sup {2}) + 1 slash (8k sup {2}) + L sup {2} slash 4}
+           over {sinh(2kL) slash (4k) + L slash 2}}
+@DP
+@B {Solución para @Math {I sub{o}}}
+@DP Se ha obtenido con la formula análitica un valor de q= -0.047719, lo que supone una variación del 2,6% frente a -0.0465. El L exacto ha sido de 1.326924. El error en q(Io)  no tiene consecuencias sobre la masa predicha (diferencia de 0.01 meV), ya que a masa depende de L, no directamente de q, y el L asociado a q=-0.0465 difiere del exacto en solo 1.6%.
+@DP
+@B {Solución para @Math{I sub{e}}}
+@DP Se ha obtenido con la formula análitica un valor de q= -0.094612, lo que supone una variación del 0.17% frente a -0.09477. El L exacto ha sido de 1.868421, lo que proporciona un valor de la masa de 0,02828 eV frente a 0,02830 eV anterior.
+@DP
+
+
+@Underline{Soluciones tipo II}: @DP
+
+No se ha encontrado ninguna solución que cumpla las condiciones de contorno. @DP
+
+@Underline{Soluciones tipo II (bis)}: @DP
+
+La solución tipo IIbis corresponde a q = -0.64, valor para el cual a(q) = 0 según la tabla de valores propios. @DP
+
+@Math {y'' =-( -a(q)-2 cdot q cdot cosh(2x) ) y} @DP
+
+@DP
+En el cálculo numérico se ha podido constatar que:
+@DP
+ La solución IIbis existe y es siempre positiva (verificado con mpmath).
+@DP
+y'(0) = -1.34975357285360861 (18 dígitos significativos).
+@DP
+ El mínimo se alcanza en @Math {x approxequal 3.19}, con @Math {y_min approxequal 3 cdot 10 sup {-12}} (prácticamente cero).
+@DP
+Sin embargo, existe una imposibilidad intrínseca para calcular numéricamente y(L)=1, ya que se trata de una separatriz exponencialmente inestable, lo que no permite el cálculo del baricentro de esta solución.
+@DP
+Sin embargo, y a diferencia de las soluciones tipo I y tipo III, cuya condición de existencia es @Math {CDG= xi sub {0}}, la condición de existencia de la solución IIbis es de naturaleza topológica: el exponente de Floquet de la función angular de Mathieu toma el valor @Math {upsilon = 1 slash 2}, condición que equivale a que la onda se cierre coherentemente sobre sí misma tras cuatro períodos angulares @Math {(4 pi)}.
+@DP
+Esto se verifica numéricamente calculando la traza de la matriz de monodromía: @Math {Traza(M) = 2·cos(upsilon cdot pi) = 0} para @Math {upsilon  = 1 slash 2}. Con a = 0 y q = -0.64 se obtiene Traza = -0.00425, correspondiente a @Math {upsilon = 0.5007}, con desviación del 0.07% respecto a @Math {upsilon  = 1 slash 2} exacto, dentro de la precisión de la tabla a(q). El valor exacto de q que satisface Traza = 0 con a = 0 es q = -0.6393 (diferencia del 0.11% respecto a -0.64).
+@DP
+La condición @Math {upsilon  = 1 slash 2} es la signatura matemática del espín @Math {1 slash2}: la onda acumula una fase topológica de @Math {pi} por vuelta a la elipse, necesitando cuatro vueltas para recuperar su estado original - exactamente como un espinor fermiónico
+@DP
+
+
+
+
+@Underline{Soluciones tipo III}:
+@DP
+La condición física central del modelo es que el máximo de la solución debe situarse exactamente en @Math { xi slash xi sub {0}}, que es el radio de la propia partícula. La solución presenta una cúspide en ese punto - no un máximo diferenciable- donde las dos partes se unen con y(1)=1, pero con derivadas de signo opuesto.
+@DP
+Se han resuelto por separado la parte creciente y decreciente.
+@DP
+La parte creciente con @Math {x sub {0}=0}, @Math {y(0)=0}. Se tantea @Math{y'(0)} hasta que la solución alcanza y(1)=1.
+@DP
+La parte decreciente con @Math {x(0)= xi sub {u} slash xi sub {0}}, @Math {x sub {0} = xi sub {u} }, @Math {y(x sub {0})=0}. Se tantea @Math {y'(x sub {0})} hasta que la solución alcanza y(1)=1.
+@DP
+Lamentablemente la solución decreciente diverge numéricamente ya a valores de q moderados ( por ejemplo q<10). Se utilizó un método aproximado que consistía en aproximarse lo más posible por la derecha hasta conseguir que la solución numérica convergiera. No era un método adecuado, pero si el único posible con las herramientas de que disponía en aquel momento.
+@DP
+Para  q=-20 tenemos que el mayor valor desde el que podiamos solucionar era @Math {xi sub {u} slash xi sub {0}=1.99}. @DP
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B  }
+rule { no }
+{
+@Rowa A { @Math {y''=-(31.314-2 cdot 20 cdot cosh(2x)) cdot y } } B { @Math {y''=-(31.314-2 cdot 20 cdot cosh(2x)) cdot y }@DP } 
+@Rowa A { x @Sub {0}=0 } B { x @Sub {0}=1.99 @DP } 
+@Rowa A { y(x @Sub {0})=0 } B { y(x @Sub {0})=0 @DP } 
+@Rowa A { y'(x @Sub {0})=0.0294499 } B { y'(x @Sub {0})=-0.0000001  } 
+
+
+}
+
+@DP
+
+
+@Figure 
+@Caption { Solución cualitativa tipo III para q=-20}
+@Location {TryAfterLine}
+{
+ @Scale @IncludeGraphic "img/fig43.eps" 
+}
+
+@DP
+Los valores del cdg obtenidos con este método aproximado se han graficado a continuación.
+@CNP
+
+
+@Figure
+@Caption { Solución tipo III. Posición del cdg}
+@Location {TryAfterLine}
+{
+  @Scale @IncludeGraphic "img/fig44.eps"
+}
+@DP
+Se puede observar que el cdg tiende asintóticamente a 1 cuando  @Math {q arrowright infty}, sin alcanzarlo exactamente para ningún q finito. El electrón, con @Math {q approxequal -3 cdot 10 sup {13}}, excede las capacidades de resolución numérica.
+
+@DP
+Se ha procedido a la comprobación numérica de estos resultados por Claude, el cual confirma que el CDG de la parte creciente @Math {[0, xi sub {0}]} domina la solución tipo III. La parte decreciente contribuye menos del 1% al CDG para @Math {bar q bar >5}.
+@DP
+Por un lado confirma que el análisis numérico de la parte creciente realizado anteriormente es robusto, con errores acordes a los métodos numéricos empleados.
+@DP
+En cuanto a la parte decreciente  [1, L] con @Math {L approxequal 27} para q=-20 (valor correcto de la fórmula de la elipse) no puede calcularse numéricamente con integradores estándar. La razón es que la ecuación para x>1 tiene tasa de crecimiento:
+@DP
+@Math {tau _ crec  approxequal  surd (2 bar q bar cdot cosh 2)  approxequal  surd ( 7.52 cdot bar q bar)}
+@DP
+Cualquier error en y'(1) se amplifica como @Math {e^(tau cdot x)}. Para q=-20, @Math {tau approxequal 10.9} , y la solución errónea crece como @Math {e sup {(10.9 cdot x)}}, desbordando en aproximadamente en x= 5. Los valores L de la figura 2.7 del preprint (L=1.99 para q=-20 en lugar de L=27.2) son el límite hasta el que wzgrapher podía integrar antes del desbordamiento.
+@DP
+La contribución de la parte decreciente al CDG es despreciable: su norma es proporcional a @Math {1 slash tau _crec approxequal 1 slash surd bar q bar }, frente a norma de orden 1 de la parte creciente. Por tanto la figura 2.7 (CDG de la parte creciente sola) es físicamente correcta.
+@DP
+El centro de gravedad de la parte creciente de la solución tipo III converge asintóticamente a @Math {xi sub {0}} cuando @Math {q arrowright -infty}. El análisis numérico de la parte creciente en [0, 1] muestra que el déficit sigue la ley:@DP
+@Math {1 - CDG approxequal 0.215 slash surd  bar q bar}
+@DP
+obtenida por ajuste numérico para @Math { bar q bar} en el rango [5, 1000]. Una aproximación analítica basada en sustituir la solución por @Math {sinh( surd(2 bar q bar )·x)} - válida cerca del origen pero que ignora el crecimiento de cosh(2x) en [0,1] - conduce a @Math {1 - CDG approxequal 1 slash  surd (8 bar q bar)}, que sobreestima el déficit en un factor @Math{approxequal 1.65}. El resultado numérico es el correcto.
+@DP
+El siguiente razonamiento se desarrolló conjuntamente con Claude en conversación que comenzo discutiendo la posibilidad de compensar el cdg de la pulsación electrónica con un neutrino.
+@DP
+La existencia física de la pulsación electrónica (solución tipo III) requiere la presencia de un modo extendido en la región exterior @Math {xi > xi sub {0}(e)} que defina las condiciones de contorno en la interfaz @Math {xi = xi sub {0}(e)}. Este requerimiento es análogo al de una fibra óptica de índice escalonado: el modo confinado en el núcleo no existe sin el revestimiento, que no aporta amplitud al modo sino que define las condiciones de empalme en la interfaz.
+@DP
+El antineutrino electrónico (solución tipo Io, q = -0.04772) cumple este papel de revestimiento: su escala característica @Math {xi sub {0}(upsilon _e) approxequal 4.93×10 sup {-9} m }es 25.550 veces mayor que @Math {xi sub {0}(e) approxequal 1.93×10 sup {-13} m}, garantizando que presente amplitud prácticamente constante (variación relativa de @Math {3×10 sup {-11}}) en la interfaz @Math {xi sub {0}(e)}. La pulsación electrónica, por su parte, tiene un confinamiento extremo: su longitud de penetración evanescente fuera de @Math {xi sub {0} (e)} es de @Math {2.5×10 sup {-28} m} , lo que asegura que no perturba la región del revestimiento.
+@DP
+Esta imagen unifica los tres roles del antineutrino:
+@DP
+(1) su presencia es condición necesaria para la existencia de la pulsación electrónica;
+@DP
+(2) la interacción débil-como se justificará más adelante - se localiza naturalmente en la interfaz @Math {xi sub {0}(e)}, la única región donde ambas pulsaciones tienen amplitud comparable;
+@DP
+(3) la contribución del antineutrino a la masa total del electrón es una corrección de segundo orden @Math {(m sub {upsilon} slash m_e approxequal 3.91×10 sup {-5})}, análoga a la corrección de condiciones de contorno que el revestimiento introduce en el modo de una fibra óptica - no por diferencia de velocidad de propagación sino por la definición precisa de la interfaz.
+@DP
+Se puede verificar además que el CDG del sistema completo electrón + antineutrino se localiza exactamente en la interfaz. Expresando las posiciones CDG de cada componente en unidades del radio del universo @Math { xi sub {u}} mediante la relación @Math{xi sub {0} slash xi sub {u} = radical ((a sup {2}-b sup {2}) slash (16 cdot bar q bar))}, y calculando el CDG del sistema como media ponderada por las masas, se obtiene @Math {CDG(sistema) = 2 cdot xi sub {0}(e)}. El sistema se ancla a la interfaz C-A desde el exterior - exactamente la misma física que lleva a las epícimas a pegarse a la superficie líquida interior @Math {(CDG(ep) << xi sub {0}(ep))}. El antineutrino no solo define las condiciones de contorno matemáticas en la interfaz sino que ancla físicamente el sistema conjunto a esa interfaz.
+@DP
+Este requerimiento, lejos de ser ad hoc, tiene una justificación formal en la analogía de fibra óptica de índice escalonado, que se desarrollará en el capítulo 3 y ha demostrado además solucionar problemas bastante alejados del actual, como la universalidad de la carga eléctrica o la posibilidad de existencia de los hadrones, por lo que se ha mantenido en la hipótesis.
+
+@DP
+@CNP @Figure
+@Caption { Las combinaciones lineales de las soluciones tipo III conformarían al electrón.
+}
+@Location {TryAfterLine}
+{
+ @Scale @IncludeGraphic "img/fig45.eps"
+}
+
+
+@DP
+
+
+
+
+
+
+En resumen los valores de q que se ha encontrado cumplen con las condiciones de contorno han sido los siguientes: 
+@DP
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B  }
+rule { yes }
+{
+@Rowa A { Tipo } B { q} 
+@Rowa A { Tipo I: Io} B {0.047719}
+@Rowa A { Tipo I: Ie } B { -0,09477} 
+@Rowa A { Tipo II} B { No existe  } 
+@Rowa A { Tipo II bis:} B { -0,64  }
+@Rowa A { Tipo III: IoKo-IeKe } B { Asintótico a 1 cuando q{@Sym arrowright} {@Sym infinity} }
+}
+
+ 
+
+@End @SubSubSection	
+
+
+@SubSubSection
+@Title { Interpretación de los resultados.}		
+@Begin
+@LP
+
+Vamos a estimar el valor del parámetro q del electrón.
+@DP
+
+@Math { k sub {c} = {2m sub {0}c } over { hbar } i = {2 cdot 9,10938291 10 sup {-31} cdot 299792458} over { 1,054571628 10 sup {-34}} i = 5,17921064 cdot 10 sup {12} i}
+
+@DP
+como el radio de las dimensiones compactadas se había estimado en:
+@DP
+
+@Math {  r sub {u}= sqrt{ G over{ 2 pi}} = 3,259 cdot 10 sup {-6} m }
+
+
+y supuesta una topología elíptica de parámetros 
+@DP @Math {a= 1,10576 cdot r sub {u}} 
+@DP @Math {b= 0,8883 cdot r sub {u}} 
+@DP
+ 
+
+
+
+Se puede calcular  el foco de la elipse mediante la expresión: @DP
+
+@Math {f= sqrt{a sup {2} -b sup {2}} = r sub {u} sqrt {1,10576 sup {2}- 0,8883 sup {2}}= 2,146 cdot 10 sup {-6} m}
+
+y por tanto el parámetro q valdrá: @DP
+
+@Math { q= {k sub{c} sup {2} f sup {2}} over {4} = {(5,17921064 cdot 10 sup {12} i)sup {2} (2,146 cdot 10 sup {-6} )sup {2} } over {4} = -3,08832cdot 10 sup {13}}
+
+@DP
+Dicha solución quedaría por tanto fuera de las capacidades de los programas utilizados, pero nos permite identificar las anteriores soluciones como neutrinos. @LP
+
+@DP
+Un apropiedad notable del modelo es que una vez conocida q se puede calcular automáticamente la masa de la solución. En efecto si:
+@DP
+@Math { q = {K sub {c} sup {2} cdot f sup {2}} over {4}}
+@DP
+con @Math { K sub {c} = {2 m sub {0}c} over {hbar} } y @Math {f= r sub {u} cdot sqrt{a sup {2} -b sup {2}} =  sqrt{G over {2 pi}} cdot sqrt {1,10576 sup {2}- 0,8883 sup {2}}}
+@DP
+Se obtiene:
+@DP
+@Math { m = {h} over {Gc cdot sqrt{a sup {2} -b sup {2}}} cdot sqrt {q} }
+
+@DP
+Resultado notable que nos permite estimar las masa de los neutrinos en función de G,h,c y las condiciones geométricas del modelo. Se resumen los resultados en la siguiente tabla.
+@DP
+
+
+
+
+
+
+
+(Nota: Ya que q @Sym proportional m @Sup {2}, entonces @Math { m slash m sub {e} proportional sqrt { q slash q sub {e}} })  
+@DP
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B | @Cell C | @Cell D | @Cell E }
+rule { yes }
+{
+@Rowa A { Partícula } B { Tipo} C {q} D {m @Sym slash me} E {m estimada} 
+@Rowa A { {@Sym upsilon} @Sub {e} } B {Io } C {-0,047719} D {3,88 10 -8} E {0,012009 eV}
+@Rowa A { {@Sym upsilon} @Sub {@Sym eta} } B { Ie } C {-0,09477} D {5,539 10 -8} E {0,02828 eV}
+@Rowa A { {@Sym upsilon} @Sub {@Sym tau} } B { KoIo } C {-0,64} D {1,439 10 -6} E {0,07356 eV} 
+@Rowa A { e+,- } B { IoKo } C {-3,08  10 13} D {1} E {0,5109989 MeV } 
+}
+
+@DP
+
+
+Aunque no conocemos experimentalmente la masa de los neutrinos, si que conocemos en cambio con bastante precisión la diferencia de masas. @Cite {$olive}
+@DP
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B | @Cell C  }
+rule { yes }
+{
+@Rowa A { eV  } B { Este trabajo} C {Experimental} 
+@Rowa A { m @Sub {{@Sym nu} 2}- m @Sub {{@Sym nu} 1  } } B { 0,008477} C {0,008677} 
+@Rowa A { m @Sub {{@Sym nu} 3}- m @Sub {{@Sym nu} 2} } B {0,045253 } C {0,048374} 
+}
+@DP
+La columna 'Este trabajo' recoge las diferencias de masa absolutas predichas por el modelo,@Math {m sub {i} - m sub {j}} , obtenidas exclusivamente de @Math {G, hbar y c}. La columna 'Experimental' recoge @Math{ sqrt {delta m sup {2} sub {i j} }} , la raíz cuadrada de las diferencias de cuadrados medidas en los experimentos de oscilación. La comparación entre ambas columnas verifica que @Math{ (m sub {i} - m sub {j}) approxequal sqrt {delta m sup {2} sub {i j} exp }} , con errores del 5-8%.
+@DP
+Esta comparación no es trivial: con la fórmula estándar @Math {m sub {i} sup {2} - m sub {j} sup {2}}, las masas predichas son incompatibles con los datos (errores del 103-427%). La compatibilidad se obtiene únicamente con @Math {(m sub {i} - m sub {j}) sup 2}, lo cual refleja que en el modelo la masa del neutrino no es un término cinético relativista sino una propiedad geométrica del confinamiento en las dimensiones compactadas, independiente del momento de propagación. Esto modifica la fórmula de oscilación estándar: @Math {L_osc = {2 pi hbar} over {(m sub {i} - m sub {j}) cdot c}} en lugar de  @Math {{4 pi E hbar }over {(m sub {i} sup {2} - m sub {j} sup {2}) cdot c sup {3}}}.
+@DP
+El autor desea recalcar que la modificación de la longitud de oscilación estándar a consecuencia de que los neutrinos no se consideren partículas surgió en conversación con Claude acerca de la coincidencia numérica y fue desarrollada en primer lugar por Claude y verificada después por el autor.
+@DP
+Las oscilaciones entre los tres tipos de neutrinos tienen una interpretación natural en el modelo como acoplamiento entre modos del esméctico. Los tres neutrinos son soluciones IIbis con constantes de propagación @Math {beta sub {i} = m sub {i}c slash hbar} ligeramente diferentes que coexisten en la misma región continua exterior del esméctico. Por la teoría de modos acoplados [1,2], dos modos con diferencia de constantes de propagación @Math { delta beta = (m sub {i}-m sub {j})c slash hbar} intercambian energía con longitud de oscilación @Math {L_osc = 2 pi slash  delta beta = 2 pi hbar slash ((m sub {i}-m sub{j}) cdot c)}. Esta es la fórmula que reproduce los datos experimentales con errores del 5-8%, frente al 103-427% de la fórmula estándar basada en @Math {(m sub {i} sup {2} - m sub {j} sup {2})}. El acoplamiento entre modos proporciona así la justificación física formal de la fórmula de oscilación correcta para neutrinos no puntuales: la longitud de oscilación depende de la diferencia de constantes de propagación @Math {(m sub {i} sup {2} - m sub {j} sup {2})}, no de la diferencia de sus cuadrados.
+
+
+
+@DP
+Pero además, el que hayamos descubierto que la pulsación tipo III necesita de un antineutrino para poder existir vfa a tener importantes consecuencias.
+@DP
+La estructura electrón = pulsación tipo III + antineutrino no implica que el antineutrino esté preformado en el neutrón. Al desintegrarse, el espacio-tiempo  crea un par @Math {upsilon sub {e} slash upsilon sup {-} sub {e} } desde el vacío:
+@DP
+@Math {n  rightarrow  p  +  (pulsación tipo III + upsilon sup {-} sub {e})  +  upsilon sub {e}}
+@DP
+@Math {n  rightarrow  p  +  e sup {-}  +  upsilon sub {e} }
+El antineutrino se combina con la pulsación tipo III para formar el electrón estable; el neutrino se emite libre. La conservación del número leptónico emerge automáticamente - los pares se crean siempre con número leptónico neto cero.
+@DP
+La helicidad del antineutrino creado debe ser opuesta a la del neutrino, lo que explica la violación de paridad observada en la desintegración beta sin postularla.
+
+
+
+
+
+
+@DP
+De cualquier forma la existencia de los hadrones no puede ser justificada mediante estas soluciones. @I {
+Con el fin de permitir la existencia de los hadrones se postula que el universo presenta un agujero central, de tal forma que las soluciones tipo II pueden existir como ondas de superficie en el límite interno del Universo. }
+@DP
+@CNP @Figure 
+@Caption { Apariencia de  las dimensiones compactadas. Nótese que no son trayectorias reales, sino la aproximación de rayo de las vibraciones. 
+}
+@Location {TryAfterLine}
+{
+ @Scale @IncludeGraphic "img/fig46.eps" 
+}
+@DP
+Por si solas, las soluciones tipo II no pueden satisfacer las condiciones de contorno impuestas. Sin embargo, a diferencia de la pulsación electrónica - cuya existencia requiere un modo extendido exterior que actúe como revestimiento (analogía de fibra óptica, desarrollada en la sección anterior) - las epícimas coexisten en la misma posición espacial como un superfluido bosónico. Su acoplamiento con la pulsación electrónica se produce porque esta deforma elípticamente el sustrato, creando el medio en el que las epícimas pueden existir como ondas de superficie. La energía elástica de esta deformación se manifiesta como la energía de enlace del sistema. Este mecanismo, así como la razón por la que la pulsación electrónica pasa a denominarse onda de interfaz, se desarrollan en el Capítulo 3.
+@DP
+
+
+
+@CentredDisplay @Tbl
+
+rule { yes }
+
+{
+@Row
+format {   @Cell A  }
+A { SOLUCIONES TIPO IV. EPÍCIMAS  @IncludeGraphic "img/ko.eps"   }
+
+@Row
+format {  @Cell A }
+
+A { @Scale @IncludeGraphic "img/fig47.eps" }
+
+}
+
+
+
+
+Se ha asignado la letra del alfabeto íbero   @IncludeGraphic "img/ko.eps" a las ondas de superficie tipo II, pronunciada como ko, y como nombre epícimas (del griego epi-, sobre, y -cima, onda) a los constituyentes ondulativos de los hadrones, para distinguirlos de los partones del modelo estándar, con los que no deben confundirse conceptualmente. Dado que la masa de una combinación lineal debería encontrase entre la masa de las ondas constituyentes y debido a la gran diferencia de masa existente entre los electrones y los neutrinos parece evidente que las epícimas deberían clasificarse en epícimas pesadas  @IncludeGraphic "img/ko.eps" a y epícimas ligeras.  ( @IncludeGraphic "img/ko.eps" b {@Sym arrowright} d). Además la masa de las epícimas dependerá fundamentalmente del valor del radio interior del Universo.
+@NP
+
+Por tanto, todas las partículas deberían ser obtenidas mediante combinaciones lineales de alguna de estas soluciones. Más adelante se justificará el porque no pueden existir las epícimas por separado, sino que deben existir en combinaciones que asimilaremos a los hadrones.
+
+@DP
+@Figure 
+@Caption { Conjunto de soluciones posibles}
+@Location {TryAfterLine}
+{
+0.5 @Scale @IncludeGraphic "img/fig48.eps" 
+}
+@DP
+Finalmente, el fenómeno de el acoplamiento de ondas permitiría explicar las oscilaciones entre los diferentes tipos de neutrinos y aún entre los diferentes tipos de epícimas.
+
+
+
+ 
+
+@End @SubSubSection
+
+	
+
+@EndSubSubSections
+@End @SubSection

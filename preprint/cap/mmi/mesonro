@@ -1,0 +1,29 @@
+@SubSection 
+@Title { El mesón @Math {rho sup +}}
+@Begin
+@DP
+De acuerdo al sistema multilinear de Palazzi los mesones rho están compuestos de igual número de epícimas cargadas y neutras, luego debería tener esta composición:
+@DP
+@Figure @Caption { Propuesta para el mesón @Math {rho sup +}} @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img121.eps"} 
+@DP 
+0.9 @Scale @Math {m 'sub {1} = { 272,58 cdot 271,54 } over { 272,58+271,54 } =  136,03 MeV --> m sub {rho }  = 272,58+271,54+ 1,7078 cdot 136,03 = 776,34 MeV} 
+@DP  
+La masa experimental es de 775,4 MeV, lo que supone un error de 0,12 %. Podemos asignar la energía de enlace de una manera proporcional a su masa, luego tendremos dos ondas con las siguientes propiedades:
+@DP 
+Onda   1: Masa  388,9119 MeV Carga 11e-
+@DP  
+Onda 2: Masa  387,4281 MeV Carga 10e+
+@DP  
+El momento magnético será:
+@DP 
+@Math {mu sub {1} = { 11e cdot hbar } over { 2 m sub {1} } =   {11 cdot  1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 388,9119 cdot 1.78 10 sup {-30}}   =-1.3424 10 sup {-25} J slash T} 
+@DP 
+@Math {mu sub {2} = {10 e cdot hbar } over { 2 m sub {2} } =   { 10 cdot 1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 387,4281 cdot 1.78 10 sup {-30}}   =1,225 sup {-25} J slash T} 
+@DP 
+@Math {mu sub {rho} = mu sub {1}+ mu sub {2} =1,3424 10 sup{-25}- 1,225 10 sup {-25
+} = -1,17 10 sup {-26} J slash T}.
+ 
+@DP 
+En @Cite {$toledo} García Gudiño y Toledo Sánchez obtuvieron un valor experimental de @Math {-1,29 10 sup { -26} J slash T}, lo que supone un error del 8%. Ahora, intentemos el caso de los bariones.
+@NP
+@End @SubSection

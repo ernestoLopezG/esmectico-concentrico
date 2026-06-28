@@ -1,0 +1,119 @@
+@Section
+@Title { Orbitales y distribución interna de carga.}
+@Begin
+@DP    
+Como vimos en la resolución de la ecuación de onda gravitomagnética para un potencial central que decrece con la inversa del radio la ecuación angular quedaba inalterada en el caso relativista, es decir, la forma de los orbitales no varia. Por tanto, podemos considerar que los hadrones están compuestos por capas esféricas, al menos cuando no están excitados. Para el caso no relativista el radio de Bohr a @Sub {0}  es calculado mediante la siguiente expresión:
+@DP 
+@Math {a sub { 0 } = { hbar} over { mc alpha }} 
+@DP
+si operamos  
+@DP
+@Math {a sub { 0 } = { hbar } over { mc alpha } = {{ hbar } over { mc alpha } }cdot {{ c alpha sup {2}} over { c alpha sup {2}}}}
+@DP  
+y teniendo en cuenta que la energía de los orbitales es 
+@DP
+@Math {E sub { 0 } = { mc sup {2} alpha sup {2}} over { 2  }}
+@DP 
+podemos expresar el radio de Bohr en función de la energía del primer orbital 
+@DP
+@Math {a sub { 0 } = { hbar c alpha} over { 2 E sub {0}  } ={ hbar c } over { 2 E sub {0} slash alpha }}
+@DP 
+Si extrapolamos esta relación al caso relativista podemos escribir:
+@DP 
+@Math{{E sub {0}} over alpha = -mc sup {2} over alpha blbrack 1 +-sqrt { {alpha ' sup {2}} over {n' sup{2}+ alpha ' sup {2}}  }brbrack = -mc sup {2}  blbrack 1 over alpha +-sqrt { {1} over {{n' sup{2} }over {alpha ' sup {2}}+ 1}  }brbrack}
+@DP 
+  Para el caso en que el potencial central provenga de fuerzas electrofuertes @Math {alpha' >> 1} y @Math {n' -> alpha'} y por tanto:
+@DP  
+ @Math {{E sub {0}} over alpha = -mc sup {2} sqrt { 1 over 2 }} 
+ @DP y sustituyendo obtenemos finalmente:
+ @DP
+ @Box @Math {a sub { 0 } = { hbar c} over { 2 sqrt {1 over 2}m c sup {2}  } = { hbar c} over {  sqrt { 2}m c sup {2}  }}
+ @DP 
+ En esta expresión debemos tener en cuenta dos condiciones:
+ @DashList
+ 
+  @ListItem { Debemos usar las masas reducidas }
+  @ListItem { La masa de las partícula-pulsación se ha incrementado por la energía de enlace
+	@DP
+	@Math { m=m sub {0}+1.7072 m sub {0}=2.7072 m sub {0}} Y por tanto:
+	@DP
+	@Math {a sub { 0 } = { hbar c} over {  3,8285 (m' c sup {2} MeV) cdot 1,602 10 sup {-13} J slash MeV}}}
+ @EndList
+ @DP
+  Para el caso del protón las longitudes características serían:
+ @DP
+ @Box
+ {@Math {a sub { 0 } = { hbar cdot c} over {  3.8285 (162.36+11.23-10.50) cdot 1.602 10 sup {-13} }= 3.161 cdot 10 sup { -16 } m = 0.3161 fm}}
+ @DP 
+ @Box {@Math {a sub { 1 } = { hbar cdot c} over {  3.8285 (162.36-10.50 slash 2) cdot 1.602 10 sup {-13} }= 3.281 cdot 10 sup { -16 } m = 0.3281 fm}}
+ @DP 
+ @Box {@Math {a sub { 2 } = { hbar cdot c} over {  3.8285 (11.23-10.50 slash 2) cdot 1,602 10 sup {-13} }= 8.624 cdot 10 sup { -15 } m = 8.624 fm}
+ }
+ @DP 
+ Por tanto y teniendo en cuenta que los orbitales están degenerados  tenemos que los hadrones están formados por dos o tres capas esféricas que se superponen entre sí, con una función de onda
+ @DP
+ @Math {Psi sub { 1s} = K   e sup {-r slash a   }}
+ @DP
+ donde a es una longitud característica y K varía de acuerdo a la normalización utilizada. De acuerdo a la hipótesis aquí expuesta esta función de onda es una densidad real (masa, carga,etc..).La longitud característica se postula que es igual a la mitad del radio de Borh de cada onda.
+ @DP
+ Si normalizamos a tres dimensiones nos quedaría entonces
+ @DP
+ @Math {rho (r) = 1 over {pi} blpar 1 over { a sub {0}} brpar sup { 3}  e sup {-2r slash a sub {0}   }}
+ @DP
+  o normalizando a dos dimensiones
+  @DP
+ @Math {rho (r) = 2 over {pi} blpar 1 over { a sub {0}} brpar sup { 2}  e sup {-2r slash a sub {0}   }}
+ @DP 
+  Se postula también la existencia de estados excitados, que representan múltiplos de la masa de estas partículas. Aparentemente es más frecuente la aparición de estos estados en series geométricas de factor 2, es decir 2,4,8,16,32,... veces su masa.
+  @DP
+ La densidad de carga eléctrica será entonces igual a :
+ @DP
+ @Math {rho (r) = 1 over {pi} blbrack   { -9}  blpar 1 over { 0.3161} brpar sup {3} e sup{-2r slash 0.3161  } + { 10 }  blpar 1 over { 0.3281} brpar sup { 3} e sup{-2r slash  0.3281   } brbrack}
+ @DP 
+ que podemos representar (Nótese la parte interna negativa)
+ @DP
+ @Figure @Caption { Densidad de carga del protón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img070.eps"} 
+ @DP 
+ si lo normalizamos tres dimensiones, o bien
+@DP 
+ @Math {rho (r) = 2 over {pi} blbrack   { -9}  blpar 1 over { 0.3161} brpar sup {2} e sup{-2r slash 0.3161  } + { 10 }  blpar 1 over { 0.3281} brpar sup {2} e sup{-2r slash 0.3281   } brbrack}
+ @DP 
+ si la normalizamos a 2 dimensiones, 
+ @DP
+ @Figure @Caption {Densidad teórica transversal de carga } @Location {TryAfterLine} { 2.5 @Scale @IncludeGraphic "img/Libro-img071.eps"} 
+ @DP 
+ lo que permitiría compararlo con las densidades transversales experimentales obtenidas por Miller en @Cite {$miller} .
+ @DP  
+ @Figure @Caption { Comparación con los resultados experimentales de Miller } @Location {TryAfterLine} {2 @Scale @IncludeGraphic "img/Libro-img072.eps"} 
+  @DP 
+ Para el caso del neutrón será muy similar:
+ @DP
+ @Math {a sub { 0 } = { hbar c} over {  3,8285 (162,63+11,23-10,50) cdot 1,602 10 sup {-13} }= 3,156 10 sup { -16 } = 0,3156 fm}
+ @DP
+ @Math {a sub { 1 } = { hbar c} over {  3,8285 (162,63-10,50 slash 2) cdot 1,602 10 sup {-13} }= 3,275 10 sup { -16 } = 0,3275 fm}
+ @DP
+ @Math {a sub { 2 } = { hbar c} over {  3,8285 (11,23-10,50 slash 2) cdot 1,602 10 sup {-13} }= 8,624 10 sup { -15 } = 8,624 fm}
+ @DP
+ Es decir, prácticamente igual a las del protón. La densidad de carga eléctrica será entonces igual a :
+ @DP 
+ @Math {rho (r) = 1 over {pi} blbrack   { -23}  blpar 1 over { 0.3156} brpar sup {3} e sup {-2r slash 0.3156   } + { 23 }  blpar 1 over { 0.3275} brpar sup { 3} e sup {-2r slash 0.3275   } brbrack} 
+  @Figure @Caption { Densidad de carga del neutrón } @Location {TryAfterLine} { @Scale @IncludeGraphic "img/Libro-img073.eps"} 
+  @DP 
+  o bien normalizando a 2D para poder comparar con la densidad transversal de carga obtenida por Miller en [8]
+ @DP
+ @Math {rho (r) = 2 over {pi} blbrack   { -23}  blpar 1 over { 0.3156} brpar sup {2} e sup{-2r slash 0.3156   } + { 23 }  blpar 1 over { 0.3275} brpar sup {2} e sup{-2r slash  0.3275   } brbrack}
+ @DP
+ y representando @Math {sqrt {pi} over {23} r cdot rho(r)}
+@DP
+@Figure @Caption { Densidad transversal de carga } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img075.eps"} 
+@DP 
+ Nótese el factor de escala necesario para ajustarse a la normalización escogida por Miller. Podemos aplicar estos mismos principios generales para determinar los tamaños de los principales bariones. Es destacable el tamaño casi idéntico de protones y neutrones.
+ @DP
+@Figure @Caption { Tamaño de los principales bariones } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/fig94.eps"} 
+
+ @DP 
+  La determinación de la densidad transversal según el método de Miller consigue eliminar los efectos distorsionadores provocados por las partículas incidentes. Sin embargo, la modificación de la solución de onda provocada por el impacto de las partículas utilizadas para el experimento (fotones, electrones,..)es un concepto fundamental para la comprensión del mundo subatómico. Conforme aumentamos la energía de impacto la modificación es mayor, hasta que todas las ondas aparentan ser objetos puntuales. La energía a la que esto sucede es dependiente de la energía de enlace, por eso los muones aparentan ser partículas puntuales, mientras que en los nucleones tenemos acceso a un rango de energías que nos permiten conocer su estructura interna. Una vez sobrepasado este rango, se comportan como conformados por tres partículas puntuales. (los famosos e inexistentes quarks, que no son más que un reflejo de las dos o tres ondas de los mesones y bariones). En las siguientes secciones se desarrollarán estas ideas con mayor profundidad. 
+@DP 
+ 
+
+@End @Section

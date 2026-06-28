@@ -1,0 +1,314 @@
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.1"}
+  \b{Indicios.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/ind/consideraciones.1"}
+  \b{Consideraciones a la teoría de Kaluza-Klein}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "7 1"
+}
+{@Section
+  \a{"10.1196.cap/ind/consideraciones.1"}
+  \b{Consideraciones a la teoría de Kaluza-Klein}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/ind/consideraciones.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "389 27"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/ind/consideraciones.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/ind/consideraciones.1"}
+  \f{{} @Join @@V @ShortNum}}}
+
+{@@E {
+{ @@B { @@D "417 29"
+ }
+{@@E {
+{ @@A { @@E {
+@@D "417 29"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1196.cap/ind/consideraciones.1"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "417 29"
+}
+{@@V @ContentsStuff} } }
+}
+{Yes @@V @ContentsEntry
+  \a{@@V contentsindent}
+  \b{"10.1196.cap/ind/consideraciones.1"}
+  \c{@@V @LongNum}
+  \d{@@V initiallanguage @Language @@V title}
+  \e{@PageOf "10.1196.cap/ind/consideraciones.1"}} } }
+}
+{@@V @SendContents @@V @ContentsItem
+  \a{@@V indent}
+  \b{"10.1196.cap/ind/consideraciones.1"}
+  \c{@@V number}
+  \d{@@V title}
+  \e{@@V pagenum}
+  \f{@@V pregap}
+  \g{@@V postgap}}}
+
+{@@E {
+@@D "417 29"
+}
+{@TitleMarker
+  \a{"10.1196.cap/ind/consideraciones.1"}
+  \b{@@V title}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "417 29"
+}
+{Yes @BeginDisplayCounter @@V @ShortNum} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "2306 132"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@@V @NumDispCounterMarker
+  \a{"4.1429.cap/ind/consideraciones.1"}
+  \b{@@V prefix @Join 0}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "7 1"
+}
+{@Section
+  \a{"10.1196.cap/ind/consideraciones.1"}
+  \b{Consideraciones a la teoría de Kaluza-Klein}
+{ @LInput }} } }
+}
+{@Figure
+  \a{"9.3806.cap/ind/consideraciones.1"}
+  \b{Representación de una hipotética cuarta dimensión espacial arrollada sobre una dimensión extendida o sobre otra dimensión compactada.}
+  \i{TryAfterLine}
+???}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "417 29"
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "2937 165"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/ind/consideraciones.2"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/ind/consideraciones.1"}
+  \f{{} @Join @@V @ShortNum}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "49 4"
+}
+{@@V @FigureCounterIncrement "9.3806.cap/ind/consideraciones.1"} } }
+}
+{@@V @FigureCounterMarker
+  \a{"9.3770.cap/ind/consideraciones.1"}
+  \b{@@V @RawFigureNum "9.3806.cap/ind/consideraciones.1"}}}
+
+{@@E {
+@@D "3359 188"
+}
+{@NumberMarker
+  \a{"9.3806.cap/ind/consideraciones.1"}
+  \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/ind/consideraciones.1"}}}}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "2559 150"
+}
+{@Figure
+  \a{"9.3806.cap/ind/consideraciones.1"}
+  \b{Representación de una hipotética cuarta dimensión espacial arrollada sobre una dimensión extendida o sobre otra dimensión compactada.}
+  \i{TryAfterLine}
+{{} @Scale {@IncludeGraphic "img/fig2.eps"}}} } }
+}
+{@@V @FigureVal} } }
+}
+{@TitleMarker
+  \a{"9.3806.cap/ind/consideraciones.1"}
+  \b{@@V @Caption}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "49 4"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.1"}
+  \b{Indicios.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.1"}
+  \b{Significado físico de las 2 dimensiones espaciales adicionales}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "4302 228"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.24"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/ind/consideraciones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.1"}
+  \f{@Prefix}}}
+

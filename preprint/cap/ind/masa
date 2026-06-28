@@ -1,0 +1,25 @@
+@SubSection 
+@Title { Interpretación de la masa como la inversa de una longitud.}
+@Begin
+@PP
+
+
+ 
+La relación anterior proporcionaría una interpretación física de la masa en reposo como la inversa de una longitud.
+ en unidades del S.I. @PP @LP
+ @Math {xi sub {0}=  hbar over {2 m sub {0}c}= {1,7588 cdot 10 sup {-43}}over{m sub {0}}} @PP @LP
+Esta interpretación permite un nuevo punto de vista de fenómenos ya conocidos, por ejemplo si analizamos dimensionalmente la energía tendremos: @LP
+@Math {Energía = Fuerza * desplazamiento = [M LT @Sup {-2} cdot L]=[L @Sup {-1} cdot L @Sup {2} T @Sup {-2}] =[LT @Sup {-2}] } @LP
+es decir, proporciona para la energía unidades de aceleración, que coincide con el fenómeno que se manifiesta físicamente en el caso de las interacciones gravitatorias. @LP
+Si analizamos dimensionalmente la densidad tenemos: @LP
+@Math { Densidad =Masa over Volumen= [L @Sup {-4} ]} @LP
+es decir, unidades de curvatura, coincidiendo con la teoría de la relatividad general que relacionaba directamente la densidad de materia-energía con la curvatura del espacio-tiempo. @LP
+Por otro lado si consideramos la ecuación que relaciona la curvatura escalar R con el tensor de materia-impulso T tenemos: @PP @Math {-R = {8 pi G }over {c sup {4}} cdot T} @LP 
+
+donde el factor @Math {{8 pi G }over {c sup {4}}= 2,0766 cdot 10 sup {-43}}  es del mismo orden de magnitud @LP que el factor @Math {hbar over {2c}= 1,7588 cdot 10 sup {-43}} .
+@LP
+De hecho están relacionados por el mismo factor que relaciona el espín total de protones, neutrones y electrones con la proyección de éste en un eje, es decir: @DP
+@Math { sqrt {s(s+1)} cdot {8 pi G }over {c sup {4}} = 0,866 cdot 2,0766 cdot 10 sup {-43} =  1,7983 cdot 10 sup {-43}} @LP donde s= @Char {onehalf}
+@DP En el capítulo 2 se justificará formalmente de donde proviene esta aparente coincidencia numérica.
+
+@End @SubSection

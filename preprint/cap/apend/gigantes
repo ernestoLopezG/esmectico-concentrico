@@ -1,0 +1,96 @@
+
+ 
+@PP 
+
+@B @Underline   {Deudas intelectuales del modelo}
+@DP
+``Si he visto más lejos es porque estoy sobre hombros de gigantes.''
+- Isaac Newton, carta a Robert Hooke, 1675
+@DP
+El modelo aquí presentado no surge de la nada. Es la confluencia de intuiciones físicas que fueron correctas en su momento pero descartadas
+- a veces prematuramente - por las circunstancias históricas, y de desarrollos matemáticos que encontraron aquí un contexto donde aplicarse
+de forma inesperada. Este apéndice reconoce explícitamente esas deudas.
+@DP
+
+
+
+@B @Underline { I. Los que el modelo rehabilita}
+@DP
+
+@B {William Thomson, Lord Kelvin (1824-1907)}
+@DP
+En 1867, Kelvin propuso que los átomos eran nudos o torbellinos en el éter - estructuras topológicas en un medio físico, no objetos puntuales.
+La idea fue descartada cuando el éter cayó en desgracia tras los experimentos de Michelson-Morley. El modelo aquí presentado rehabilita
+esa intuición fundamental: la materia no es un objeto que existe en el espacio, sino una excitación del propio sustrato que llamamos
+espacio-tiempo. La diferencia con Kelvin no es conceptual sino técnica: el sustrato esméctico es un superfluido cuántico dinámico compatible
+con la Relatividad, no el éter estático e incompatible que Kelvin imaginó. La intuición era correcta; el sustrato, incompleto.
+@DP
+@B {Hendrik Antoon Lorentz (1853-1928)}
+@DP
+Lorentz desarrolló un éter dinámico - no el éter estático de Maxwell - en el que las propiedades del medio podían variar localmente. Su
+formulación anticipó muchos aspectos de la Relatividad Especial, y fue descartada junto con el éter estático sin la distinción que merecía.
+El sustrato esméctico que propone este modelo es, en muchos aspectos, más próximo al éter dinámico de Lorentz que al espacio-tiempo vacío de
+Minkowski. Lorentz merece ser recordado no como el físico que "casi llegó" a la Relatividad sino como el físico que intuyó que el vacío
+tiene estructura.
+@DP
+@B{Oliver Heaviside (1850-1925)}
+@DP
+Heaviside formuló el gravitomagnetismo - la analogía entre las ecuaciones del campo gravitatorio en aproximación de campo débil y las ecuaciones de Maxwell del electromagnetismo. Fue ignorado en su época y durante décadas posteriores. El modelo aquí presentado usa
+el gravitomagnetismo como puente natural entre la gravitación y el electromagnetismo, en el marco de un sustrato único que genera ambas
+interacciones a distintos niveles de la coordenada de Kaluza. Heaviside vio la unidad donde otros veían separación.
+@DP
+@B {James Clerk Maxwell (1831-1879)}
+@DP
+Maxwell no solo formuló las ecuaciones del electromagnetismo - pensó el electromagnetismo en términos de tubos de fluido y engranajes en
+un medio físico. Sus ecuaciones sobrevivieron; su intuición del medio fue descartada como "mera analogía mecánica". El modelo rehabilita esa
+intuición: las interacciones electromagnéticas son modificaciones de un sustrato físico real, exactamente como Maxwell imaginó, aunque el
+sustrato sea un superfluido cuántico y no los engranajes victorianos que él visualizó. La imagen era correcta; el mecanismo, incompleto.
+@DP
+@B {Walther Nernst (1864-1941)}
+@DP
+En 1916, Nernst postuló que el vacío cuántico tiene energía real y estructura física - no es el vacío absoluto de la física clásica.
+Fue ignorado durante décadas. El modelo aquí presentado da contenido físico concreto a esa intuición: el vacío es el sustrato esméctico en
+su estado de mínima perturbación, con propiedades termodinámicas derivables desde las unidades de Planck. Nernst tenía razón: el vacío
+no está vacío.
+@DP
+
+@B @Underline {II. Los que el modelo extiende}
+@DP
+@B {Theodor Kaluza (1885-1954) y Oskar Klein (1894-1977)}
+@DP
+Kaluza propuso en 1921 una quinta dimensión espacial que unificaba gravitación y electromagnetismo. Klein añadió en 1926 la compactación
+de esa dimensión a escala subatómica y su topología circular. El modelo aquí presentado extiende su trabajo en tres direcciones: añade una
+segunda dimensión compactada (necesaria para la isotropía observable),adopta una topología elíptica en vez de circular (necesaria para
+reproducir la carga y el momento magnético del electrón), y reinterpreta las dimensiones compactadas no como geometría pura sino como estructura física de un sustrato con propiedades termodinámicas. Kaluza y Klein abrieron la puerta; este modelo intenta entrar por ella.
+@DP
+@B {Lev Davidovich Landau (1908-1968)}
+@DP
+Landau desarrolló en 1941 la teoría del segundo sonido en superfluidos y el criterio de velocidad crítica para la creación de excitaciones.
+Aplicado al modelo, el criterio de Landau proporciona el mecanismo físico del Big Bang como cristalización: la contracción de las dimensiones compactadas por encima de la velocidad crítica convirtió energía cinética directamente en masa de las partículas-pulsación, sin
+disipación térmica. Landau estudió el helio líquido; sin saberlo, describió el origen del universo.
+@DP
+@B {Nikolái Bogoliubov (1909-1992)}
+@DP
+Bogoliubov desarrolló la teoría de las cuasipartículas en superfluidos y la dispersión de Bogoliubov - la relación entre frecuencia y momento
+que unifica el comportamiento ondulatorio a bajas energías y el comportamiento corpuscular a altas energías. El modelo usa la dispersión
+de Bogoliubov con c_s = c para derivar la relación de dispersión relativista desde las propiedades del sustrato, sin postularla independientemente. Bogoliubov resolvió el problema del helio; el modelo aplica su solución al espacio-tiempo.
+@DP
+@B {Yoichiro Nambu (1921-2015)}
+@DP
+Nambu observó en 1952 que las masas de las partículas subatómicas parecían seguir reglas de múltiplos enteros de una unidad básica -
+una regularidad que nadie supo explicar en su momento. Giorgio Palazzi formalizó y extendió esta observación en 2006, estableciendo las reglas
+de masa lineales para hadrones. El modelo aquí presentado proporciona el mecanismo físico que Nambu intuyó y Palazzi cuantificó: el cuanto
+de masa emerge de la estructura de epícimas en estratos concéntricos. Nambu vio el patrón; Palazzi lo midió; el modelo lo explica.
+@DP
+@B {Giorgio Palazzi}
+@DP
+Palazzi estableció en 2006 las reglas de masa lineales para mesones y bariones, identificando un cuanto de masa universal y una rejilla
+de posiciones discretas para las familias hadrónicas. Fue uno de los pocos físicos que respondió amablemente al autor de este trabajo, y
+su clasificación empírica fue el punto de partida para la determinación de las masas de las epícimas. Su trabajo merece más reconocimiento
+del que ha recibido hasta ahora.
+@DP
+@B @Underline {Nota final}
+@DP
+Ninguno de los físicos aquí mencionados es responsable de los errores o limitaciones del modelo presente. Las intuiciones que el modelo
+rehabilita o extiende son suyas; la responsabilidad de haberlas combinado de esta forma particular es exclusivamente del autor. Lo que sí es compartido es la convicción de que la física avanza tanto por los modelos que resultan correctos como por los que resultan incorrectos pero hacen las preguntas correctas. Si este trabajo consigue al menos formular mejor algunas de las preguntas que estos gigantes dejaron abiertas, habrá cumplido su propósito.
+

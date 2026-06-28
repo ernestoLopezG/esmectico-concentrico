@@ -1,0 +1,44 @@
+@SubSection 
+@Title { El neutrón }
+@Begin
+@DP
+La primera propuesta que se hizo en el punto anterior era -27.-10:+26.+10:+1.0, la cual proporciona un valor del momento magnético de @Math {3,8010 cdot 10 sup {-27} J slash T}, lo que supone un error de aproximadamente un 60%, inadmisible, por lo que se propone una nueva estructura. 
+@DP
+@Figure @Caption { Propuesta modificada para el neutrón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img069.eps"} 
+@DP 
+Las masas reducidas serán 
+@DP 
+@Math {m 'sub {1} = { 330,46 cdot 318,59 } over { 330,46+318,59 } =  162,21MeV }
+@DP 
+@Math {m 'sub {2} = { 330,46 cdot 11,87 } over { 330,46+11,87 } =  11,46 MeV   }
+@DP 
+@Math {m 'sub {rep} = -{ 162,21 cdot 11,87 } over { 162,21+ 11,87 } =  -10,70  MeV }
+@DP 
+Por tanto:
+@DP
+ @Math {m sub {NEUTRÓN} = 330,46+318,59+11,87+1,7072 cdot ( 162,21+11,46-10,70 ) = 939,12 MeV}
+@DP
+Lo que supone un error del 0,0467%, mejorando apreciablemente la estimación anterior. 
+@DP 
+Si asignamos la energía de enlace proporcionalmente a las masa, tendremos tres ondas con las siguientes propiedades:
+@DP 
+Onda  1: Masa  464,2094 MeV Carga 21e @Sup {-}.
+@DP  
+Onda 2: Masa 447,5352  MeV Carga 10e @Sup {+}.
+@DP
+Onda 3: Masa 15,7839 MeV Carga 0 e.
+@DP 
+El momento magnético será:
+@DP
+@Math {mu sub {1} = -{ 21e cdot hbar } over { 2 m sub {1} } =   {-21 cdot  1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 464,2094 cdot 1.78 10 sup {-30}}   = -2,147 10 sup {-25} J slash T} 
+@DP 
+@Math { mu sub {2} = {21 e cdot hbar } over { 2 m sub {2} } =   {21 cdot 1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 447,5352 cdot 1.78 10 sup {-30}}   = 2,22704 sup {-25} J slash T}
+@DP 
+@Math {mu sub {%rho} = mu sub {1}+ mu sub {2} =-2,147 10 sup{-25}+ 2,22704 10 sup {-25
+} = 8,00 10 sup {-27} J slash T}. 
+@DP 
+El valor experimental es de  -9.6 10 @Sup { -27}, lo que supone un error del 16,68%.
+
+Es importante destacar que la estructura que mejor se adapta en el caso del neutrón se corresponde con un número par de epícimas en la onda mayor, contradiciendo nuestra primera hipótesis que asignaba a las ondas mayores pares como generadoras de mesones y a las impares como generadoras de bariones.
+
+@End @SubSection

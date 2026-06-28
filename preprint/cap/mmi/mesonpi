@@ -1,0 +1,68 @@
+@SubSection 
+@Title { El mesón @Math {pi}}
+@Begin
+@DP
+@Math {pi sup  0  } Ambas ondas son iguales, por lo que el momento magnético es nulo. @Math { pi sup  + }
+@DP  
+@Figure @Caption {  Propuesta para el @Math { pi sup +}} @Location {TryAfterLine} {1.25 @Scale @IncludeGraphic "img/Libro-img067.eps"} 
+@DP
+Luego:
+@DP 
+@Math {m 'sub {1} = { 49,56 cdot 48,52 } over { 49,56+48,52 } =  24,5172 MeV  --> m sub {pi sup {0}}  = 49,56+48,52+ 1,7078 cdot 24,5172 = 139,93 MeV} 
+@DP  
+Podemos asignar la energía de enlace  de manera proporcional, así que tendremos dos ondas con las siguientes propiedades.
+@DP 
+Onda 1: Masa   70,7090 MeV Carga 2e+
+@DP  
+Onda 2: Masa   69,2252 MeV Carga e-
+@DP 
+El momento magnético sera:
+@DP 
+@Math {mu sub {1} = { 2e cdot hbar } over { 2 m sub {1} } =   {2 cdot  1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 70,7090 cdot 1,78 10 sup {-30}}   =1,3424 10 sup {-25} J slash T} 
+@DP
+@Math {mu sub {2} = { e cdot hbar } over { 2 m sub {1} } =   { 1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 69,2252 cdot 1.78 10 sup {-30}}   =-6,8560 10 sup {-26} J slash T} 
+@DP 
+@Math {mu  = mu sub {1}+ mu sub {2} =1,3424 10 sup{-25}- 6,8560 10 sup {-26
+} = 6,57 10 sup {-26} J slash T}.
+@DP 
+Experimentalmente se considera que ambos piones tienen momento magnético nulo. Un @Verbatim{"pión bariónico"} con estructura @B {+4.+2:-2.-1:-2.0} en vez de la expuesta anteriormente @B {+4.+2:-4.-1:0} proporcionaría una masa correcta y un momento magnético nulo, pero no cumpliría con los factores de forma obtenidos experimentalmente y que desarrollaremos más adelante. De hecho existen al menos tres combinaciones que cumplen con la masa del pión:
+@DP
+@QuotedDisplay @Tbl
+rule { yes }
+
+aformat { @Cell @B A | @Cell @B B | @Cell @B C | @Cell @B D | @B @Cell E}
+bformat { @Cell A | @Cell B | @Cell C | @Cell D | @Cell E}
+{
+
+@Rowa
+A { Tipo }
+B { Estructura }
+C { Masa }
+D {M. magnético}
+E {Ajusta con factor de forma}
+@Rowb
+A { Mesón }
+B { +4.+2:-4.-1:0 }
+C { 139,93 MeV }
+D { 6,57 10 @Sup{-026} J @Sym{slash} T}
+E { SI }
+@Rowb
+A { Barión }
+B { +4.+2:-2.-1:-2.0 }
+C { 139,79 MeV }
+D { 0}
+E { NO }
+@Rowb
+A { Barión }
+B { +4.+2:-3.-1:-1.0 }
+C { 139,16 MeV }
+D { 4,59 10 @Sup{-026} J @Sym{slash} T}
+E { SI }
+
+
+}
+@DP
+Cada una de ellas sólo cumple parcialmente los datos experimentales, lo que puede explicarse simplemente considerando que los piones pueden oscilar entre estas estructuras y en los diferentes experimentos prevalecen diferentes estructuras. No obstante, el hecho de no disponer actualmente de una estructura completamente satisfactoria para una partícula en concreto no implica la falsedad de la hipótesis aquí expuesta en su conjunto. En este trabajo se considerará al pión cargado como si tuviese una estructura mesónica.
+
+
+@End @SubSection

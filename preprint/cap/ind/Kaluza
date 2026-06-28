@@ -1,0 +1,25 @@
+@Section
+@Title { Introducción. La teoría de Kaluza-Klein.}
+@Begin
+@PP
+@I {Este capítulo tiene carácter introductorio y heurístico. Su objetivo es proporcionar al lector la intuición física que motivó los postulados del modelo, que se formulan rigurosamente en el Capítulo 2. Los argumentos aquí presentados no forman parte de la estructura formal de la teoría.}
+@PP
+La teoría de Kaluza-Klein pretende unificar las 2 fuerzas fundamentales de la gravedad y el electromagnetismo mediante la introducción de una cuarta dimensión espacial. Fue enunciada por primera vez por el matemático polaco Kaluza, el cual extendió la relatividad general a un espacio-tiempo de 5 dimensiones. Las ecuaciones resultantes pueden dividirse en varios grupos de ecuaciones, uno de ellos se corresponde con las ecuaciones de campo de Einstein ( gravedad), otro con las ecuaciones de Maxwell (electromagnetismo) y finalmente un campo escalar de significado físico poco claro.
+@PP
+Es decir, el mero hecho de que cada partícula tenga libertad para moverse a través de una dimensión adicional permite la unificación de la gravedad con el electromagnetismo. A pesar de este resultado espectacular la teoría adolecía de un grave problema, y es que, ¿donde se encuentra esta 4º dimensión?.Si el mundo poseyese 4 dimensiones espaciales la gravedad disminuiría con el cubo de la distancia, circunstancia que contradice la experiencia diaria, ya que disminuye con el cuadrado de la distancia.
+@PP
+Con el fin de intentar explicar porque la dimensión extra no afecta a las leyes físicas Oscar Klein en 1926 propuso que la 4° dimensión espacial se encuentra curvada sobre sí misma en un circulo de radio extremadamente pequeño (por debajo de 10 @Sup {-18} m) de tal manera que una partícula que se mueva una pequeña distancia en la dirección de esta dimensión debería retornar al punto de inicio. La distancia que una partícula debe viajar antes de retornar a su punto de inicio se define como el tamaño de esa dimensión y esta dimensión extra se dice que esta compactada.
+@PP
+
+@Figure
+@Caption {  Proceso de compactación de una dimensión y ejemplo de como un cilindro tridimensional aparenta un hilo unidimensional cuando el radio de compactación es suficientemente pequeño. }
+@Location {TryAfterLine}
+{
+0.45 @Scale @IncludeGraphic "img/fig1.eps"
+}
+
+
+@NP
+Por tanto a partir de ahora deberíamos representamos el espacio-tiempo como si en cada punto existiese un pequeño circulo en el cual las partículas se pueden mover libremente. En la teoría de Kaluza-Klein la pura geometría de un espacio-tiempo de 5 dimensiones vacío ( sin masa) conduce a las ecuaciones de un mundo tetradimensional con masa. Lamentablemente la aplicación de dicha teoría al estudio del electrón proporciona una relación masa-carga que difiere de la experimental unos 20 ordenes de magnitud, razón por la cual fue abandonada en gran parte durante varias décadas.
+
+@End @Section

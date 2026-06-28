@@ -1,0 +1,199 @@
+
+
+@PP 
+
+A pesar de los grandes éxitos alcanzados por la Física en el último siglo, lo cierto es que disponemos de dos grandes teorías para describir la realidad que son incompatibles entre si ( Teoría de la Relatividad General y Mecánica cuántica). Estas incompatibilidades se han acrecentado con el paso del tiempo y han conducido al desarrollo de teorías  e hipótesis que o bien se basan en la acumulación de parámetros libres sin fundamentación teórica   (masas, cargas, espines,..  del modelo estándar )  o bien presentan postulados imposibles de comprobar actualmente ( Teorías de cuerdas,...). Todas estos intentos de conciliar lo más pequeño con lo más grande comparten la incapacidad de efectuar predicciones básicas. El hecho de que muchísimos profesionales muy inteligentes y muy formados no hayan conseguido avances significativos en la comprensión profunda de la materia y energía desde los años 30 obliga a efectuar una revisión profunda de los principios en los que basamos la Física a día de hoy. @I {Solo reinterpretando profundamente algunos de estos principios será posible avanzar en nuestro conocimiento de la Creación}.  Esto significa que el lector encontrará afirmaciones que tenderá inmediatamente a rechazar. Yo le rogaría que tuviese la paciencia necesaria para visualizar la hipótesis aquí expuesta en su conjunto, la cual posee una coherencia interna muy elevada, pero que ha sido expuesta cronológicamente siguiendo los razonamientos que permitieron su desarrollo.
+ @PP
+Por otro lado esta reinterpretación profunda es mucho más fácil que sea desarrollada por un no experto. Esto va a producir que el lenguaje utilizado puede resultar poco convencional, por ejemplo cuando se afirma que la materia esta compuesta de ondas gravitacionales, cualquier persona con un mínimo conocimiento de las ciencia físicas tenderá inmediatamente a dejar de leer. Lo que pretendo destacar utilizando este lenguaje es que las partículas están conformadas por vibraciones del espacio-tiempo, ya que al plantear las ecuaciones en un número distinto de dimensiones las constantes varían. ( En la hipótesis aquí expuesta por ejemplo la constante G se reduce a un número muy similar a la unidad).
+@DP
+Las aplicaciones particulares de la hipótesis pueden estar equivocadas, por ejemplo, para los piones todavía no se ha encontrado una estructura satisfactoria, pero esto no debería influir en los principios generales de la hipótesis.
+@PP
+Aunque la hipótesis está llena de postulados, se ha procurado que no sean "ad hoc", comprobando que dichos postulados solucionaban varias dificultades (normalmente relacionadas, aunque en algunos casos independientes entre sí) simultaneamente, y no únicamente una.
+@PP
+Finalmente indicar que los cálculos realizados son relativamente simples y se basan en aproximaciones lineales, que no obstante consiguen resultados muy cercanos a los reales. A lo largo de este trabajo se aceptan errores del orden del 1-2% como criterio de consistencia. Este umbral refleja no una limitación de la hipótesis sino el nivel de aproximación inherente a una primera formulación. Se prefiere una hipótesis que resuelva simultáneamente múltiples problemas independientes con esa precisión a una que ajuste un único observable hasta la octava cifra decimal sin capacidad explicativa en otros contextos.
+@NP
+@CD @B { Tabla de postulados vs problemas resueltos }
+@Tbl
+
+    rule { yes }
+    aformat { @Cell A | @Cell 90d @Rotate B | @Cell 90d @Rotate C | @Cell 90d @Rotate D | @Cell 90d @Rotate E | @Cell 90d @Rotate F | @Cell 90d @Rotate G | @Cell 90d @Rotate H | @Cell 90d @Rotate I | @Cell 90d @Rotate J | @Cell 90d @Rotate K | @Cell 90d @Rotate L | @Cell 90d @Rotate M | @Cell 90d @Rotate N }
+    bformat { @Cell A | @Cell B | @Cell C | @Cell D | @Cell E | @Cell F | @Cell G | @Cell H | @Cell I | @Cell J | @Cell K | @Cell L | @Cell M | @Cell N }
+{
+@Rowa
+    A {@B Postulado}
+    B {Dual. onda-partícula}
+    C {Doble rendija}
+    D {Princ. incertid.}
+    E {Masa inercial}
+    F {Carga eléctrica}
+    G {Espín}
+    H {Masas hadrónicas}
+    I {Factores de forma}
+    J {Const. gravitac. G}
+    K {Const. cosm. @Sym Lambda}
+    L {Átomo hidrógeno}
+    M {Momento magnético}
+    N {Tiempo clásico}
+@Rowb
+    A {Partículas = ondas gravitomagnéticas en 5+1D}
+    B {@Ding a71}
+    C {@Ding a71}
+    D {@Ding a71}
+    E {@Ding a71}
+    F {@Ding a81}
+    G {@Ding a81}
+    H {@Ding a71}
+    I  {@Ding a81}
+    J {@Ding a81}
+    K {@Ding a81}
+    L {@Ding a71}
+    M {@Ding a81}
+    N {@Ding a71}
+
+
+@Rowb
+    A {Dim. compactadas con topología elíptica}
+    B {@Ding a81}
+    C {@Ding a81}
+    D {-}
+    E {@Ding a71}
+    F {@Ding a71}
+    G {@Ding a71}
+    H {@Ding a71}
+    I {@Ding a71}
+    J {@Ding a71}
+    K {-}
+    L {@Ding a71}
+    M {@Ding a71}
+    N {{-}}
+
+
+
+@Rowb
+    A {Masa = inverso de una longitud  @Math {xi sub {0}=  hbar "/" {2 m sub {0}c}}}
+    B {@Ding a81}
+    C {-}
+    D {@Ding a71}
+    E {@Ding a71}
+    F {@Ding a71}
+    G {@Ding a81}
+    H {@Ding a71}
+    I {@Ding a81}
+    J {@Ding a71}
+    K {-}
+    L {@Ding a71}
+    M {@Ding a71}
+    N {-}
+
+
+
+ @Rowb
+    A {Movimiento a velocidad c en dim. compactadas}
+    B  {@Ding a71}
+    C {@Ding a71}
+    D {@Ding a81}
+    E {@Ding a71}
+    F {-}
+    G {@Ding a81}
+    H {-}
+    I {-}
+    J {-}
+    K {-}
+    L {-}
+    M {-}
+    N {@Ding a71}
+
+@Rowb
+
+A{Radio compactación R @Sub {u}  = @Sym radical (G"/" 2 @Sym pi )}
+B  {-}
+C  {-}
+D  {-}
+E  {-}
+F  {@Ding a71}
+G  {-}
+H  {-}
+I  {-}
+J  {@Ding a71}
+K  {-}
+L  {-}
+M  {-}
+N  {-}
+@Rowb
+
+  A{Gravitomagnetismo 6D @Sym equivalence electromagnetismo 5D}
+  B{-}
+  C{-}
+  D{-}
+  E{-}
+  F{@Ding a71}
+  G{-}
+  H{-}
+  I{-}
+  J{-}
+  K{-}
+  L{-}
+  M{@Ding a71}
+  N{-}
+@Rowb
+      A{Expansión universo @Sym arrowright gradiente índice refracción}
+  B{-}
+  C{-}
+  D{-}
+  E{-}
+  F{-}
+  G{-}
+  H{-}
+  I{-}
+  J{-}
+  K{@Ding a71}
+  L{-}
+  M{-}
+  N{-}
+@Rowb
+  A  {Compresión discreta por energía cinética}
+  B{-}
+  C{-}
+  D{-}
+  E{-}
+  F{-}
+  G{-}
+  H{@Ding a81}
+  I{@Ding a71}
+  J{-}
+  K{-}
+  L{-}
+  M{-}
+  N{-}
+    }
+@DP
+ Problema explicado: @Ding a71 Problema parcialmente explicado: @Ding a81 No aplica: -.
+@DP
+En realidad, todos estos postulados se han ido reduciendo a dos, todo está formado por vibraciones de un sustrato - el espacio-tiempo, concebido como un superfluido cuántico con dimensiones compactadas - y un único mecanismo de interacción: la modificación del índice de refracción de ese sustrato.
+@NP
+@B {Prefacio a la nueva revisión }
+@DP Transcurridos 5 años desde la publicación del preprint original en ResearchGate (2021), había llegado la hora de revisar los cálculos numéricos con las nuevas herramientas disponibles. Se decidió iniciar la revisión con la ayuda de Claude Sonnet 4.6, un modelo de lenguaje de gran escala desarrollado por Anthropic, en sesiones de trabajo realizadas durante 2026.
+@DP
+El proceso de revisión resultó en algo mucho más rico que una simple revisión de resultados numéricos. Derivó en una serie de conversaciones en las que se consiguió formalizar y expresar explícitamente muchos de los principios que se encontraban de forma implícita en el preprint anterior, especialmente en el capítulo 3 y, en menor medida, en el 2.
+@DP
+La visión de conjunto del autor y sus intuiciones físicas combinaron con la capacidad de formalización y verificación numérica casi instantánea de Sonnet en una verdadera simbiosis en la que resulta muy complicado distinguir las aportaciones de uno u otro. Esto se explicita en honor a la verdad, y no en distinción de méritos. La responsabilidad intelectual final y la verificación de todos los resultados corresponde al autor.
+@DP
+Las diferencias principales respecto al preprint anterior son:
+@DP
+- La identificación explícita del sustrato como un esméctco cuántico concéntrico, con su estructura de fases completa: agujero interior líquido, nemático C, nemático A y sus interfaces. Esta estructura, implícita en el preprint original, se desarrolla ahora en el capítulo 3 con todas sus consecuencias físicas - incluyendo la historia térmica del universo, las épocas cosmológicas de aparición de las partículas y la interpretación del fondo cósmico de microondas como punto de rocío de las pulsaciones.
+@DP
+- La formalización del streaming gravitomagnético mediante el tensor de Lighthill, con la justificación rigurosa de que las ondas estacionarias generan streaming sin necesidad de disipación - resolviendo una objeción conceptual importante respecto al preprint anterior.
+@DP
+- La justificación del exponente 0.75 en la ley @Math {q slash m sup {0.75}} desde el cruce entre los regímenes de Stokes y Eckart. La identificación de las unidades de Planck como propiedades intrínsecas del esméctco lleva al resultado notable de que todos los números adimensionales del cristal líquido son iguales a 1 en la escala de Planck - siendo el número de Reynolds unitario el origen del exponente 0.75.
+@DP
+- La conexión formal entre el streaming gravitomagnético dipolar y la solución de Kerr, con la identificación del factor 2 del número de Dirac con el espín @Math {hbar slash 2} del electrón.
+@DP
+- La confirmación dinámica de la localización de la onda de interfaz en la interfaz C-A, mediante el cálculo del CDG del sistema electrón + antineutrino = @Math {2 cdot xi sub {0}(e)} - argumento independiente de las condiciones de contorno.
+@DP
+- La primera estimación de una vida media desde primeros principios: la vida media del pión neutro @Math {tau = (1 slash alpha sup {3})  cdot hbar slash (m_pión cdot c sup {2})}, con error del 8%, y el esbozo de una jerarquía general de vidas medias en función del nivel de @Math {xi sub {0}} implicado en la desintegración.
+@DP
+- La asimetría bariónica del universo desde la geometría del modelo: @Math {eta _B similar xi sub {0}(ko) slash R_u similar 2.55 cdot 10sup {-9}}, sin parámetros ajustados.
+@DP
+- El factor geométrico @Math {1+e sup {2} slash 4} - donde e es la excentricidad de la elipse de las dimensiones compactadas - como origen común de la progresión geométrica de los bariones estables, el factor de corrección de la vida media del pión y el desfase angular del dipolo electrofuerte.
+@DP
+- Múltiples verificaciones numéricas nuevas y corrección de aproximaciones del preprint anterior, en particular la justificación rigurosa del paso 2 de la derivación original.

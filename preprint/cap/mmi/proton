@@ -1,0 +1,39 @@
+@SubSection 
+@Title { El protón }
+@Begin
+@DP
+@Figure @Caption { Propuesta para el protón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img068.eps"} 
+@DP 
+Las masas reducidas serán: 
+@DP 
+@Math {m 'sub {1} = { 329,85 cdot 319,02 } over { 329,85+319,02 } =  162,17 MeV }
+@DP  
+@Math {m 'sub {2} = { 329,85 cdot 11,87 } over { 329,85+11,87 } =  11,46 MeV}
+@DP  
+@Math {m' sub {rep} = -{ 162,17 cdot 11,46 } over { 162,17+ 11,46 } =  -10,70 MeV  }
+@DP 
+Por tanto: 
+@DP
+@Math {m sub {PROTÓN} = 329,85+319,02+11,87-1,7072 cdot ( 162,17+11,46-10,70 ) = 938,88 MeV} 
+@DP 
+Si asignamos la energía de enlace proporcionalmente a la masa, tendremos tres ondas con las siguientes propiedades:
+@DP 
+Onda  1: Masa  463,3587 MeV Carga 9e-
+@DP  
+Onda 2: Masa 448,1452 MeV Carga 10e+
+@DP  
+Onda 3: Masa 15,7841 MeV Carga 0 e.
+@DP 
+El momento magnético será: 
+@DP 
+@Math {mu sub {1} = { 9e cdot hbar } over { 2 m sub {1} } =   {9 cdot  1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 463,3587 cdot 1.78 10 sup {-30}}   =-9.2185 10 sup {-26} J slash T} 
+@DP
+@Math {mu sub {2} = {10 e cdot hbar } over { 2 m sub {2} } =   {10 cdot 1.602 10 sup {-19} cdot 1.054 10 sup {-34}} over {2 cdot 448,1452 cdot 1.78 10 sup {-30}}   =1.0591 sup {-25 } J slash T} 
+@DP 
+@Math {mu sub {rho} = mu sub {1}+ mu sub {2} =-9.2185 10 sup{-26}+ 1.0591 10 sup {-25
+} = 1.37 10 sup {-26} J slash T}. 
+ 
+@DP 
+El valor experimental es @Math {1,41 10 sup { -26} J slash T}, lo que supone un error del 2,69%
+
+@End @SubSection

@@ -1,0 +1,262 @@
+@Section
+@Title { Solución para las dimensiones extendidas. Caso relativista}
+@Begin
+@DP
+ Si partimos de la ecuación de onda para las dimensiones extendidas:
+  @DP 
+@Math {nabla  sup {2} Psi - {E sub {m}} over {hbar c} blbrack     {E sub {m}} over {hbar c}   - {2  alpha} over { r} brbrack Psi - {2mc sup {2}} over {hbar c} blpar {E sub {m}} over {hbar c} - {alpha} over {r} brpar Psi - blpar {alpha sup {2} } over {r sup {2} } brpar Psi= 0 }
+ @DP 
+ sacando factor común y reordenando tenemos:
+ @DP
+ @Math {nabla  sup {2} Psi - blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r} brbrack Psi  - blpar {alpha sup {2} } over {r sup {2} } brpar Psi= 0 }
+ @DP 
+ aplicando el laplaciano en esféricas tenemos:
+ @DP
+0.8 @Scale @Math {1 over {r sup {2}} {partial} over {partial r} blpar r sup {2} {partial Psi } over {partial r} brpar + 1 over {r sup {2} Sen  theta } {partial} over {partial theta} blpar Sen theta  {partial Psi } over {partial theta} brpar  + 1 over {r sup {2} Sen sup {2} theta } {partial sup {2} Psi} over {partial phi} -  blbrack    {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r} brbrack Psi  - blpar {alpha sup {2} } over {r sup {2} } brpar Psi= 0} 
+@DP 
+ Si descomponemos @Math {Psi(r,theta,phi)=R(r)P(theta)T(phi) }tenemos entonces: 
+ @DP
+ 0.8 @Scale @Math {1 over {r sup {2}} {partial} over {partial r} blpar r sup {2} R'PT brpar + 1 over {r sup {2} Sen  theta } {partial} over {partial theta} blpar Sen theta RP'T brpar  + 1 over {r sup {2} Sen sup {2} theta } RPT'' -  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack RPT  - blpar {alpha sup {2} } over {r sup {2} } brpar RPT= 0}
+ @DP
+ Si multiplicamos por @Math {{r sup {2} Sen sup {2} theta} over {RPT}}
+ @DP
+ 0.8 @Scale @Math {{Sen sup {2} theta } over {R} {d} over {dr} blpar r sup {2} R' brpar + {Sen theta} over {P } {d} over {d theta} blpar Sen theta P' brpar  + {T''} over {T} - r sup {2} Sen sup  {2} theta blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack  - r sup {2} Sen sup  {2} theta blpar {alpha sup {2} } over {r sup {2} } brpar = 0 }
+@DP 
+ Como tenemos un término que solo depende de @Math {phi} y la suma debe ser constante por fuerza tenemos que:
+ @DP
+ @Math {{T''} over {T} = cte=-m sub {l} sup {2}} con m @Sub {l }semientero.
+  @DP
+ Sustituyendo entonces y dividiendo por @Math { Sen sup {2} theta}
+ @DP
+ @Math {{1 } over {R} {d} over {dr} blpar r sup {2} R' brpar + {1 } over {P Sen theta } {d} over {d theta} blpar Sen theta P' brpar  - {m sub {l} sup {2}} over {Sen sup {2} theta} - r sup {2}  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack  - alpha sup {2} = 0 }
+ @DP 
+ Ya tenemos separadas las variables.
+ @DP
+ @Math {{1 } over {R} {d} over {dr} blpar r sup {2} R' brpar  -  r sup {2}  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack  = l' (l'+1) }
+ @DP 
+ @Math {{1 } over {P Sen theta } {d} over {d theta} blpar Sen theta P' brpar  - {m sub {l} sup {2}} over {Sen sup {2} theta} - alpha sup {2}  = -l'(l'+1) }
+ @DP 
+ Si llamamos @Math {alpha sup {2}-l'(l'+1)=-l(l+1)} nos quedaría:
+ @DP
+ @Math {{1 } over {R} {d} over {dr} blpar r sup {2} R' brpar  -  r sup {2}  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack  = l' (l'+1) }                {(a')}
+ @DP
+ @Math {{1 } over {P Sen theta } {d} over {d theta} blpar Sen theta P' brpar  - {m sub {l} sup {2}} over {Sen sup {2} theta}  = -l(l+1) }                {(b')}
+ @DP
+ @Math {{T''} over {T} = cte=-m sub {l} sup {2}}                                                    {(c')}
+ @DP
+ La segunda ecuación solo tiene solución para l entero positivo, por tanto podemos obtener los valores de l' en función de los posibles valores de l.
+ @DP
+ @Math { alpha sup {2} - l' -l' sup {2} =- l(l+1) -> l' sup {2} + l'- alpha sup {2} - l(l+1)=0 }
+ @DP
+ Ecuación de segundo grado cuyas soluciones para los primeros valores de l son:
+ @DP
+
+@CentredDisplay 
+@Tbl
+rule { yes }
+aformat {@Cell A | @StartHSpan @Cell B | @HSpan}
+bformat { @Cell A | @Cell B | @Cell C}
+{
+
+@Rowa
+A {l}
+B { l'}
+@Rowb
+A {0 }
+B {-5,3254190509x10 @Sup { -5 } }
+C {  -0,9999467485}
+@Rowb
+A {1 }
+B {0,9999822494 }
+C{ 1,9999822494}
+@Rowb
+A {2}
+B {1,9999893497 }
+C{ -2,9999893497}
+@Rowb
+A { 3 }
+B { 2,9999923927 }
+C{ -3,99.....}
+}
+@DP 
+Parece evidente que la solución con significado físico es la primera, por tanto podemos escribir:
+@DP 
+@CentredDisplay 
+@Tbl
+rule { yes }
+aformat { @Cell A | @Cell B | @Cell C}
+{
+
+@Rowa
+A {l }
+B {l' }
+C {  @Math {{delta}=l-l'} }
+@Rowa
+A{0 }
+B{  -5,3254190509x10@Sup { -5}   }
+C{5,325419051x10@Sup { -5 }}
+@Rowa
+A{ 1  }
+B{ 0,9999822494   }
+C{1,775055653x10@Sup { -5 }}
+@Rowa
+A{2  }
+B{ 1,9999893497   }
+C{1,065029359x10@Sup { -5 }}
+@Rowa
+A{   3   }
+B{2,9999923927   }
+C{7,607344624x10@Sup { -6 }}
+@Rowa
+A{ 4  }
+B{ 3,9999940832  }
+C{ 5,916821056x10@Sup { -6 }}
+@Rowa
+A{  5   }
+B{4,999995159   }
+C{4,841x10@Sup { -6 }}
+@Rowa
+A{  6   }
+B{5,9999959037   }
+C{4,096259329x10@Sup { -6 }}
+@Rowa
+A{7   }
+B{6,9999964499   }
+C{3,55009114x10@Sup { -6 }}
+
+}
+
+@DP 
+ Ya estamos en condiciones por tanto de resolver la ecuación (a'):
+ @DP
+ @Math {{1 } over {R} {d} over {dr} blpar r sup {2} R' brpar  -  r sup {2}  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack  = l' (l'+1) }
+ @DP 
+ aplicando la regla de la cadena y multiplicando por R tenemos:
+ @DP
+@Math {2rR'+r sup {2}R''  -  r sup {2}  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r} brbrack R  = l' (l'+1) R}
+@DP 
+ Realizamos la siguiente sustitución:
+ @DP
+ @Math {u(r)=rR}
+ @DP
+ @Math {u'(r)=rR'+R}
+ @DP
+ @Math {u''(r)=R'+rR''+R'=2R'+rR''}
+ @DP 
+ lo que nos permite escribir los dos primeros términos de forma simplificada:
+ @DP
+ @Math {2rR'+r sup {2}R'' =r(2R'+rR'')=ru''} y por tanto:
+ @DP
+ @Math {ru''  -  r sup {2}  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack u over {r}  = l' (l'+1) u over {r}}
+ @DP 
+ operando tenemos:
+ @DP
+@Math {u''  -  r   blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r}brbrack u   = l' (l'+1) u over {r} }
+ @DP 
+ Dividiendo por r y reordenando:
+ @DP
+ @Math {u''  -   blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r} + {l' (l'+1)}  over {r sup {2}} brbrack u   = 0}
+ @DP 
+ Si realizamos un estudio asintótico de la función anterior cuando  @Math {r -> {infinity}} se puede escribir:
+ @DP
+ @Math {u''  -  blbrack     {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}   brbrack u   = 0}
+ @DP 
+ si llamamos
+ @DP
+ @Math { beta sup {2} =  { {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) sup {2}}    }}
+ @DP 
+ podemos escribir:
+ @DP
+ @Math {u''  -   blbrack    beta sup {2}   - {(2 E sub {m} +2mc sup {2} ) alpha} over {hbar c r} + {l' (l'+1)}  over {r sup {2}}brbrack u   = 0}
+ @DP 
+ Dividiendo por @Math {beta sup 2} :
+ @DP
+ @Math {{u''}  over {beta sup {2}} -   blbrack    1   - {(2 E sub {m} +2mc sup {2} ) alpha} over {beta sup {2} hbar c r} + {l' (l'+1)}  over {beta sup {2} r sup {2}}brbrack u   = 0}
+ @DP 
+ Como r aparece siempre multiplicado por @Math {beta} podemos realizar el siguiente cambio de variable @Math {rho = beta cdot r} definiendo la función @Math {U({rho})}:
+ @DP
+ @Math {U''   -   blbrack    1   - {(2 E sub {m} +2mc sup {2} ) alpha} over {beta  hbar c rho  } + {l' (l'+1)}  over { rho sup {2}}brbrack U  = 0}
+ @DP 
+ Si llamamos
+ @DP
+ @Math {rho sub {0} = {(2 E sub {m} +2mc sup {2} ) alpha} over {beta  hbar c   } }
+ @DP 
+ podemos escribir:
+@Math {U''   -    blbrack    1   - {rho sub {0}} over { rho  } + {l' (l'+1)}  over { rho sup {2}}brbrack U  = 0}                {(d')}
+@DP 
+La ecuación (d') aparece en la resolución de la ecuación de Schrodinger radial del átomo de hidrógeno y puede encontrarse su resolución en la literatura mediante su estudio asintótico y posterior desarrollo en serie. La condición para que la serie de términos no sea infinita es que para algún valor de j se cumpla la igualdad siguiente:
+@DP
+ @Math {2(j+l'+1)=rho sub {0}} donde j es un número entero. Si escribimos l' en función de l tendremos:
+ @DP
+ @Math {2(j+l-delta(l)+1)=rho sub {0}} si llamamos n=j+l+1 nos queda:@DP
+ @Math {2(n-delta(l))=rho sub {0}} y llamando @Math {n'(l)=n-delta(l)} la condición resulta en :
+ @DP
+ @Box {@Math {2n'(l)=rho sub {0}}}
+ @DP
+ Si recordamos las definiciones:
+ @DP
+@Math { beta sup {2} =   {E sub {m} sup {2}+ 2 mc sup {2} E sub {m} } over {(hbar c) su}} y @Math {rho sub {0} = {(2 E sub {m} +2mc sup {2} ) alpha} over {beta  hbar c   } }
+ @DP
+ podemos obtener la relación que cuantifica los niveles energéticos del electrón en el átomo de hidrógeno si consideramos que la energía mecánica es negativa y por tanto su raiz cuadrada imaginaria:
+ @DP
+ @Math {n'(l) = {( E sub {m} +mc sup {2} ) alpha} over {i sqrt{ E sub {m} sup {2}+2 mc sup {2} E sub {m} }   }} @DP 
+ Si elevamos al cuadrado ( apareciendo por supuesto soluciones extras) tenemos:
+ @DP
+ @Math {n' sup {2} = {-( E sub {m} +mc sup {2} ) sup {2} alpha sup {2}} over { E sub {m} sup {2} +2 mc sup {2} E sub {m} } }
+ @DP 
+ operando
+ @DP
+@Math {n' sup {2}  E sub {m} sup {2}+2 n' sup {2} mc sup {2} E sub {m}   = -{( E sub {m} alpha + alpha mc sup {2} ) sup {2} } }
+ @DP 
+ desarrollando el cuadrado del binomio y operando:
+@DP 
+@Math {n' sup {2}  E sub {m} sup {2}+2 n' sup {2} mc sup {2} E sub {m}   + E sub {m} sup {2} alpha sup {2}  + alpha sup {2} (mc sup {2}) sup {2} + 2 E sub {m} alpha sup {2} mc sup {2} =0}
+@DP 
+reordenando nos quedaría:
+@DP 
+@Math {(n' sup {2} + alpha sup {2} )E sub {m} sup {2} + 2  mc sup {2}(n' sup {2}+ alpha sup {2}) E sub {m} + alpha sup {2} (mc sup {2}) sup {2} =0}
+ 
+ @DP 
+ ecuación de segundo grado en  E @Sub {m} del tipo @Math {ax sup{2}+bx+c=0} donde
+ @DP
+ @Math {a =n' sup {2} + alpha sup {2} }
+ @DP
+ @Math { b=2  mc sup {2}(n' sup {2}+ alpha sup {2})}
+ @DP
+ @Math {c=  alpha sup {2} (mc sup {2}) sup {2} }
+@DP
+ Y la solución será:
+@DP 
+@Math {E sub {m} = {-2mc sup {2} (n' sup {2} + alpha sup {2}) +- sqrt {4m sup {2}c sup {4} (n' sup {2} + alpha sup {2}) sup {2} -4 cdot (n' sup {2} + alpha sup {2}) cdot alpha sup {2} cdot m sup {2}c sup {4}}}over { 2 (n' sup {2} + alpha sup {2})}} 
+@DP
+Sacando factor común:
+@DP
+@Math {E sub {m} = -2mc sup {2} blbrack { (n' sup {2} + alpha sup {2}) +- sqrt {(n' sup {2} + alpha sup {2}) sup {2} - (n' sup {2} + alpha sup {2}) cdot alpha sup {2} }}over { 2 (n' sup {2} + alpha sup {2})} brbrack} 
+@DP
+y simplificando queda:
+@DP
+ @Box @Math {E sub {m} = - mc sup {2} blbrack 1 +- sqrt{ {n' sup {2} over { n' sup {2} + alpha sup {2} }}}  brbrack }
+ @DP
+ La segunda solución coincide numéricamente con la corrección relativista de primer orden a la ecuación de Schrodinger que aparece en la literatura.
+ @DP
+@Math {E= - {{alpha sup {2}} over {n sup {2}} blpar {3 over {4n} - {1} over {l+ {1} over {2}}} brpar }}
+ @DP 
+ Los resultados numéricos se muestran a continuación:
+ @DP
+ La soluciones anteriores no reproducen cuantitativamente la estructura fina ni cualitativamente la estructura hiperfina porque en la expresión de la energía no se han introducido los términos magnéticos ni el momento magnético nuclear, pero basta para demostrar que las dos formulaciones son equivalentes.
+ @DP
+ 
+  
+   @Figure @Caption {  } @Location {TryAfterLine} {0.8 @Scale @IncludeGraphic "img/Libro-img061.eps"} 
+  @DP 
+  La solución radial a la ecuación de onda es muy similar a la tradicional en Mecánica Cuántica,  pero con las siguientes  diferencias:
+  @DP
+ @DashList 
+  @ListItem  { @Math{Psi} representa (es proporcional a) el potencial de las fuerzas electrofuertes, electromagnéticas o NEUTRÍNICA, @B{y pierde su interpretación probabilista.}}
+ @ListItem { @B{La longitud característica a} debe ser igual a la mitad del radio de Bohr. ( @Math {a sub {0} slash 2}).}
+ 
+ @EndList
+ 
+ 
+
+@End @Section

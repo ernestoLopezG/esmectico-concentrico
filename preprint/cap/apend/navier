@@ -1,0 +1,27 @@
+
+ 
+@PP 
+Las fuerzas provocadas por el gradiente aparente del índice de refracción deberían provocar fuerzas centrípetas en el interior de los fluidos.Veamos:
+@DP
+@Math {n(x,y,z)= blpar 1 - {u(x,y,z,t) sup 2} over { c sup 2} brpar sup {-1 over 2}} @DP 
+@Math {nabla n= nabla blpar 1 - {u sup {2}} over { c sup 2} brpar sup {-1 over 2}}
+@DP 
+@Math {nabla n= - {1}  over {2 c sup {2}} 2u {partial u} over {partial x}   blpar 1 - {u sup {2}} over { c sup 2} brpar sup {-3 over 2}  - {1}  over {2 c sup {2}} 2u {partial u} over {partial y}   blpar 1 - {u sup {2}} over { c sup 2} brpar sup {-3 over 2}- {1}  over {2 c sup {2}} 2u {partial u} over {partial z}   blpar 1 - {u sup {2}} over { c sup 2} brpar sup {-3 over 2}}
+ @DP  
+ @Math { rightarrow nabla n= - {1}  over {2 c sup {2}} 2u blbrack   {partial u} over {partial x}    + {partial u} over {partial y} +{partial u} over {partial z} brbrack  blpar 1 - {u sup {2}} over { c sup 2} brpar sup {-3 over 2} } 
+ @DP 
+ y por tanto @DP
+ @Math {{nabla n} over n = - {1}  over {2 c sup {2}} 2u blbrack   {partial u} over {partial x}    + {partial u} over {partial y} +{partial u} over {partial z} brbrack  blpar 1 - {u sup {2}} over { c sup 2} brpar sup {-1 over 2} }
+ @DP 
+ Para el caso no relativista
+ @DP
+ @Math {{nabla n} over n  = - {1}  over {2 c sup {2}} 2u blbrack   {partial u} over {partial x}    + {partial u} over {partial y} +{partial u} over {partial z} brbrack = - {1}  over { c sup {2}} u nabla u}
+ @Math {rightarrow  dr sup {2} over {dt sup {2}} {1} over {c sup 2}   = - {1}  over { c sup {2}} u nabla u}
+ @DP 
+ @Math { a(x,y,z)=-u nabla u }
+ @DP
+ Esta relación es muy similar al término independiente del tiempo de la derivada material, pero no debe ser confundido con el. Matemáticamente se refiere al modulo de la velocidad, no al vector velocidad. Se trata  de una @B {fuerza aparente debida al gradiente de velocidad del tiempo} y se corresponde con el término irrotacional de la identidad vectorial de Lamb.
+ @DP
+ @Math { -u nabla u = nabla blpar {bar u vec bar }over {2} brpar }
+ @DP
+ Resultado lógico, pues no hemos tenido en cuenta la rotación en la deducción anterior.

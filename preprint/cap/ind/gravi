@@ -1,0 +1,44 @@
+@SubSection 
+@Title {  Sobre el gravitomagnetismo.}
+@Begin
+@PP
+
+
+Si escribimos las ecuaciones del gravitomagnetismo comparándolas con las ecuaciones de Maxwell.@DP 
+
+@CentredDisplay 4.5i @Wide @Tbl
+rule { yes }
+
+aformat { @Cell A | @Cell B  }
+{
+@Rowa
+A { GRAVITOMAGNETISMO}
+B { ELECTROMAGNETISMO}
+@Rowa
+A { @Math {  nabla vec E vec sub {g}=  red @Color {-}  4 pi G rho} }
+B { @Math {  nabla vec E vec =   rho over { epsilon sub {0}}} }
+
+@Rowa
+A { @Math { nabla vec B vec sub {g}=0} }
+B {  @Math { nabla vec B vec =0}  }
+
+@Rowa
+A { @Math { nabla vec  times   E vec sub {g}= - {1 over {c} }cdot {{partial  Bg vec } over {partial  t}} }}
+B { @Math { nabla vec  times   E vec = -  {partial  B vec } over {partial  t}}  }
+
+@Rowa
+A { @Math {nabla times B sub {g} = red @Color  {-} { 4 pi G } over {c } cdot vec j sub {m} + 1 over {c } { partial  E vec sub {g}} over {partial t}} }
+B { @Math {nabla times B  = mu sub {0}  cdot vec j + mu sub {0} epsilon sub {0}  {partial  E vec}  over {partial t}} }
+
+}
+
+@DP
+
+
+
+
+
+A pesar de las evidentes similitudes las ecuaciones del gravitomagnetismo se diferencian en dos signos de las ecuaciones de Maxwell, el primero indica que solo pueden existir fuerzas atractivas entre las masas, la segunda indica que @I {dos corrientes de masa que circulan en el mismo sentido se repelen } al contrario de lo que sucede en el electromagnetismo en el que se atraen. 
+
+
+@End @SubSection

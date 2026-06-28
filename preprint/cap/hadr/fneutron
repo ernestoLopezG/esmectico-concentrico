@@ -1,0 +1,95 @@
+@Section
+@Title { Factor de forma del neutrón}
+@Begin
+@DP   
+
+@B { Estructura interna teórica.}
+@DP
+ Se propone la siguiente estructura teórica para el neutrón
+ @CentredDisplay 
+@Tbl
+rule { yes }
+
+aformat { @Cell paint { black } A  | @Cell B | @Cell C | @Cell D}
+bformat { @Cell A | @Cell B | @Cell C | @Cell D}
+{
+
+@Rowa
+A { white @Color NEUTRÓN  }
+B { Carga electrofuerte}
+C { Carga eléctrica}
+D { Radio de Bohr }
+
+@Rowb
+A { Onda 0 }
+B { -25 }
+C { -23}
+D {0,3156  fm}
+
+@Rowb
+A {Onda 1 }
+B { +24}
+C { +23}
+D {0,3275 fm}
+
+@Rowb
+A {  Onda 2 }
+B { +1}
+C {  0 }
+D {8,624 fm}
+}
+@DP 
+ 
+@B {Densidad de carga teórica}
+@DP
+ La densidad de carga eléctrica será entonces igual a :
+@DP
+ 
+@Math {rho (r) = 1 over {pi} blbrack   { -23}  blpar 1 over { 0.3156} brpar sup {3} e sup {-2r slash 0.3156   } + { 23 }  blpar 1 over { 0.3275} brpar sup { 3} e sup {-2r slash 0.3275   } brbrack}
+@DP
+@Figure @Caption { Densidad de carga teórica  } @Location {TryAfterLine} {2.5 @Scale @IncludeGraphic "img/Libro-img073.eps"} 
+ @DP 
+ 
+@B { Factor de forma elástico teórico.}
+@DP 
+ 
+ En este caso sería
+ @DP
+ @Math {F(q sup {2})=-23 cdot {16 over {( a sup {2} {} sub {0} cdot q sup 2 slash 0.039+4) sup 2}} +23 cdot {16 over{( a sup {2} {} sub {1} cdot q sup 2  slash 0.039+4) sup 2}} }
+@DP 
+ 
+ con @Math { a dot sub {0}  = a sub {0 } cdot { sqrt { 1 - {{(0.25 ) sup {2}} cdot  q sup {2}} over {  q sup {2} + { 0.47} sup 2  }}}} y @Math { a dot sub {1}  = a sub {1 } cdot { sqrt { 1 -{ (0.25 ) sup {2} cdot  q sup {2}} over {  q sup {2}+ { 0.47} sup 2  }}}}
+ @DP 
+ y @Math {a sub {0}=0,3156 } , @Math {a sub {1}=0,3275}
+ @DP
+ Que podemos representar comparándola con la la parametrización obtenida de Miller @Cite {$miller} utilizando para ello un factor igual a @Math {2 over 23} para compensar las diferentes normalizaciones.
+
+@DP 
+@Figure @Caption { Estimación teórica } @Location {TryAfterLine} { @Scale @IncludeGraphic "img/Libro-img093.eps"} 
+@DP
+
+@B { Corrección por contracción de Lorentz}
+@DP 
+En este caso la solución es
+@DP 
+ 
+ @Math {f sub {1} = {92 cdot (24a sub {0}sup {4} q-2a sub {0} sup {6} q sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4} +48a sub {0} sup {2} q sup {2}+64)}-{92 cdot (24a sub {1} sup {4} q-2a sub {1} sup {6} q sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)}} 
+@DP
+@Math {f sub {2} = 
+{92 cdot (12a sub {1} sup {5} q sup {2}-16a sub {1} sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4} +48a sub {1} sup {2} q sup {2}+64)}-{92 cdot (12a sub {0} sup {5} q sup {2}-16a sub {0} sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}}
+@DP
+y por tanto: 
+@DP 
+@Scale @Math {G sub {E} = sqrt {blpar {92 cdot (24a sub {0} sup {4} q-2a sub {0} sup {6} q sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}-{92 cdot (24a sub {1} sup {4} q-2a sub {1} sup {6} q sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)} brpar sup { 2 }
+
++ blpar {92 cdot (12a sub {1} sup {5} q sup {2}-16a sub {1} sup {3})}over{a sub {1} sup {3} cdot (a sub {1} sup {6} q sup {6}+12a sub {1} sup {4} q sup {4}+48a sub {1} sup {2} q sup {2}+64)}-{92 cdot (12a sub {0} sup {5} q sup {2}-16a sub {0} sup {3})}over{a sub {0} sup {3} cdot (a sub {0} sup {6} q sup {6}+12a sub {0} sup {4} q sup {4}+48a sub {0} sup {2} q sup {2}+64)}       brpar sup { 2 }
+
+
+ }}
+@DP
+ Podemos representar las curvas elástica y de Lorentz con la misma normalización utilizada anteriormente @Math { 2 over 23} . Se observa claramente que gran parte de los resultados experimentales  recae entre dichas curvas. Esto se explica por el diferente grado de contracción de Lorenzt que sufren los blancos 
+ estacionarios de Deuterio y @Math {slash} o Helio 3 @Cite {$arrington}. 
+  @DP
+  @Figure @Caption { Conjunto de datos experimentales } @Location {TryAfterLine} { @Scale @IncludeGraphic "img/Libro-img095.eps"} 
+  @DP
+ @End @Section

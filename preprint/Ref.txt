@@ -1,0 +1,26 @@
+
+ Referencias
+ 
+ 
+ @Cite {$nombre}
+
+ 
+ [6] Overview of proton, neutron, and pion form factor measurements Arrington
+ 
+ 
+ 
+ 
+ 
+ [15]  Kaon transverse charge density from space- and timelike data  N.A. Mecholsky 2018 
+
+
+
+ [M4] Chandrasekhar, S. (1977). Liquid Crystals. Cambridge University Press.
+[M5] de Gennes, P.G. & Prost, J. (1993). The Physics of Liquid Crystals. Oxford.
+
+Oldeman2010: R. G. C. Oldeman, M. Meloni, B. Saitta, Resonant antineutrino induced electron capture with low energy bound-beta beams, Eur. Phys. J. C 65 (2010) 81–87, arXiv:0905.1029.
+  
+ 
+ 
+ 
+ 

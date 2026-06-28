@@ -1,0 +1,32 @@
+@Section
+@Title { Estudio tradicional de la difusión de partículas. Factores de forma.}
+@Begin
+@DP 
+Existen infinidad de trabajos que exponen el tratamiento tradicional de la difusión de electrones para obtener la estructura interna de los nucleones, por lo que solo se expondrá brevemente el asunto.
+ @DP
+ La sección eficaz para un choque entre un electrón @Math {slash} positrón y un objeto con carga no puntual (nucleón por ejemplo) es igual al producto de la sección eficaz de Mott ( la correspondiente a una carga puntual ) multiplicada por un factor de forma F(q²), que corresponde a la influencia de la distribución de la densidad de carga, dependiente del cuadrimomento transferido.
+ @DP
+ @Math {{d sigma }over {d Omega } = blpar  {d sigma }over {d Omega }  brpar sub { Mott } cdot F ( q sup 2 )}
+@DP 
+ En general para describir el choque elástico entre un electrón y un nucleón son necesarios dos factores de forma, el factor de forma de Dirac F1, que describe las componentes del choque sin helicidad (objetos sin espín), y el factor de forma de Pauli F2, que describe los componentes del choque en los que interviene la  helicidad (objetos con espín). Dado que estos factores de forma no son muy intuitivos Sachs propuso el uso de otros dos factores de forma, llamados factor de forma eléctrico @Math {  G sub {E}} y factor de forma magnético @Math { G sub {M} }, que se obtienen como combinaciones lineales de F1 y F2.
+ @DP 
+ @Math {G sub{E}(Q sup {2})=F sub{1}(Q sup {2}) - Q sup { 2 } over { 4M sup 2 } F sub { 2 } (Q sup {2} )}
+ @DP 
+ @Math { G sub { M} (Q sup {2} ) = F sub { 1 } (Q sup {2} ) + F sub { 2 } (Q sup {2} )}
+ @DP
+ Sachs interpretaba que el factor de forma eléctrico Ge era igual a la transformada de Fourier en 3 dimensiones de la distribución de carga.
+ @DP
+ @Math {G sub {E} (q) = int e sup {{iqr over hbar}}   rho (r) d sup {3} r }
+ @DP 
+  Con q igual al cuadrimomento intercambiado entre las partículas, que para una distribución con simetría esférica se reduce a 
+  @DP
+ @Math {G sub {E} (q) = int 4 pi  rho (r ) {sin (qr slash hbar )} over {qr slash hbar } r sup {2} d r }
+  @DP
+ Lo que ha sido utilizado para determinar las distribuciones internas de carga a partir de los factores de forma obtenidos experimentalmente. En teoría sería posible determinar completamente la distribución de carga únicamente a partir del factor de forma. En la practica, debido a la dificultad para determinar el factor de forma a valores muy elevados de q, se debe asumir un modelo para la distribución de carga determinado por un pequeño número de parámetros, y ajustar estos para concordar lo más posible con los datos experimentales. 
+ @DP
+ Este modelo en principio no tiene en cuenta las modificaciones que puedan producirse en las partículas durante el choque y tampoco considera la energía inicial de las partículas utilizadas en la difusión, solo la transferida.
+ @DP
+ Posteriormente Miller mediante la introducción de consideraciones relativistas considera que la interpretación de Sachs es errónea y sugiere la medición de la densidad transversal de carga como una transformada de Fourier en dos dimensiones del factor de forma de Dirac F1. Esta interpretación es la correcta, como veremos más adelante.
+ 
+
+@End @Section

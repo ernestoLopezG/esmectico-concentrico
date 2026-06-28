@@ -1,0 +1,60 @@
+@SubSection 
+@Title {  Ecuación escalar de onda gravitomagnética en 6D.  }
+@Begin
+@LP
+
+
+Debido a la topología del espacio que hemos postulado las ondas gravitomagnéticas no pueden desplazarse libremente, sino que deben ajustarse a unas condiciones de frontera muy estrictas. El fenómeno físico más parecido se encuentra en la transmisión de las ondas electromagnéticas a través de ondas guía circulares o elípticas, aunque en este caso el confinamiento se debe a la curvatura del espacio y no a unas paredes metálicas.@LP
+
+Se va a utilizar un sistema de coordenadas cilíndrico elíptico  en 5D espaciales: @DP
+@CNP
+@Figure 
+@Caption {  Sistema de coordenadas cilíndrico elíptico. }
+@Location {TryAfterLine}
+{
+@Scale @IncludeGraphic "img/fig11.eps"
+}
+
+
+@DP
+
+	@B	{Dimensiones espaciales expandidas:} Coordenadas cartesianas x,y,z. @LP
+	@B {Dimensiones espaciales compactadas:} Coordenadas elípticas, @Sym xi y @Sym {eta}.@LP
+	
+las curvas con @Sym xi constante representan  elipses confocales, mientras que las curvas @Sym eta constante representan hipérbolas perpendiculares a las elipses anteriores. En el caso límite en que la distancia focal f se anula, es decir f=0 ,se reducen a coordenadas circulares, donde @Math {radio (xi) , ángulo (eta)}.@LP
+
+La relación entre coordenadas cartesianas y elípticas es la siguiente: @DP
+
+@Math {x=f cosh xi cos eta} 
+@DP
+@Math {y=f senh xi sen eta} 
+
+
+@DP
+La ecuación de onda hexadimensional independiente del tiempo sería: @DP
+@Math {( nabla sub {6D} sup {2} + k sup {2}) cdot H = 0} @DP
+
+
+El laplaciano en coordenadas cilíndrico elípticas es separable,por lo que podemos asumir que: @DP 
+@Math {H(xi,eta,x,y,z)=Phi(xi , eta) cdot Psi(x,y,z)}
+
+
+@DP 
+Y como es habitual en los cálculos de ondas guía podemos descomponer el número de onda en 2: @DP
+
+@Math {k sup {2} = beta sup {2} + k sub {c} sup {2}}
+
+ donde {@Sym beta} se denomina constante de propagación y kc es el número de ondas de corte y representa la frecuencia mínima para que una onda pueda propagarse por la guía. @LP
+
+De tal forma que podemos obtener 2 ecuaciones: @DP
+@CurveBox @Math {{nabla {sup {2}} sub {xi, eta  } Phi( xi, eta)} over {Phi( xi, eta)} + k sub {c} sup {2} = 0 } (3) @DP 
+@CurveBox @Math {{nabla {sup {2}} sub {3D} Psi(x,y,z)} over {Psi(x,y,z)}+ beta sup {2} = 0 } @DP
+
+
+
+
+
+La primera ecuación representa el problema en las dimensiones compactadas, mientras que la segunda representa el problema en las dimensiones extendidas.
+
+
+@End @SubSection

@@ -1,0 +1,225 @@
+@Include { mybook }
+@SysInclude { tbl }
+@SysInclude { math }
+@Database @Reference { "ref/refs" }
+@Book
+@Title {El esméctico concentrico: @DP  @I{Solo ondas} revisitada.}
+@Author {Ernesto López González}
+@Edition {}
+@Publisher {}
+@BeforeTitlePage {}
+@OnTitlePage {}
+@AfterTitlePage {@DP @DP @DP @DP @DP @DP @DP @DP @PP @B {Agradecimientos} @PP
+A mayor gloria de Dios. @PP
+A mi mujer, María del Carmen, y a mi hija Nora, por su infinita paciencia. @PP}
+@AtEnd {}
+@InitialFont { Times Base 12p }
+@InitialBreak { adjust 1.2fx hyphen }
+@InitialSpace { lout }
+@InitialLanguage { Spanish }
+@PageOrientation { Portrait }
+@PageHeaders { Titles }
+@ColumnNumber { 1 }
+@FirstPageNumber { 1 }
+@IntroFirstPageNumber { 1 }
+@OptimizePages { No }
+@GlossaryText { @Null }
+@IndexText { @Null }
+@IndexAText { @Null }
+@IndexBText { @Null }
+//
+
+@Preface
+@Title { Sobre este trabajo }
+@Begin
+	@Include {"cap/prefacio"}
+@End @Preface
+
+@Chapter
+@Title { Indicios.}
+@Begin
+
+@BeginSections
+
+	
+	@Include {"cap/ind/Kaluza"}
+	@Include {"cap/ind/consideraciones"}
+	@Section
+	@Title { Significado físico de las 2 dimensiones espaciales adicionales}
+	@Begin
+	@BeginSubSections
+		@Include {"cap/ind/formulaRelativista"}
+		@Include {"cap/ind/masa"}
+		@Include {"cap/ind/Broglie"}
+		@Include {"cap/ind/indeterminacion"}
+		@Include {"cap/ind/curvatura"}
+	@EndSubSections
+	@End @Section
+	@Section
+	@Title { Origen del campo eléctrico.}
+	@Begin @LP
+	Nota: Aunque el verdadero origen del campo eléctrico no es este, los conceptos aquí mostrados son fundamentales para la comprensión de la hipótesis en su conjunto, por lo que se desarrollan aquí.
+	@BeginSubSections
+		@Include {"cap/ind/gravi"}
+		@Include {"cap/ind/graviele"}
+		@Include {"cap/ind/elipse"}
+		@Include {"cap/ind/momento"}
+		@Include {"cap/ind/interpret"}		
+	@EndSubSections
+	@End @Section
+
+@EndSections
+@End @Chapter
+
+
+
+@Chapter
+@Title { Matter as gravitational waves}
+@Begin @LP
+Los cálculos numéricos de este capítulo fueron verificados con asistencia de Claude (Anthropic, modelo Sonnet 4.6, 2025)
+@BeginSections
+	@Section
+	@Title { Las partículas como pulsaciones gravitomagnéticas.}
+	@Begin
+	@BeginSubSections
+		@Include {"cap/magw/ondaGra"}
+		@Include {"cap/magw/ondaEscalar"}
+		@Include {"cap/magw/leptones"}
+		@Include {"cap/magw/particula"}
+	@EndSubSections
+	@End @Section
+	@Include {"cap/magw/mecanismosInteraccion"}
+	@Include {"cap/magw/cuantica"}
+
+
+@EndSections
+@End @Chapter
+
+@Chapter
+@Title { Y de nuevo al principio, el éter. }
+@Begin
+@BeginSections
+	
+	@Include {"cap/eter/eter"}
+	@Include {"cap/eter/cosmologia"}
+	@Include {"cap/eter/fases"}
+	@Include {"cap/eter/masa"}
+	@Include {"cap/eter/termodinamica"}
+	@Include {"cap/eter/asimetria"}
+	@Include {"cap/eter/foton"}
+	
+	
+@EndSections
+@End @Chapter
+
+@Chapter
+@Title {  Aplicación de la ecuación de onda  al átomo de hidrógeno. }
+@Begin
+@BeginSections
+	
+	@Include {"cap/hidr/potcentral"}
+	@Include {"cap/hidr/schrodinger"}
+	@Include {"cap/hidr/norelat"}
+	@Include {"cap/hidr/relat"}
+	
+	
+	
+@EndSections
+@End @Chapter
+
+
+@Chapter
+@Title {  Los hadrones. }
+@Begin
+@BeginSections
+	
+	@Include {"cap/hadr/hadr"}
+	@Include {"cap/hadr/estabilidad"}
+	@Section
+	@Title {Momento magnético intrínseco de los hadrones}
+	@Begin
+	@PP
+	Es posible aproximar el momento magnético de un hadrón simplemente sumando los momentos magnéticos de todas y cada una de las ondas que componen los hadrones. Intentaremos primero el caso de los mesones porque son más simples que los bariones.
+		@BeginSubSections	
+			@Include {"cap/mmi/mesonpi"}
+			@Include {"cap/mmi/mesonro"}
+			@Include {"cap/mmi/muon"}
+			@Include {"cap/mmi/proton"}
+			@Include {"cap/mmi/neutron"}
+			
+		@EndSubSections
+	@End @Section
+	@Include {"cap/mmi/bariones"}
+	
+	
+@EndSections
+@End @Chapter
+
+
+@Chapter
+@Title {  Estructura de los Hadrones. }
+@Begin
+@BeginSections
+	@Include {"cap/hadr/dcarga"}
+	
+	@Include {"cap/hadr/difusion"}
+    @Include {"cap/hadr/mod"}
+	@Include {"cap/hadr/fproton"}
+	@Include {"cap/hadr/fneutron"}
+	@Include {"cap/hadr/fpion"}
+	@Include {"cap/hadr/fmuon"}
+	@Include {"cap/hadr/fkaon"}
+	@Include {"cap/hadr/fnuclear"}
+	@Include {"cap/hadr/conclusiones"}
+@EndSections
+@End @Chapter
+
+
+
+
+
+@Chapter
+@Title {  Fuerza nuclear residual }
+@Begin
+@BeginSections
+	
+	@Include {"cap/fnr/fnucleones"}
+	@Include {"cap/fnr/deuteron"}
+	
+
+@EndSections
+@End @Chapter
+
+
+@Chapter
+@Title { Resumen y Conclusiones }
+@Begin
+@Include {"cap/resumen/resumen"}
+@End @Chapter
+
+
+@Appendix
+@Title {  Principales Postulados. Limitaciones del modelo}
+@Begin
+@Include {"cap/apend/postulados"}
+@End @Appendix
+
+
+@Appendix
+@Title { Sobre los hombros de gigantes}
+@Begin
+@Include {"cap/apend/gigantes"}
+@End @Appendix
+
+
+@Appendix
+@Title { Fuerzas en el interior de los fluidos}
+@Begin
+@Include {"cap/apend/navier"}
+@End @Appendix
+
+@Appendix
+@Title { Nota metodológica}
+@Begin
+@Include {"cap/apend/notas"}
+@End @Appendix

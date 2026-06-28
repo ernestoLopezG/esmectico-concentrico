@@ -1,0 +1,86 @@
+@Section
+@Title {Estabilidad de las soluciones hadrónicas }
+@Begin 
+   
+ 
+@PP 
+  La multiplicidad de las posibles soluciones hadrónicas se enfrenta a la realidad de las escasas soluciones estables (protón) y cuasiestables (neutrón ). Resumiendo ningún mesón es estable, y de todos los bariones solo uno lo es completamente. Veamos las posibles razones:
+@DP 
+  Hemos visto que todas las soluciones de la ecuación de onda que hemos asignado a la materia son fundamentalmente asimétricas, especialmente el sentido de la onda, aunque también geométricamente. Si exponemos estas ideas gráficamente vemos como la estabilidad está directamente relacionada con la asimetría de la solución. Especialmente el par partícula antipartícula que se convierte rápidamente en fotones.
+@DP  
+    @Figure @Caption { Soluciones hadrónicas } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img110.eps"} 
+@DP 
+ Dada la simetría de los mesones (2 ondas iguales, al menos en carga electrofuerte ) se puede deducir  su inestabilidad, siendo esta mayor cuanto más iguales sean las ondas, es decir, se supone a los mesones cargados una mayor estabilidad.
+@DP 
+ Por tanto, como ya habíamos visto que en el caso de un número total de epícimas par, pero divisible entre cuatro, prevalecía por ser de menor masa la solución mesónica podemos descartar como estables la mitad de todas las partículas posibles. Hay que buscar en la asimetría de la solución bariónica las partículas estables.
+@DP
+ De entre los bariones la mayor asimetría en la solución se produce cuando la diferencia entre las dos  ondas menores es máxima, circunstancia que se ve favorecida energéticamente porque la energía de repulsión entre ellas se hace mínima, ya que al ser el radio de Bohr inversamente proporcional a la masa de la onda se maximiza de esta manera la distancia entre las dos ondas con la misma carga electrofuerte. Por tanto y para fijar ideas si suponemos que la onda mayor está formada por 15 epícimas( número impar, si no, la solución mesónica prevalecería) se supone que la solución más estable estará formada por una segunda onda de 14 epícimas y una tercera de 1 sola epícima.
+@DP
+ Se propone también que de existir epícimas cargadas estos se concentren únicamente en las  dos ondas interiores, lo que maximizaría la atracción electromagnética.
+@DP
+ Para seguir avanzando debemos considerar la naturaleza de las tres ondas que conforman los bariones. Si por ejemplo decimos que la onda más interna está formada por 7 epícimas, ¿ que queremos decir, que tenemos una sola onda con la amplitud de 7 epícimas, o que tenemos 7 epícimas vibrando simultáneamente, pero con una diferencia de fase entre ellos? Es considerando la naturaleza ondulatoria de los hadrones la que nos puede ayudar. Si tenemos una única onda vibrando significa que en algunos momentos la onda desaparece. Es fácil ver la inestabilidad que esto provoca. No sabemos si existe o no la onda única, lo que si podemos ver es que será más estable la suma de ondas desfasadas entre sí regularmente. Por otro lado, al tratarse de ondas con la misma carga (electrofuerte, eléctrica o neutrínica), se minimiza la repulsión entre ellas si presentan una diferencia de fase. Veamos el ejemplo del muón. 
+@DP  
+@Figure @Caption { Estructura del muón } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img065.eps"} 
+@DP     
+ Consideremos solo las cargas electrofuertes. La onda mayor estará formada por 3 ondas desfasadas regularmente, mientras que la onda intermedia estará formadas por 2 ondas.
+@DP     
+    @Figure @Caption { Superposición de ondas } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img112.eps"} 
+@DP 
+ Ahora bien, ¿como medir la fuerza relativa de su interacción en base al desfase relativo? Se propone integrar en un ciclo el valor del producto de las amplitudes de la onda mayor con la intermedia normalizadas con el número de epícimas que las conforman. Por si mismo el producto de esta integral no significa nada, pero permite comparar entre las distintas combinaciones posibles. A este número se le ha llamado factor temporal y cuanto mayor es su valor, mayor estabilidad se le supone a la partícula. Se ha calculado numéricamente esta integral mediante el método de romberg en el programa wxmáxima. En el caso del muón sería:
+ @DP 
+ @Verbatim {romberg((abs(sin(x))+abs(sin(x+3.14159 / 3))+abs(sin(x+2*3.14159/ 3)))/3
+ *(abs(sin(x))+abs(sin(x+3.14159 / 2))) / 2, x, 0, 3.14159)}
+ @DP 
+ Para una estructura con una onda interior formada por 33 epícimas sería:
+ @DP
+ @Verbatim {
+ romberg((abs(sin(x))+abs(sin(x+3.14159 / 33))+abs(sin(x+2*3.14159 / 33))
+ +abs(sin(x+3*3.14159 / 33))
+ 
+          +abs(sin(x+4*3.14159 / 33))+abs(sin(x+5*3.14159 / 33))+abs(sin(x+6*3.14159 / 33))
+          
+          +abs(sin(x+7*3.14159 / 33))+......+abs(sin(x+31*3.14159 / 33))
+          
+              +abs(sin(x+32*3.14159 / 33))  ) / 33*(abs(sin(x))+abs(sin(x+3.14159 / 32))+
+              abs(sin(x+2*3.14159 / 32))
+              +abs(sin(x+3*3.14159 / 32))+abs(sin(x+4*3.14159 / 32))+.....
+              +abs(sin(x+30*3.14159 / 32))
+              
+                 +abs(sin(x+31*3.14159 / 32)) ) / 32 , x, 0, 3.14159)
+  }               
+@DP               
+Los resultados son: 
+@DP
+@Figure @Caption { Factor temporal } @Location {TryAfterLine} {0.9 @Scale @IncludeGraphic "img/Libro-img115.eps"} 
+@DP 
+que representado gráficamente
+@DP 
+  
+  @Figure @Caption { Factor temporal } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img116.eps"} 
+  @DP 
+
+Vemos que de acuerdo a este parámetro las partículas cuya onda más interior está formada por 9,13,17,21 y 25 epícimas son más inestables, resultando que las partículas más ligeras y aquellas con 27 o más epícimas son todas igualmente estables.
+@DP 
+Pero no hay que considerar solo la coincidencia temporal, sino la coincidencia en el espacio. Si representamos la onda interior y la intermedia para un numero de ondas de 3 y de 27 por ejemplo se puede observar claramente.
+ 
+@DP
+@Figure @Caption { Superposición de ondas } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img118.eps"} 
+@DP  
+Para estudiar su influencia se ha utilizado la raíz cuadrada de la integral del producto de las amplitudes normalizadas al número de epícimas. (Recordemos que el radio de Bohr es inversamente proporcional a la masa,o sea al número de epícimas). La he llamado factor de forma y se ha calculado numéricamente por el método de Romberg en wxmaxima. Se pone como ejemplo para un barión con 5 epícimas en su onda más pesada
+@DP
+@Verbatim { (romberg( 0.5*5^3*x^2*exp(-5*x)* 0.5*4^3*x^2*exp(-4*x)/(5+4) , x, 0, 5))^0.5}
+@DP 
+ Se muestran los resultados junto al factor temporal y el producto de ambas: 
+@DP  
+ @Figure @Caption { Factor de estabilidad conjunto } @Location {TryAfterLine} {0.9 @Scale @IncludeGraphic "img/Libro-img119.eps"} 
+@DP 
+que representado gráficamente nos muestra que existe una estabilidad creciente hasta un número de epícimas en la onda más pesada igual a 25 - 27, a partir del cual es indiferente:
+ 
+@DP 
+ Luego los bariones de menor masa estable serán los de 25-27 epícimas en la onda inferior. O sea, protones y neutrones. En cuanto al porcentaje de epícimas cargadas y neutras no he encontrado ninguna razón para que la relación más estable sea @Math {1 slash 3} cargados, @Math {2 slash 3}  neutros, salvo la obvia de separar los epícimas cargadas con dos neutras. La asimetría relativa del protón frente al neutrón le beneficia en cuanto a estabilidad.
+ @DP 
+@Figure @Caption { Factor de estabilidad conjunto } @Location {TryAfterLine} {@Scale @IncludeGraphic "img/Libro-img120.eps"} 
+@End @Section
+ 
+ 
+
