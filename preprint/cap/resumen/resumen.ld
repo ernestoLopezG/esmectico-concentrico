@@ -131,6 +131,30 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -185,7 +209,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "1987 133"
+@@D "2271 157"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -199,7 +223,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "1965 132"
+@@D "2249 156"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -213,6 +237,24 @@
   \d{}
   \e{"10.1148.libro.lout.8"}
   \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/deuteron.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{}
+  \d{}
+  \e{"10.1148.libro.lout.8"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/deuteron.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{}
+  \d{}
+  \e{"10.1148.libro.lout.8"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/resumen/resumen.2"}
@@ -243,7 +285,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/resumen/resumen.2"}}}
 
 {@@E {
-@@D "3779 235"
+@@D "4361 277"
 }
 {@NumberMarker
   \a{"9.3806.cap/resumen/resumen.2"}
@@ -310,6 +352,53 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -317,58 +406,6 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.8"}
-  \b{Resumen y Conclusiones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1148.libro.lout.8"}
-  \b{Major}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \f{@@V @AboveChapterGap}
-  \g{@@V @ChapterHeadingFont}
-  \h{@@V @ChapterHeadingBreak}
-  \i{@Num @@V @ChapterHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @ChapterContentsIndent}
-  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
-  \n{Arabic}
-  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \s{}
-  \x{Yes}
-  \y{Yes}
-  \z{Yes}
-  intables{Yes}
-  infloaters{Yes}
-  sendheader{@@V @ChapterFull @Body}
-  innergap{@@V @SectionGap}
-  inrunners{Yes}
-@@V @Body} } }
-}
-{@@V @Heading} } }
- }
-{@@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 @@C
@@ -382,66 +419,105 @@
 {@LUse @TblSetup} } }
 }
 {@Chapter
-  \a{"10.1148.libro.lout.8"}
-  \b{Resumen y Conclusiones}
+  \a{"10.1148.libro.lout.7"}
+  \b{Fuerza nuclear residual}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Sistemas de dos nucleones}
 { @LInput }} } }
 }
 {@@V @LargeScaleStructure
-  \a{"10.1148.libro.lout.8"}
-  \b{Major}
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Minor}
   \c{}
   \d{@@V @Title}
   \e{dft}
-  \f{@@V @AboveChapterGap}
-  \g{@@V @ChapterHeadingFont}
-  \h{@@V @ChapterHeadingBreak}
-  \i{@Num @@V @ChapterHeadingFormat @Body}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
   \k{Yes}
-  \l{@@V @ChapterContentsIndent}
-  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
+  \l{@@V @SectionContentsIndent}
   \n{Arabic}
-  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
   \q{dft}
-  \s{}
-  \x{Yes}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
   \y{Yes}
-  \z{Yes}
-  intables{Yes}
-  infloaters{Yes}
-  sendheader{@@V @ChapterFull @Body}
-  innergap{@@V @SectionGap}
+  \z{No}
+  intables{No}
+  infloaters{No}
   inrunners{Yes}
+  newpage{No}
 @@V @Body} } }
 }
 {@@V @Heading} } }
-}
-{@@V sendheader {
-//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
-// @@V @Run @@V @StartIfMajor
-// @PageMark @@V tag
-//{@DisplayGap} @@V headingtext}} } }
-}
-{@Body}} }
 }
 {@@V @Run @@V @StartIfMajor} } }
  }
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-{ @@B { @@D "5984 366"
- }
-{@@E {
 { @@A { @@E {
-@@D "5984 366"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
 }
-{@@V sendheader {
-//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
-// @@V @Run @@V @StartIfMajor
-// @PageMark @@V tag
-//{@DisplayGap} @@V headingtext}} } }
+{@LUse @BasicSetup} } }
 }
-{@Body}} }
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.7"}
+  \b{Fuerza nuclear residual}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Sistemas de dos nucleones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
 }
 {@@V @Run @@V @StartIfMajor} } }
 }
@@ -450,47 +526,83 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.219"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
+  \g{"9.952.cap/fnr/deuteron.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
   \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/fnucleones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/deuteron.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/deuteron.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/deuteron.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/fnr/deuteron.10"}
   \a{@MajorNum}
   \b{@MajorTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
   \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/fnr/deuteron.12"}
   \a{@MajorNum}
   \b{@MajorTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
   \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/resumen/resumen.2"}
   \a{@MajorNum}
   \b{@MajorTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
   \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/resumen/resumen.4"}
   \a{@MajorNum}
   \b{@MajorTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
   \f{@Prefix}}}
 

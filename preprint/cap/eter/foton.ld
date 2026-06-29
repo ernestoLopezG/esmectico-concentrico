@@ -453,41 +453,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "7 1"
-}
-{@Section
-  \a{"10.1196.cap/eter/foton.1"}
-  \b{La energía como vibraciones transversales}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/foton.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
+@@D "430 29"
 }
 {@@V @Run NonStart} } }
  }

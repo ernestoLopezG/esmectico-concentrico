@@ -208,13 +208,13 @@ La cuestión ahora es, ¿no podría ese mismo par inducir el cambio de un protón a 
 @DP
 El mecanismo inverso requeriría:
 @DP
-Se crea un par @Math {e sup {+} slash e sup {-}} (la onda de interfaz en ambas direcciones).
+- Se crea un par @Math {e sup {+} slash e sup {-}} (la onda de interfaz en ambas direcciones).
 @DP
-Se crea simultáneamente un par @Math {upsilon sub {e} slash {{ upsilon} widebelow {minus}}  sub {e}}.
+- Se crea simultáneamente un par @Math {upsilon sub {e} slash {{ upsilon} widebelow {minus}}  sub {e}}.
 @DP
-El @Math { {{ upsilon} widebelow {minus}}  sub {e}} cataliza la conversión de epícima ligera en pesada (el proceso inverso).
+- El @Math { {{ upsilon} widebelow {minus}}  sub {e}} cataliza la conversión de epícima ligera en pesada (el proceso inverso).
 @DP
-El @Math {nu sub {e}} y el @Math {e sup +} escapan libres, mientras que el @Math {e sup -} queda absorbido en la reorganización.
+- El @Math {nu sub {e}} y el @Math {e sup +} escapan libres, mientras que el @Math {e sup -} queda absorbido en la reorganización.
 @DP
 La conversión epícima ligera @Math {arrowright} pesada requiere energía porque la epícima pesada tiene mayor masa (m_p > m_l, diferencia @Math {similar 1.76 MeV}). En un protón libre no hay fuente de energía externa disponible - la reacción está energéticamente prohibida. Esto es coherente con el dato experimental: m_n > m_p (diferencia @Math {similar 1.293 MeV}), lo que hace que la beta positiva sea endotérmica para el protón libre.
 @DP
@@ -288,8 +288,63 @@ El espín en el modelo refleja dos realidades simultaneamente:
 @DP
 Ambas realidades son en realidad la misma cosa vista a dos escalas: el momento angular colectivo del estrato (escala hadrónica) y la orientación individual del eje elíptico de cada pulsación (escala de la pulsación individual). La conservación del momento angular en la reacción es la manifestación macroscópica de que el sustrato mantiene la coherencia de sus deformaciones elípticas a escala microscópica - sin postulados adicionales.
 @DP
-@B {Capturas con cambio de estructura bariónica:}
+@B {Capturas con cambio de estructura bariónica: captura muónica}
 @DP
+Los muones negativos que orbitan los átomos pueden ser capturados por un protón del núcleo, produciendo un neutrón y un neutrino muónico. Es la reacción análoga a la captura electrónica, pero con el muón en lugar del electrón.
+@DP
+@Math { mu sup {-} + p sup {+} arrowright n + nu sub {mu}}
+@DP
+Esta captura es muy lenta (@Math {460-725 s sup {-1}} según MuCap, PSI) comparada con procesos hadronicos típicos (@Math {similar 10 sup {23} s sup {-1}}).
+@DP
+Ahora bien, dentro del modelo el muón se considera el barión más ligero ( Capítulo 5) con estructura (3,2,1), ¿por qué entonces su
+"captura" por un protón es tan lenta ?
+@DP
+La respuesta desde el modelo no es dinámica sino @B{topológica}:
+@DP
+La captura muónica no es una simple conversión de epícima pesada en ligera (como en la beta ordinaria). Es la fusión de dos
+estructuras bariónicas completas:
+@DP
+- Muón: estructura (3,2,1) - 6 epícimas totales
+@DP
+- Protón: estructura (27,9,10) - 54 epícimas totales
+@DP
+seguida de la reorganización del sistema fusionado hacia la estructura del neutrón (25,23,23).
+@DP
+El estado intermedio sería (30,11,28,11,2,0) - la suma componente a componente de muón y protón. La masa de este estado intermedio
+calculada desde el modelo (@Math {similar 1044 MeV}) es coherente con la energía disponible en la reacción (muón + protón = 1043.93 MeV
+experimentalmente), confirmando que la fusión directa es el camino correcto.
+@DP @I {La barrera no es energética sino topológica}: disolver la estructura bariónica (3,2,1) del muón dentro de la estructura
+(27,9,10) del protón y reconfigurar el conjunto hacia el neutrón requiere una reorganización masiva del sustrato - no es una conversión sencilla de epícimas sino la disolución de una arquitectura completa dentro de otra mucho mayor. Esto es análogo a fundir dos cristales de tamaños muy distintos en uno solo y luego recristalizarlo en una forma específica, frente a simplemente
+recristalizarlo desde un estado similar.
+@DP
+En la captura electrónica ordinaria (@Math {e sup {-} + p sup {+} arrowright n + nu sub {e}}), el neutrino cataliza la conversión de epícima pesada en ligera - es el agente geométrico asociado a ese tipo de conversión.
+@DP
+En la captura muónica, el muón no es simplemente un electrón más masivo - es un barión completo de 3 estratos que desaparece en su
+totalidad. No hay conversión de epícima pesada en ligera que requiera un par neutrino - antineutrino como catalizador. Lo que ocurre es la destrucción de una estructura de 3 estratos, que es exactamente el proceso asociado al neutrino muónico (el neutrino asociado a la creación"/"destrucción de estratos, según la regla pesada-electrónico "/" ligera-muónico establecida en este modelo).
+@DP
+La emisión de @Math {nu sub mu} en la captura muónica es coherente con la misma regla que explica la emisión de @Math {nu sub mu} en la desintegración del pión (@Math {pi sup {+} arrowright mu sup {+} + nu sub {mu}}: ambas implican un cambio en el número de estratos,
+no una conversión de tipo de epícima. El estrato eliminado no puede desaparecer completamente, debe quedar al menos el momento angular, que sobrevive en el neutrino muónico
+@DP
+Ya habíamos visto que la tasa de captura muónica medida por MuCap (PSI) era: @Math {lambda sub {c} = 725,0 plusminus 17,4 s sup {-1}}, esta tasa, aunque muy inferior a los procesos hadronicos ordinarios, no es despreciable. Escala como @Math {Z sup 4} con el número atómico del núcleo captor - compatible con el solapamiento geométrico entre los radios de Bohr del muón en reposo (@Math {a sub {0} similar 2.8 fm},@Math {a sub {1} similar 4.2 fm}, @Math {a sub {2} similar 8.49 fm} ) y el radio nuclear (@Math {similar 1,2 cdot A sup {1 over 3}} fm).
+@DP
+La distinción entre la interpretación del MS (interacción débil mediada geométricamente) y la del modelo (barrera topológica de
+reorganización estructural) no puede resolverse con los datos actuales de captura muónica, ya que la dependencia con Z es compatible
+con ambos marcos. Queda como problema abierto la predicción cuantitativa de la tasa desde el solapamiento geométrico del modelo.
+
+@DP
+La captura muónica pertenece a una categoría distinta de las reacciones beta: no es una conversión de tipo de epícima sino una
+fusión de estructuras bariónicas completas. Es el único proceso en este cuadro donde dos bariones se fusionan en uno - y por eso
+su tasa es radicalmente distinta: no está limitada por la barrera energética de la conversión pesada"/"ligera, sino por la barrera
+topológica de la reorganización estructural de @Math {similar 60}epícimas.
+@DP @B {}
+
+
+
+
+
+
+
+
 
 
 
