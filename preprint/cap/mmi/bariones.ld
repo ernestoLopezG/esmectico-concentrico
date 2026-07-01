@@ -1355,7 +1355,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "21523 1295"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/mmi/bariones.1"}
+  \b{Ajuste de las masas de las epícimas}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/mmi/bariones.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1435,7 +1493,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.6"}}}
 
 {@@E {
-@@D "23924 1427"
+@@D "24918 1485"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.6"}
@@ -1749,7 +1807,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "28936 1721"
+@@D "29930 1779"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/mmi/bariones.7"} } }
 }
@@ -1758,7 +1816,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.7"}}}
 
 {@@E {
-@@D "29379 1750"
+@@D "30373 1808"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.7"}
@@ -1767,7 +1825,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "28880 1717"
+@@D "29874 1775"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.7"}
@@ -1783,7 +1841,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "28936 1721"
+@@D "29930 1779"
 }
 {@@V @DupRunner} } }
  }
@@ -1922,7 +1980,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "31047 1862"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/mmi/bariones.1"}
+  \b{Ajuste de las masas de las epícimas}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/mmi/bariones.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -2001,7 +2117,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "28880 1717"
+@@D "29874 1775"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.8"}
@@ -2011,7 +2127,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "28936 1721"
+@@D "29930 1779"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/mmi/bariones.8"} } }
 }
@@ -2020,7 +2136,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.8"}}}
 
 {@@E {
-@@D "33796 2012"
+@@D "35784 2128"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.8"}
@@ -2029,7 +2145,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "28880 1717"
+@@D "29874 1775"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.8"}
@@ -2045,7 +2161,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "28936 1721"
+@@D "29930 1779"
 }
 {@@V @DupRunner} } }
  }
@@ -2345,7 +2461,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "28894 1718"
+@@D "29888 1776"
 }
 {@Section
   \a{"10.1196.cap/mmi/bariones.1"}
@@ -2383,7 +2499,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "39392 2344"
+@@D "41380 2460"
 }
 {?? @@V @Do ??} } }
 }

@@ -212,11 +212,7 @@ Los cálculos numéricos de este capítulo fueron verificados con asistencia de Cla
 @End @Appendix
 
 
-@Appendix
-@Title { Fuerzas en el interior de los fluidos}
-@Begin
-@Include {"cap/apend/navier"}
-@End @Appendix
+
 
 @Appendix
 @Title { Nota metodológica}

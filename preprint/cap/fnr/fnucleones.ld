@@ -1375,7 +1375,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "23185 1315"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.7"}
+  \b{Fuerza nuclear residual}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/fnr/fnucleones.1"}
+  \b{Potencial nuclear residual entre dos nucleones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/fnr/fnucleones.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1486,7 +1544,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "25619 1447"
+@@D "26638 1505"
 }
 {?? @@V @Do ??} } }
 }
@@ -1512,7 +1570,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/fnr/fnucleones.6"}}}
 
 {@@E {
-@@D "26723 1504"
+@@D "27742 1562"
 }
 {@NumberMarker
   \a{"9.3806.cap/fnr/fnucleones.6"}
@@ -1605,7 +1663,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "27623 1545"
+@@D "28642 1603"
 }
 {{??} @@V @Do {??}} } }
 }

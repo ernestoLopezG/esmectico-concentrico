@@ -288,7 +288,7 @@ El espín en el modelo refleja dos realidades simultaneamente:
 @DP
 Ambas realidades son en realidad la misma cosa vista a dos escalas: el momento angular colectivo del estrato (escala hadrónica) y la orientación individual del eje elíptico de cada pulsación (escala de la pulsación individual). La conservación del momento angular en la reacción es la manifestación macroscópica de que el sustrato mantiene la coherencia de sus deformaciones elípticas a escala microscópica - sin postulados adicionales.
 @DP
-@B {Capturas con cambio de estructura bariónica: captura muónica}
+@B {La captura muónica: Un caso especial}
 @DP
 Los muones negativos que orbitan los átomos pueden ser capturados por un protón del núcleo, produciendo un neutrón y un neutrino muónico. Es la reacción análoga a la captura electrónica, pero con el muón en lugar del electrón.
 @DP
@@ -296,59 +296,116 @@ Los muones negativos que orbitan los átomos pueden ser capturados por un protón 
 @DP
 Esta captura es muy lenta (@Math {460-725 s sup {-1}} según MuCap, PSI) comparada con procesos hadronicos típicos (@Math {similar 10 sup {23} s sup {-1}}).
 @DP
-Ahora bien, dentro del modelo el muón se considera el barión más ligero ( Capítulo 5) con estructura (3,2,1), ¿por qué entonces su
-"captura" por un protón es tan lenta ?
+Ahora bien, dentro del modelo el muón se considera el barión más ligero ( Capítulo 5) con estructura (3,2,1), y con cargas electrofuertes ¿por qué entonces su "captura" por un protón es tan lenta ?.
 @DP
-La respuesta desde el modelo no es dinámica sino @B{topológica}:
+Si consideramos la reacción de forma directa, tendríamos que considerar la unión de los 6 estratos en 3, implicando un total de 60 epícimas y  seguido de una reorganización masiva para dar lugar a un neutrón compuesto de 50 estratos, que dificilmente produciría un único muón. La solución es mucho más sencilla, y no requiere ningún mecanismo nuevo. Es la
+combinación secuencial de dos reacciones ya derivadas en este preprint:
 @DP
-La captura muónica no es una simple conversión de epícima pesada en ligera (como en la beta ordinaria). Es la fusión de dos
-estructuras bariónicas completas:
+@I {Paso 1 - Desintegración del muón:}
 @DP
-- Muón: estructura (3,2,1) - 6 epícimas totales
+@Math {mu sup {-} arrowright e sup {-} + {{nu} widebelow {minus}} sub {e} + nu sub mu}
 @DP
-- Protón: estructura (27,9,10) - 54 epícimas totales
+(sección 3.3.4, mecanismo de reducción de estratos)
 @DP
-seguida de la reorganización del sistema fusionado hacia la estructura del neutrón (25,23,23).
+@I {Paso 2 - Captura electrónica inducida por antineutrino (Oldeman):}
+@Math{ {{nu} widebelow {minus}} sub {e} + e sup {-} + p sup {+} arrowright n }
 @DP
-El estado intermedio sería (30,11,28,11,2,0) - la suma componente a componente de muón y protón. La masa de este estado intermedio
-calculada desde el modelo (@Math {similar 1044 MeV}) es coherente con la energía disponible en la reacción (muón + protón = 1043.93 MeV
-experimentalmente), confirmando que la fusión directa es el camino correcto.
-@DP @I {La barrera no es energética sino topológica}: disolver la estructura bariónica (3,2,1) del muón dentro de la estructura
-(27,9,10) del protón y reconfigurar el conjunto hacia el neutrón requiere una reorganización masiva del sustrato - no es una conversión sencilla de epícimas sino la disolución de una arquitectura completa dentro de otra mucho mayor. Esto es análogo a fundir dos cristales de tamaños muy distintos en uno solo y luego recristalizarlo en una forma específica, frente a simplemente
-recristalizarlo desde un estado similar.
+(sección 3.3.4, reacción de Oldeman, Meloni y Saitta 2010)
 @DP
-En la captura electrónica ordinaria (@Math {e sup {-} + p sup {+} arrowright n + nu sub {e}}), el neutrino cataliza la conversión de epícima pesada en ligera - es el agente geométrico asociado a ese tipo de conversión.
+@I {Resultado neto:}
 @DP
-En la captura muónica, el muón no es simplemente un electrón más masivo - es un barión completo de 3 estratos que desaparece en su
-totalidad. No hay conversión de epícima pesada en ligera que requiera un par neutrino - antineutrino como catalizador. Lo que ocurre es la destrucción de una estructura de 3 estratos, que es exactamente el proceso asociado al neutrino muónico (el neutrino asociado a la creación"/"destrucción de estratos, según la regla pesada-electrónico "/" ligera-muónico establecida en este modelo).
+@Math { mu sup {-} + p sup {+} arrowright n + nu sub {mu}}
 @DP
-La emisión de @Math {nu sub mu} en la captura muónica es coherente con la misma regla que explica la emisión de @Math {nu sub mu} en la desintegración del pión (@Math {pi sup {+} arrowright mu sup {+} + nu sub {mu}}: ambas implican un cambio en el número de estratos,
-no una conversión de tipo de epícima. El estrato eliminado no puede desaparecer completamente, debe quedar al menos el momento angular, que sobrevive en el neutrino muónico
+El electrón y el antineutrino electrónico producidos en el paso 1 se consumen íntegramente en el paso 2. El neutrino muónico del paso 1 no participa en el paso 2 - escapa libre. El balance final es exactamente la reacción observada.
 @DP
-Ya habíamos visto que la tasa de captura muónica medida por MuCap (PSI) era: @Math {lambda sub {c} = 725,0 plusminus 17,4 s sup {-1}}, esta tasa, aunque muy inferior a los procesos hadronicos ordinarios, no es despreciable. Escala como @Math {Z sup 4} con el número atómico del núcleo captor - compatible con el solapamiento geométrico entre los radios de Bohr del muón en reposo (@Math {a sub {0} similar 2.8 fm},@Math {a sub {1} similar 4.2 fm}, @Math {a sub {2} similar 8.49 fm} ) y el radio nuclear (@Math {similar 1,2 cdot A sup {1 over 3}} fm).
+Por tanto, el número de neutrinos está fijado por el primer paso, la energía liberada en la descomposición del muón es un orden de magnitud superior al requerido por la captura Oldeman. La lentitud se debe a que la captura Oldeman requiere un rango muy estrecho de energía resonante.De hecho, este mecanismo no implica que el antineutrino implicado sea el mismo que se ha producido en la descomposición, puede provenir de otra descomposición. La descripción cualitativa es muy simple, disponemos de protones y muones, cuando empiezan a descomponerse los muones se forman átomos de hidrógeno, susceptibles de sufrir una captura electrónica gracias a los antineutrinos electrónicos ambiente generados por la descomposición de otros muones.
 @DP
-La distinción entre la interpretación del MS (interacción débil mediada geométricamente) y la del modelo (barrera topológica de
-reorganización estructural) no puede resolverse con los datos actuales de captura muónica, ya que la dependencia con Z es compatible
-con ambos marcos. Queda como problema abierto la predicción cuantitativa de la tasa desde el solapamiento geométrico del modelo.
-
+En caso de estar involucrados átomos más complejos la dependencia empírica @Math {Z sup 4} con el número atómico
+del núcleo captor refleja la probabilidad de que el electrón sea capturado por un protón  - mayor Z significa más protones disponibles para la captura resonante.
 @DP
-La captura muónica pertenece a una categoría distinta de las reacciones beta: no es una conversión de tipo de epícima sino una
-fusión de estructuras bariónicas completas. Es el único proceso en este cuadro donde dos bariones se fusionan en uno - y por eso
-su tasa es radicalmente distinta: no está limitada por la barrera energética de la conversión pesada"/"ligera, sino por la barrera
-topológica de la reorganización estructural de @Math {similar 60}epícimas.
-@DP @B {}
+Sin embargo, la masa extremadamente pequeña de los neutrinos y su sección eficaz de interacción minúscula hacen que, experimentalmente, solo se pueda inferir la producción de neutrinos por balance de energía-momento y por conservación del número leptónico - un principio que el modelo no comparte necesariamente como fundamental.
+@DP
+En particular: el MS prohíbe la aparición simultánea de neutrinos muónicos y tauónicos en la misma reacción por leyes de conservación postuladas. El modelo no tiene un mecanismo propio que imponga esa prohibición de forma independiente. No se ha verificado experimentalmente -
+hasta donde se ha podido determinar - si existe búsqueda específica de neutrinos muónicos y tauónicos simultáneos en reacciones de
+captura, precisamente porque el MS no lo predice y por tanto no se ha diseñado el experimento correspondiente.
+@DP
+El mecanismo en dos pasos aquí propuesto para la captura muónica sí predice un número definido (un único @Math {nu sub mu}), consistente con la observación. Pero el principio general de cuantización del número de neutrinos en procesos más complejos del modelo permanece como
+problema abierto.
 
 
 
+@End @SubSection
 
 
 
+@SubSection
+@Title { El neutrino tauónico agente geométrico de reorganización hadrónica  }
+@Begin
+@DP
+El neutrino tauónico es especial, la solución IIbis no tiene domicilio en @Math {xi}: su condición (a=0, Floquet @Math {upsilon = half}) es topológica, e independiente de cualquier @Math {xi sub {0}}. Su gráfica en la  Figura 2.2 muestra amplitud significativa en ambos extremos del dominio y un mínimo casi-nulo en el centro  - un objeto que ocupa los dos extremos a la vez sin estar anclado a ninguno. Esto contrasta con el resto de neutrinos Tipo I (monótonas crecientes, con CDG bien localizado) y con el leptón restante, el electrón Tipo III (cúspide en un punto concreto @Math {xi sub {0}}).
+@DP
+Si el neutrino tauónico es la única pulsación con esta propiedad topológica, su papel no puede ser el de un revestimiento estático (que requiere un CDG localizado lejos del núcleo) ni el de una cúspide (que requiere un extremo fijo). Su papel natural sería el de un conector: un canal que puede transmitir información entre el interior del esméctico (@Math {xi sub {0} similar 0}, donde viven las epícimas) y su frontera exterior (@Math {xi sub {u} =R_u}, la escala del toro cosmológico de 3.2), sin estar atrapado en ninguno de los dos.
+@DP
+Esta hipótesis predeciría que el neutrino tauónico aparece preferentemente cuando la reorganización del interior es suficientemente profunda para "tocar" la escala global - y no en reorganizaciones ordinarias donde basta con el neutrino muónico. El modelo es capaz de predecir qué canales son geométricamente posibles, pero no la distribución de probabilidad entre ellos. Esta limitación es análoga, en espíritu, al efecto túnel: igual que la probabilidad de transmisión a través de una barrera depende de la función de onda completa y no solo de si el canal está abierto, aquí la probabilidad de cada canal de reorganización depende de la interacción de todas las ondas involucradas con el sustrato.
+@DP
+Sin embargo, la analogía no debe llevarse demasiado lejos: el problema del túnel estándar involucra una partícula, una barrera y un parámetro. El problema de las transiciones en Solo Ondas involucra 50-100 ondas acopladas, un sustrato con tres fases distintas (fluido, esméctico C, esméctico A) con sus propios modos de propagación y constantes elásticas, anisotropía del esméctico C (director inclinado @Math {theta similar 44º} respecto a las capas, que rompe la simetría uniaxial del esméctico A y no tiene eje de simetría compatible con la geometría concéntrica), al menos dos regímenes de arrastre (inercial y viscoso-no-disipativo), e interacciones indirectas entre pulsaciones a través de la deformación del sustrato. Una teoría cuantitativa de estas transiciones derivaría los branching ratios desde primeros principios - en vez de medirlos, como hace el MS con sus vértices de acoplamiento. Ese es el problema abierto de mayor alcance que el modelo deja pendiente en este sector.
+@DP
+Sin embargo,se ha encontrado una regla empírica- el lector tendrá que esperar pacientemente al capítulo 5 para encontrar las reglas que permiten obtener las composiciones, estratos, masas, momentos magnéticos y radios de Bohr de los diferentes hadrones- muy sencilla. La producción de un tipo u otro de neutrino aparentemente depende del ratio entre el radio de Bohr del estrato interior (@Math {a sub 0}) y la escala natural hadrónica @Math {xi sub {0}}.
+@DP
+@Math {xi sub {0} = hbar c slash (2 cdot m_l) = 8,488 fm} (radio exterior universal del hadrón)
+@DP
+El ratio se define como @Math {a sub {0} slash xi sub {0} cdot 100%}
+@DP
+- Ratio > @Math {similar 3.5%}: se emite neutrino muónico- estrato con radio @Math {>> xi sub {0}}
+@DP
+- Ratio < @Math {similar 2.5%}: se emite neutrino tauónico - estrato compacto, radio @Math {similar xi sub {0}}
+@DP
+- Zona de transición 2.5-3.5%: Indeterminado.
+@DP
+A continuación se exponen una serie de reacciones donde se cumple la regla empírica anteriormente expuesta.
+@DP
+@Table
+
+@Caption {Reacciones verificadas}
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B | @Cell C  | @Cell D  }
+rule { yes }
+{
+@Rowa A {  Reacción  } B {  Composición} C {Ratio%} D {@Math {nu} emitido}
+
+
+@Rowa A {  @Math { mu sup {-} arrowright e sup {-} + {{nu} widebelow {minus}} sub {e} + nu sub mu}  } B { (3,2)(2,1)(1,0) } C {32.87%} D {@Math {nu sub mu } }
+@Rowa A {  @Math {pi sup {+} arrowright mu sup {+} + nu sub {mu} }  } B { (3,0)(3,1)(1,0)(1,0)  } C {33.82% } D {@Math {nu sub mu} }
+@Rowa A {  @Math {pi sup {-} arrowright mu sup {-} + {{nu} widebelow {minus}} sub {mu} }  } B { (3,0)(3,1)(1,0)(1,0)  } C {33.82% } D {@Math {nu sub mu} }
+@Rowa A {  @Math {K sup {+} arrowright mu sup {+} + nu sub mu}  } B { (13,7)(13,6)(1,0)(1,0) } C {7.43%} D {@Math {nu sub mu } }
+@Rowa A {  @Math {K sup {+} arrowright pi sup {0} +mu sup {+} + nu sub mu}  } B { (13,7)(13,6)(1,0)(1,0) } C {7.43%} D {@Math {nu sub mu } }
+@Rowa A {  @Math {tau sup {-} arrowright nu sub {tau} + }  } B {  } C {} D {@Math {nu sub } }
+@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
+@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
+@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
+@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
+@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
+
+
+}
+
+
+
+#| ????_?+?? | (45,37)(44,36)(1,0) | 2.08% | ?_? ? |
+#| ????_?+?? | (45,37)(44,36)(1,0) | 2.08% | ?_? ? |
+#| Ds????+?_? | (55,23)(55,22)(1,0)(1,0) | 1.78% | ?_? ? |
+#| B??D?+??+?_? | (153,37)(153,36)(1,0)(1,0) | 0.66% | ?_? ? |
+#| B????+?_? | (153,37)(153,36)(1,0)(1,0) | 0.66% | ?_? ? |
 
 
 
 
 
 @End @SubSection
+
+
+
 
 @DP
 
@@ -357,7 +414,7 @@ Pendiente
 
 Pareamiento de epícimas por rotaciones opuestas - suma coherente de deformaciones tipo Cooper.
 @DP
-El antineutrino como agente geométrico de reorganización hadrónica - captura electrónica  como verificación
+
 @DP
 El ángulo @Math {theta similar 45°} del esméctico C desde el parámetro de orden de Landau:
 @DP @Math {theta = arctan(surd (1 - m_e slash m_ep)) sin parámetros libres.}

@@ -197,7 +197,18 @@ Sustituyendo: @DP
 Es decir, la formula tradicional de la aceleración centrípeta. Para el caso relativista tendríamos que: @DP
 @Math {dr sup {2} over {dt sup {2}} cdot {1} over {c sup 2}   = - { omega sup {2} r} over {c sup {2}}  blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 }} {@Sym arrowright} @Math { a  = - { omega sup {2} r}   blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 }}, @DP  
 Esta aceleración se observaría localmente, desde nuestra posición estática y debido a la dilatación temporal lo que mediríamos sería: @DP
-@Math { a  = - { omega sup {2} r}   blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 slash 2 }} @DP
+@Math { a  = - { omega sup {2} r}   blpar 1- {omega sup {2} r sup {2}} over {c sup 2 } brpar sup {-1 slash 2 }}
+@DP
+El resultado anterior se puede generalizar para cualquier gradiente de velocidad, no solo el rotacional. Definiendo el índice de refracción local a partir de la velocidad de propagación de las pulsaciones:
+@DP
+@Math { n(x,y,z) = blpar 1 - {u(x,y,z,t) sup 2} over {c sup 2} brpar sup {-1 over 2} }
+@DP
+su gradiente en el caso no relativista (u << c) produce una aceleración:
+@DP
+@Math { a(x,y,z) = - u nabla u }
+@DP
+Esta expresión corresponde al término irrotacional de la identidad vectorial de Lamb - ya presente en las ecuaciones de Navier-Stokes sin necesidad de modificación adicional. La fuerza centrífuga desarrollada en esta sección es el caso particular rotacional de este resultado general. La gravedad newtoniana corresponde al caso en que el gradiente de velocidad proviene de la distribución de masa a través del calentamiento local del sustrato esméctico (sección 3.3).
+@DP
 Por tanto @I {la dilatación temporal y la contracción del espacio provocadas por las ondas estacionarias en las dimensiones compactadas son el origen de la gravedad y de otros fenómenos, como la fuerza centrífuga. El streaming gravitomagnético, desarrollado en la sección siguiente, constituye el segundo mecanismo de interacción }
 @DP
 @B{Constante cosmológica.}

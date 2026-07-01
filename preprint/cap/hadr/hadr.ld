@@ -1198,7 +1198,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "19416 1138"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1278,7 +1336,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.6"}}}
 
 {@@E {
-@@D "21774 1270"
+@@D "22776 1328"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.6"}
@@ -1592,7 +1650,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "26737 1564"
+@@D "27739 1622"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/hadr.7"} } }
 }
@@ -1601,7 +1659,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.7"}}}
 
 {@@E {
-@@D "27174 1593"
+@@D "28176 1651"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.7"}
@@ -1610,7 +1668,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "26681 1560"
+@@D "27683 1618"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.7"}
@@ -1626,7 +1684,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "26737 1564"
+@@D "27739 1622"
 }
 {@@V @DupRunner} } }
  }
@@ -1765,7 +1823,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "28814 1705"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1878,7 +1994,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "31425 1850"
+@@D "33429 1966"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/hadr.8"} } }
 }
@@ -1887,7 +2003,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.8"}}}
 
 {@@E {
-@@D "31863 1879"
+@@D "33867 1995"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.8"}
@@ -1896,7 +2012,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "31369 1846"
+@@D "33373 1962"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.8"}
@@ -1912,7 +2028,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "31425 1850"
+@@D "33429 1966"
 }
 {@@V @DupRunner} } }
  }
@@ -2212,7 +2328,19 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "31383 1847"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "33429 1966"
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
 }
 {@Section
   \a{"10.1196.cap/hadr/hadr.1"}
@@ -2250,7 +2378,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "37381 2211"
+@@D "39385 2327"
 }
 {?? @@V @Do ??} } }
 }
