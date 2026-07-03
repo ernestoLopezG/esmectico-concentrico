@@ -10318,7 +10318,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.37"}
+  \g{"9.952.libro.lout.43"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -10688,7 +10688,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.37"}
+  \g{"9.952.libro.lout.43"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -11082,7 +11082,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.41"}
+  \g{"9.952.libro.lout.43"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -11485,7 +11485,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.41"}
+  \g{"9.952.libro.lout.43"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -11875,7 +11875,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.41"}
+  \g{"9.952.libro.lout.43"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -11993,7 +11993,13 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "184698 11211"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.52"}
@@ -12002,7 +12008,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "184698 11211"
+@@D "197051 11995"
 }
 {@@V @RunningPageList
   \a{1}
@@ -12013,69 +12019,156 @@
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
-@@D "184914 11229"
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
 }
-{NonStart @Runner
-  \g{"9.952.cap/magw/leptones.22"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+{@LUse @BasicSetup} } }
 }
-{@PageMarker
-  \a{"4.1230.libro.lout.49"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{39}
-  \c{}
-  \d{}}
-  \c{39}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "184698 11211"
+{@LUse @DocumentSetup} } }
 }
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.53"}
-  \b{0}}}
-
+{@@V @DupRunner} } }
+ }
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "197169 12003"
+{ @@A { @@E {
+@@C
 }
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-40} } }
+{@LUse @BasicSetup} } }
 }
-{@@V @OrdinaryEvenPage} } }
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
  }
 {@@E {
-@@D "184914 11229"
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
 }
-{NonStart @Runner
-  \g{"9.952.cap/magw/leptones.22"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+{@LUse @BasicSetup} } }
 }
-{@PageMarker
-  \a{"4.1230.libro.lout.50"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{40}
-  \c{}
-  \d{}}
-  \c{40}
-  \d{"Even"}}}
-
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
 {@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -12087,12 +12180,684 @@
 }
 {@LUse @BookSetup} } }
 }
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.49"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{39}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
+  \c{39}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "197051 11995"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.53"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+39} } }
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+40} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.50"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{40}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
+  \c{40}
+  \d{"Even"}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "203824 12429"
+}
+{@LUse @BookSetup} } }
+}
 {@@V @SubSectionList
   \a{"10.283.libro.lout.14"}
 4}}
 
 {@@E {
-@@D "198080 12079"
+@@D "203824 12429"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.54"}
@@ -12101,7 +12866,13 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @RunningPageList
   \a{1}
@@ -12112,6 +12883,7 @@
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
+{ @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 @@C
@@ -12120,27 +12892,417 @@
 }
 {@LUse @DocumentSetup} } }
 }
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.2"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.51"}
   \b{@@V @MakePageNum
   \a{Arabic}
   \b{41}
-  \c{}
-  \d{}}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
   \c{41}
   \d{"Odd"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "210632 12868"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.55"}
@@ -12149,7 +13311,14 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198374 12102"
+{ @@A { @@E {
+@@D "210632 12868"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+41} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -12159,29 +13328,447 @@
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
-@@D "198514 12114"
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.4"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.52"}
   \b{@@V @MakePageNum
   \a{Arabic}
   \b{42}
-  \c{}
-  \d{}}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
   \c{42}
   \d{"Even"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "210632 12868"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.56"}
@@ -12190,7 +13777,13 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @RunningPageList
   \a{1}
@@ -12201,29 +13794,447 @@
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
-@@D "198514 12114"
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.4"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.53"}
   \b{@@V @MakePageNum
   \a{Arabic}
   \b{43}
-  \c{}
-  \d{}}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
   \c{43}
   \d{"Odd"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "224827 13779"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.57"}
@@ -12232,7 +14243,20 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "199457 12191"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+43} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -12242,6 +14266,7 @@
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
+{ @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 @@C
@@ -12250,27 +14275,459 @@
 }
 {@LUse @DocumentSetup} } }
 }
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.6"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.54"}
   \b{@@V @MakePageNum
   \a{Arabic}
   \b{44}
-  \c{}
-  \d{}}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
   \c{44}
   \d{"Even"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "232092 14246"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.58"}
@@ -12279,7 +14736,13 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @RunningPageList
   \a{1}
@@ -12290,29 +14753,474 @@
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
-@@D "200099 12244"
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.6"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.55"}
   \b{@@V @MakePageNum
   \a{Arabic}
   \b{45}
-  \c{}
-  \d{}}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
   \c{45}
   \d{"Odd"}}}
 
 {@@E {
-@@D "198080 12079"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.59"}
@@ -12321,7 +15229,14 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "200540 12280"
+{ @@A { @@E {
+@@D "247145 15216"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+45} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -12331,29 +15246,516 @@
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
-@@D "200099 12244"
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.43"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.10"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}} }
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.56"}
   \b{@@V @MakePageNum
   \a{Arabic}
   \b{46}
-  \c{}
-  \d{}}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.3"}}
   \c{46}
   \d{"Even"}}}
 
 {@@E {
-@@D "198080 12079"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.60"}
@@ -12362,7 +15764,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @RunningPageList
   \a{1}
@@ -12432,7 +15834,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "201704 12375"
+@@D "255740 15777"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -12458,7 +15860,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.61"}
@@ -12467,7 +15869,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "201556 12363"
+@@D "255592 15765"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -12483,7 +15885,13 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "201788 12381"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@LUse @BookSetup} } }
 }
@@ -12530,7 +15938,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "201704 12375"
+@@D "257491 15881"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -12562,7 +15970,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@LUse @BookSetup} } }
 }
@@ -12609,7 +16017,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "204891 12558"
+@@D "258995 15966"
 }
 {?? @@V @Do ??} } }
 }
@@ -12625,14 +16033,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "204961 12563"
+@@D "259065 15971"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.6"}
 2}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.62"}
@@ -12641,7 +16049,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @RunningPageList
   \a{1}
@@ -12738,7 +16146,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "206786 12678"
+@@D "260890 16086"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -12782,7 +16190,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.63"}
@@ -12792,7 +16200,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @RunningPageList
   \a{1}
@@ -12906,7 +16314,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "209622 12846"
+@@D "263726 16254"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -12959,7 +16367,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.64"}
@@ -12968,7 +16376,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @RunningPageList
   \a{1}
@@ -12980,7 +16388,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "209210 12811"
+@@D "263314 16219"
 }
 {@@V @DupRunner} } }
  }
@@ -13071,7 +16479,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "212521 13011"
+@@D "266625 16419"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -13124,7 +16532,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.65"}
@@ -13133,7 +16541,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "212015 12969"
+@@D "266119 16377"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -13253,7 +16661,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "215619 13193"
+@@D "269723 16601"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -13315,7 +16723,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.66"}
@@ -13324,7 +16732,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @RunningPageList
   \a{1}
@@ -13336,7 +16744,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "215065 13146"
+@@D "269169 16554"
 }
 {@@V @DupRunner} } }
  }
@@ -13439,7 +16847,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "215619 13193"
+@@D "269723 16601"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -13501,7 +16909,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.67"}
@@ -13510,7 +16918,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "218215 13325"
+@@D "272319 16733"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -13521,7 +16929,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "215065 13146"
+@@D "269169 16554"
 }
 {@@V @DupRunner} } }
  }
@@ -13624,7 +17032,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "215619 13193"
+@@D "269723 16601"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -13686,7 +17094,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "198080 12079"
+@@D "255406 15751"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.68"}
@@ -13942,7 +17350,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "224706 13697"
+@@D "278810 17105"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.69"}
@@ -13951,7 +17359,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "224692 13696"
+@@D "278796 17104"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -14083,7 +17491,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "229999 14023"
+@@D "284103 17431"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -14154,7 +17562,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "224706 13697"
+@@D "278810 17105"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.70"}
@@ -14163,7 +17571,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "224706 13697"
+@@D "278810 17105"
 }
 {@@V @RunningPageList
   \a{1}
@@ -14175,7 +17583,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "229303 13964"
+@@D "283407 17372"
 }
 {@@V @DupRunner} } }
  }
@@ -14290,7 +17698,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "229999 14023"
+@@D "284103 17431"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -14361,7 +17769,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "224706 13697"
+@@D "278810 17105"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.71"}
@@ -14370,7 +17778,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "232798 14164"
+@@D "286902 17572"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -14381,7 +17789,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "229303 13964"
+@@D "283407 17372"
 }
 {@@V @DupRunner} } }
  }
@@ -14496,7 +17904,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "229999 14023"
+@@D "284103 17431"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -14567,7 +17975,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "224706 13697"
+@@D "278810 17105"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.72"}
@@ -14844,7 +18252,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.73"}
@@ -14853,7 +18261,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239965 14577"
+@@D "294069 17985"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -14864,7 +18272,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "240195 14596"
+@@D "294299 18004"
 }
 {@@V @DupRunner} } }
  }
@@ -14979,7 +18387,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "245549 14919"
+@@D "299653 18327"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15050,7 +18458,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.74"}
@@ -15059,7 +18467,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -15076,7 +18484,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "240195 14596"
+@@D "294299 18004"
 }
 {@LUse @BookSetup} } }
 }
@@ -15123,7 +18531,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "248496 15072"
+@@D "302600 18480"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15150,7 +18558,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@LUse @BookSetup} } }
 }
@@ -15159,7 +18567,7 @@
 3}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.75"}
@@ -15168,7 +18576,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "248348 15060"
+@@D "302452 18468"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -15179,7 +18587,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "240195 14596"
+@@D "294299 18004"
 }
 {@@V @DupRunner} } }
  }
@@ -15246,7 +18654,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "250499 15186"
+@@D "304603 18594"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15281,7 +18689,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.76"}
@@ -15290,7 +18698,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -15360,7 +18768,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "252533 15303"
+@@D "306637 18711"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15386,7 +18794,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.77"}
@@ -15395,7 +18803,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "252385 15291"
+@@D "306489 18699"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -15406,13 +18814,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "252547 15304"
+@@D "306651 18712"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "252533 15303"
+@@D "306637 18711"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15438,7 +18846,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.78"}
@@ -15447,7 +18855,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -15459,13 +18867,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "252547 15304"
+@@D "306651 18712"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "252533 15303"
+@@D "306637 18711"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15491,7 +18899,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.79"}
@@ -15500,7 +18908,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "255028 15448"
+@@D "309132 18856"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -15511,13 +18919,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "252547 15304"
+@@D "306651 18712"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "252533 15303"
+@@D "306637 18711"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15548,7 +18956,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@LUse @BookSetup} } }
 }
@@ -15591,7 +18999,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "256617 15545"
+@@D "310721 18953"
 }
 {?? @@V @Do ??} } }
 }
@@ -15607,14 +19015,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "256673 15549"
+@@D "310777 18957"
 }
 {@@V @ChapterList
   \a{"10.255.libro.lout.3"}
 3}}
 
 {@@E {
-@@D "256659 15548"
+@@D "310763 18956"
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
@@ -15622,7 +19030,7 @@
 { ??? }}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.80"}
@@ -15631,7 +19039,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -15697,7 +19105,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "258255 15645"
+@@D "312359 19053"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -15711,7 +19119,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "258233 15644"
+@@D "312337 19052"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -15741,7 +19149,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "256659 15548"
+@@D "310763 18956"
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
@@ -15780,7 +19188,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "259982 15740"
+@@D "314086 19148"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -15794,7 +19202,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "259960 15739"
+@@D "314064 19147"
 }
 {?? @@V @Do ??} } }
 }
@@ -15810,11 +19218,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "259996 15741"
+{ @@B { @@D "314100 19149"
  }
 {@@E {
 { @@A { @@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {?? @@V @Do ??} } }
 }
@@ -15827,7 +19235,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {@@V @ContentsStuff} } }
 }
@@ -15849,7 +19257,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {@TitleMarker
   \a{"10.1148.libro.lout.3"}
@@ -15858,13 +19266,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "262171 15859"
+@@D "316275 19267"
 }
 {?? @@V @Do ??} } }
 }
@@ -15878,7 +19286,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "262163 15859"
+@@D "316267 19267"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -15888,7 +19296,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "262163 15859"
+@@D "316267 19267"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -15898,7 +19306,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "262163 15859"
+@@D "316267 19267"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -15908,7 +19316,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "262163 15859"
+@@D "316267 19267"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -15918,7 +19326,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "262163 15859"
+@@D "316267 19267"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -15928,7 +19336,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "262163 15859"
+@@D "316267 19267"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -15938,13 +19346,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "263498 15939"
+@@D "317602 19347"
 }
 {?? @@V @Do ??} } }
 }
@@ -15956,13 +19364,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "263756 15957"
+@@D "317860 19365"
 }
 {?? @@V @Do ??} } }
 }
@@ -15973,7 +19381,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.4"}
@@ -15981,13 +19389,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "264100 15982"
+@@D "318204 19390"
 }
 {?? @@V @Do ??} } }
 }
@@ -15998,7 +19406,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.4"}
@@ -16006,13 +19414,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "259996 15741"
+@@D "314100 19149"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "264441 16007"
+@@D "318545 19415"
 }
 {?? @@V @Do ??} } }
 }
@@ -16023,21 +19431,21 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.4"}
   \b{0}}}
 
 {@@E {
-@@D "256673 15549"
+@@D "310777 18957"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.8"}
 1}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.81"}
@@ -16046,7 +19454,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "258085 15632"
+@@D "312189 19040"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -16115,7 +19523,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "265115 16058"
+@@D "319219 19466"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16141,14 +19549,14 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "256673 15549"
+@@D "310777 18957"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.9"}
 2}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.82"}
@@ -16157,7 +19565,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -16227,7 +19635,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "266963 16170"
+@@D "321067 19578"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16253,7 +19661,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.83"}
@@ -16262,7 +19670,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "266815 16158"
+@@D "320919 19566"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -16273,13 +19681,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "266977 16171"
+@@D "321081 19579"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "266963 16170"
+@@D "321067 19578"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16305,7 +19713,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.84"}
@@ -16314,7 +19722,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -16326,13 +19734,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "266977 16171"
+@@D "321081 19579"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "266963 16170"
+@@D "321067 19578"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16358,14 +19766,14 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "256673 15549"
+@@D "310777 18957"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.10"}
 3}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.85"}
@@ -16374,7 +19782,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "269486 16315"
+@@D "323590 19723"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -16470,7 +19878,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "270848 16410"
+@@D "324952 19818"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16514,7 +19922,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.86"}
@@ -16523,7 +19931,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -16535,7 +19943,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "270578 16387"
+@@D "324682 19795"
 }
 {@@V @DupRunner} } }
  }
@@ -16614,7 +20022,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "270848 16410"
+@@D "324952 19818"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16658,7 +20066,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.87"}
@@ -16667,7 +20075,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "272866 16524"
+@@D "326970 19932"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -16775,7 +20183,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "275811 16715"
+@@D "329915 20123"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16828,7 +20236,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.88"}
@@ -16837,7 +20245,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -16849,7 +20257,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "275399 16680"
+@@D "329503 20088"
 }
 {@@V @DupRunner} } }
  }
@@ -16940,7 +20348,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "275811 16715"
+@@D "329915 20123"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -16993,7 +20401,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.89"}
@@ -17002,7 +20410,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "277999 16838"
+@@D "332103 20246"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -17013,7 +20421,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "275399 16680"
+@@D "329503 20088"
 }
 {@@V @DupRunner} } }
  }
@@ -17104,7 +20512,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "275811 16715"
+@@D "329915 20123"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -17157,7 +20565,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.90"}
@@ -17166,7 +20574,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -17178,7 +20586,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "275399 16680"
+@@D "329503 20088"
 }
 {@@V @DupRunner} } }
  }
@@ -17269,7 +20677,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "275811 16715"
+@@D "329915 20123"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -17322,7 +20730,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.91"}
@@ -17331,7 +20739,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "283376 17167"
+@@D "337480 20575"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -17339,630 +20747,6 @@
 78} } }
 }
 {@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "286207 17343"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.88"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{78}
-  \c{@Prefix}
-  \d{"10.1196.cap/eter/fases.1"}}
-  \c{78}
-  \d{"Even"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.92"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-79} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "286249 17346"
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "286207 17343"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.89"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{79}
-  \c{@Prefix}
-  \d{"10.1196.cap/eter/fases.1"}}
-  \c{79}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.93"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "287840 17436"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-80} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "286249 17346"
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "286207 17343"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.90"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{80}
-  \c{@Prefix}
-  \d{"10.1196.cap/eter/fases.1"}}
-  \c{80}
-  \d{"Even"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.94"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-81} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "286249 17346"
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "286207 17343"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.91"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{81}
-  \c{@Prefix}
-  \d{"10.1196.cap/eter/fases.1"}}
-  \c{81}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.95"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "290877 17609"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-82} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "286249 17346"
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "286207 17343"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.92"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{82}
-  \c{@Prefix}
-  \d{"10.1196.cap/eter/fases.1"}}
-  \c{82}
-  \d{"Even"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.96"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-83} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "286249 17346"
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "286207 17343"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.93"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{83}
-  \c{@Prefix}
-  \d{"10.1196.cap/eter/fases.1"}}
-  \c{83}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.97"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "293914 17782"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-84} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "286249 17346"
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "286207 17343"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.94"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{84}
-  \c{@Prefix}
-  \d{"10.1196.cap/eter/fases.1"}}
-  \c{84}
-  \d{"Even"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.98"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-85} } }
-}
-{@@V @OrdinaryOddPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
@@ -18075,7 +20859,1306 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "297667 18015"
+@@D "340879 20799"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.88"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{78}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/fases.1"}}
+  \c{78}
+  \d{"Even"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.92"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "294083 17986"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+79} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "340325 20752"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "340879 20799"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.89"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{79}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/fases.1"}}
+  \c{79}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.93"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "343238 20931"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+80} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "340325 20752"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "340879 20799"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.90"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{80}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/fases.1"}}
+  \c{80}
+  \d{"Even"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.94"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "294083 17986"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+81} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "340325 20752"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "340879 20799"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.91"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{81}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/fases.1"}}
+  \c{81}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.95"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "349241 21302"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+82} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "340325 20752"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "340879 20799"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.92"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{82}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/fases.1"}}
+  \c{82}
+  \d{"Even"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.96"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "294083 17986"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+83} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "340325 20752"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "340879 20799"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.93"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{83}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/fases.1"}}
+  \c{83}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.97"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "355244 21673"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+84} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "340325 20752"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "340879 20799"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.94"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{84}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/fases.1"}}
+  \c{84}
+  \d{"Even"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.98"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "294083 17986"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+85} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "340325 20752"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "340879 20799"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -18137,38 +22220,7 @@
   \d{"Odd"}}}
 
 {@@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@LUse @BookSetup} } }
-}
-{@@V @SectionList
-  \a{"10.276.libro.lout.11"}
-4}}
-
-{@@E {
-@@D "299907 18139"
-}
-{@@V @SectionList
-  \a{"10.276.libro.lout.12"}
-5}}
-
-{@@E {
-@@D "299907 18139"
-}
-{@@V @SectionList
-  \a{"10.276.libro.lout.13"}
-6}}
-
-{@@E {
-@@D "299907 18139"
-}
-{@@V @SectionList
-  \a{"10.276.libro.lout.14"}
-7}}
-
-{@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.99"}
@@ -18177,14 +22229,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-85} } }
+@@D "361247 22044"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -18197,19 +22242,6 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -18231,12 +22263,12 @@
 { @LInput }} } }
 }
 {@Section
-  \a{"10.1196.cap/eter/foton.1"}
-  \b{La energía como vibraciones transversales}
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
 { @LInput }} } }
 }
 {@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/foton.1"}
+  \a{"10.1196.cap/eter/fases.1"}
   \b{Minor}
   \c{}
   \d{@@V @Title}
@@ -18262,35 +22294,24 @@
   newpage{No}
 @@V @Body} } }
 }
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+{@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "300746 18208"
+@@D "364391 22241"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
-{@@V start @Runner
-  \g{"9.952.cap/eter/foton.1"}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.2"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
   \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/foton.1"}
+  \e{"10.1196.cap/eter/fases.1"}
   \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/foton.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/eter/foton.1"}
-  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.96"}
@@ -18298,12 +22319,22 @@
   \a{Arabic}
   \b{86}
   \c{@Prefix}
-  \d{"10.1196.cap/eter/foton.1"}}
+  \d{"10.1196.cap/eter/fases.1"}}
   \c{86}
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+{ @@A { @@E {
+@@D "294083 17986"
+}
+{@LUse @BookSetup} } }
+}
+{@@V @SectionList
+  \a{"10.276.libro.lout.11"}
+4}}
+
+{@@E {
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.100"}
@@ -18312,7 +22343,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -18324,9 +22355,128 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "300618 18197"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
 }
-{@@V @DupRunner} } }
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/masa.1"}
+  \b{El esméctico como origen de partículas, fuerzas y masa}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/masa.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "366292 22356"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/masa.2"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/masa.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.97"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{87}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/masa.1"}}
+  \c{87}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "365906 22326"
+}
+{@@V @SectionList
+  \a{"10.276.libro.lout.12"}
+5}}
+
+{@@E {
+@@D "365906 22326"
+}
+{@@V @SectionList
+  \a{"10.276.libro.lout.13"}
+6}}
+
+{@@E {
+@@D "365906 22326"
+}
+{@@V @SectionList
+  \a{"10.276.libro.lout.14"}
+7}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.101"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "366144 22344"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+88} } }
+}
+{@@V @OrdinaryEvenPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
@@ -18403,7 +22553,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "302954 18343"
+@@D "368448 22493"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -18427,43 +22577,35 @@
   \e{"10.1196.cap/eter/foton.1"}
   \f{@Prefix}}} }
 }
-{NonStart @Runner
-  \g{"9.952.cap/eter/foton.6"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/eter/foton.1"}
-  \f{@Prefix}}} }
-}
 {@PageMarker
-  \a{"4.1230.libro.lout.97"}
+  \a{"4.1230.libro.lout.98"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{87}
+  \b{88}
   \c{@Prefix}
   \d{"10.1196.cap/eter/foton.1"}}
-  \c{87}
-  \d{"Odd"}}}
+  \c{88}
+  \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.101"}
+  \a{"9.1551.libro.lout.102"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "302590 18313"
+@@D "294083 17986"
 }
-{@@V @RunningEvenPageList
+{@@V @RunningPageList
   \a{1}
   \b{Titles}
-88} } }
+  \d{Portrait}
+89} } }
 }
-{@@V @OrdinaryEvenPage} } }
+{@@V @OrdinaryOddPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
@@ -18525,7 +22667,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "305105 18468"
+@@D "370440 22610"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -18541,13 +22683,65 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.98"}
+  \a{"4.1230.libro.lout.99"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{88}
+  \b{89}
   \c{@Prefix}
   \d{"10.1196.cap/eter/foton.1"}}
-  \c{88}
+  \c{89}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.103"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "370292 22598"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+90} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "370454 22611"
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "370440 22610"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/foton.2"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/foton.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.100"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{90}
+  \c{@Prefix}
+  \d{"10.1196.cap/eter/foton.1"}}
+  \c{90}
   \d{"Even"}}}
 
 {@@E {
@@ -18556,7 +22750,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@LUse @BookSetup} } }
 }
@@ -18599,7 +22793,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "306623 18553"
+@@D "372795 22747"
 }
 {?? @@V @Do ??} } }
 }
@@ -18615,14 +22809,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "306679 18557"
+@@D "372851 22751"
 }
 {@@V @ChapterList
   \a{"10.255.libro.lout.4"}
 4}}
 
 {@@E {
-@@D "306665 18556"
+@@D "372837 22750"
 }
 {@Chapter
   \a{"10.1148.libro.lout.4"}
@@ -18630,22 +22824,22 @@
 { ??? }}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.102"}
+  \a{"9.1551.libro.lout.104"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-89} } }
+91} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -18705,7 +22899,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "308290 18653"
+@@D "374462 22847"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -18719,14 +22913,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "308268 18652"
+@@D "374440 22846"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.121"}
+  \g{"9.952.libro.lout.123"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -18735,13 +22929,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.99"}
+  \a{"4.1230.libro.lout.101"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{89}
+  \b{91}
   \c{@Prefix}
   \d{"10.1148.libro.lout.4"}}
-  \c{89}
+  \c{91}
   \d{"Odd"}}}
 
 {@@E {
@@ -18749,7 +22943,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "306665 18556"
+@@D "372837 22750"
 }
 {@Chapter
   \a{"10.1148.libro.lout.4"}
@@ -18788,7 +22982,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "310042 18748"
+@@D "376215 22942"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -18802,14 +22996,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "310020 18747"
+@@D "376193 22941"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.121"}
+  \g{"9.952.libro.lout.123"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -18818,11 +23012,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "310056 18749"
+{ @@B { @@D "376229 22943"
  }
 {@@E {
 { @@A { @@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {?? @@V @Do ??} } }
 }
@@ -18835,7 +23029,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {@@V @ContentsStuff} } }
 }
@@ -18857,7 +23051,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {@TitleMarker
   \a{"10.1148.libro.lout.4"}
@@ -18866,13 +23060,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "312256 18867"
+@@D "378429 23061"
 }
 {?? @@V @Do ??} } }
 }
@@ -18886,7 +23080,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "312248 18867"
+@@D "378421 23061"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -18896,7 +23090,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "312248 18867"
+@@D "378421 23061"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -18906,7 +23100,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "312248 18867"
+@@D "378421 23061"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -18916,7 +23110,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "312248 18867"
+@@D "378421 23061"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -18926,7 +23120,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "312248 18867"
+@@D "378421 23061"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -18936,7 +23130,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "312248 18867"
+@@D "378421 23061"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -18946,13 +23140,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "313583 18947"
+@@D "379756 23141"
 }
 {?? @@V @Do ??} } }
 }
@@ -18964,13 +23158,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "313841 18965"
+@@D "380014 23159"
 }
 {?? @@V @Do ??} } }
 }
@@ -18981,7 +23175,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.5"}
@@ -18989,13 +23183,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "314185 18990"
+@@D "380358 23184"
 }
 {?? @@V @Do ??} } }
 }
@@ -19006,7 +23200,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.5"}
@@ -19014,13 +23208,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "310056 18749"
+@@D "376229 22943"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "314526 19015"
+@@D "380699 23209"
 }
 {?? @@V @Do ??} } }
 }
@@ -19031,35 +23225,35 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.5"}
   \b{0}}}
 
 {@@E {
-@@D "306679 18557"
+@@D "372851 22751"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.15"}
 1}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.103"}
+  \a{"9.1551.libro.lout.105"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "308120 18640"
+@@D "374292 22834"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-90} } }
+92} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -19123,7 +23317,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "315202 19066"
+@@D "381375 23260"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -19139,44 +23333,44 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.100"}
+  \a{"4.1230.libro.lout.102"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{90}
+  \b{92}
   \c{@Prefix}
   \d{"10.1196.cap/hidr/potcentral.1"}}
-  \c{90}
+  \c{92}
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.104"}
+  \a{"9.1551.libro.lout.106"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-91} } }
+93} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "315216 19067"
+@@D "381389 23261"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "315202 19066"
+@@D "381375 23260"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -19192,38 +23386,38 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.101"}
+  \a{"4.1230.libro.lout.103"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{91}
+  \b{93}
   \c{@Prefix}
   \d{"10.1196.cap/hidr/potcentral.1"}}
-  \c{91}
+  \c{93}
   \d{"Odd"}}}
 
 {@@E {
-@@D "306679 18557"
+@@D "372851 22751"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.16"}
 2}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.105"}
+  \a{"9.1551.libro.lout.107"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "316892 19159"
+@@D "383065 23353"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-92} } }
+94} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -19290,7 +23484,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "317972 19230"
+@@D "384145 23424"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -19298,118 +23492,6 @@
 }
 {@@V start @Runner
   \g{"9.952.cap/hidr/norelat.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hidr/norelat.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.102"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{92}
-  \c{@Prefix}
-  \d{"10.1196.cap/hidr/norelat.1"}}
-  \c{92}
-  \d{"Even"}}}
-
-{@@E {
-@@D "306679 18557"
-}
-{@@V @SectionList
-  \a{"10.276.libro.lout.17"}
-3}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.106"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-93} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "318000 19232"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "319929 19345"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hidr/norelat.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hidr/norelat.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.103"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{93}
-  \c{@Prefix}
-  \d{"10.1196.cap/hidr/norelat.1"}}
-  \c{93}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.107"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "319781 19333"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-94} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "318000 19232"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "319929 19345"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hidr/norelat.2"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -19428,7 +23510,14 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "372851 22751"
+}
+{@@V @SectionList
+  \a{"10.276.libro.lout.17"}
+3}}
+
+{@@E {
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.108"}
@@ -19437,7 +23526,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -19449,13 +23538,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "318000 19232"
+@@D "384173 23426"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "319929 19345"
+@@D "386102 23539"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -19481,14 +23570,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "306679 18557"
-}
-{@@V @SectionList
-  \a{"10.276.libro.lout.18"}
-4}}
-
-{@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.109"}
@@ -19497,7 +23579,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "321478 19438"
+@@D "385954 23527"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -19508,102 +23590,26 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
+@@D "384173 23426"
 }
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.4"}
-  \b{Aplicación de la ecuación de onda  al átomo de hidrógeno.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hidr/relat.1"}
-  \b{Solución para las dimensiones extendidas. Caso relativista}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hidr/relat.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+{@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "322691 19521"
+@@D "386102 23539"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
-{@@V start @Runner
-  \g{"9.952.cap/hidr/relat.1"}
+{NonStart @Runner
+  \g{"9.952.cap/hidr/norelat.2"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
   \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hidr/relat.1"}
+  \e{"10.1196.cap/hidr/norelat.1"}
   \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hidr/relat.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hidr/relat.1"}
-  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.106"}
@@ -19611,12 +23617,12 @@
   \a{Arabic}
   \b{96}
   \c{@Prefix}
-  \d{"10.1196.cap/hidr/relat.1"}}
+  \d{"10.1196.cap/hidr/norelat.1"}}
   \c{96}
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.110"}
@@ -19625,7 +23631,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -19637,96 +23643,26 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "322563 19510"
+@@D "384173 23426"
 }
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.4"}
-  \b{Aplicación de la ecuación de onda  al átomo de hidrógeno.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hidr/relat.1"}
-  \b{Solución para las dimensiones extendidas. Caso relativista}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hidr/relat.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+{@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "322691 19521"
+@@D "386102 23539"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
-{@@V start @Runner
-  \g{"9.952.cap/hidr/relat.1"}
+{NonStart @Runner
+  \g{"9.952.cap/hidr/norelat.2"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
   \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hidr/relat.1"}
+  \e{"10.1196.cap/hidr/norelat.1"}
   \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hidr/relat.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hidr/relat.1"}
-  \f{@Prefix}}} }
 }
 {@PageMarker
   \a{"4.1230.libro.lout.107"}
@@ -19734,12 +23670,19 @@
   \a{Arabic}
   \b{97}
   \c{@Prefix}
-  \d{"10.1196.cap/hidr/relat.1"}}
+  \d{"10.1196.cap/hidr/norelat.1"}}
   \c{97}
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "372851 22751"
+}
+{@@V @SectionList
+  \a{"10.276.libro.lout.18"}
+4}}
+
+{@@E {
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.111"}
@@ -19748,7 +23691,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "324577 19626"
+@@D "387651 23632"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -19759,7 +23702,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "322563 19510"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @DupRunner} } }
  }
@@ -19826,7 +23775,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "322691 19521"
+@@D "388864 23715"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -19861,7 +23810,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.112"}
@@ -19870,7 +23819,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -19882,7 +23831,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "322563 19510"
+@@D "388736 23704"
 }
 {@@V @DupRunner} } }
  }
@@ -19949,7 +23898,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "322691 19521"
+@@D "388864 23715"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -19984,7 +23933,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.113"}
@@ -19993,7 +23942,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "328782 19871"
+@@D "390750 23820"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -20004,7 +23953,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "322563 19510"
+@@D "388736 23704"
 }
 {@@V @DupRunner} } }
  }
@@ -20071,7 +24020,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "322691 19521"
+@@D "388864 23715"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -20106,7 +24055,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.114"}
@@ -20115,7 +24064,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -20127,7 +24076,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "322563 19510"
+@@D "388736 23704"
 }
 {@@V @DupRunner} } }
  }
@@ -20194,7 +24143,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "322691 19521"
+@@D "388864 23715"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -20229,12 +24178,257 @@
   \d{"Odd"}}}
 
 {@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.115"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "394958 24065"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+102} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "388736 23704"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.4"}
+  \b{Aplicación de la ecuación de onda  al átomo de hidrógeno.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hidr/relat.1"}
+  \b{Solución para las dimensiones extendidas. Caso relativista}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hidr/relat.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "388864 23715"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hidr/relat.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hidr/relat.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hidr/relat.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hidr/relat.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.112"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{102}
+  \c{@Prefix}
+  \d{"10.1196.cap/hidr/relat.1"}}
+  \c{102}
+  \d{"Even"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.116"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "294083 17986"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+103} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "388736 23704"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.4"}
+  \b{Aplicación de la ecuación de onda  al átomo de hidrógeno.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hidr/relat.1"}
+  \b{Solución para las dimensiones extendidas. Caso relativista}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hidr/relat.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "388864 23715"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hidr/relat.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hidr/relat.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hidr/relat.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hidr/relat.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.113"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{103}
+  \c{@Prefix}
+  \d{"10.1196.cap/hidr/relat.1"}}
+  \c{103}
+  \d{"Odd"}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "294083 17986"
 }
 {@LUse @BookSetup} } }
 }
@@ -20277,14 +24471,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "334989 20231"
+@@D "401168 24425"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.119"}
+  \g{"9.952.libro.lout.121"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -20293,14 +24487,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "335045 20235"
+@@D "401224 24429"
 }
 {@@V @ChapterList
   \a{"10.255.libro.lout.5"}
 5}}
 
 {@@E {
-@@D "335031 20234"
+@@D "401210 24428"
 }
 {@Chapter
   \a{"10.1148.libro.lout.5"}
@@ -20308,21 +24502,21 @@
 { ??? }}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.115"}
+  \a{"9.1551.libro.lout.117"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "332990 20116"
+@@D "399169 24310"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-102} } }
+104} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -20382,7 +24576,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "336628 20330"
+@@D "402807 24524"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -20396,14 +24590,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "336606 20329"
+@@D "402785 24523"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.136"}
+  \g{"9.952.libro.lout.138"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -20412,13 +24606,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.112"}
+  \a{"4.1230.libro.lout.114"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{102}
+  \b{104}
   \c{@Prefix}
   \d{"10.1148.libro.lout.5"}}
-  \c{102}
+  \c{104}
   \d{"Even"}}}
 
 {@@E {
@@ -20426,7 +24620,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "335031 20234"
+@@D "401210 24428"
 }
 {@Chapter
   \a{"10.1148.libro.lout.5"}
@@ -20465,7 +24659,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "338340 20425"
+@@D "404519 24619"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -20479,14 +24673,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "338318 20424"
+@@D "404497 24618"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.136"}
+  \g{"9.952.libro.lout.138"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -20495,11 +24689,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "338354 20426"
+{ @@B { @@D "404533 24620"
  }
 {@@E {
 { @@A { @@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {?? @@V @Do ??} } }
 }
@@ -20512,7 +24706,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {@@V @ContentsStuff} } }
 }
@@ -20534,7 +24728,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {@TitleMarker
   \a{"10.1148.libro.lout.5"}
@@ -20543,13 +24737,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "340510 20544"
+@@D "406689 24738"
 }
 {?? @@V @Do ??} } }
 }
@@ -20563,7 +24757,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "340502 20544"
+@@D "406681 24738"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -20573,7 +24767,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "340502 20544"
+@@D "406681 24738"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -20583,7 +24777,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "340502 20544"
+@@D "406681 24738"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -20593,7 +24787,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "340502 20544"
+@@D "406681 24738"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -20603,7 +24797,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "340502 20544"
+@@D "406681 24738"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -20613,7 +24807,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "340502 20544"
+@@D "406681 24738"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -20623,13 +24817,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "341837 20624"
+@@D "408016 24818"
 }
 {?? @@V @Do ??} } }
 }
@@ -20641,13 +24835,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "342095 20642"
+@@D "408274 24836"
 }
 {?? @@V @Do ??} } }
 }
@@ -20658,7 +24852,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.6"}
@@ -20666,13 +24860,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "342439 20667"
+@@D "408618 24861"
 }
 {?? @@V @Do ??} } }
 }
@@ -20683,7 +24877,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.6"}
@@ -20691,13 +24885,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "338354 20426"
+@@D "404533 24620"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "342780 20692"
+@@D "408959 24886"
 }
 {?? @@V @Do ??} } }
 }
@@ -20708,272 +24902,21 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.6"}
   \b{0}}}
 
 {@@E {
-@@D "335045 20235"
+@@D "401224 24429"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.19"}
 1}}
 
 {@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.116"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "239979 14578"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-103} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Aplicación de la ecuación de onda a las epícimas.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "343609 20756"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/hadr.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/hadr.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.113"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{103}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/hadr.1"}}
-  \c{103}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "239979 14578"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.117"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "343318 20732"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-104} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "343481 20745"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Aplicación de la ecuación de onda a las epícimas.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "343609 20756"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/hadr.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/hadr.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.114"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{104}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/hadr.1"}}
-  \c{104}
-  \d{"Even"}}}
-
-{@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.118"}
@@ -20982,7 +24925,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -20994,12 +24937,6 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "343481 20745"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 @@C
@@ -21073,65 +25010,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Aplicación de la ecuación de onda a las epícimas.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "409788 24950"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -21148,15 +25027,6 @@
 }
 {NonStart @Runner
   \g{"9.952.cap/hadr/hadr.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/hadr.6"}
   \a{@MajorNum}
   \b{@MajorTitle}
   \c{@MinorNum}
@@ -21175,7 +25045,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.119"}
@@ -21184,7 +25054,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "347477 20983"
+@@D "409497 24926"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -21195,25 +25065,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "343481 20745"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "347714 21002"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "409660 24939"
 }
 {@@V @DupRunner} } }
  }
@@ -21280,65 +25132,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Aplicación de la ecuación de onda a las epícimas.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "409788 24950"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -21355,24 +25149,6 @@
 }
 {NonStart @Runner
   \g{"9.952.cap/hadr/hadr.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/hadr.6"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/hadr.8"}
   \a{@MajorNum}
   \b{@MajorTitle}
   \c{@MinorNum}
@@ -21391,7 +25167,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.120"}
@@ -21400,7 +25176,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @RunningPageList
   \a{1}
@@ -21412,31 +25188,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "343481 20745"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "409660 24939"
 }
 {@@V @DupRunner} } }
  }
@@ -21599,24 +25351,6 @@
 }
 {NonStart @Runner
   \g{"9.952.cap/hadr/hadr.6"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/hadr.8"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/hadr.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/hadr.10"}
   \a{@MajorNum}
   \b{@MajorTitle}
   \c{@MinorNum}
@@ -21635,7 +25369,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.121"}
@@ -21644,7 +25378,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "354430 21401"
+@@D "413656 25177"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -21655,7 +25389,224 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "343481 20745"
+@@D "409660 24939"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "413893 25196"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/hadr.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/hadr.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/hadr.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/hadr.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.118"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{108}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/hadr.1"}}
+  \c{108}
+  \d{"Even"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.122"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "294083 17986"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+109} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "409660 24939"
 }
 {@@V @DupRunner} } }
  }
@@ -21868,20 +25819,263 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.118"}
+  \a{"4.1230.libro.lout.119"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{108}
+  \b{109}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/hadr.1"}}
-  \c{108}
+  \c{109}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "294083 17986"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.123"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "420609 25595"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+110} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "409660 24939"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/hadr.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/hadr.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/hadr.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/hadr.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/hadr.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/hadr.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.120"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{110}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/hadr.1"}}
+  \c{110}
   \d{"Even"}}}
 
 {@@E {
-@@D "239979 14578"
+@@D "294083 17986"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.122"}
+  \a{"9.1551.libro.lout.124"}
   \b{0}}}
 
 {@@E {
@@ -21899,7 +26093,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-109} } }
+111} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -22145,38 +26339,38 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.119"}
+  \a{"4.1230.libro.lout.121"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{109}
+  \b{111}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/hadr.1"}}
-  \c{109}
+  \c{111}
   \d{"Odd"}}}
 
 {@@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.123"}
+  \a{"9.1551.libro.lout.125"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-109} } }
+111} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-110} } }
+112} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -22464,32 +26658,32 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.120"}
+  \a{"4.1230.libro.lout.122"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{110}
+  \b{112}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/hadr.1"}}
-  \c{110}
+  \c{112}
   \d{"Even"}}}
 
 {@@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.124"}
+  \a{"9.1551.libro.lout.126"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-111} } }
+113} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -22798,38 +26992,38 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.121"}
+  \a{"4.1230.libro.lout.123"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{111}
+  \b{113}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/hadr.1"}}
-  \c{111}
+  \c{113}
   \d{"Odd"}}}
 
 {@@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.125"}
+  \a{"9.1551.libro.lout.127"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-111} } }
+113} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-112} } }
+114} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -22893,7 +27087,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "377382 22836"
+@@D "443561 27030"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -22909,18 +27103,18 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.122"}
+  \a{"4.1230.libro.lout.124"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{112}
+  \b{114}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/hadr.1"}}
-  \c{112}
+  \c{114}
   \d{"Even"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@LUse @BookSetup} } }
 }
@@ -22929,315 +27123,7 @@
 2}}
 
 {@@E {
-@@D "362397 21889"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.126"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "362397 21889"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-113} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Estabilidad de las soluciones hadrónicas}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "379549 22975"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/estabilidad.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.6"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.123"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{113}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/estabilidad.1"}}
-  \c{113}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "362397 21889"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.127"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "379116 22939"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-114} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "379279 22952"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "379421 22964"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Estabilidad de las soluciones hadrónicas}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "382027 23124"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/estabilidad.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.6"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.8"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.124"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{114}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/estabilidad.1"}}
-  \c{114}
-  \d{"Even"}}}
-
-{@@E {
-@@D "362397 21889"
+@@D "428576 26083"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.128"}
@@ -23246,13 +27132,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "428576 26083"
 }
 {@@V @RunningPageList
   \a{1}
@@ -23290,30 +27170,6 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -23373,7 +27229,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "385044 23313"
+@@D "445728 27169"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -23399,24 +27255,6 @@
 }
 {NonStart @Runner
   \g{"9.952.cap/hadr/estabilidad.6"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.8"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.10"}
   \a{@MajorNum}
   \b{@MajorTitle}
   \c{@MinorNum}
@@ -23435,7 +27273,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "384273 23248"
+@@D "428576 26083"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.129"}
@@ -23444,20 +27282,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-115} } }
+@@D "445295 27133"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -23468,61 +27293,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "445458 27146"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "445600 27158"
 }
 {@@V @DupRunner} } }
  }
@@ -23601,7 +27378,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "388600 23541"
+@@D "448206 27318"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -23643,33 +27420,6 @@
   \e{"10.1196.cap/hadr/estabilidad.1"}
   \f{@Prefix}}} }
 }
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.10"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.12"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/estabilidad.14"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/estabilidad.1"}
-  \f{@Prefix}}} }
-}
 {@PageMarker
   \a{"4.1230.libro.lout.126"}
   \b{@@V @MakePageNum
@@ -23681,7 +27431,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "387486 23447"
+@@D "428576 26083"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.130"}
@@ -23758,6 +27508,186 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/estabilidad.1"}
+  \b{Estabilidad de las soluciones hadrónicas}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/estabilidad.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "451223 27507"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/estabilidad.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.127"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{117}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/estabilidad.1"}}
+  \c{117}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "450452 27442"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.131"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+117} } }
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+118} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
 @@C
 }
 {@LUse @BasicSetup} } }
@@ -23865,7 +27795,271 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "392734 23805"
+@@D "454779 27735"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/estabilidad.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/estabilidad.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/estabilidad.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.128"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{118}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/estabilidad.1"}}
+  \c{118}
+  \d{"Even"}}}
+
+{@@E {
+@@D "453665 27641"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.132"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+119} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/estabilidad.1"}
+  \b{Estabilidad de las soluciones hadrónicas}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/estabilidad.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "458913 27999"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -23953,18 +28147,18 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.127"}
+  \a{"4.1230.libro.lout.129"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{117}
+  \b{119}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/estabilidad.1"}}
-  \c{117}
+  \c{119}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "391395 23692"
+@@D "457574 27886"
 }
 {@LUse @BookSetup} } }
 }
@@ -23975,7 +28169,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "395761 23965"
+@@D "461940 28159"
 }
 {@LUse @TblSetup} } }
 }
@@ -23994,7 +28188,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "395880 23975"
+@@D "462059 28169"
 }
 {@Section
   \a{"10.1196.libro.lout.4"}
@@ -24034,14 +28228,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "396147 23992"
+@@D "462326 28186"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.152"}
+  \g{"9.952.libro.lout.154"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -24050,11 +28244,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "396175 23994"
+{ @@B { @@D "462354 28188"
  }
 {@@E {
 { @@A { @@E {
-@@D "396175 23994"
+@@D "462354 28188"
 }
 {?? @@V @Do ??} } }
 }
@@ -24067,7 +28261,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "396175 23994"
+@@D "462354 28188"
 }
 {@@V @ContentsStuff} } }
 }
@@ -24088,7 +28282,7 @@
   \g{@@V postgap}}}
 
 {@@E {
-@@D "396175 23994"
+@@D "462354 28188"
 }
 {@TitleMarker
   \a{"10.1196.libro.lout.4"}
@@ -24096,13 +28290,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "396175 23994"
+@@D "462354 28188"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "397989 24097"
+@@D "464168 28291"
 }
 {?? @@V @Do ??} } }
 }
@@ -24113,330 +28307,14 @@
   \b{@@V prefix @Join 0}}}
 
 {@@E {
-@@D "395761 23965"
+@@D "461940 28159"
 }
 {@@V @SubSectionList
   \a{"10.283.libro.lout.15"}
 1}}
 
 {@@E {
-@@D "391395 23692"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.131"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "391395 23692"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-117} } }
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-118} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.libro.lout.4"}
-  \b{Momento magnético intrínseco de los hadrones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.libro.lout.4"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "398948 24172"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.libro.lout.152"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/mmi/mesonpi.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/mmi/mesonro.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.128"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{118}
-  \c{@Prefix}
-  \d{"10.1196.libro.lout.4"}}
-  \c{118}
-  \d{"Even"}}}
-
-{@@E {
-@@D "391395 23692"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.132"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "391395 23692"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-119} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.libro.lout.4"}
-  \b{Momento magnético intrínseco de los hadrones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.libro.lout.4"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "401357 24322"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.libro.lout.152"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/mmi/mesonpi.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/mmi/mesonro.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.129"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{119}
-  \c{@Prefix}
-  \d{"10.1196.libro.lout.4"}}
-  \c{119}
-  \d{"Odd"}}}
-
-{@@E {
-{ @@A { @@E {
-@@D "391395 23692"
-}
-{@LUse @BookSetup} } }
-}
-{@@V @SubSectionList
-  \a{"10.283.libro.lout.16"}
-2}}
-
-{@@E {
-@@D "391395 23692"
+@@D "457574 27886"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.133"}
@@ -24446,13 +28324,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "457574 27886"
 }
 {@@V @RunningPageList
   \a{1}
@@ -24495,18 +28367,6 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -24566,14 +28426,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "404170 24506"
+@@D "465127 28366"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.152"}
+  \g{"9.952.libro.lout.154"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -24599,15 +28459,6 @@
   \e{"10.1196.libro.lout.4"}
   \f{@Prefix}}} }
 }
-{NonStart @Runner
-  \g{"9.952.cap/mmi/muon.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
 {@PageMarker
   \a{"4.1230.libro.lout.130"}
   \b{@@V @MakePageNum
@@ -24619,17 +28470,7 @@
   \d{"Even"}}}
 
 {@@E {
-{ @@A { @@E {
-@@D "403482 24448"
-}
-{@LUse @BookSetup} } }
-}
-{@@V @SubSectionList
-  \a{"10.283.libro.lout.17"}
-3}}
-
-{@@E {
-@@D "403482 24448"
+@@D "457574 27886"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.134"}
@@ -24638,13 +28479,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "457574 27886"
 }
 {@@V @RunningPageList
   \a{1}
@@ -24682,30 +28517,6 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -24765,14 +28576,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "407217 24705"
+@@D "467536 28516"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.152"}
+  \g{"9.952.libro.lout.154"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -24791,24 +28602,6 @@
 }
 {NonStart @Runner
   \g{"9.952.cap/mmi/mesonro.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/mmi/muon.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/mmi/proton.2"}
   \a{@MajorNum}
   \b{@MajorTitle}
   \c{@MinorNum}
@@ -24828,16 +28621,16 @@
 
 {@@E {
 { @@A { @@E {
-@@D "406446 24640"
+@@D "457574 27886"
 }
 {@LUse @BookSetup} } }
 }
 {@@V @SubSectionList
-  \a{"10.283.libro.lout.18"}
-4}}
+  \a{"10.283.libro.lout.16"}
+2}}
 
 {@@E {
-@@D "406446 24640"
+@@D "457574 27886"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.135"}
@@ -24846,7 +28639,20 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "406432 24639"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+121} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -24854,12 +28660,6 @@
 122} } }
 }
 {@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "406663 24658"
-}
-{@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
@@ -24960,14 +28760,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "410283 24900"
+@@D "470349 28700"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.152"}
+  \g{"9.952.libro.lout.154"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -25002,15 +28802,6 @@
   \e{"10.1196.libro.lout.4"}
   \f{@Prefix}}} }
 }
-{NonStart @Runner
-  \g{"9.952.cap/mmi/proton.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.libro.lout.4"}
-  \f{@Prefix}}} }
-}
 {@PageMarker
   \a{"4.1230.libro.lout.132"}
   \b{@@V @MakePageNum
@@ -25022,7 +28813,17 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "406446 24640"
+{ @@A { @@E {
+@@D "469661 28642"
+}
+{@LUse @BookSetup} } }
+}
+{@@V @SubSectionList
+  \a{"10.283.libro.lout.17"}
+3}}
+
+{@@E {
+@@D "469661 28642"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.136"}
@@ -25099,6 +28900,189 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.4"}
+  \b{Momento magnético intrínseco de los hadrones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.4"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "473396 28899"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.154"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/mesonpi.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/mesonro.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/muon.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/proton.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.133"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{123}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.4"}}
+  \c{123}
+  \d{"Odd"}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "472625 28834"
+}
+{@LUse @BookSetup} } }
+}
+{@@V @SubSectionList
+  \a{"10.283.libro.lout.18"}
+4}}
+
+{@@E {
+@@D "472625 28834"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.137"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "472611 28833"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+124} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "472842 28852"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
 @@C
 }
 {@LUse @BasicSetup} } }
@@ -25170,14 +29154,224 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "413516 25110"
+@@D "476462 29094"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.152"}
+  \g{"9.952.libro.lout.154"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/mesonpi.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/mesonro.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/muon.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/mmi/proton.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.4"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.134"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{124}
+  \c{@Prefix}
+  \d{"10.1196.libro.lout.4"}}
+  \c{124}
+  \d{"Even"}}}
+
+{@@E {
+@@D "472625 28834"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.138"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+125} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.4"}
+  \b{Momento magnético intrínseco de los hadrones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.4"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "479695 29304"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.153"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -25231,18 +29425,18 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.133"}
+  \a{"4.1230.libro.lout.135"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{123}
+  \b{125}
   \c{@Prefix}
   \d{"10.1196.libro.lout.4"}}
-  \c{123}
+  \c{125}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "412603 25033"
+@@D "478782 29227"
 }
 {@LUse @BookSetup} } }
 }
@@ -25251,10 +29445,10 @@
 5}}
 
 {@@E {
-@@D "412603 25033"
+@@D "478782 29227"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.137"}
+  \a{"9.1551.libro.lout.139"}
   \b{0}}}
 
 {@@E {
@@ -25273,12 +29467,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-123} } }
+125} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-124} } }
+126} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -25342,14 +29536,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "416400 25285"
+@@D "482579 29479"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.153"}
+  \g{"9.952.libro.lout.155"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -25358,13 +29552,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.134"}
+  \a{"4.1230.libro.lout.136"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{124}
+  \b{126}
   \c{@Prefix}
   \d{"10.1196.libro.lout.4"}}
-  \c{124}
+  \c{126}
   \d{"Even"}}}
 
 {@@E {
@@ -25374,7 +29568,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "416138 25263"
+@@D "482317 29457"
 }
 {@LUse @BookSetup} } }
 }
@@ -25421,14 +29615,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "417886 25370"
+@@D "484065 29564"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.153"}
+  \g{"9.952.libro.lout.155"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -25437,17 +29631,17 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "417956 25375"
+@@D "484135 29569"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.22"}
 4}}
 
 {@@E {
-@@D "416138 25263"
+@@D "482317 29457"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.138"}
+  \a{"9.1551.libro.lout.140"}
   \b{0}}}
 
 {@@E {
@@ -25465,7 +29659,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-125} } }
+127} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -25544,7 +29738,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "419689 25484"
+@@D "485868 29678"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -25569,20 +29763,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.135"}
+  \a{"4.1230.libro.lout.137"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{125}
+  \b{127}
   \c{@Prefix}
   \d{"10.1196.cap/mmi/bariones.1"}}
-  \c{125}
+  \c{127}
   \d{"Odd"}}}
 
 {@@E {
-@@D "419344 25455"
+@@D "485523 29649"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.139"}
+  \a{"9.1551.libro.lout.141"}
   \b{0}}}
 
 {@@E {
@@ -25601,12 +29795,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-125} } }
+127} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-126} } }
+128} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -25831,20 +30025,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.136"}
+  \a{"4.1230.libro.lout.138"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{126}
+  \b{128}
   \c{@Prefix}
   \d{"10.1196.cap/mmi/bariones.1"}}
-  \c{126}
+  \c{128}
   \d{"Even"}}}
 
 {@@E {
-@@D "421551 25591"
+@@D "487730 29785"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.140"}
+  \a{"9.1551.libro.lout.142"}
   \b{0}}}
 
 {@@E {
@@ -25862,7 +30056,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-127} } }
+129} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -26108,20 +30302,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.137"}
+  \a{"4.1230.libro.lout.139"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{127}
+  \b{129}
   \c{@Prefix}
   \d{"10.1196.cap/mmi/bariones.1"}}
-  \c{127}
+  \c{129}
   \d{"Odd"}}}
 
 {@@E {
-@@D "425745 25852"
+@@D "491924 30046"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.141"}
+  \a{"9.1551.libro.lout.143"}
   \b{0}}}
 
 {@@E {
@@ -26140,12 +30334,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-127} } }
+129} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-128} } }
+130} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -26433,13 +30627,13 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.138"}
+  \a{"4.1230.libro.lout.140"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{128}
+  \b{130}
   \c{@Prefix}
   \d{"10.1196.cap/mmi/bariones.1"}}
-  \c{128}
+  \c{130}
   \d{"Even"}}}
 
 {@@E {
@@ -26448,7 +30642,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "430210 26130"
+@@D "496389 30324"
 }
 {@LUse @BookSetup} } }
 }
@@ -26491,14 +30685,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "435230 26445"
+@@D "501409 30639"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.134"}
+  \g{"9.952.libro.lout.136"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -26507,14 +30701,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "435286 26449"
+@@D "501465 30643"
 }
 {@@V @ChapterList
   \a{"10.255.libro.lout.6"}
 6}}
 
 {@@E {
-@@D "435272 26448"
+@@D "501451 30642"
 }
 {@Chapter
   \a{"10.1148.libro.lout.6"}
@@ -26522,22 +30716,22 @@
 { ??? }}}
 
 {@@E {
-@@D "430210 26130"
+@@D "496389 30324"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.142"}
+  \a{"9.1551.libro.lout.144"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "430210 26130"
+@@D "496389 30324"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-129} } }
+131} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -26597,7 +30791,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "436849 26545"
+@@D "503028 30739"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -26611,14 +30805,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "436827 26544"
+@@D "503006 30738"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.167"}
+  \g{"9.952.libro.lout.169"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -26627,13 +30821,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.139"}
+  \a{"4.1230.libro.lout.141"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{129}
+  \b{131}
   \c{@Prefix}
   \d{"10.1148.libro.lout.6"}}
-  \c{129}
+  \c{131}
   \d{"Odd"}}}
 
 {@@E {
@@ -26641,7 +30835,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "435272 26448"
+@@D "501451 30642"
 }
 {@Chapter
   \a{"10.1148.libro.lout.6"}
@@ -26680,7 +30874,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "438574 26640"
+@@D "504753 30834"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -26694,14 +30888,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "438552 26639"
+@@D "504731 30833"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.167"}
+  \g{"9.952.libro.lout.169"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -26710,11 +30904,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "438588 26641"
+{ @@B { @@D "504767 30835"
  }
 {@@E {
 { @@A { @@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {?? @@V @Do ??} } }
 }
@@ -26727,7 +30921,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {@@V @ContentsStuff} } }
 }
@@ -26749,7 +30943,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {@TitleMarker
   \a{"10.1148.libro.lout.6"}
@@ -26758,13 +30952,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "440758 26759"
+@@D "506937 30953"
 }
 {?? @@V @Do ??} } }
 }
@@ -26778,7 +30972,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "440750 26759"
+@@D "506929 30953"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -26788,7 +30982,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "440750 26759"
+@@D "506929 30953"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -26798,7 +30992,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "440750 26759"
+@@D "506929 30953"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -26808,7 +31002,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "440750 26759"
+@@D "506929 30953"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -26818,7 +31012,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "440750 26759"
+@@D "506929 30953"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -26828,7 +31022,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "440750 26759"
+@@D "506929 30953"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -26838,13 +31032,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "442085 26839"
+@@D "508264 31033"
 }
 {?? @@V @Do ??} } }
 }
@@ -26856,13 +31050,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "442344 26857"
+@@D "508523 31051"
 }
 {?? @@V @Do ??} } }
 }
@@ -26873,7 +31067,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "430210 26130"
+@@D "496389 30324"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.7"}
@@ -26881,13 +31075,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "442688 26882"
+@@D "508867 31076"
 }
 {?? @@V @Do ??} } }
 }
@@ -26898,7 +31092,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "430210 26130"
+@@D "496389 30324"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.7"}
@@ -26906,13 +31100,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "438588 26641"
+@@D "504767 30835"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "443029 26907"
+@@D "509208 31101"
 }
 {?? @@V @Do ??} } }
 }
@@ -26923,272 +31117,21 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "430210 26130"
+@@D "496389 30324"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.7"}
   \b{0}}}
 
 {@@E {
-@@D "435286 26449"
+@@D "501465 30643"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.23"}
 1}}
 
 {@@E {
-@@D "430210 26130"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.143"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "436678 26532"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-130} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/dcarga.1"}
-  \b{Orbitales y distribución interna de carga.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/dcarga.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "443848 26970"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/dcarga.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/dcarga.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/dcarga.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/dcarga.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.140"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{130}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/dcarga.1"}}
-  \c{130}
-  \d{"Even"}}}
-
-{@@E {
-@@D "430210 26130"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.144"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "430210 26130"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-131} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "443720 26959"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/dcarga.1"}
-  \b{Orbitales y distribución interna de carga.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/dcarga.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "443848 26970"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/dcarga.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/dcarga.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/dcarga.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/dcarga.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.141"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{131}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/dcarga.1"}}
-  \c{131}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "430210 26130"
+@@D "496389 30324"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.145"}
@@ -27197,7 +31140,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "445697 27075"
+@@D "502857 30726"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -27208,7 +31151,258 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "443720 26959"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/dcarga.1"}
+  \b{Orbitales y distribución interna de carga.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/dcarga.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "510027 31164"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/dcarga.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/dcarga.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/dcarga.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/dcarga.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.142"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{132}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/dcarga.1"}}
+  \c{132}
+  \d{"Even"}}}
+
+{@@E {
+@@D "496389 30324"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.146"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "496389 30324"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+133} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "509899 31153"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/dcarga.1"}
+  \b{Orbitales y distribución interna de carga.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/dcarga.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "510027 31164"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/dcarga.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/dcarga.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/dcarga.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/dcarga.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.143"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{133}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/dcarga.1"}}
+  \c{133}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "496389 30324"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.147"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "511876 31269"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+134} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "509899 31153"
 }
 {@@V @DupRunner} } }
  }
@@ -27379,13 +31573,13 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.142"}
+  \a{"4.1230.libro.lout.144"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{132}
+  \b{134}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/dcarga.1"}}
-  \c{132}
+  \c{134}
   \d{"Even"}}}
 
 {@@E {
@@ -27398,7 +31592,7 @@
 {@LUse @DocumentSetup} } }
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.146"}
+  \a{"9.1551.libro.lout.148"}
   \b{0}}}
 
 {@@E {
@@ -27416,7 +31610,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-133} } }
+135} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -27641,37 +31835,37 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.143"}
+  \a{"4.1230.libro.lout.145"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{133}
+  \b{135}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/dcarga.1"}}
-  \c{133}
+  \c{135}
   \d{"Odd"}}}
 
 {@@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.147"}
+  \a{"9.1551.libro.lout.149"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "451223 27405"
+@@D "517402 31599"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-134} } }
+136} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "451454 27424"
+@@D "517633 31618"
 }
 {@@V @DupRunner} } }
  }
@@ -27905,32 +32099,32 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.144"}
+  \a{"4.1230.libro.lout.146"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{134}
+  \b{136}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/dcarga.1"}}
-  \c{134}
+  \c{136}
   \d{"Even"}}}
 
 {@@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.148"}
+  \a{"9.1551.libro.lout.150"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-135} } }
+137} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -27997,7 +32191,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "459864 27937"
+@@D "526043 32131"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -28013,18 +32207,18 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.145"}
+  \a{"4.1230.libro.lout.147"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{135}
+  \b{137}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/difusion.1"}}
-  \c{135}
+  \c{137}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@LUse @BookSetup} } }
 }
@@ -28033,33 +32227,33 @@
 2}}
 
 {@@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.149"}
+  \a{"9.1551.libro.lout.151"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "459715 27925"
+@@D "525894 32119"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-136} } }
+138} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "459892 27939"
+@@D "526071 32133"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "461834 28054"
+@@D "528013 32248"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -28075,275 +32269,24 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.146"}
+  \a{"4.1230.libro.lout.148"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{136}
+  \b{138}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/difusion.1"}}
-  \c{136}
+  \c{138}
   \d{"Even"}}}
 
 {@@E {
-@@D "461457 28025"
+@@D "527636 32219"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.25"}
 3}}
 
 {@@E {
-@@D "451237 27406"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.150"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "451237 27406"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-137} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/mod.1"}
-  \b{Modificación de las partículas por el proceso de difusión}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/mod.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "462916 28126"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/mod.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/mod.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/mod.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/mod.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.147"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{137}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/mod.1"}}
-  \c{137}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "451237 27406"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.151"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "462625 28102"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-138} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "462788 28115"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/mod.1"}
-  \b{Modificación de las partículas por el proceso de difusión}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/mod.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "462916 28126"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/mod.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/mod.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/mod.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/mod.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.148"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{138}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/mod.1"}}
-  \c{138}
-  \d{"Even"}}}
-
-{@@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.152"}
@@ -28352,7 +32295,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @RunningPageList
   \a{1}
@@ -28366,10 +32309,261 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "462788 28115"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/mod.1"}
+  \b{Modificación de las partículas por el proceso de difusión}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/mod.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "529095 32320"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/mod.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/mod.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/mod.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/mod.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.149"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{139}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/mod.1"}}
+  \c{139}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "517416 31600"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.153"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "528804 32296"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+140} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "528967 32309"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/mod.1"}
+  \b{Modificación de las partículas por el proceso de difusión}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/mod.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "529095 32320"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/mod.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/mod.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/mod.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/mod.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.150"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{140}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/mod.1"}}
+  \c{140}
+  \d{"Even"}}}
+
+{@@E {
+@@D "517416 31600"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.154"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "517416 31600"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+141} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "528967 32309"
 }
 {@LUse @BookSetup} } }
 }
@@ -28416,7 +32610,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "466963 28365"
+@@D "533142 32559"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -28432,18 +32626,18 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.149"}
+  \a{"4.1230.libro.lout.151"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{139}
+  \b{141}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/mod.1"}}
-  \c{139}
+  \c{141}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@LUse @BookSetup} } }
 }
@@ -28452,21 +32646,21 @@
 4}}
 
 {@@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.153"}
+  \a{"9.1551.libro.lout.155"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "466814 28353"
+@@D "532993 32547"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-140} } }
+142} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -28545,7 +32739,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "468926 28485"
+@@D "535105 32679"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -28570,38 +32764,38 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.150"}
+  \a{"4.1230.libro.lout.152"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{140}
+  \b{142}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{140}
+  \c{142}
   \d{"Even"}}}
 
 {@@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.154"}
+  \a{"9.1551.libro.lout.156"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-141} } }
+143} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "468798 28474"
+@@D "534977 32668"
 }
 {@@V @DupRunner} } }
  }
@@ -28772,20 +32966,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.151"}
+  \a{"4.1230.libro.lout.153"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{141}
+  \b{143}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{141}
+  \c{143}
   \d{"Odd"}}}
 
 {@@E {
-@@D "451237 27406"
+@@D "517416 31600"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.155"}
+  \a{"9.1551.libro.lout.157"}
   \b{0}}}
 
 {@@E {
@@ -28804,12 +32998,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-141} } }
+143} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-142} } }
+144} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -29013,38 +33207,38 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.152"}
+  \a{"4.1230.libro.lout.154"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{142}
+  \b{144}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{142}
+  \c{144}
   \d{"Even"}}}
 
 {@@E {
-@@D "474169 28794"
+@@D "540348 32988"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.156"}
+  \a{"9.1551.libro.lout.158"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "474169 28794"
+@@D "540348 32988"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-143} } }
+145} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "474445 28817"
+@@D "540624 33011"
 }
 {@@V @DupRunner} } }
  }
@@ -29257,43 +33451,43 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.153"}
+  \a{"4.1230.libro.lout.155"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{143}
+  \b{145}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{143}
+  \c{145}
   \d{"Odd"}}}
 
 {@@E {
-@@D "474169 28794"
+@@D "540348 32988"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.157"}
+  \a{"9.1551.libro.lout.159"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "478042 29033"
+@@D "544221 33227"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-144} } }
+146} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "474445 28817"
+@@D "540624 33011"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "478279 29052"
+@@D "544458 33246"
 }
 {@@V @DupRunner} } }
  }
@@ -29515,20 +33709,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.154"}
+  \a{"4.1230.libro.lout.156"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{144}
+  \b{146}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{144}
+  \c{146}
   \d{"Even"}}}
 
 {@@E {
-@@D "474169 28794"
+@@D "540348 32988"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.158"}
+  \a{"9.1551.libro.lout.160"}
   \b{0}}}
 
 {@@E {
@@ -29546,7 +33740,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-145} } }
+147} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -29813,20 +34007,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.155"}
+  \a{"4.1230.libro.lout.157"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{145}
+  \b{147}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{145}
+  \c{147}
   \d{"Odd"}}}
 
 {@@E {
-@@D "486312 29536"
+@@D "552491 33730"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.159"}
+  \a{"9.1551.libro.lout.161"}
   \b{0}}}
 
 {@@E {
@@ -29845,12 +34039,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-145} } }
+147} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-146} } }
+148} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -30138,20 +34332,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.156"}
+  \a{"4.1230.libro.lout.158"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{146}
+  \b{148}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{146}
+  \c{148}
   \d{"Even"}}}
 
 {@@E {
-@@D "491104 29835"
+@@D "557283 34029"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.160"}
+  \a{"9.1551.libro.lout.162"}
   \b{0}}}
 
 {@@E {
@@ -30169,7 +34363,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-147} } }
+149} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -30499,31 +34693,31 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.157"}
+  \a{"4.1230.libro.lout.159"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{147}
+  \b{149}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{147}
+  \c{149}
   \d{"Odd"}}}
 
 {@@E {
-@@D "496259 30159"
+@@D "562438 34353"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.161"}
+  \a{"9.1551.libro.lout.163"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "496245 30158"
+@@D "562424 34352"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-148} } }
+150} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -30874,13 +35068,13 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.158"}
+  \a{"4.1230.libro.lout.160"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{148}
+  \b{150}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{148}
+  \c{150}
   \d{"Even"}}}
 
 {@@E {
@@ -30893,7 +35087,7 @@
 {@LUse @DocumentSetup} } }
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.162"}
+  \a{"9.1551.libro.lout.164"}
   \b{0}}}
 
 {@@E {
@@ -30911,7 +35105,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-149} } }
+151} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -30975,7 +35169,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "508228 30918"
+@@D "574407 35112"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -30991,18 +35185,18 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.159"}
+  \a{"4.1230.libro.lout.161"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{149}
+  \b{151}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fproton.1"}}
-  \c{149}
+  \c{151}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "508025 30901"
+@@D "574204 35095"
 }
 {@LUse @BookSetup} } }
 }
@@ -31011,21 +35205,21 @@
 5}}
 
 {@@E {
-@@D "508025 30901"
+@@D "574204 35095"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.163"}
+  \a{"9.1551.libro.lout.165"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "508011 30900"
+@@D "574190 35094"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-150} } }
+152} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -31104,7 +35298,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "510248 31044"
+@@D "576427 35238"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -31129,20 +35323,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.160"}
+  \a{"4.1230.libro.lout.162"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{150}
+  \b{152}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fneutron.1"}}
-  \c{150}
+  \c{152}
   \d{"Even"}}}
 
 {@@E {
-@@D "508025 30901"
+@@D "574204 35095"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.164"}
+  \a{"9.1551.libro.lout.166"}
   \b{0}}}
 
 {@@E {
@@ -31160,7 +35354,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-151} } }
+153} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -31364,20 +35558,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.161"}
+  \a{"4.1230.libro.lout.163"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{151}
+  \b{153}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fneutron.1"}}
-  \c{151}
+  \c{153}
   \d{"Odd"}}}
 
 {@@E {
-@@D "512110 31150"
+@@D "578289 35344"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.165"}
+  \a{"9.1551.libro.lout.167"}
   \b{0}}}
 
 {@@E {
@@ -31396,12 +35590,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-151} } }
+153} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-152} } }
+154} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -31626,18 +35820,18 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.162"}
+  \a{"4.1230.libro.lout.164"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{152}
+  \b{154}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fneutron.1"}}
-  \c{152}
+  \c{154}
   \d{"Even"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "515966 31386"
+@@D "582145 35580"
 }
 {@LUse @BookSetup} } }
 }
@@ -31646,304 +35840,7 @@
 6}}
 
 {@@E {
-@@D "515966 31386"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.166"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-153} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fpion.1"}
-  \b{Factor de forma del pión}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/fpion.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "520650 31686"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/fpion.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fneutron.8"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.163"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{153}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/fpion.1"}}
-  \c{153}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "520305 31657"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.167"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-153} } }
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-154} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fpion.1"}
-  \b{Factor de forma del pión}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/fpion.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "523050 31839"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/fpion.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fneutron.8"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fpion.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.164"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{154}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/fpion.1"}}
-  \c{154}
-  \d{"Even"}}}
-
-{@@E {
-@@D "522504 31793"
+@@D "582145 35580"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.168"}
@@ -31984,6 +35881,135 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fpion.1"}
+  \b{Factor de forma del pión}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fpion.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "586829 35880"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/fpion.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fneutron.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.165"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{155}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/fpion.1"}}
+  \c{155}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "586484 35851"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.169"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+155} } }
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+156} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
 @@C
 }
 {@LUse @BasicSetup} } }
@@ -32067,7 +36093,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "525690 32007"
+@@D "589229 36033"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -32100,140 +36126,6 @@
   \e{"10.1196.cap/hadr/fpion.1"}
   \f{@Prefix}}} }
 }
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fpion.6"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.165"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{155}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/fpion.1"}}
-  \c{155}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "525061 31954"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.169"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "525047 31953"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-156} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fpion.1"}
-  \b{Factor de forma del pión}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/fpion.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "528137 32153"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fpion.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fpion.8"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{@Prefix}}} }
-}
 {@PageMarker
   \a{"4.1230.libro.lout.166"}
   \b{@@V @MakePageNum
@@ -32245,7 +36137,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "525061 31954"
+@@D "588683 35987"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.170"}
@@ -32315,6 +36207,152 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fpion.1"}
+  \b{Factor de forma del pión}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fpion.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "591869 36201"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/fpion.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fneutron.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fpion.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fpion.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.167"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{157}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/fpion.1"}}
+  \c{157}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "591240 36148"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.171"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "591226 36147"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+158} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
 @@C
 }
 {@LUse @BasicSetup} } }
@@ -32366,7 +36404,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "530559 32309"
+@@D "594316 36347"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -32390,174 +36428,18 @@
   \e{"10.1196.cap/hadr/fpion.1"}
   \f{@Prefix}}} }
 }
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fpion.10"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fpion.12"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fpion.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.167"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{157}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/fpion.1"}}
-  \c{157}
-  \d{"Odd"}}}
-
-{@@E {
-{ @@A { @@E {
-@@D "529930 32256"
-}
-{@LUse @BookSetup} } }
-}
-{@@V @SectionList
-  \a{"10.276.libro.lout.29"}
-7}}
-
-{@@E {
-@@D "529930 32256"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.171"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "529916 32255"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-158} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fmuon.1"}
-  \b{Factor de forma del muón}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/fmuon.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "533079 32462"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/fmuon.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/fmuon.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fmuon.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fmuon.1"}
-  \f{@Prefix}}} }
-}
 {@PageMarker
   \a{"4.1230.libro.lout.168"}
   \b{@@V @MakePageNum
   \a{Arabic}
   \b{158}
   \c{@Prefix}
-  \d{"10.1196.cap/hadr/fmuon.1"}}
+  \d{"10.1196.cap/hadr/fpion.1"}}
   \c{158}
   \d{"Even"}}}
 
 {@@E {
-@@D "529930 32256"
+@@D "591240 36148"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.172"}
@@ -32610,6 +36492,171 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fpion.1"}
+  \b{Factor de forma del pión}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fpion.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "596738 36503"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fpion.2"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fpion.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fpion.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fpion.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fpion.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.169"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{159}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/fpion.1"}}
+  \c{159}
+  \d{"Odd"}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "596109 36450"
+}
+{@LUse @BookSetup} } }
+}
+{@@V @SectionList
+  \a{"10.276.libro.lout.29"}
+7}}
+
+{@@E {
+@@D "596109 36450"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.173"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "596095 36449"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+160} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -32669,7 +36716,154 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "535404 32609"
+@@D "599258 36656"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/fmuon.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fmuon.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fmuon.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fmuon.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.170"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{160}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/fmuon.1"}}
+  \c{160}
+  \d{"Even"}}}
+
+{@@E {
+@@D "596109 36450"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.174"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+161} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fmuon.1"}
+  \b{Factor de forma del muón}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fmuon.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "601583 36803"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -32703,20 +36897,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.169"}
+  \a{"4.1230.libro.lout.171"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{159}
+  \b{161}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fmuon.1"}}
-  \c{159}
+  \c{161}
   \d{"Odd"}}}
 
 {@@E {
-@@D "534917 32568"
+@@D "601096 36762"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.173"}
+  \a{"9.1551.libro.lout.175"}
   \b{0}}}
 
 {@@E {
@@ -32735,12 +36929,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-159} } }
+161} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-160} } }
+162} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -32843,7 +37037,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "538113 32783"
+@@D "604292 36977"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -32886,20 +37080,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.170"}
+  \a{"4.1230.libro.lout.172"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{160}
+  \b{162}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fmuon.1"}}
-  \c{160}
+  \c{162}
   \d{"Even"}}}
 
 {@@E {
-@@D "537425 32725"
+@@D "603604 36919"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.174"}
+  \a{"9.1551.libro.lout.176"}
   \b{0}}}
 
 {@@E {
@@ -32917,7 +37111,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-161} } }
+163} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -32981,7 +37175,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "540494 32924"
+@@D "606673 37118"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -32997,18 +37191,18 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.171"}
+  \a{"4.1230.libro.lout.173"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{161}
+  \b{163}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fmuon.1"}}
-  \c{161}
+  \c{163}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "540291 32907"
+@@D "606470 37101"
 }
 {@LUse @BookSetup} } }
 }
@@ -33017,21 +37211,21 @@
 8}}
 
 {@@E {
-@@D "540291 32907"
+@@D "606470 37101"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.175"}
+  \a{"9.1551.libro.lout.177"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "540277 32906"
+@@D "606456 37100"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-162} } }
+164} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -33110,7 +37304,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "542502 33050"
+@@D "608681 37244"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -33135,20 +37329,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.172"}
+  \a{"4.1230.libro.lout.174"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{162}
+  \b{164}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fkaon.1"}}
-  \c{162}
+  \c{164}
   \d{"Even"}}}
 
 {@@E {
-@@D "540291 32907"
+@@D "606470 37101"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.176"}
+  \a{"9.1551.libro.lout.178"}
   \b{0}}}
 
 {@@E {
@@ -33166,7 +37360,7 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-163} } }
+165} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -33269,7 +37463,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "544969 33209"
+@@D "611148 37403"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -33312,20 +37506,20 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.173"}
+  \a{"4.1230.libro.lout.175"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{163}
+  \b{165}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fkaon.1"}}
-  \c{163}
+  \c{165}
   \d{"Odd"}}}
 
 {@@E {
-@@D "544340 33156"
+@@D "610519 37350"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.177"}
+  \a{"9.1551.libro.lout.179"}
   \b{0}}}
 
 {@@E {
@@ -33344,12 +37538,12 @@
   \a{1}
   \b{Titles}
   \d{Portrait}
-163} } }
+165} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-164} } }
+166} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -33476,7 +37670,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "548132 33416"
+@@D "614311 37610"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -33537,18 +37731,18 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.174"}
+  \a{"4.1230.libro.lout.176"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{164}
+  \b{166}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fkaon.1"}}
-  \c{164}
+  \c{166}
   \d{"Even"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "547160 33334"
+@@D "613339 37528"
 }
 {@LUse @BookSetup} } }
 }
@@ -33557,283 +37751,7 @@
 9}}
 
 {@@E {
-@@D "547160 33334"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.178"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-165} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fnuclear.1"}
-  \b{Fuerza nuclear fuerte residual aparente}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/fnuclear.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "551116 33597"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/fnuclear.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/fnuclear.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fnuclear.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fnuclear.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.175"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{165}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/fnuclear.1"}}
-  \c{165}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "550771 33568"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.179"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-165} } }
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-166} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.6"}
-  \b{Estructura de los Hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/fnuclear.1"}
-  \b{Fuerza nuclear fuerte residual aparente}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/fnuclear.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "553407 33738"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/hadr/fnuclear.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/hadr/fnuclear.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/hadr/fnuclear.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/hadr/fnuclear.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.176"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{166}
-  \c{@Prefix}
-  \d{"10.1196.cap/hadr/fnuclear.1"}}
-  \c{166}
-  \d{"Even"}}}
-
-{@@E {
-@@D "553003 33704"
+@@D "613339 37528"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.180"}
@@ -33842,7 +37760,13 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "553003 33704"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @RunningPageList
   \a{1}
@@ -33873,6 +37797,276 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fnuclear.1"}
+  \b{Fuerza nuclear fuerte residual aparente}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fnuclear.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "617295 37791"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/fnuclear.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fnuclear.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fnuclear.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fnuclear.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.177"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{167}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/fnuclear.1"}}
+  \c{167}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "616950 37762"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.181"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+167} } }
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+168} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fnuclear.1"}
+  \b{Fuerza nuclear fuerte residual aparente}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fnuclear.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "619586 37932"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/fnuclear.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fnuclear.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fnuclear.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fnuclear.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.178"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{168}
+  \c{@Prefix}
+  \d{"10.1196.cap/hadr/fnuclear.1"}}
+  \c{168}
+  \d{"Even"}}}
+
+{@@E {
+@@D "619182 37898"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.182"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "619182 37898"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+169} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
 @@C
 }
 {@LUse @BasicSetup} } }
@@ -33924,7 +38118,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "555558 33867"
+@@D "621737 38061"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -33949,18 +38143,18 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.177"}
+  \a{"4.1230.libro.lout.179"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{167}
+  \b{169}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/fnuclear.1"}}
-  \c{167}
+  \c{169}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@LUse @BookSetup} } }
 }
@@ -33969,27 +38163,27 @@
 10}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.181"}
+  \a{"9.1551.libro.lout.183"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "555267 33843"
+@@D "621446 38037"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-168} } }
+170} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "555430 33856"
+@@D "621609 38050"
 }
 {@@V @DupRunner} } }
  }
@@ -34056,7 +38250,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "557705 33996"
+@@D "623884 38190"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -34081,32 +38275,32 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.178"}
+  \a{"4.1230.libro.lout.180"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{168}
+  \b{170}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/conclusiones.1"}}
-  \c{168}
+  \c{170}
   \d{"Even"}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.182"}
+  \a{"9.1551.libro.lout.184"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-169} } }
+171} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -34170,7 +38364,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "559714 34113"
+@@D "625893 38307"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -34186,13 +38380,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.179"}
+  \a{"4.1230.libro.lout.181"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{169}
+  \b{171}
   \c{@Prefix}
   \d{"10.1196.cap/hadr/conclusiones.1"}}
-  \c{169}
+  \c{171}
   \d{"Odd"}}}
 
 {@@E {
@@ -34200,7 +38394,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "557253 33961"
+@@D "623432 38155"
 }
 {@LUse @TblSetup} } }
 }
@@ -34241,14 +38435,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "561236 34198"
+@@D "627415 38392"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.165"}
+  \g{"9.952.libro.lout.167"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -34257,14 +38451,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "557253 33961"
+@@D "623432 38155"
 }
 {@@V @ChapterList
   \a{"10.255.libro.lout.7"}
 7}}
 
 {@@E {
-@@D "561278 34201"
+@@D "627457 38395"
 }
 {@Chapter
   \a{"10.1148.libro.lout.7"}
@@ -34272,21 +38466,21 @@
 { ??? }}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.183"}
+  \a{"9.1551.libro.lout.185"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "559565 34101"
+@@D "625744 38295"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-170} } }
+172} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -34346,7 +38540,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "562816 34294"
+@@D "628995 38488"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -34360,14 +38554,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "562794 34293"
+@@D "628973 38487"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.210"}
+  \g{"9.952.libro.lout.212"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -34376,13 +38570,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.180"}
+  \a{"4.1230.libro.lout.182"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{170}
+  \b{172}
   \c{@Prefix}
   \d{"10.1148.libro.lout.7"}}
-  \c{170}
+  \c{172}
   \d{"Even"}}}
 
 {@@E {
@@ -34390,7 +38584,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "561278 34201"
+@@D "627457 38395"
 }
 {@Chapter
   \a{"10.1148.libro.lout.7"}
@@ -34429,7 +38623,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "564538 34389"
+@@D "630717 38583"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -34443,14 +38637,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "564516 34388"
+@@D "630695 38582"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.210"}
+  \g{"9.952.libro.lout.212"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -34459,11 +38653,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "564552 34390"
+{ @@B { @@D "630731 38584"
  }
 {@@E {
 { @@A { @@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {?? @@V @Do ??} } }
 }
@@ -34476,7 +38670,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {@@V @ContentsStuff} } }
 }
@@ -34498,7 +38692,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {@TitleMarker
   \a{"10.1148.libro.lout.7"}
@@ -34507,13 +38701,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "566718 34508"
+@@D "632897 38702"
 }
 {?? @@V @Do ??} } }
 }
@@ -34527,7 +38721,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "566710 34508"
+@@D "632889 38702"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -34537,7 +38731,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "566710 34508"
+@@D "632889 38702"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -34547,7 +38741,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "566710 34508"
+@@D "632889 38702"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -34557,7 +38751,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "566710 34508"
+@@D "632889 38702"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -34567,7 +38761,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "566710 34508"
+@@D "632889 38702"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -34577,7 +38771,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "566710 34508"
+@@D "632889 38702"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -34587,13 +38781,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "568045 34588"
+@@D "634224 38782"
 }
 {?? @@V @Do ??} } }
 }
@@ -34605,13 +38799,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "568304 34606"
+@@D "634483 38800"
 }
 {?? @@V @Do ??} } }
 }
@@ -34622,7 +38816,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.8"}
@@ -34630,13 +38824,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "568648 34631"
+@@D "634827 38825"
 }
 {?? @@V @Do ??} } }
 }
@@ -34647,7 +38841,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.8"}
@@ -34655,13 +38849,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "564552 34390"
+@@D "630731 38584"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "568989 34656"
+@@D "635168 38850"
 }
 {?? @@V @Do ??} } }
 }
@@ -34672,36 +38866,36 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.8"}
   \b{0}}}
 
 {@@E {
-@@D "557253 33961"
+@@D "623432 38155"
 }
 {@@V @SectionList
   \a{"10.276.libro.lout.33"}
 1}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.184"}
+  \a{"9.1551.libro.lout.186"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-171} } }
+173} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -34780,7 +38974,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "569818 34720"
+@@D "635997 38914"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -34805,37 +38999,37 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.181"}
+  \a{"4.1230.libro.lout.183"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{171}
+  \b{173}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/fnucleones.1"}}
-  \c{171}
+  \c{173}
   \d{"Odd"}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.185"}
+  \a{"9.1551.libro.lout.187"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "569527 34696"
+@@D "635706 38890"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-172} } }
+174} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "569690 34709"
+@@D "635869 38903"
 }
 {@@V @DupRunner} } }
  }
@@ -35027,44 +39221,44 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.182"}
+  \a{"4.1230.libro.lout.184"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{172}
+  \b{174}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/fnucleones.1"}}
-  \c{172}
+  \c{174}
   \d{"Even"}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.186"}
+  \a{"9.1551.libro.lout.188"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-173} } }
+175} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "569690 34709"
+@@D "635869 38903"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "571914 34843"
+@@D "638093 39037"
 }
 {@@V @DupRunner} } }
  }
@@ -35265,38 +39459,38 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.183"}
+  \a{"4.1230.libro.lout.185"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{173}
+  \b{175}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/fnucleones.1"}}
-  \c{173}
+  \c{175}
   \d{"Odd"}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.187"}
+  \a{"9.1551.libro.lout.189"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-173} } }
+175} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-174} } }
+176} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -35542,18 +39736,18 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.184"}
+  \a{"4.1230.libro.lout.186"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{174}
+  \b{176}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/fnucleones.1"}}
-  \c{174}
+  \c{176}
   \d{"Even"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@LUse @BookSetup} } }
 }
@@ -35562,279 +39756,7 @@
 2}}
 
 {@@E {
-@@D "553003 33704"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.188"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "553003 33704"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-175} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "579665 35304"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.7"}
-  \b{Fuerza nuclear residual}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/fnr/deuteron.1"}
-  \b{Sistemas de dos nucleones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/fnr/deuteron.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "584304 35590"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/fnr/deuteron.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/fnr/deuteron.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/fnr/fnucleones.14"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/fnr/deuteron.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.185"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{175}
-  \c{@Prefix}
-  \d{"10.1196.cap/fnr/deuteron.1"}}
-  \c{175}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "553003 33704"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.189"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "584081 35572"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-176} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.7"}
-  \b{Fuerza nuclear residual}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/fnr/deuteron.1"}
-  \b{Sistemas de dos nucleones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/fnr/deuteron.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "586564 35730"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.cap/fnr/deuteron.1"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/fnr/deuteron.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/fnr/fnucleones.14"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/fnr/deuteron.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/fnr/deuteron.4"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/fnr/deuteron.1"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.186"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{176}
-  \c{@Prefix}
-  \d{"10.1196.cap/fnr/deuteron.1"}}
-  \c{176}
-  \d{"Even"}}}
-
-{@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.190"}
@@ -35843,7 +39765,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @RunningPageList
   \a{1}
@@ -35855,19 +39777,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "586294 35707"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "645844 39498"
 }
 {@@V @DupRunner} } }
  }
@@ -35934,7 +39844,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "586564 35730"
+@@D "650483 39784"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -35951,15 +39861,6 @@
 }
 {NonStart @Runner
   \g{"9.952.cap/fnr/fnucleones.14"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/fnr/deuteron.1"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/fnr/deuteron.4"}
   \a{@MajorNum}
   \b{@MajorTitle}
   \c{@MinorNum}
@@ -35978,7 +39879,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.191"}
@@ -35987,7 +39888,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "588576 35844"
+@@D "650260 39766"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -35998,7 +39899,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "586294 35707"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @DupRunner} } }
  }
@@ -36077,7 +39984,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "586564 35730"
+@@D "652743 39924"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -36121,7 +40028,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.192"}
@@ -36130,13 +40037,300 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
 179} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "652473 39901"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.7"}
+  \b{Fuerza nuclear residual}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Sistemas de dos nucleones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "652743 39924"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/fnr/deuteron.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/fnucleones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/deuteron.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.189"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{179}
+  \c{@Prefix}
+  \d{"10.1196.cap/fnr/deuteron.1"}}
+  \c{179}
+  \d{"Odd"}}}
+
+{@@E {
+@@D "619182 37898"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.193"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "654755 40038"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+180} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "652473 39901"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.7"}
+  \b{Fuerza nuclear residual}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Sistemas de dos nucleones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "652743 39924"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/fnr/deuteron.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/fnucleones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/fnr/deuteron.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/fnr/deuteron.1"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.190"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{180}
+  \c{@Prefix}
+  \d{"10.1196.cap/fnr/deuteron.1"}}
+  \c{180}
+  \d{"Even"}}}
+
+{@@E {
+@@D "619182 37898"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.194"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "619182 37898"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+181} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -36239,7 +40433,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "593894 36179"
+@@D "660073 40373"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -36282,37 +40476,37 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.189"}
+  \a{"4.1230.libro.lout.191"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{179}
+  \b{181}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/deuteron.1"}}
-  \c{179}
+  \c{181}
   \d{"Odd"}}}
 
 {@@E {
-@@D "553003 33704"
+@@D "619182 37898"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.193"}
+  \a{"9.1551.libro.lout.195"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "593319 36131"
+@@D "659498 40325"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-180} } }
+182} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "593482 36144"
+@@D "659661 40338"
 }
 {@@V @DupRunner} } }
  }
@@ -36403,7 +40597,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "593894 36179"
+@@D "660073 40373"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -36446,13 +40640,13 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.190"}
+  \a{"4.1230.libro.lout.192"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{180}
+  \b{182}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/deuteron.1"}}
-  \c{180}
+  \c{182}
   \d{"Even"}}}
 
 {@@E {
@@ -36465,19 +40659,19 @@
 {@LUse @DocumentSetup} } }
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.194"}
+  \a{"9.1551.libro.lout.196"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-181} } }
+183} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -36702,38 +40896,38 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.191"}
+  \a{"4.1230.libro.lout.193"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{181}
+  \b{183}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/deuteron.1"}}
-  \c{181}
+  \c{183}
   \d{"Odd"}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.195"}
+  \a{"9.1551.libro.lout.197"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-181} } }
+183} } }
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-182} } }
+184} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -37000,13 +41194,13 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.192"}
+  \a{"4.1230.libro.lout.194"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{182}
+  \b{184}
   \c{@Prefix}
   \d{"10.1196.cap/fnr/deuteron.1"}}
-  \c{182}
+  \c{184}
   \d{"Even"}}}
 
 {@@E {
@@ -37015,7 +41209,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@LUse @BookSetup} } }
 }
@@ -37058,14 +41252,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "607563 37012"
+@@D "673742 41206"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.208"}
+  \g{"9.952.libro.lout.210"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -37074,14 +41268,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "607619 37016"
+@@D "673798 41210"
 }
 {@@V @ChapterList
   \a{"10.255.libro.lout.8"}
 8}}
 
 {@@E {
-@@D "607605 37015"
+@@D "673784 41209"
 }
 {@Chapter
   \a{"10.1148.libro.lout.8"}
@@ -37089,22 +41283,22 @@
 { ??? }}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.196"}
+  \a{"9.1551.libro.lout.198"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-183} } }
+185} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -37164,7 +41358,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "609187 37112"
+@@D "675366 41306"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -37178,14 +41372,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "609165 37111"
+@@D "675344 41305"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.225"}
+  \g{"9.952.libro.lout.227"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -37194,13 +41388,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.193"}
+  \a{"4.1230.libro.lout.195"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{183}
+  \b{185}
   \c{@Prefix}
   \d{"10.1148.libro.lout.8"}}
-  \c{183}
+  \c{185}
   \d{"Odd"}}}
 
 {@@E {
@@ -37208,7 +41402,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "607605 37015"
+@@D "673784 41209"
 }
 {@Chapter
   \a{"10.1148.libro.lout.8"}
@@ -37247,7 +41441,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "610907 37207"
+@@D "677086 41401"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -37261,14 +41455,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "610885 37206"
+@@D "677064 41400"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.225"}
+  \g{"9.952.libro.lout.227"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -37277,11 +41471,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "610921 37208"
+{ @@B { @@D "677100 41402"
  }
 {@@E {
 { @@A { @@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {?? @@V @Do ??} } }
 }
@@ -37294,7 +41488,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {@@V @ContentsStuff} } }
 }
@@ -37316,7 +41510,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {@TitleMarker
   \a{"10.1148.libro.lout.8"}
@@ -37325,13 +41519,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "613086 37326"
+@@D "679265 41520"
 }
 {?? @@V @Do ??} } }
 }
@@ -37345,7 +41539,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "613078 37326"
+@@D "679257 41520"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -37355,7 +41549,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "613078 37326"
+@@D "679257 41520"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -37365,7 +41559,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "613078 37326"
+@@D "679257 41520"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -37375,7 +41569,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "613078 37326"
+@@D "679257 41520"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -37385,7 +41579,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "613078 37326"
+@@D "679257 41520"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -37395,7 +41589,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "613078 37326"
+@@D "679257 41520"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -37405,13 +41599,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "614413 37406"
+@@D "680592 41600"
 }
 {?? @@V @Do ??} } }
 }
@@ -37423,13 +41617,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "614672 37424"
+@@D "680851 41618"
 }
 {?? @@V @Do ??} } }
 }
@@ -37440,7 +41634,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.9"}
@@ -37448,13 +41642,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "615016 37449"
+@@D "681195 41643"
 }
 {?? @@V @Do ??} } }
 }
@@ -37465,7 +41659,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.9"}
@@ -37473,13 +41667,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "610921 37208"
+@@D "677100 41402"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "615357 37474"
+@@D "681536 41668"
 }
 {?? @@V @Do ??} } }
 }
@@ -37490,279 +41684,14 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.9"}
   \b{0}}}
 
 {@@E {
-@@D "598643 36458"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.197"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "609016 37099"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-184} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.8"}
-  \b{Resumen y Conclusiones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1148.libro.lout.8"}
-  \b{Major}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \f{@@V @AboveChapterGap}
-  \g{@@V @ChapterHeadingFont}
-  \h{@@V @ChapterHeadingBreak}
-  \i{@Num @@V @ChapterHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @ChapterContentsIndent}
-  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
-  \n{Arabic}
-  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \s{}
-  \x{Yes}
-  \y{Yes}
-  \z{Yes}
-  intables{Yes}
-  infloaters{Yes}
-  sendheader{@@V @ChapterFull @Body}
-  innergap{@@V @SectionGap}
-  inrunners{Yes}
-@@V @Body} } }
-}
-{@@V @Heading} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "616118 37531"
-}
-{@@V sendheader {
-//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
-// @@V @Run @@V @StartIfMajor
-// @PageMark @@V tag
-//{@DisplayGap} @@V headingtext}} } }
-}
-{@Body}} }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "616096 37530"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.libro.lout.225"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/resumen/resumen.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.194"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{184}
-  \c{@Prefix}
-  \d{"10.1148.libro.lout.8"}}
-  \c{184}
-  \d{"Even"}}}
-
-{@@E {
-@@D "598643 36458"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.198"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "598643 36458"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-185} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "615968 37519"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.8"}
-  \b{Resumen y Conclusiones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1148.libro.lout.8"}
-  \b{Major}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \f{@@V @AboveChapterGap}
-  \g{@@V @ChapterHeadingFont}
-  \h{@@V @ChapterHeadingBreak}
-  \i{@Num @@V @ChapterHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @ChapterContentsIndent}
-  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
-  \n{Arabic}
-  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \s{}
-  \x{Yes}
-  \y{Yes}
-  \z{Yes}
-  intables{Yes}
-  infloaters{Yes}
-  sendheader{@@V @ChapterFull @Body}
-  innergap{@@V @SectionGap}
-  inrunners{Yes}
-@@V @Body} } }
-}
-{@@V @Heading} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "616118 37531"
-}
-{@@V sendheader {
-//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
-// @@V @Run @@V @StartIfMajor
-// @PageMark @@V tag
-//{@DisplayGap} @@V headingtext}} } }
-}
-{@Body}} }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "616096 37530"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{@@V start @Runner
-  \g{"9.952.libro.lout.225"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/resumen/resumen.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
-  \f{@Prefix}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.195"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{185}
-  \c{@Prefix}
-  \d{"10.1148.libro.lout.8"}}
-  \c{185}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.199"}
@@ -37771,7 +41700,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "618079 37642"
+@@D "675195 41293"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -37782,7 +41711,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "615968 37519"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @DupRunner} } }
  }
@@ -37842,7 +41777,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "616118 37531"
+@@D "682297 41725"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -37856,14 +41791,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "616096 37530"
+@@D "682275 41724"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.225"}
+  \g{"9.952.libro.lout.227"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -37891,7 +41826,7 @@
   \d{"Even"}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.200"}
@@ -37900,7 +41835,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
@@ -37912,19 +41847,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "615968 37519"
-}
-{@@V @DupRunner} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "682147 41713"
 }
 {@@V @DupRunner} } }
  }
@@ -37984,57 +41907,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.8"}
-  \b{Resumen y Conclusiones}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1148.libro.lout.8"}
-  \b{Major}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \f{@@V @AboveChapterGap}
-  \g{@@V @ChapterHeadingFont}
-  \h{@@V @ChapterHeadingBreak}
-  \i{@Num @@V @ChapterHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @ChapterContentsIndent}
-  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
-  \n{Arabic}
-  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \s{}
-  \x{Yes}
-  \y{Yes}
-  \z{Yes}
-  intables{Yes}
-  infloaters{Yes}
-  sendheader{@@V @ChapterFull @Body}
-  innergap{@@V @SectionGap}
-  inrunners{Yes}
-@@V @Body} } }
-}
-{@@V @Heading} } }
+@@D "682297 41725"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -38048,29 +41921,14 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@B { @@D "623825 37986"
- }
-{@@E {
-{ @@A { @@E {
-@@D "623825 37986"
-}
-{@@V sendheader {
-//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
-// @@V @Run @@V @StartIfMajor
-// @PageMark @@V tag
-//{@DisplayGap} @@V headingtext}} } }
-}
-{@Body}} }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "682275 41724"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.225"}
+  \g{"9.952.libro.lout.227"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -38080,15 +41938,6 @@
 }
 {NonStart @Runner
   \g{"9.952.cap/resumen/resumen.2"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{}
-  \d{}
-  \e{"10.1148.libro.lout.8"}
-  \f{@Prefix}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/resumen/resumen.4"}
   \a{@MajorNum}
   \b{@MajorTitle}
   \c{}
@@ -38107,7 +41956,7 @@
   \d{"Odd"}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.201"}
@@ -38116,7 +41965,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "622480 37901"
+@@D "684258 41836"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -38127,7 +41976,137 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "615968 37519"
+@@D "682147 41713"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.8"}
+  \b{Resumen y Conclusiones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1148.libro.lout.8"}
+  \b{Major}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \f{@@V @AboveChapterGap}
+  \g{@@V @ChapterHeadingFont}
+  \h{@@V @ChapterHeadingBreak}
+  \i{@Num @@V @ChapterHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @ChapterContentsIndent}
+  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
+  \n{Arabic}
+  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \s{}
+  \x{Yes}
+  \y{Yes}
+  \z{Yes}
+  intables{Yes}
+  infloaters{Yes}
+  sendheader{@@V @ChapterFull @Body}
+  innergap{@@V @SectionGap}
+  inrunners{Yes}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "682297 41725"
+}
+{@@V sendheader {
+//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
+// @@V @Run @@V @StartIfMajor
+// @PageMark @@V tag
+//{@DisplayGap} @@V headingtext}} } }
+}
+{@Body}} }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "682275 41724"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.227"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1148.libro.lout.8"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/resumen/resumen.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{}
+  \d{}
+  \e{"10.1148.libro.lout.8"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.198"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{188}
+  \c{@Prefix}
+  \d{"10.1148.libro.lout.8"}}
+  \c{188}
+  \d{"Even"}}}
+
+{@@E {
+@@D "664822 40652"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.202"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "664822 40652"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+189} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "682147 41713"
 }
 {@@V @DupRunner} } }
  }
@@ -38264,11 +42243,11 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-{ @@B { @@D "623825 37986"
+{ @@B { @@D "690004 42180"
  }
 {@@E {
 { @@A { @@E {
-@@D "623825 37986"
+@@D "690004 42180"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -38285,7 +42264,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.225"}
+  \g{"9.952.libro.lout.227"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -38312,32 +42291,247 @@
   \f{@Prefix}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.198"}
+  \a{"4.1230.libro.lout.199"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{188}
+  \b{189}
   \c{@Prefix}
   \d{"10.1148.libro.lout.8"}}
-  \c{188}
-  \d{"Even"}}}
+  \c{189}
+  \d{"Odd"}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.202"}
+  \a{"9.1551.libro.lout.203"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "688659 42095"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+190} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "682147 41713"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.8"}
+  \b{Resumen y Conclusiones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1148.libro.lout.8"}
+  \b{Major}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \f{@@V @AboveChapterGap}
+  \g{@@V @ChapterHeadingFont}
+  \h{@@V @ChapterHeadingBreak}
+  \i{@Num @@V @ChapterHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @ChapterContentsIndent}
+  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
+  \n{Arabic}
+  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \s{}
+  \x{Yes}
+  \y{Yes}
+  \z{Yes}
+  intables{Yes}
+  infloaters{Yes}
+  sendheader{@@V @ChapterFull @Body}
+  innergap{@@V @SectionGap}
+  inrunners{Yes}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.8"}
+  \b{Resumen y Conclusiones}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1148.libro.lout.8"}
+  \b{Major}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \f{@@V @AboveChapterGap}
+  \g{@@V @ChapterHeadingFont}
+  \h{@@V @ChapterHeadingBreak}
+  \i{@Num @@V @ChapterHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @ChapterContentsIndent}
+  \m{dft @@V @Dft {chapter @@V @WordVal chapter}}
+  \n{Arabic}
+  \o{{@@V @ChapterList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @ChapterList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \s{}
+  \x{Yes}
+  \y{Yes}
+  \z{Yes}
+  intables{Yes}
+  infloaters{Yes}
+  sendheader{@@V @ChapterFull @Body}
+  innergap{@@V @SectionGap}
+  inrunners{Yes}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V sendheader {
+//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
+// @@V @Run @@V @StartIfMajor
+// @PageMark @@V tag
+//{@DisplayGap} @@V headingtext}} } }
+}
+{@Body}} }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@B { @@D "690004 42180"
+ }
+{@@E {
+{ @@A { @@E {
+@@D "690004 42180"
+}
+{@@V sendheader {
+//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
+// @@V @Run @@V @StartIfMajor
+// @PageMark @@V tag
+//{@DisplayGap} @@V headingtext}} } }
+}
+{@Body}} }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.227"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1148.libro.lout.8"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/resumen/resumen.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{}
+  \d{}
+  \e{"10.1148.libro.lout.8"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/resumen/resumen.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{}
+  \d{}
+  \e{"10.1148.libro.lout.8"}
+  \f{@Prefix}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.200"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{190}
+  \c{@Prefix}
+  \d{"10.1148.libro.lout.8"}}
+  \c{190}
+  \d{"Even"}}}
+
+{@@E {
+@@D "664822 40652"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.204"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-189} } }
+191} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
@@ -38396,14 +42590,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "630120 38344"
+@@D "696299 42538"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.223"}
+  \g{"9.952.libro.lout.225"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -38412,13 +42606,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.199"}
+  \a{"4.1230.libro.lout.201"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{189}
+  \b{191}
   \c{@Prefix}
   \d{"10.1148.libro.lout.8"}}
-  \c{189}
+  \c{191}
   \d{"Odd"}}}
 
 {@@E {
@@ -38427,7 +42621,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@LUse @BookSetup} } }
 }
@@ -38470,14 +42664,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "631507 38424"
+@@D "697686 42618"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.223"}
+  \g{"9.952.libro.lout.225"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -38486,14 +42680,14 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "631563 38428"
+@@D "697742 42622"
 }
 {@@V @AppendixList
   \a{"10.297.libro.lout.1"}
 1}}
 
 {@@E {
-@@D "631549 38427"
+@@D "697728 42621"
 }
 {@Appendix
   \a{"10.1423.libro.lout.1"}
@@ -38501,21 +42695,21 @@
 { ??? }}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.203"}
+  \a{"9.1551.libro.lout.205"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "629971 38332"
+@@D "696150 42526"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-190} } }
+192} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -38524,7 +42718,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "630162 38347"
+@@D "696341 42541"
 }
 {@Appendix
   \a{"10.1423.libro.lout.1"}
@@ -38563,7 +42757,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "633147 38523"
+@@D "699326 42717"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -38577,14 +42771,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "633125 38522"
+@@D "699304 42716"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.234"}
+  \g{"9.952.libro.lout.236"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -38593,13 +42787,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.200"}
+  \a{"4.1230.libro.lout.202"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{190}
+  \b{192}
   \c{@Prefix}
   \d{"10.1423.libro.lout.1"}}
-  \c{190}
+  \c{192}
   \d{"Even"}}}
 
 {@@E {
@@ -38607,7 +42801,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "631549 38427"
+@@D "697728 42621"
 }
 {@Appendix
   \a{"10.1423.libro.lout.1"}
@@ -38646,7 +42840,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "634747 38606"
+@@D "700926 42800"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -38660,14 +42854,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "634725 38605"
+@@D "700904 42799"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.234"}
+  \g{"9.952.libro.lout.236"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -38676,11 +42870,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "634761 38607"
+{ @@B { @@D "700940 42801"
  }
 {@@E {
 { @@A { @@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {?? @@V @Do ??} } }
 }
@@ -38693,7 +42887,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {@@V @ContentsStuff} } }
 }
@@ -38715,7 +42909,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {@TitleMarker
   \a{"10.1423.libro.lout.1"}
@@ -38724,13 +42918,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "636950 38725"
+@@D "703129 42919"
 }
 {?? @@V @Do ??} } }
 }
@@ -38744,7 +42938,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "636942 38725"
+@@D "703121 42919"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -38754,7 +42948,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "636942 38725"
+@@D "703121 42919"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -38764,7 +42958,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "636942 38725"
+@@D "703121 42919"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -38774,7 +42968,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "636942 38725"
+@@D "703121 42919"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -38784,7 +42978,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "636942 38725"
+@@D "703121 42919"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -38794,7 +42988,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "636942 38725"
+@@D "703121 42919"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -38804,13 +42998,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "638284 38805"
+@@D "704463 42999"
 }
 {?? @@V @Do ??} } }
 }
@@ -38822,13 +43016,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "638543 38823"
+@@D "704722 43017"
 }
 {?? @@V @Do ??} } }
 }
@@ -38839,7 +43033,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.10"}
@@ -38847,13 +43041,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "638889 38848"
+@@D "705068 43042"
 }
 {?? @@V @Do ??} } }
 }
@@ -38864,7 +43058,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.10"}
@@ -38872,13 +43066,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "634761 38607"
+@@D "700940 42801"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "639232 38873"
+@@D "705411 43067"
 }
 {?? @@V @Do ??} } }
 }
@@ -38889,119 +43083,14 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.10"}
   \b{0}}}
 
 {@@E {
-@@D "598643 36458"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.204"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "598643 36458"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-191} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "633161 38524"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "639841 38918"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.libro.lout.232"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1423.libro.lout.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.201"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{191}
-  \c{@Prefix}
-  \d{"10.1423.libro.lout.1"}}
-  \c{191}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "598643 36458"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.205"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "639692 38906"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-192} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "633161 38524"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "639841 38918"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.libro.lout.232"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1423.libro.lout.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.202"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{192}
-  \c{@Prefix}
-  \d{"10.1423.libro.lout.1"}}
-  \c{192}
-  \d{"Even"}}}
-
-{@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.206"}
@@ -39010,7 +43099,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
@@ -39022,20 +43111,20 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "633161 38524"
+@@D "699340 42718"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "639841 38918"
+@@D "706020 43112"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.232"}
+  \g{"9.952.libro.lout.234"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -39054,45 +43143,7 @@
   \d{"Odd"}}}
 
 {@@E {
-{ @@B { { @@A { @@E {
-@@D "634761 38607"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "641873 39056"
-}
-{?? @@V @Do ??} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.libro.lout.232"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1423.libro.lout.1"}
-  \f{{} @Join @@V @ShortNum}}}
-
-{@@E {
-@@D "631563 38428"
-}
-{@@V @AppendixList
-  \a{"10.297.libro.lout.2"}
-2}}
-
-{@@E {
-@@D "631549 38427"
-}
-{@Appendix
-  \a{"10.1423.libro.lout.2"}
-  \b{Sobre los hombros de gigantes}
-{ ??? }}}
-
-{@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.207"}
@@ -39101,7 +43152,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "641217 39011"
+@@D "705871 43100"
 }
 {@@V @RunningEvenPageList
   \a{1}
@@ -39112,75 +43163,25 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "630162 38347"
+@@D "699340 42718"
 }
-{@Appendix
-  \a{"10.1423.libro.lout.2"}
-  \b{Sobre los hombros de gigantes}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1423.libro.lout.2"}
-  \b{Major}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \f{@@V @AboveChapterGap}
-  \g{@@V @AppendixHeadingFont}
-  \h{@@V @AppendixHeadingBreak}
-  \i{@Num @@V @AppendixHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @AppendixContentsIndent}
-  \m{appendix @@V @WordVal appendix}
-  \n{UCAlpha}
-  \o{{@@V @AppendixList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @AppendixList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \s{}
-  \x{Yes}
-  \y{Yes}
-  \z{Yes}
-  intables{Yes}
-  infloaters{Yes}
-  sendheader{@@V @ChapterFull @Body}
-  innergap{@@V @SubAppendixGap}
-  inrunners{Yes}
-@@V @Body} } }
-}
-{@@V @Heading} } }
+{@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "642683 39114"
-}
-{@@V sendheader {
-//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
-// @@V @Run @@V @StartIfMajor
-// @PageMark @@V tag
-//{@DisplayGap} @@V headingtext}} } }
-}
-{@Body}} }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "642661 39113"
+@@D "706020 43112"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
-{@@V start @Runner
-  \g{"9.952.libro.lout.240"}
+{NonStart @Runner
+  \g{"9.952.libro.lout.234"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
   \d{}
-  \e{"10.1423.libro.lout.2"}
+  \e{"10.1423.libro.lout.1"}
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
@@ -39189,16 +43190,126 @@
   \a{Arabic}
   \b{194}
   \c{@Prefix}
-  \d{"10.1423.libro.lout.2"}}
+  \d{"10.1423.libro.lout.1"}}
   \c{194}
   \d{"Even"}}}
 
+{@@E {
+@@D "664822 40652"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.208"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "664822 40652"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+195} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "699340 42718"
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "706020 43112"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.libro.lout.234"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1423.libro.lout.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.205"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{195}
+  \c{@Prefix}
+  \d{"10.1423.libro.lout.1"}}
+  \c{195}
+  \d{"Odd"}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "700940 42801"
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "708052 43250"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.libro.lout.234"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1423.libro.lout.1"}
+  \f{{} @Join @@V @ShortNum}}}
+
+{@@E {
+@@D "697742 42622"
+}
+{@@V @AppendixList
+  \a{"10.297.libro.lout.2"}
+2}}
+
+{@@E {
+@@D "697728 42621"
+}
+{@Appendix
+  \a{"10.1423.libro.lout.2"}
+  \b{Sobre los hombros de gigantes}
+{ ??? }}}
+
+{@@E {
+@@D "664822 40652"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.209"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "707396 43205"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+196} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
 {@@E {
 { @@B { { @@A { @@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "631549 38427"
+@@D "696341 42541"
 }
 {@Appendix
   \a{"10.1423.libro.lout.2"}
@@ -39237,7 +43348,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "644265 39197"
+@@D "708862 43308"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -39251,14 +43362,97 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "644243 39196"
+@@D "708840 43307"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.242"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1423.libro.lout.2"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.206"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{196}
+  \c{@Prefix}
+  \d{"10.1423.libro.lout.2"}}
+  \c{196}
+  \d{"Even"}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "697728 42621"
+}
+{@Appendix
+  \a{"10.1423.libro.lout.2"}
+  \b{Sobre los hombros de gigantes}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1423.libro.lout.2"}
+  \b{Major}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \f{@@V @AboveChapterGap}
+  \g{@@V @AppendixHeadingFont}
+  \h{@@V @AppendixHeadingBreak}
+  \i{@Num @@V @AppendixHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @AppendixContentsIndent}
+  \m{appendix @@V @WordVal appendix}
+  \n{UCAlpha}
+  \o{{@@V @AppendixList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @AppendixList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \s{}
+  \x{Yes}
+  \y{Yes}
+  \z{Yes}
+  intables{Yes}
+  infloaters{Yes}
+  sendheader{@@V @ChapterFull @Body}
+  innergap{@@V @SubAppendixGap}
+  inrunners{Yes}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "710444 43391"
+}
+{@@V sendheader {
+//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
+// @@V @Run @@V @StartIfMajor
+// @PageMark @@V tag
+//{@DisplayGap} @@V headingtext}} } }
+}
+{@Body}} }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "710422 43390"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.240"}
+  \g{"9.952.libro.lout.242"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -39267,11 +43461,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "644279 39198"
+{ @@B { @@D "710458 43392"
  }
 {@@E {
 { @@A { @@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {?? @@V @Do ??} } }
 }
@@ -39284,7 +43478,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {@@V @ContentsStuff} } }
 }
@@ -39306,7 +43500,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {@TitleMarker
   \a{"10.1423.libro.lout.2"}
@@ -39315,13 +43509,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "646450 39316"
+@@D "712629 43510"
 }
 {?? @@V @Do ??} } }
 }
@@ -39335,7 +43529,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "646442 39316"
+@@D "712621 43510"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -39345,7 +43539,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "646442 39316"
+@@D "712621 43510"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -39355,7 +43549,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "646442 39316"
+@@D "712621 43510"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -39365,7 +43559,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "646442 39316"
+@@D "712621 43510"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -39375,7 +43569,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "646442 39316"
+@@D "712621 43510"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -39385,7 +43579,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "646442 39316"
+@@D "712621 43510"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -39395,13 +43589,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "647784 39396"
+@@D "713963 43590"
 }
 {?? @@V @Do ??} } }
 }
@@ -39413,13 +43607,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "648043 39414"
+@@D "714222 43608"
 }
 {?? @@V @Do ??} } }
 }
@@ -39430,7 +43624,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.11"}
@@ -39438,13 +43632,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "648389 39439"
+@@D "714568 43633"
 }
 {?? @@V @Do ??} } }
 }
@@ -39455,7 +43649,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.11"}
@@ -39463,13 +43657,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "644279 39198"
+@@D "710458 43392"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "648732 39464"
+@@D "714911 43658"
 }
 {?? @@V @Do ??} } }
 }
@@ -39480,157 +43674,14 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.11"}
   \b{0}}}
 
 {@@E {
-@@D "598643 36458"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.208"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "598643 36458"
-}
-{@@V @RunningPageList
-  \a{1}
-  \b{Titles}
-  \d{Portrait}
-195} } }
-}
-{@@V @OrdinaryOddPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "642697 39115"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "649341 39509"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.libro.lout.238"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1423.libro.lout.2"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.205"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{195}
-  \c{@Prefix}
-  \d{"10.1423.libro.lout.2"}}
-  \c{195}
-  \d{"Odd"}}}
-
-{@@E {
-@@D "598643 36458"
-}
-{@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.209"}
-  \b{0}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "649192 39497"
-}
-{@@V @RunningEvenPageList
-  \a{1}
-  \b{Titles}
-196} } }
-}
-{@@V @OrdinaryEvenPage} } }
- }
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "642697 39115"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "649341 39509"
-}
-{{??} @@V @Do {??}} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.libro.lout.238"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1423.libro.lout.2"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{@PageMarker
-  \a{"4.1230.libro.lout.206"}
-  \b{@@V @MakePageNum
-  \a{Arabic}
-  \b{196}
-  \c{@Prefix}
-  \d{"10.1423.libro.lout.2"}}
-  \c{196}
-  \d{"Even"}}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-@@D "644279 39198"
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "650606 39594"
-}
-{?? @@V @Do ??} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.libro.lout.238"}
-  \a{dft @@V @Dft @@V @LongNum}
-  \b{dft @@V @Dft @@V @ShortTitle}
-  \c{}
-  \d{}
-  \e{"10.1423.libro.lout.2"}
-  \f{{} @Join @@V @ShortNum}}}
-
-{@@E {
-@@D "631563 38428"
-}
-{@@V @AppendixList
-  \a{"10.297.libro.lout.3"}
-3}}
-
-{@@E {
-@@D "631549 38427"
-}
-{@Appendix
-  \a{"10.1423.libro.lout.3"}
-  \b{Nota metodológica}
-{ ??? }}}
-
-{@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
   \a{"9.1551.libro.lout.210"}
@@ -39639,7 +43690,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
@@ -39651,75 +43702,25 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "630162 38347"
+@@D "708876 43309"
 }
-{@Appendix
-  \a{"10.1423.libro.lout.3"}
-  \b{Nota metodológica}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1423.libro.lout.3"}
-  \b{Major}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \f{@@V @AboveChapterGap}
-  \g{@@V @AppendixHeadingFont}
-  \h{@@V @AppendixHeadingBreak}
-  \i{@Num @@V @AppendixHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @AppendixContentsIndent}
-  \m{appendix @@V @WordVal appendix}
-  \n{UCAlpha}
-  \o{{@@V @AppendixList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @AppendixList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \s{}
-  \x{Yes}
-  \y{Yes}
-  \z{Yes}
-  intables{Yes}
-  infloaters{Yes}
-  sendheader{@@V @ChapterFull @Body}
-  innergap{@@V @SubAppendixGap}
-  inrunners{Yes}
-@@V @Body} } }
-}
-{@@V @Heading} } }
+{@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "651414 39653"
-}
-{@@V sendheader {
-//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
-// @@V @Run @@V @StartIfMajor
-// @PageMark @@V tag
-//{@DisplayGap} @@V headingtext}} } }
-}
-{@Body}} }
-}
-{@@V @Run @@V @StartIfMajor} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "651392 39652"
+@@D "715520 43703"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
-{@@V start @Runner
-  \g{"9.952.libro.lout.245"}
+{NonStart @Runner
+  \g{"9.952.libro.lout.240"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
   \d{}
-  \e{"10.1423.libro.lout.3"}
+  \e{"10.1423.libro.lout.2"}
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
@@ -39728,16 +43729,126 @@
   \a{Arabic}
   \b{197}
   \c{@Prefix}
-  \d{"10.1423.libro.lout.3"}}
+  \d{"10.1423.libro.lout.2"}}
   \c{197}
   \d{"Odd"}}}
 
+{@@E {
+@@D "664822 40652"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.211"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "715371 43691"
+}
+{@@V @RunningEvenPageList
+  \a{1}
+  \b{Titles}
+198} } }
+}
+{@@V @OrdinaryEvenPage} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "708876 43309"
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "715520 43703"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.libro.lout.240"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1423.libro.lout.2"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.208"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{198}
+  \c{@Prefix}
+  \d{"10.1423.libro.lout.2"}}
+  \c{198}
+  \d{"Even"}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "710458 43392"
+}
+{@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "716785 43788"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{NonStart @Runner
+  \g{"9.952.libro.lout.240"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1423.libro.lout.2"}
+  \f{{} @Join @@V @ShortNum}}}
+
+{@@E {
+@@D "697742 42622"
+}
+{@@V @AppendixList
+  \a{"10.297.libro.lout.3"}
+3}}
+
+{@@E {
+@@D "697728 42621"
+}
+{@Appendix
+  \a{"10.1423.libro.lout.3"}
+  \b{Nota metodológica}
+{ ??? }}}
+
+{@@E {
+@@D "664822 40652"
+}
+{@@V @FootNoteCounterMarker
+  \a{"9.1551.libro.lout.212"}
+  \b{0}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "664822 40652"
+}
+{@@V @RunningPageList
+  \a{1}
+  \b{Titles}
+  \d{Portrait}
+199} } }
+}
+{@@V @OrdinaryOddPage} } }
+ }
 {@@E {
 { @@B { { @@A { @@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "631549 38427"
+@@D "696341 42541"
 }
 {@Appendix
   \a{"10.1423.libro.lout.3"}
@@ -39776,7 +43887,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "652983 39736"
+@@D "717593 43847"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -39790,14 +43901,97 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "652961 39735"
+@@D "717571 43846"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.247"}
+  \a{dft @@V @Dft @@V @LongNum}
+  \b{dft @@V @Dft @@V @ShortTitle}
+  \c{}
+  \d{}
+  \e{"10.1423.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{@PageMarker
+  \a{"4.1230.libro.lout.209"}
+  \b{@@V @MakePageNum
+  \a{Arabic}
+  \b{199}
+  \c{@Prefix}
+  \d{"10.1423.libro.lout.3"}}
+  \c{199}
+  \d{"Odd"}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "697728 42621"
+}
+{@Appendix
+  \a{"10.1423.libro.lout.3"}
+  \b{Nota metodológica}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1423.libro.lout.3"}
+  \b{Major}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \f{@@V @AboveChapterGap}
+  \g{@@V @AppendixHeadingFont}
+  \h{@@V @AppendixHeadingBreak}
+  \i{@Num @@V @AppendixHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @AppendixContentsIndent}
+  \m{appendix @@V @WordVal appendix}
+  \n{UCAlpha}
+  \o{{@@V @AppendixList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @AppendixList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \s{}
+  \x{Yes}
+  \y{Yes}
+  \z{Yes}
+  intables{Yes}
+  infloaters{Yes}
+  sendheader{@@V @ChapterFull @Body}
+  innergap{@@V @SubAppendixGap}
+  inrunners{Yes}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "719162 43930"
+}
+{@@V sendheader {
+//{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
+// @@V @Run @@V @StartIfMajor
+// @PageMark @@V tag
+//{@DisplayGap} @@V headingtext}} } }
+}
+{@Body}} }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "719140 43929"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.245"}
+  \g{"9.952.libro.lout.247"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -39806,11 +44000,11 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-{ @@B { @@D "652997 39737"
+{ @@B { @@D "719176 43931"
  }
 {@@E {
 { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {?? @@V @Do ??} } }
 }
@@ -39823,7 +44017,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {@@V @ContentsStuff} } }
 }
@@ -39845,7 +44039,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {@TitleMarker
   \a{"10.1423.libro.lout.3"}
@@ -39854,13 +44048,13 @@
 {@@E {
 { @@A { @@E {
 { @@B { { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {Yes @@V @BeginAllCounters @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "655156 39855"
+@@D "721335 44049"
 }
 {?? @@V @Do ??} } }
 }
@@ -39874,7 +44068,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "655148 39855"
+@@D "721327 44049"
 }
 {@@V @BeginDefinitionCounter @@V prefix} } }
 }
@@ -39884,7 +44078,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "655148 39855"
+@@D "721327 44049"
 }
 {@@V @BeginClaimCounter @@V prefix} } }
 }
@@ -39894,7 +44088,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "655148 39855"
+@@D "721327 44049"
 }
 {@@V @BeginPropositionCounter @@V prefix} } }
 }
@@ -39904,7 +44098,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "655148 39855"
+@@D "721327 44049"
 }
 {@@V @BeginLemmaCounter @@V prefix} } }
 }
@@ -39914,7 +44108,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "655148 39855"
+@@D "721327 44049"
 }
 {@@V @BeginCorollaryCounter @@V prefix} } }
 }
@@ -39924,7 +44118,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "655148 39855"
+@@D "721327 44049"
 }
 {@@V @BeginExampleCounter @@V prefix} } }
 }
@@ -39934,13 +44128,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {Yes @BeginDisplayCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "656490 39935"
+@@D "722669 44129"
 }
 {?? @@V @Do ??} } }
 }
@@ -39952,13 +44146,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {Yes @@V @BeginFigureCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "656749 39953"
+@@D "722928 44147"
 }
 {?? @@V @Do ??} } }
 }
@@ -39969,7 +44163,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FigureCounterMarker
   \a{"9.3770.libro.lout.12"}
@@ -39977,13 +44171,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {Yes @@V @BeginTableCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "657095 39978"
+@@D "723274 44172"
 }
 {?? @@V @Do ??} } }
 }
@@ -39994,7 +44188,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @TableCounterMarker
   \a{"9.4016.libro.lout.12"}
@@ -40002,13 +44196,13 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {Yes @@V @BeginFloaterCounter @@V @ShortNum} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "657438 40003"
+@@D "723617 44197"
 }
 {?? @@V @Do ??} } }
 }
@@ -40019,7 +44213,7 @@
   \b{@@V prefix}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FloaterCounterMarker
   \a{"9.4252.libro.lout.12"}
@@ -40027,20 +44221,20 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "652997 39737"
+@@D "719176 43931"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "657787 40028"
+@@D "723966 44222"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.243"}
+  \g{"9.952.libro.lout.245"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{dft @@V @Dft @@V @ShortTitle}
   \c{}
@@ -40050,7 +44244,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "631549 38427"
+@@D "697728 42621"
 }
 {@Book
   \a{"10.407.libro.lout.1"}
@@ -40094,21 +44288,21 @@
   \a{"10.547.libro.lout.1"}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.211"}
+  \a{"9.1551.libro.lout.213"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "651243 39640"
+@@D "717422 43834"
 }
 {@@V @RunningEvenPageList
   \a{1}
   \b{Titles}
-198} } }
+200} } }
 }
 {@@V @OrdinaryEvenPage} } }
  }
@@ -40118,7 +44312,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "630162 38347"
+@@D "696341 42541"
 }
 {@Book
   \a{"10.407.libro.lout.1"}
@@ -40183,7 +44377,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "659281 40116"
+@@D "725460 44310"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -40197,14 +44391,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "659259 40115"
+@@D "725438 44309"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.248"}
+  \g{"9.952.libro.lout.250"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -40213,13 +44407,13 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.208"}
+  \a{"4.1230.libro.lout.210"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{198}
+  \b{200}
   \c{@Prefix}
   \d{"10.547.libro.lout.1"}}
-  \c{198}
+  \c{200}
   \d{"Even"}}}
 
 {@@E {
@@ -40227,7 +44421,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "658122 40051"
+@@D "724301 44245"
 }
 {@@V @ReferencesPart
   \a{"10.547.libro.lout.1"}} } }
@@ -40254,7 +44448,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "661525 40226"
+@@D "727704 44420"
 }
 {@@V sendheader {
 //{@@V aboveheadinggap} @@V headingfont @Font {@@V headingbreak @Break {@@V @LongNum @@V headingformat @@V title}}
@@ -40268,14 +44462,14 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "661503 40225"
+@@D "727682 44419"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.248"}
+  \g{"9.952.libro.lout.250"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -40286,7 +44480,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "661539 40227"
+@@D "727718 44421"
 }
 {@@V @ContentsStuff} } }
 }
@@ -40308,7 +44502,7 @@
   \h{Yes}}}
 
 {@@E {
-@@D "661539 40227"
+@@D "727718 44421"
 }
 {@TitleMarker
   \a{"10.547.libro.lout.1"}
@@ -40317,7 +44511,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @ReferencesSection} } }
 }
@@ -40329,7 +44523,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 2} } }
 }
@@ -40339,7 +44533,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 3} } }
 }
@@ -40349,7 +44543,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 4} } }
 }
@@ -40359,7 +44553,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 5} } }
 }
@@ -40369,7 +44563,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 6} } }
 }
@@ -40379,7 +44573,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 7} } }
 }
@@ -40389,7 +44583,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 8} } }
 }
@@ -40399,7 +44593,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 9} } }
 }
@@ -40409,7 +44603,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 10} } }
 }
@@ -40419,7 +44613,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 11} } }
 }
@@ -40429,7 +44623,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 12} } }
 }
@@ -40439,7 +44633,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 13} } }
 }
@@ -40449,7 +44643,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 14} } }
 }
@@ -40459,7 +44653,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 15} } }
 }
@@ -40469,7 +44663,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 16} } }
 }
@@ -40479,7 +44673,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 17} } }
 }
@@ -40489,7 +44683,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 18} } }
 }
@@ -40499,7 +44693,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 19} } }
 }
@@ -40508,41 +44702,41 @@
   \b{Arabic @@V @Num 19}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @FootNoteCounterMarker
-  \a{"9.1551.libro.lout.212"}
+  \a{"9.1551.libro.lout.214"}
   \b{0}}}
 
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {@@V @RunningPageList
   \a{1}
   \b{Titles}
   \d{Portrait}
-199} } }
+201} } }
 }
 {@@V @OrdinaryOddPage} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "659295 40117"
+@@D "725474 44311"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "666275 40530"
+@@D "732454 44724"
 }
 {{??} @@V @Do {??}} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.246"}
+  \g{"9.952.libro.lout.248"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -40551,18 +44745,18 @@
   \f{{} @Join @@V @ShortNum}}} }
 }
 {@PageMarker
-  \a{"4.1230.libro.lout.209"}
+  \a{"4.1230.libro.lout.211"}
   \b{@@V @MakePageNum
   \a{Arabic}
-  \b{199}
+  \b{201}
   \c{@Prefix}
   \d{"10.547.libro.lout.1"}}
-  \c{199}
+  \c{201}
   \d{"Odd"}}}
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 20} } }
 }
@@ -40572,7 +44766,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 21} } }
 }
@@ -40582,7 +44776,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 22} } }
 }
@@ -40592,7 +44786,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "663381 40318"
+@@D "729560 44512"
 }
 {@@V @RefList 23} } }
 }
@@ -40602,20 +44796,20 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "661539 40227"
+@@D "727718 44421"
 }
 {@@V @Run NonStart} } }
  }
 {@@E {
 { @@A { @@E {
-@@D "667407 40603"
+@@D "733586 44797"
 }
 {?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
 {NonStart @Runner
-  \g{"9.952.libro.lout.246"}
+  \g{"9.952.libro.lout.248"}
   \a{dft @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -40624,7 +44818,7 @@
   \f{{} @Join @@V @ShortNum}}}
 
 {@@E {
-@@D "598643 36458"
+@@D "664822 40652"
 }
 {NonStart @Runner
   \g{"9.952.libro.lout.2"}

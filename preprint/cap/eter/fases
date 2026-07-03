@@ -350,7 +350,7 @@ Esta hipótesis predeciría que el neutrino tauónico aparece preferentemente cuand
 @DP
 Sin embargo, la analogía no debe llevarse demasiado lejos: el problema del túnel estándar involucra una partícula, una barrera y un parámetro. El problema de las transiciones en Solo Ondas involucra 50-100 ondas acopladas, un sustrato con tres fases distintas (fluido, esméctico C, esméctico A) con sus propios modos de propagación y constantes elásticas, anisotropía del esméctico C (director inclinado @Math {theta similar 44º} respecto a las capas, que rompe la simetría uniaxial del esméctico A y no tiene eje de simetría compatible con la geometría concéntrica), al menos dos regímenes de arrastre (inercial y viscoso-no-disipativo), e interacciones indirectas entre pulsaciones a través de la deformación del sustrato. Una teoría cuantitativa de estas transiciones derivaría los branching ratios desde primeros principios - en vez de medirlos, como hace el MS con sus vértices de acoplamiento. Ese es el problema abierto de mayor alcance que el modelo deja pendiente en este sector.
 @DP
-Sin embargo,se ha encontrado una regla empírica- el lector tendrá que esperar pacientemente al capítulo 5 para encontrar las reglas que permiten obtener las composiciones, estratos, masas, momentos magnéticos y radios de Bohr de los diferentes hadrones- muy sencilla. La producción de un tipo u otro de neutrino aparentemente depende del ratio entre el radio de Bohr del estrato interior (@Math {a sub 0}) y la escala natural hadrónica @Math {xi sub {0}}.
+Sin embargo,se ha encontrado una regla empírica muy sencilla - el lector tendrá que esperar pacientemente al capítulo 5 para encontrar las reglas que permiten obtener las composiciones, estratos, masas, momentos magnéticos y radios de Bohr de los diferentes hadrones . La producción de un tipo u otro de neutrino aparentemente depende del ratio entre el radio de Bohr del estrato interior (@Math {a sub 0}) y la escala natural hadrónica @Math {xi sub {0}}.
 @DP
 @Math {xi sub {0} = hbar c slash (2 cdot m_l) = 8,488 fm} (radio exterior universal del hadrón)
 @DP
@@ -380,23 +380,52 @@ rule { yes }
 @Rowa A {  @Math {pi sup {-} arrowright mu sup {-} + {{nu} widebelow {minus}} sub {mu} }  } B { (3,0)(3,1)(1,0)(1,0)  } C {33.82% } D {@Math {nu sub mu} }
 @Rowa A {  @Math {K sup {+} arrowright mu sup {+} + nu sub mu}  } B { (13,7)(13,6)(1,0)(1,0) } C {7.43%} D {@Math {nu sub mu } }
 @Rowa A {  @Math {K sup {+} arrowright pi sup {0} +mu sup {+} + nu sub mu}  } B { (13,7)(13,6)(1,0)(1,0) } C {7.43%} D {@Math {nu sub mu } }
-@Rowa A {  @Math {tau sup {-} arrowright nu sub {tau} + }  } B {  } C {} D {@Math {nu sub } }
-@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
-@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
-@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
-@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
-@Rowa A {  @Math {}  } B {  } C {} D {@Math {nu sub } }
+@Rowa A {  @Math {tau sup {-} arrowright nu sub {tau} + pi sup -}  } B { (45,37)(44,36)(1,0) } C {2.08%} D {@Math {nu sub {tau} } }
+@Rowa A {  @Math {tau sup {-} arrowright nu sub {tau} + rho sup {-}}  } B { (45,37)(44,36)(1,0) } C {2.08%} D {@Math {nu sub {tau}} }
+@Rowa A {  @Math {Ds sup {+} arrowright tau sup {+} + nu sub {tau}}  } B { (55,23)(55,22)(1,0)(1,0) } C {1.78%} D {@Math {nu sub {tau} } }
+@Rowa A {  @Math {B sup {-} arrowright D sup {0} + tau sup {-} + nu sub {tau}}  } B { (153,37)(153,36)(1,0)(1,0) } C {0.66%} D {@Math {nu sub {tau} } }
+@Rowa A {  @Math {B sup {-} arrowright  tau sup {-} + nu sub {tau}}  } B { (153,37)(153,36)(1,0)(1,0) } C {0.66%} D {@Math {nu sub {tau} } }
 
 
 }
+@DP
+Al menos se ha encontrado una reacción donde esta regla empírica no se cumple
+@DP
+@Table
+
+@Caption {Reacción problemática}
+
+@CentredDisplay @Tbl
+aformat {  @Cell A | @Cell B | @Cell C  | @Cell D  }
+rule { yes }
+{
+@Rowa A {  Reacción  } B {  Composición} C {Ratio%} D {@Math {nu} emitido}
 
 
+@Rowa A {  @Math { D  sup {+} arrowright mu sup {+} nu sub {mu}}  } B { (53,17)(53,16)(1,0)(1,0) } C {1.87%} D {@Math {nu sub mu } }
 
-#| ????_?+?? | (45,37)(44,36)(1,0) | 2.08% | ?_? ? |
-#| ????_?+?? | (45,37)(44,36)(1,0) | 2.08% | ?_? ? |
-#| Ds????+?_? | (55,23)(55,22)(1,0)(1,0) | 1.78% | ?_? ? |
-#| B??D?+??+?_? | (153,37)(153,36)(1,0)(1,0) | 0.66% | ?_? ? |
-#| B????+?_? | (153,37)(153,36)(1,0)(1,0) | 0.66% | ?_? ? |
+
+}
+@DP
+El MS asigna @Math { nu sub mu} a esta descomposición por la conservación del número leptónico familiar (regla empírica sin explicación dinámica), no por detección directa del neutrino.
+2DP
+El ratio 1.87% del @Math {D sup +} es prácticamente igual al del @Math {Ds sup +} (1.78%) que emite un neutrino tauónico. La geometría del estrato destruido es similar en ambos casos. El modelo predice que el @Math {D sup +} emite un neutrino tauónico, no un muónico -independientemente del leptón cargado en los productos. Esto nos lleva a una predicción falsable:
+@DP
+Si el neutrino del @Math { D  sup {+} arrowright mu sup {+} nu } es tauónico, debería producir reacciones de corriente cargada con @Math {tau} en un detector posterior. Esto no ocurriría con un neutrino muónico.
+@DP
+En resumen tendríamos
+@DP
+El tipo de neutrino no lo determina el tipo de leptón cargado en los productos (como asume el MS) sino la geometría del estrato que desaparece:
+@DP
+- El @Math {nu sub e} es el agente geométrico de conversión epícima pesada-ligera, ligado a la interfaz C-A del sustrato.
+@DP
+- El @Math {nu sub mu} y el @Math {nu sub tau} serían los portadores del momento angular de los estratos destruido, la elección de uno u otro estaría basado en el tamaño relativo del estrato con respecto a la respecto a la escala natural hadrónica, cuando el estrato es relativamente grande prevalecería el neutrino muónico, cuando el estrato es muy pequeño con respecto a la escala natural hadrónica el neutrino tauónico prevalecería.
+@DP
+La asociación histórica muón neutrino muónico en el MS es una coincidencia de los primeros experimentos - En el modelo el muón tiene 3 estratos con un ratio  similar al 33%, claramente en la zona de preferencia neutrino muónico. Pero esa asociación no es universal: un leptón muónico podría coexistir con un neutrino tauónico si la geometría del estrato destruido lo requiere.
+@DP
+Lamentablemente la asunción de los postulados del MS y la dificultad para detectar neutrinos han provocado que en muy pocas reacciones se haya buscado activamente el número y tipo de neutrinos producidos. De esta manera resulta muy dificil para modelos que busquen encontrar primeros principios a partir de la fenomenología - como el presentado en este trabajo- extraer conclusiones. Por ejemplo el neutrino tauónico podría estar relacionado con la creación de estratos y el muónico con la destrucción de estratos, pero la falta de datos impide la verificación de este tipo de hipótesis.
+
+
 
 
 
@@ -404,6 +433,29 @@ rule { yes }
 
 @End @SubSection
 
+@SubSection
+@Title {El ángulo de inclinación  del director de la fase esméctica C @Math {theta similar 45°}.}
+@Begin
+@DP
+Con el fín de posibilitar la existencia de suficientes soluciones sin acudir a más dimensiones, que en este caso sería totalmente "ad hoc", se ha postulado la existencia de una interfaz Esméctico A"/"C.
+@DP El ampliar las dimensiones es una decisión que debe tomarse muy seriamente. Las dos dimensiones extras utilizadas en la hipótesis provienen, una del hecho de que al utilizar una dimensión extra las ecuaciones de la Relatividad general proporcionan las ecuaciones de Maxwell, la otra por la necesidad de una dimensión extra que justificase la isotropía experimental del Universo.
+@DP
+Pero este proceso mental de acudir a dimensiones extras sin una base sólida que lo justifique nos lleva a las 11 dimensiones adicionales de la supergravedad. Lamentablemente, cuando se estableció la teoría de Kaluza-Klein se dejó de lado un campo escalar, el radio de la dimensión extra, postulando "ad hoc" su constancia y privando así a la teoría de la posibilidad de ajustarse a la Naturaleza, y sobre todo, de la posibilidad de intuir el sustrato que va implicito en esta teoría. En la hipótesis aquí presentada, ese campo escalar - el radio R_u de las dimensiones compactadas - no se fija constante sino que varía con el tiempo cosmológico según la condición 3E+2C=0, identificándose con el sustrato esméctico.
+@DP
+Se postula @Math {theta = 45°} para el ángulo del director en la fase esméctico C - la inclinación máxima posible. Esta elección está motivada por el hecho estructural de que la masa del electrón es muy inferior a la masa de las epícimas, que en el marco de la teoría de Landau para la transición A-C (Izzo "&" De Oliveira, 2019) implica convergencia hacia la inclinación máxima; por el grosor relativo muy pequeño de la fase C y su contacto con el fluido isótropo, que favorecen un salto discreto; y porque @Math {theta = 45°} es el límite experimental máximo en los cristales líquidios.
+@DP
+ El postulado resuelve simultáneamente varias condiciones geométricas del modelo sin parámetros adicionales. Inmediatamente se obtiene que @Math {cos theta = 1 "/" surd 2},   por tanto  @Math {dC = lP"/" surd 2}, y el módulo BC = 2BA.
+@DP
+Esto a su vez fija la relación de dispersión del modo unificado en la zona C, como se desarrolla en el punto ?.?:
+@DP
+@Math {omega sup {2} = (2B_A"/" rho) cdot q sup {2} perpendicular q sup {2} bar bar slash q sup {2}} donde @Math { q sup {2} perpendicular q sup {2} bar bar slash q sup {2}} son las componentes del vector de onda perpendicular y paralela a las capas respectivamente."
+@DP
+y permitirá, como se verá mas adelante, la condición @Math {bar E bar = bar B bar } en el fotón.
+
+
+
+
+@End @SubSection
 
 
 
@@ -415,9 +467,7 @@ Pendiente
 Pareamiento de epícimas por rotaciones opuestas - suma coherente de deformaciones tipo Cooper.
 @DP
 
-@DP
-El ángulo @Math {theta similar 45°} del esméctico C desde el parámetro de orden de Landau:
-@DP @Math {theta = arctan(surd (1 - m_e slash m_ep)) sin parámetros libres.}
+
 @DP
 Las partículas como agujeros de Kerr desnudos regularizados - la singularidad en anillo de Kerr como idealización continua de la interfaz C-fluido. La estructura de fases regulariza la singularidad sin eliminar la topología.
 @DP

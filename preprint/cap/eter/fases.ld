@@ -1020,14 +1020,38 @@
   \b{@@V title}}}
 
 {@@E {
-@@D "16316 925"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
 }
 {@@V @SubSectionList
   \a{"10.283.cap/eter/fases.5"}
 5}}
 
 {@@E {
-@@D "2568 157"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "17944 1022"
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
 }
 {@SubSection
   \a{"10.1227.cap/eter/fases.5"}
@@ -1037,7 +1061,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "2568 157"
+@@D "18137 1038"
 }
 {@SubSection
   \a{"10.1227.cap/eter/fases.5"}
@@ -1073,7 +1097,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "18189 1037"
+@@D "18580 1061"
 }
 {?? @@V @Do ??} } }
 }
@@ -1086,7 +1110,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "18189 1037"
+@@D "18580 1061"
 }
 {@@V @ContentsStuff} } }
 }
@@ -1107,7 +1131,7 @@
   \g{@@V postgap}}}
 
 {@@E {
-@@D "18189 1037"
+@@D "18580 1061"
 }
 {@TitleMarker
   \a{"10.1227.cap/eter/fases.5"}
@@ -1115,7 +1139,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "2568 157"
+@@D "18137 1038"
 }
 {@SubSection
   \a{"10.1227.cap/eter/fases.5"}
@@ -1128,70 +1152,12 @@
 {}}}
 
 {@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "16316 925"
+@@D "20011 1140"
 }
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Estructura de fases del esméctico concéntrico.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/eter/fases.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Run NonStart} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "19877 1130"
-}
-{?? @@V @Do ??} } }
-}
-{@@V y}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.2"}
-  \a{@@V majornum @@V @Dft @@V @LongNum}
-  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
-  \c{dft @@V @Dft @@V @LongNum}
-  \d{dft @@V @Dft @@V @ShortTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}}
+{@Table
+  \a{"9.4052.cap/eter/fases.3"}
+  \b{Reacción problemática}
+{}}}
 
 {@@E {
 { @@A { @@E {
@@ -1210,7 +1176,7 @@
   \b{@@V @RawTableNum "9.4052.cap/eter/fases.2"}}}
 
 {@@E {
-@@D "21114 1196"
+@@D "20364 1162"
 }
 {@NumberMarker
   \a{"9.4052.cap/eter/fases.2"}
@@ -1219,7 +1185,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "19618 1116"
+@@D "20011 1140"
 }
 {@Table
   \a{"9.4052.cap/eter/fases.2"}
@@ -1234,12 +1200,49 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "21128 1197"
+@@D "20378 1163"
 }
 {@@V @DupRunner} } }
  }
 {@@E {
 { @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -1294,14 +1297,442 @@
   newpage{No}
 @@V @Body} } }
 }
-{@@V @Run NonStart} } }
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "21577 1243"
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "20378 1163"
+}
+{@@V @TableCounterIncrement "9.4052.cap/eter/fases.3"} } }
+}
+{@@V @TableCounterMarker
+  \a{"9.4016.cap/eter/fases.3"}
+  \b{@@V @RawTableNum "9.4052.cap/eter/fases.3"}}}
+
+{@@E {
+@@D "23654 1357"
+}
+{@NumberMarker
+  \a{"9.4052.cap/eter/fases.3"}
+  \b{{{@@V @TablePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawTableNum "9.4052.cap/eter/fases.3"}}}}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "20011 1140"
+}
+{@Table
+  \a{"9.4052.cap/eter/fases.3"}
+  \b{Reacción problemática}
+{}} } }
+}
+{@@V @TableVal} } }
+}
+{@TitleMarker
+  \a{"9.4052.cap/eter/fases.3"}
+  \b{@@V @Caption}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "20378 1163"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
  }
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "21943 1244"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Estructura de fases del esméctico concéntrico.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/fases.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/eter/fases.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/eter/fases.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/eter/fases.1"}
+  \f{@Prefix}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "20378 1163"
+}
+{@LUse @BookSetup} } }
+}
+{@@V @SubSectionList
+  \a{"10.283.cap/eter/fases.6"}
+6}}
+
+{@@E {
+@@D "18137 1038"
+}
+{@SubSection
+  \a{"10.1227.cap/eter/fases.6"}
+  \b{El ángulo de inclinación  del director de la fase esméctica C {@Math { theta similar {4}{5}° }}.}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "18137 1038"
+}
+{@SubSection
+  \a{"10.1227.cap/eter/fases.6"}
+  \b{El ángulo de inclinación  del director de la fase esméctica C {@Math { theta similar {4}{5}° }}.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1227.cap/eter/fases.6"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SubSectionHeadingBreak}
+  \i{@Num @@V @SubSectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SubSectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SubSectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SubSectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @SectionShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{No}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{No}
+  newpage{No}
+@@V @Body} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "28524 1643"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1227.cap/eter/fases.6"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "28524 1643"
+}
+{@@V @ContentsStuff} } }
+}
+{Yes @@V @ContentsEntry
+  \a{@@V contentsindent}
+  \b{"10.1227.cap/eter/fases.6"}
+  \c{@@V @LongNum}
+  \d{@@V initiallanguage @Language @@V title}
+  \e{@PageOf "10.1227.cap/eter/fases.6"}} } }
+}
+{@@V @SendContents @@V @ContentsItem
+  \a{@@V indent}
+  \b{"10.1227.cap/eter/fases.6"}
+  \c{@@V number}
+  \d{@@V title}
+  \e{@@V pagenum}
+  \f{@@V pregap}
+  \g{@@V postgap}}}
+
+{@@E {
+@@D "28524 1643"
+}
+{@TitleMarker
+  \a{"10.1227.cap/eter/fases.6"}
+  \b{@@V title}}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "28207 1625"
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.3"}
+  \b{Y de nuevo al principio, el éter.}
+{ @LInput }} } }
 }
 {@Section
   \a{"10.1196.cap/eter/fases.1"}
@@ -1336,8 +1767,12 @@
 @@V @Body} } }
 }
 {@@V @Run NonStart} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "29993 1722"
 }
-{{??} @@V @Do {??}} } }
+{?? @@V @Do ??} } }
 }
 {@@V y}} }
 }
@@ -1348,14 +1783,5 @@
   \c{dft @@V @Dft @@V @LongNum}
   \d{dft @@V @Dft @@V @ShortTitle}
   \e{"10.1196.cap/eter/fases.1"}
-  \f{{} @Join @@V @ShortNum}}} }
-}
-{NonStart @Runner
-  \g{"9.952.cap/eter/fases.10"}
-  \a{@MajorNum}
-  \b{@MajorTitle}
-  \c{@MinorNum}
-  \d{@MinorTitle}
-  \e{"10.1196.cap/eter/fases.1"}
-  \f{@Prefix}}}
+  \f{{} @Join @@V @ShortNum}}}
 
