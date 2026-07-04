@@ -442,7 +442,8 @@ Con el fín de posibilitar la existencia de suficientes soluciones sin acudir a m
 @DP
 Pero este proceso mental de acudir a dimensiones extras sin una base sólida que lo justifique nos lleva a las 11 dimensiones adicionales de la supergravedad. Lamentablemente, cuando se estableció la teoría de Kaluza-Klein se dejó de lado un campo escalar, el radio de la dimensión extra, postulando "ad hoc" su constancia y privando así a la teoría de la posibilidad de ajustarse a la Naturaleza, y sobre todo, de la posibilidad de intuir el sustrato que va implicito en esta teoría. En la hipótesis aquí presentada, ese campo escalar - el radio R_u de las dimensiones compactadas - no se fija constante sino que varía con el tiempo cosmológico según la condición 3E+2C=0, identificándose con el sustrato esméctico.
 @DP
-Se postula @Math {theta = 45°} para el ángulo del director en la fase esméctico C - la inclinación máxima posible. Esta elección está motivada por el hecho estructural de que la masa del electrón es muy inferior a la masa de las epícimas, que en el marco de la teoría de Landau para la transición A-C (Izzo "&" De Oliveira, 2019) implica convergencia hacia la inclinación máxima; por el grosor relativo muy pequeño de la fase C y su contacto con el fluido isótropo, que favorecen un salto discreto; y porque @Math {theta = 45°} es el límite experimental máximo en los cristales líquidios.
+Se postula @Math {theta = 45°} para el ángulo del director en la fase esméctico C - la inclinación máxima posible. Esta elección está motivada por tres argumentos convergentes: el hecho estructural de que m_e << m_ep implica, en el marco de la teoría de Landau para la transición A-C, que el sistema opera lejos del punto crítico AC donde  @Math {theta } se anularía - es decir, en el régimen de inclinación desarrollada (Izzo & De Oliveira, 2019, sección 3.6); el grosor relativo muy pequeño de la fase C y su contacto con el fluido isótropo, que favorecen un salto discreto hacia el máximo; y porque  @Math {theta = 45°} es el límite experimental superior en los cristales líquidos reales."
+
 @DP
  El postulado resuelve simultáneamente varias condiciones geométricas del modelo sin parámetros adicionales. Inmediatamente se obtiene que @Math {cos theta = 1 "/" surd 2},   por tanto  @Math {dC = lP"/" surd 2}, y el módulo BC = 2BA.
 @DP
@@ -509,27 +510,23 @@ Es decir, La longitud de Planck es la media geométrica entre el radio de Schwarz
 @DP
 Finalmente, el postulado 8 del preprint afirma : 'G es en 6D la superficie de las dimensiones compactadas`. Si   en unidades donde @Math {hbar=c=1}, entonces la identidad es una consecuencia directa del postulado 8.
 Esta identidad es coherente con el postulado 8 del modelo, según el cual G es en 6D la superficie de las dimensiones compactadas (@Math {G = l_P sup 2} en unidades naturales). La identidad @Math {l_P sup {2}= r_S cdot ( xi sub {0})}  emerge entonces como consecuencia de ese postulado combinado con la solución de luz estacionaria de Kerr - una verificación de coherencia interna, no una derivación independiente.
-
-
-
 @DP
-
-
-
 @End @SubSection
 
 
-@DP
-
-Pendiente
-
-
-Pareamiento de epícimas por rotaciones opuestas - suma coherente de deformaciones tipo Cooper.
-@DP
 
 
 
-Nota especulativa sobre U(1)×U(1): el mecanismo físico de los dos tipos de streaming, la geometría del toro como origen de la invarianza gauge U(1) del electromagnetismo, extensión a las otras interacciones como problema abierto, fuera de las capacidades matemáticas del autor.
+
+
+
+
+#Pendiente
+#Pareamiento de epícimas por rotaciones opuestas - suma coherente de deformaciones tipo Cooper.
+#@DP
+
+
+
 
 
 @EndSubSections

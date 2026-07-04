@@ -1062,7 +1062,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "16587 1002"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/mmi/bariones.1"}
+  \b{Ajuste de las masas de las epícimas}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/mmi/bariones.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1139,7 +1197,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.5"}}}
 
 {@@E {
-@@D "18791 1125"
+@@D "19785 1183"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.5"}
@@ -1152,7 +1210,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "18805 1126"
+@@D "19799 1184"
 }
 {@LUse @BookSetup} } }
 }
@@ -1182,7 +1240,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "18805 1126"
+@@D "19799 1184"
 }
 {@@V @DupRunner} } }
  }
@@ -1297,65 +1355,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/mmi/bariones.1"}
-  \b{Ajuste de las masas de las epícimas}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/mmi/bariones.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "21523 1295"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1416,7 +1416,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "19318 1150"
+@@D "20312 1208"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.6"}
@@ -1426,7 +1426,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "18805 1126"
+@@D "19799 1184"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/mmi/bariones.6"} } }
 }
@@ -1444,7 +1444,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "19318 1150"
+@@D "20312 1208"
 }
 {@Figure
   \a{"9.3806.cap/mmi/bariones.6"}
@@ -1460,7 +1460,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "18805 1126"
+@@D "19799 1184"
 }
 {@@V @DupRunner} } }
  }
@@ -1922,65 +1922,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/mmi/bariones.1"}
-  \b{Ajuste de las masas de las epícimas}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/mmi/bariones.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "31047 1862"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -2078,7 +2020,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/mmi/bariones.8"}}}
 
 {@@E {
-@@D "34790 2070"
+@@D "33796 2012"
 }
 {@NumberMarker
   \a{"9.3806.cap/mmi/bariones.8"}
@@ -2441,7 +2383,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "40386 2402"
+@@D "39392 2344"
 }
 {?? @@V @Do ??} } }
 }

@@ -415,7 +415,12 @@ Anteriormente habíamos determinado la relación entre la masa y la carga de las p
 @Math {{q sub { epícima } }over {{m sup {2}} sub { epícima} } = { e  }over {{m sup {2} }sub { e} }  ={q sub { nu sub{tau} } }over {{m sup {2}} sub { nu sub{tau}} }={q sub { nu sub{mu} } }over {{m sup {2} }sub { nu sub{mu}} }={q sub { nu sub{e} } }over {{m sup {2} }sub { nu sub{e}} }} 
 @DP
 
-Sin embargo, si suponemos que las fuerzas eléctricas provienen del arrastre del espacio-tiempo @I {esta relación no puede ser cierta.} Debido al mecanismo de interacción  la longitud del movimiento cerrado de las partículas no debe influir, sino únicamente debe influir la velocidad de arrastre. En el análogo del streaming acústico la velocidad de arrastre es directamente proporcional a la intensidad de la onda en el caso de un predominio de los términos viscosos o directamente proporcional a la raíz cuadrada de la intensidad de la onda en caso de un predominio de los términos inerciales @Cite  {$botton}. Si suponemos que la intensidad de la onda es directamente proporcional a la masa de la partícula tendremos un rango de cargas posibles para las diferentes partículas en función de su masa.
+Sin embargo, si suponemos que las fuerzas eléctricas provienen del arrastre del espacio-tiempo @I {esta relación no puede ser cierta.} Debido al mecanismo de interacción  la longitud del movimiento cerrado de las partículas no debe influir, sino únicamente debe influir la velocidad de arrastre. En el análogo del streaming acústico la velocidad de arrastre es directamente proporcional a la intensidad de la onda en el caso de un predominio de los términos viscosos o directamente proporcional a la raíz cuadrada de la intensidad de la onda en caso de un predominio de los términos inerciales @Cite  {$botton}.
+@DP
+Esta distinción entre régimen dominado por inercia (cerca del origen del chorro, @Math {u proportional surd P}) y régimen dominado por viscosidad (lejos del origen, @Math {u proportional P}) está bien establecida en la literatura de streaming acústico de chorros libres, véase Botton, Moudjed, Henry, Ben Hadid & Garandet (2014), Sección 3, ecuaciones (19) y (22). El régimen mixto que da lugar al exponente 0.75 corresponde a la zona de transición entre ambos, situada a una distancia x_lim de la fuente (su ecuación 26).
+
+@DP
+Si suponemos que la intensidad de la onda es directamente proporcional a la masa de la partícula tendremos un rango de cargas posibles para las diferentes partículas en función de su masa.
 @DP
 Si predominan las fuerzas inerciales @DP
 @Math {{q sub { epícima } }over {{m sup {0,5}} sub { epícima} } = { e  }over {{m sup {0,5}} sub { e} }  ={q sub { nu sub{tau} } }over {{m sup {0,5} }sub { nu sub{tau}} }={q sub { nu sub{mu} } }over {{m sup {0,5} }sub { nu sub{mu}} }={q sub { nu sub{e} } }over {{m sup {0,5}} sub { nu sub{e}} }}
@@ -428,6 +433,7 @@ si predominan las fuerzas viscosas @DP
 o si existe un equilibrio entre fuerzas viscosas e inerciales, que es quizás el más probable porque proporciona para las epícimas un carga muy similar a la carga de Planck.  (@I{Nota: El comportarse como si existiese viscosidad no implica la existencia de perdidas de energía por rozamientos en el espacio-tiempo})
 @DP
 @Math {{q sub { epícima } }over {{m sup {epícima}} sub { epícima} } = { e  }over {{m sup {0,75}} sub { e} }  ={q sub { nu sub{tau} } }over {{m sup {0,75}} sub { nu sub{tau}} }={q sub { nu sub{mu} } }over {{m sup {0,75} }sub { nu sub{mu}} }={q sub { nu sub{e} } }over {{m sup {0,75}} sub { nu sub{e}} }}
+
 @DP
  
 Deberíamos hablar de culombios neutrínicos, culombios eléctricos o culombios electrofuertes, según el caso.
