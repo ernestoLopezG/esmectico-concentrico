@@ -448,7 +448,7 @@ Se postula @Math {theta = 45°} para el ángulo del director en la fase esméctico 
 @DP
 Esto a su vez fija la relación de dispersión del modo unificado en la zona C, como se desarrolla en el punto ?.?:
 @DP
-@Math {omega sup {2} = (2B_A"/" rho) cdot q sup {2} perpendicular q sup {2} bar bar slash q sup {2}} donde @Math { q sup {2} perpendicular q sup {2} bar bar slash q sup {2}} son las componentes del vector de onda perpendicular y paralela a las capas respectivamente."
+@Math {omega sup {2} = (2B_A"/" rho) cdot q sup {2} perpendicular q sup {2} bar bar slash q sup {2}} donde @Math { q  perpendicular q  bar bar } son las componentes del vector de onda perpendicular y paralela a las capas respectivamente.
 @DP
 y permitirá, como se verá mas adelante, la condición @Math {bar E bar = bar B bar } en el fotón.
 
@@ -457,6 +457,66 @@ y permitirá, como se verá mas adelante, la condición @Math {bar E bar = bar B ba
 
 @End @SubSection
 
+@SubSection
+@Title {Las partículas como agujeros de Kerr desnudos regularizados.}
+@Begin
+@DP
+Ya en el capítulo 2 se había mostrado la relación entre las partículas-pulsación y los agujeros negros de Kerr con momentos angulares extremos. Un agujero negro de Kerr desnudo - sin horizonte de eventos, con la singularidad en anillo expuesta, tendría exactamente la topología que describe el modelo para las partículas:
+@DP
+- Una singularidad de anillo en las dimensiones compactadas.
+@DP
+- Trayectorias cerradas elípticas alrededor de ella.
+@DP
+- Un campo gravitomagnético exterior que decae con la distancia
+@DP
+Sin embargo, en la Relatividad General, un agujero negro de Kerr desnudo es una singularidad, un punto donde la física se rompe y falla la descripción matemática. En el modelo, dicha 'singularidad` se puede identificar como el agujero interior del esméctico, es decir, la región de fluido isótropo donde las capas desaparecen, que es una transición de fase, no una singularidad matemática.
+@DP
+Dentro de la hipótesis, como se desarrolla en el capítulo ??, se considera que el horizonte de sucesos de un agujero negro normal - sin rotación, se produce porque la masiva acumulación de pulsaciones produce efectivamente la reversión de la cristalización, provocando el cambio de fase a un fluido isótropo. Pues bien, podemos considerar que la singularidad en anillo de Kerr es la idealización de la interfaz fluido isótropo-Esméctico C, con la ventaja de que la singularidad matemática desaparece, simplemente las relaciones que sirven para un cristal líquido no pueden aplicarse a un fluido isótropo.
+@DP
+Un agujero negro de Kerr ordinario tiene horizonte de eventos, pero las partículas del modelo NO tienen horizonte, la región
+isótropa interior es accesible (solo que las pulsaciones no pueden propagarse en ella). Eso es exactamente lo que en RG se llama "desnudo" - sin un horizonte que oculte la singularidad.
+@DP
+La conjetura de censura cósmica de Penrose deja de tener sentido, la estructura de fases del esméctico regulariza la
+singularidad antes de que aparezca el horizonte.
+@DP
+En resumen, de la métrica de Kerr aplicada a las partículas-pulsación de puede obtener el campo gravitomagnético exterior, justifica el uso de la ecuación de Mathieu para su estudio y es coherente con la  resolución de las singularidades de Penrose-Hawking por cambio de fase del sustrato que se desarrolla en la sección 25 del capítulo ?? de paradojas.
+@DP
+La identificación de las partículas con agujeros negros de Kerr desnudos no es una derivación desde los postulados fundamentales del modelo, debe considerarse una 'Hipótesis por compatibilidad de forma` , ya que la topología es coherente entre la solución de Kerr desnuda y la estructura de las partículas en el modelo, pero la formalización matemática completa en 5+1D queda como problema abierto prioritario.
+@DP
+Como se muestra en el capítulo 2 la solución de luz estacionaria en la métrica de Kerr proporciona un radio igual a @Math {r = (hbar slash 2mc) cdot i = xi sub {0} cdot i}, lo cual es extraordinario, no sólo la coordenada adicional @Math {xi sub 0} surge directamente de la métrica de Kerr desde la solución de luz estacionaria para las partículas - identidad exacta, sin parámetros libres- sino que también el caracter imaginario de este radio se puede interpretar como una dirección perpendicular a todas las demás- las dimensiones compactadas del modelo.
+@DP
+Pero no es sólo eso, si observamos la expresión del horizonte de sucesos
+@DP
+@Math {R sub {EH} = GM slash c sup {2} cdot (1 + sqrt {1-a sup {2}})}
+@DP
+Para a>>>1 nos quedaría
+@DP
+@Math {R sub {EH} = GM slash c sup {2} cdot (1 + ai)}
+@DP
+notese que para cualquier a > 1 el radio tiene dos componentes,  apuntando a que el agujero se extiende a dimensiones extras. Nos quedaría, por tanto:
+@DP
+@Math {R sub {EH} = (GM slash c sup {2}) cdot (1 ai) = r_s"/"2 + i cdot (GM cdot a "/" c sup {2} )}
+@DP
+Es decir, la mitad del radio de Schwarzschild más una parte imaginaria @Math {GM cdot a "/" c sup {2} = G cdot J"/"c sup {3} = G hbar "/"(2c sup 3)}
+@DP
+Que de forma extraordinaria es igual a la mitad del cuadrado de la longitud de Planck, para cualquier partícula elemental.
+@DP
+Si, además, multiplicamos y dividimos la expresión @Math {G hbar slash (c sup {3}) }  por el doble de la masa de la partícula y reorganizamos
+@DP
+@Math {G hbar slash (c sup {3} cdot 2m slash 2m )   = (2Gm slash c sup {2}) cdot ( hbar slash 2mc) = r_S cdot ( xi sub {0})}
+@DP
+Es decir, La longitud de Planck es la media geométrica entre el radio de Schwarzschild y la longitud de Compton de cualquier partícula. Es la escala donde la gravedad y la mecánica cuántica se equilibran, y esto justifica que sea la mínima longitud posible.
+@DP
+Finalmente, el postulado 8 del preprint afirma : 'G es en 6D la superficie de las dimensiones compactadas`. Si   en unidades donde @Math {hbar=c=1}, entonces la identidad es una consecuencia directa del postulado 8.
+Esta identidad es coherente con el postulado 8 del modelo, según el cual G es en 6D la superficie de las dimensiones compactadas (@Math {G = l_P sup 2} en unidades naturales). La identidad @Math {l_P sup {2}= r_S cdot ( xi sub {0})}  emerge entonces como consecuencia de ese postulado combinado con la solución de luz estacionaria de Kerr - una verificación de coherencia interna, no una derivación independiente.
+
+
+
+@DP
+
+
+
+@End @SubSection
 
 
 @DP
@@ -468,9 +528,7 @@ Pareamiento de epícimas por rotaciones opuestas - suma coherente de deformacione
 @DP
 
 
-@DP
-Las partículas como agujeros de Kerr desnudos regularizados - la singularidad en anillo de Kerr como idealización continua de la interfaz C-fluido. La estructura de fases regulariza la singularidad sin eliminar la topología.
-@DP
+
 Nota especulativa sobre U(1)×U(1): el mecanismo físico de los dos tipos de streaming, la geometría del toro como origen de la invarianza gauge U(1) del electromagnetismo, extensión a las otras interacciones como problema abierto, fuera de las capacidades matemáticas del autor.
 
 

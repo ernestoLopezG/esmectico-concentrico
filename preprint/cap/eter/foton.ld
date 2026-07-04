@@ -270,7 +270,47 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "3562 210"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "3618 214"
+}
+{@Section
+  \a{"10.1196.cap/eter/foton.1"}
+  \b{La energía como vibraciones transversales}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/eter/foton.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -314,7 +354,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/eter/foton.2"}}}
 
 {@@E {
-@@D "5268 306"
+@@D "6025 346"
 }
 {@NumberMarker
   \a{"9.3806.cap/eter/foton.2"}
@@ -345,13 +385,7 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
+@@D "3660 217"
 }
 {@@V @DupRunner} } }
  }
@@ -422,25 +456,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
-{ @LInput }} } }
+@@D "6951 396"
 }
 {@Section
   \a{"10.1196.cap/eter/foton.1"}
@@ -517,7 +533,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "8965 512"
+@@D "9389 528"
 }
 {?? @@V @Do ??} } }
 }
