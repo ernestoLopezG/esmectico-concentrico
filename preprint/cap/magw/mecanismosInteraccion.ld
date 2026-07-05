@@ -511,43 +511,7 @@
 ???}}
 
 {@@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.2"}
-  \b{Matter as gravitational waves}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/magw/mecanismosInteraccion.1"}
-  \b{Efectos no lineales de segundo orden en la amplitud. Unificación de las fuerzas}
-{ @LInput }} } }
-}
-{@SubSection
-  \a{"10.1227.cap/magw/mecanismosInteraccion.1"}
-  \b{Componente estática: modificación del índice de refracción.}
-{ @LInput }} } }
-}
-{@SubSubSection
-  \a{"10.1258.cap/magw/mecanismosInteraccion.1"}
-  \b{Visión intuitiva.}
-{ @LInput }} } }
+@@D "6093 327"
 }
 {@Figure
   \a{"9.3806.cap/magw/mecanismosInteraccion.2"}
@@ -557,7 +521,13 @@
 
 {@@E {
 { @@A { @@E {
-@@D "9596 519"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/mecanismosInteraccion.2"} } }
 }
@@ -566,7 +536,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/mecanismosInteraccion.2"}}}
 
 {@@E {
-@@D "10363 558"
+@@D "9645 522"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/mecanismosInteraccion.2"}
@@ -575,7 +545,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "9512 513"
+@@D "6093 327"
 }
 {@Figure
   \a{"9.3806.cap/magw/mecanismosInteraccion.2"}
@@ -591,7 +561,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "9596 519"
+@@D "9659 523"
 }
 {@@V @DupRunner} } }
  }
@@ -670,7 +640,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "11396 610"
+@@D "10749 580"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -707,7 +677,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "9512 513"
+@@D "6093 327"
 }
 {@RawList
   \a{{num}.}} } }
@@ -721,7 +691,7 @@
   \b{@@V type 1}}}
 
 {@@E {
-@@D "9512 513"
+@@D "6093 327"
 }
 {@@V listitem
   \a{"4.1748.cap/magw/mecanismosInteraccion.3"}
@@ -730,7 +700,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "13316 708"
+@@D "12669 678"
 }
 {@@V @MakeList 2} } }
 }
@@ -741,21 +711,45 @@
   \b{@@V type 2}}}
 
 {@@E {
-@@D "9512 513"
+@@D "6093 327"
 }
 {@@V listitem
   \a{"4.1748.cap/magw/mecanismosInteraccion.4"}
 ???}}
 
 {@@E {
-@@D "9582 518"
+{ @@A { @@E {
+@@D "9659 523"
+}
+{@LUse @BookSetup} } }
 }
 {@@V @SubSubSectionList
   \a{"10.290.cap/magw/mecanismosInteraccion.2"}
 2}}
 
 {@@E {
-@@D "9526 514"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "13238 720"
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/magw/mecanismosInteraccion.1"}
+  \b{Efectos no lineales de segundo orden en la amplitud. Unificación de las fuerzas}
+{ @LInput }} } }
+}
+{@SubSection
+  \a{"10.1227.cap/magw/mecanismosInteraccion.1"}
+  \b{Componente estática: modificación del índice de refracción.}
+{ @LInput }} } }
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.2"}
@@ -765,7 +759,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "9526 514"
+@@D "13378 730"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.2"}
@@ -801,7 +795,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "14127 765"
+@@D "14005 759"
 }
 {?? @@V @Do ??} } }
 }
@@ -812,7 +806,7 @@
   \b{@@V @ShortNum}}}
 
 {@@E {
-@@D "14127 765"
+@@D "14005 759"
 }
 {@TitleMarker
   \a{"10.1258.cap/magw/mecanismosInteraccion.2"}
@@ -872,7 +866,7 @@
   \b{@@V type 1}}}
 
 {@@E {
-@@D "15189 824"
+@@D "15068 818"
 }
 {@@V listitem
   \a{"4.1748.cap/magw/mecanismosInteraccion.5"}
@@ -881,7 +875,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "15175 823"
+@@D "15054 817"
 }
 {@@V @MakeList 2} } }
 }
@@ -892,21 +886,21 @@
   \b{@@V type 2}}}
 
 {@@E {
-@@D "15189 824"
+@@D "15068 818"
 }
 {@@V listitem
   \a{"4.1748.cap/magw/mecanismosInteraccion.6"}
 ???}}
 
 {@@E {
-@@D "15259 829"
+@@D "15138 823"
 }
 {@@V @SubSubSectionList
   \a{"10.290.cap/magw/mecanismosInteraccion.3"}
 3}}
 
 {@@E {
-@@D "15203 825"
+@@D "15082 819"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.3"}
@@ -916,7 +910,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "15203 825"
+@@D "15082 819"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.3"}
@@ -952,7 +946,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "16770 916"
+@@D "16649 910"
 }
 {?? @@V @Do ??} } }
 }
@@ -963,7 +957,7 @@
   \b{@@V @ShortNum}}}
 
 {@@E {
-@@D "16770 916"
+@@D "16649 910"
 }
 {@TitleMarker
   \a{"10.1258.cap/magw/mecanismosInteraccion.3"}
@@ -971,7 +965,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "15203 825"
+@@D "15082 819"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.3"}
@@ -986,7 +980,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "15273 830"
+@@D "15152 824"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/mecanismosInteraccion.3"} } }
 }
@@ -995,7 +989,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/mecanismosInteraccion.3"}}}
 
 {@@E {
-@@D "18180 987"
+@@D "18059 981"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/mecanismosInteraccion.3"}
@@ -1004,7 +998,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "17846 972"
+@@D "17725 966"
 }
 {@Figure
   \a{"9.3806.cap/magw/mecanismosInteraccion.3"}
@@ -1020,7 +1014,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "15273 830"
+@@D "15152 824"
 }
 {@@V @DupRunner} } }
  }
@@ -1111,7 +1105,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "19372 1051"
+@@D "19251 1045"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1154,14 +1148,14 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "15259 829"
+@@D "15138 823"
 }
 {@@V @SubSubSectionList
   \a{"10.290.cap/magw/mecanismosInteraccion.4"}
 4}}
 
 {@@E {
-@@D "15203 825"
+@@D "15082 819"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.4"}
@@ -1171,7 +1165,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "15203 825"
+@@D "15082 819"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.4"}
@@ -1207,7 +1201,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "21733 1171"
+@@D "21612 1165"
 }
 {?? @@V @Do ??} } }
 }
@@ -1218,7 +1212,7 @@
   \b{@@V @ShortNum}}}
 
 {@@E {
-@@D "21733 1171"
+@@D "21612 1165"
 }
 {@TitleMarker
   \a{"10.1258.cap/magw/mecanismosInteraccion.4"}
@@ -1255,7 +1249,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "22902 1238"
+@@D "22781 1232"
 }
 {@LUse @TblSetup} } }
 }
@@ -1277,7 +1271,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "23111 1254"
+@@D "22990 1248"
 }
 {@SubSection
   \a{"10.1227.cap/magw/mecanismosInteraccion.2"}
@@ -1313,7 +1307,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "23597 1277"
+@@D "23476 1271"
 }
 {?? @@V @Do ??} } }
 }
@@ -1326,7 +1320,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "23597 1277"
+@@D "23476 1271"
 }
 {@@V @ContentsStuff} } }
 }
@@ -1347,14 +1341,14 @@
   \g{@@V postgap}}}
 
 {@@E {
-@@D "23597 1277"
+@@D "23476 1271"
 }
 {@TitleMarker
   \a{"10.1227.cap/magw/mecanismosInteraccion.2"}
   \b{@@V title}}}
 
 {@@E {
-@@D "22902 1238"
+@@D "22781 1232"
 }
 {@@V @SubSubSectionList
   \a{"10.290.cap/magw/mecanismosInteraccion.5"}
@@ -1362,7 +1356,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "23111 1254"
+@@D "22990 1248"
 }
 {@SubSection
   \a{"10.1227.cap/magw/mecanismosInteraccion.2"}
@@ -1377,7 +1371,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "25225 1363"
+@@D "25104 1357"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.5"}
@@ -1413,7 +1407,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "25509 1377"
+@@D "25388 1371"
 }
 {?? @@V @Do ??} } }
 }
@@ -1424,7 +1418,7 @@
   \b{@@V @ShortNum}}}
 
 {@@E {
-@@D "25509 1377"
+@@D "25388 1371"
 }
 {@TitleMarker
   \a{"10.1258.cap/magw/mecanismosInteraccion.5"}
@@ -1432,7 +1426,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "25225 1363"
+@@D "25104 1357"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.5"}
@@ -1447,7 +1441,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "22916 1239"
+@@D "22795 1233"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/mecanismosInteraccion.4"} } }
 }
@@ -1456,7 +1450,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/mecanismosInteraccion.4"}}}
 
 {@@E {
-@@D "26802 1448"
+@@D "26681 1442"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/mecanismosInteraccion.4"}
@@ -1465,7 +1459,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "26524 1433"
+@@D "26403 1427"
 }
 {@Figure
   \a{"9.3806.cap/magw/mecanismosInteraccion.4"}
@@ -1481,7 +1475,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "22916 1239"
+@@D "22795 1233"
 }
 {@@V @DupRunner} } }
  }
@@ -1584,7 +1578,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "28147 1524"
+@@D "28026 1518"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1636,14 +1630,14 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "22902 1238"
+@@D "22781 1232"
 }
 {@@V @SubSubSectionList
   \a{"10.290.cap/magw/mecanismosInteraccion.6"}
 2}}
 
 {@@E {
-@@D "25225 1363"
+@@D "25104 1357"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.6"}
@@ -1653,7 +1647,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "25225 1363"
+@@D "25104 1357"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.6"}
@@ -1689,7 +1683,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "30702 1653"
+@@D "30581 1647"
 }
 {?? @@V @Do ??} } }
 }
@@ -1700,7 +1694,7 @@
   \b{@@V @ShortNum}}}
 
 {@@E {
-@@D "30702 1653"
+@@D "30581 1647"
 }
 {@TitleMarker
   \a{"10.1258.cap/magw/mecanismosInteraccion.6"}
@@ -1727,7 +1721,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "31737 1709"
+@@D "31616 1703"
 }
 {@LUse @TblSetup} } }
 }
@@ -1754,7 +1748,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "31949 1725"
+@@D "31828 1719"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.7"}
@@ -1790,7 +1784,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "32574 1754"
+@@D "32453 1748"
 }
 {?? @@V @Do ??} } }
 }
@@ -1801,7 +1795,7 @@
   \b{@@V @ShortNum}}}
 
 {@@E {
-@@D "32574 1754"
+@@D "32453 1748"
 }
 {@TitleMarker
   \a{"10.1258.cap/magw/mecanismosInteraccion.7"}
@@ -1828,7 +1822,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "33606 1810"
+@@D "33485 1804"
 }
 {@LUse @TblSetup} } }
 }
@@ -1855,7 +1849,7 @@
 {@@E {
 { @@B { { @@A { @@E {
 { @@A { @@E {
-@@D "33818 1826"
+@@D "33697 1820"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.8"}
@@ -1891,7 +1885,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "34460 1855"
+@@D "34339 1849"
 }
 {?? @@V @Do ??} } }
 }
@@ -1902,7 +1896,7 @@
   \b{@@V @ShortNum}}}
 
 {@@E {
-@@D "34460 1855"
+@@D "34339 1849"
 }
 {@TitleMarker
   \a{"10.1258.cap/magw/mecanismosInteraccion.8"}
@@ -1910,7 +1904,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "33818 1826"
+@@D "33697 1820"
 }
 {@SubSubSection
   \a{"10.1258.cap/magw/mecanismosInteraccion.8"}
@@ -1925,7 +1919,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "33620 1811"
+@@D "33499 1805"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/mecanismosInteraccion.5"} } }
 }
@@ -1934,7 +1928,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/mecanismosInteraccion.5"}}}
 
 {@@E {
-@@D "35844 1926"
+@@D "35723 1920"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/mecanismosInteraccion.5"}
@@ -1943,7 +1937,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "35509 1911"
+@@D "35388 1905"
 }
 {@Figure
   \a{"9.3806.cap/magw/mecanismosInteraccion.5"}
@@ -1959,7 +1953,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "33620 1811"
+@@D "33499 1805"
 }
 {@@V @DupRunner} } }
  }
@@ -2074,7 +2068,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "37354 2014"
+@@D "37233 2008"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -2135,12 +2129,12 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "33620 1811"
+@@D "33499 1805"
 }
 {{} @@V @SendRef botton}}
 
 {@@E {
-@@D "35509 1911"
+@@D "35388 1905"
 }
 {@Table
   \a{"9.4052.cap/magw/mecanismosInteraccion.1"}
@@ -2154,7 +2148,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "33620 1811"
+@@D "33499 1805"
 }
 {@LUse @BookSetup} } }
 }
@@ -2201,7 +2195,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "40047 2150"
+@@D "39926 2144"
 }
 {?? @@V @Do ??} } }
 }
@@ -2218,7 +2212,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "33620 1811"
+@@D "33499 1805"
 }
 {@@V @TableCounterIncrement "9.4052.cap/magw/mecanismosInteraccion.1"} } }
 }
@@ -2227,7 +2221,7 @@
   \b{@@V @RawTableNum "9.4052.cap/magw/mecanismosInteraccion.1"}}}
 
 {@@E {
-@@D "41417 2219"
+@@D "41296 2213"
 }
 {@NumberMarker
   \a{"9.4052.cap/magw/mecanismosInteraccion.1"}
@@ -2236,7 +2230,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "35509 1911"
+@@D "35388 1905"
 }
 {@Table
   \a{"9.4052.cap/magw/mecanismosInteraccion.1"}
@@ -2251,7 +2245,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "33620 1811"
+@@D "33499 1805"
 }
 {@@V @DupRunner} } }
  }
@@ -2318,7 +2312,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "42260 2258"
+@@D "42139 2252"
 }
 {{??} @@V @Do {??}} } }
 }
