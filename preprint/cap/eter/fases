@@ -15,12 +15,12 @@ Las soluciones del capítulo 2 demuestran que los neutrinos solo necesitan un sus
 {0.5 @Scale @IncludeGraphic "img/Libro-img145.eps"
 }
 @DP
- El núcleo central (negro) corresponde a la región isótropa fluida, de radio del orden de 10 fm. La zona intermedia con director inclinado @Math {(theta similar 45°)} corresponde al esméctico C, cuya interfaz exterior con el esméctico A actúa como guía de onda para el electrón @Math {( similar 10 sup {-13} m)}. La región exterior de capas horizontales corresponde al esméctico A, que se extiende hasta @Math  {R_u = surd (G slash 2 pi) similar 3.26 mu m}, radio de las dimensiones compactadas. La escala característica del estrato exterior del hadrón @Math {(a sub {2} similar 8.5 fm)} coincide con la escala de la epícima ligera en las dimensiones compactadas @Math {( xi sub {0}(ep_l) = hbar c slash (2m_l) similar 8.5 fm)}, diferencia del 1.6%.
+ El núcleo central (negro) corresponde a la región isótropa fluida, de radio @Math {similar 8,5 fm}. La zona intermedia con director inclinado @Math {(theta similar 45°)} corresponde al esméctico C, cuya interfaz exterior con el esméctico A actúa como guía de onda para el electrón @Math {( similar 10 sup {-13} m)}. La región exterior de capas horizontales corresponde al esméctico A, que se extiende hasta @Math  {R_u = surd (G slash 2 pi) similar 3.26 mu m}, radio de las dimensiones compactadas. La escala característica del estrato exterior del hadrón @Math {(a sub {2} similar 8.5 fm)} coincide con la escala de la epícima ligera en las dimensiones compactadas @Math {( xi sub {0}(ep_l) = hbar c slash (2m_l) similar 8.5 fm)}, diferencia del 1.6%.
 @NP
 
 La cristalización en capas concentricas proporciona de forma natural la curvatura postulada. No siendo necesario ningún gradiente de indice de refracción - dado que la velocidad de propagación es c en todo el sustrato por construcción -  sino simplemente la existencia de tres sustratos dispuestos concentricamente. No hay diferencia de velocidades entre fases que produzca curvatura de rayos.
 @DP
-Nota: Esta afirmación requiere una precisión importante. La velocidad de propagación c no tiene gradiente en las dimensiones compactadas (@Math {partialdiff c slash partialdiff xi = partialdiff c slash partialdiff tau = 0}) - no hay diferencia de velocidades según @Math {xi o tau} que produzca curvatura de rayos en esas dimensiones. En las dimensiones extendidas, sin embargo, c varía con la temperatura local del sustrato, que a su vez depende de la distribución de masa (sección 3.3, gravedad como refracción del segundo sonido). Esta distinción es uno de los cambios conceptuales más profundos del modelo respecto a la Relatividad General: lo que la RG describe como "dilatación del tiempo" cerca de una masa es, en el modelo, una reducción de la velocidad de propagación de todas las pulsaciones en las dimensiones extendidas - incluyendo las que forman los relojes. El tiempo no se estira: los relojes van más lentos porque están formados por pulsaciones que se propagan más lentamente. La referencia no es el tiempo newtoniano sino el estado de vacío del sustrato (T inalterada, ausencia de masa): es respecto a ese estado donde c varía localmente en las dimensiones extendidas por efecto de la temperatura del esméctico, que en ningún caso es la temperatura que percibimos del vacío, sino la propia del sustrato, muy similar a la temperatura de Planck.
+Nota: Esta afirmación requiere una precisión importante. La velocidad de propagación c no tiene gradiente en las dimensiones compactadas (@Math {partialdiff c slash partialdiff xi = partialdiff c slash partialdiff tau = 0}) - no hay diferencia de velocidades según @Math {xi o tau} que produzca curvatura de rayos en esas dimensiones. En las dimensiones extendidas, sin embargo, c varía con la temperatura local del sustrato, que a su vez depende de la distribución de masa (lo que se desarrollará más adelante en este capítulo). Esta distinción es uno de los cambios conceptuales más profundos del modelo respecto a la Relatividad General: lo que la RG describe como "dilatación del tiempo" cerca de una masa es, en el modelo, una reducción de la velocidad de propagación de todas las pulsaciones en las dimensiones extendidas - incluyendo las que forman los relojes. El tiempo no se estira: los relojes van más lentos porque están formados por pulsaciones que se propagan más lentamente. La referencia no es el tiempo newtoniano sino el estado de vacío del sustrato (T inalterada, ausencia de masa): es respecto a ese estado donde c varía localmente en las dimensiones extendidas por efecto de la temperatura del esméctico, que en ningún caso es la temperatura que percibimos del vacío, sino la propia del sustrato, muy similar a la temperatura de Planck.
 
 
 
@@ -40,7 +40,7 @@ aformat {  @Cell A | @Cell B | @Cell C  | @Cell D  }
 rule { yes }
 {
 @Rowa A {  Región  } B {  Escala} C {Fase propuesta} D {Propiedades relevantes}
-@Rowa A { Agujero interior  } B { @Math {less xi sub {0}(ep) similar 10 sup {-15} m} } C {Líquida "/" isótropa} D {Sin orden orientacional ni posicional. No transmite ondas transversales.}
+@Rowa A { Agujero interior  } B { @Math {less xi sub {0}(ep) similar 8.5 cdot 10 sup {-15} m} } C {Líquida "/" isótropa} D {Sin orden orientacional ni posicional. No transmite ondas transversales.}
 
 @Rowa A { Capa electrofuerte  }  B { @Math { xi sub {0}(ep) similar 10 sup {-15} m} } C {Superficie fluido} D {Universalidad fuerza electrofuerte}
 @Rowa A { Zona interior  } B { @Math {xi sub {0}(ep) rightarrow xi sub {0(e)}}  } C {Nemática C} D {Orden orientacional con director inclinado respecto a las capas. Anisotrópico.}
@@ -294,9 +294,9 @@ Los muones negativos que orbitan los átomos pueden ser capturados por un protón 
 @DP
 @Math { mu sup {-} + p sup {+} arrowright n + nu sub {mu}}
 @DP
-Esta captura es muy lenta (@Math {460-725 s sup {-1}} según MuCap, PSI) comparada con procesos hadronicos típicos (@Math {similar 10 sup {23} s sup {-1}}).
+Esta captura es muy lenta (@Math {similar 715 s sup {-1}} según MuCap, PSI) comparada con procesos hadronicos típicos (@Math {similar 10 sup {23} s sup {-1}}).
 @DP
-Ahora bien, dentro del modelo el muón se considera el barión más ligero ( Capítulo 5) con estructura (3,2,1), y con cargas electrofuertes ¿por qué entonces su "captura" por un protón es tan lenta ?.
+Ahora bien, dentro del modelo el muón se considera el barión más ligero ( Capítulo 5) con estructura (3,2,1), y con cargas electrofuertes ¿por qué entonces su "captura" por un protón es tan lenta?.
 @DP
 Si consideramos la reacción de forma directa, tendríamos que considerar la unión de los 6 estratos en 3, implicando un total de 60 epícimas y  seguido de una reorganización masiva para dar lugar a un neutrón compuesto de 50 estratos, que dificilmente produciría un único muón. La solución es mucho más sencilla, y no requiere ningún mecanismo nuevo. Es la
 combinación secuencial de dos reacciones ya derivadas en este preprint:

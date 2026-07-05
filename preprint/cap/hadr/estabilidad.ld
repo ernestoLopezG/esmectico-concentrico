@@ -1257,65 +1257,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Estabilidad de las soluciones hadrónicas}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "20819 1197"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1404,7 +1346,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/estabilidad.7"}}}
 
 {@@E {
-@@D "24451 1396"
+@@D "23444 1338"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/estabilidad.7"}
@@ -1568,65 +1510,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Estabilidad de las soluciones hadrónicas}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/estabilidad.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "25142 1450"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1739,7 +1623,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "29884 1711"
+@@D "27870 1595"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/estabilidad.8"} } }
 }
@@ -1748,7 +1632,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/estabilidad.8"}}}
 
 {@@E {
-@@D "30332 1740"
+@@D "28318 1624"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/estabilidad.8"}
@@ -1757,7 +1641,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "29828 1707"
+@@D "27814 1591"
 }
 {@Figure
   \a{"9.3806.cap/hadr/estabilidad.8"}
@@ -1773,7 +1657,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "29884 1711"
+@@D "27870 1595"
 }
 {@@V @DupRunner} } }
  }
@@ -1924,7 +1808,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "32169 1864"
+@@D "30155 1748"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -2015,7 +1899,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "29842 1708"
+@@D "27828 1592"
 }
 {@Section
   \a{"10.1196.cap/hadr/estabilidad.1"}
@@ -2053,7 +1937,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "35032 2014"
+@@D "33018 1898"
 }
 {?? @@V @Do ??} } }
 }
