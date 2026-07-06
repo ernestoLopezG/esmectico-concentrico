@@ -120,7 +120,7 @@ Siguiendo el mismo método de cálculo:
  @DP 
  Si fuese un mesón @Math {M = 3m +3m + 1,7072 m slash 2  =8,5608 m}
  @DP 
-  La solución bariónica es ahora más ligera, y por tanto prevalece. Esto explica porqué los múltiplos impares de 35 MeV son preferiblemente bariones.
+  La solución bariónica es ahora más ligera, y por tanto prevalece. Sin embargo, conforme aumentamos n, la solución bariónica prevalece siempre, independientemente del valor de n. Por tanto, esto no explicaría la regla empírica de porque los múltiplos impares de 35 MeV son preferiblemente bariones.
   @DP
   El barión más ligero posible debería tener una masa igual a @Math {m sub {mu}   =8,5411 cdot 12,27 = 104,79 MeV}
   @DP 

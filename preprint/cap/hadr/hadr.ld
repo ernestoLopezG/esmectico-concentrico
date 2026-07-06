@@ -905,7 +905,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "14487 845"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -991,7 +1049,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "16590 963"
+@@D "17593 1021"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/hadr.5"} } }
 }
@@ -1000,7 +1058,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.5"}}}
 
 {@@E {
-@@D "17040 992"
+@@D "18043 1050"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.5"}
@@ -1009,7 +1067,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "16534 959"
+@@D "17537 1017"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.5"}
@@ -1025,7 +1083,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "16590 963"
+@@D "17593 1021"
 }
 {@@V @DupRunner} } }
  }
@@ -1259,7 +1317,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "16534 959"
+@@D "17537 1017"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.6"}
@@ -1269,7 +1327,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "16590 963"
+@@D "17593 1021"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/hadr.6"} } }
 }
@@ -1278,7 +1336,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.6"}}}
 
 {@@E {
-@@D "21768 1270"
+@@D "22776 1328"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.6"}
@@ -1287,7 +1345,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "16534 959"
+@@D "17537 1017"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.6"}
@@ -1303,7 +1361,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "16590 963"
+@@D "17593 1021"
 }
 {@@V @DupRunner} } }
  }
@@ -1592,7 +1650,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "26728 1564"
+@@D "27739 1622"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/hadr.7"} } }
 }
@@ -1601,7 +1659,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.7"}}}
 
 {@@E {
-@@D "27165 1593"
+@@D "28176 1651"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.7"}
@@ -1610,7 +1668,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "26672 1560"
+@@D "27683 1618"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.7"}
@@ -1626,7 +1684,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "26728 1564"
+@@D "27739 1622"
 }
 {@@V @DupRunner} } }
  }
@@ -1765,65 +1823,7 @@
  }
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.5"}
-  \b{Los hadrones.}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Aplicación de la ecuación de onda a las epícimas.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1196.cap/hadr/hadr.1"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Bold}
-  \h{@@V @SectionHeadingBreak}
-  \i{@Num @@V @SectionHeadingFormat @Body}
-  \k{Yes}
-  \l{@@V @SectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @ChapterShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{Yes}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{Yes}
-  newpage{No}
-@@V @Body} } }
-}
-{@@V @Heading} } }
-}
-{@@V @Run @@V @StartIfMajor} } }
+@@D "29816 1763"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1936,7 +1936,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "32418 1908"
+@@D "32427 1908"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/hadr.8"} } }
 }
@@ -1945,7 +1945,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.8"}}}
 
 {@@E {
-@@D "32856 1937"
+@@D "32865 1937"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.8"}
@@ -1954,7 +1954,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "32362 1904"
+@@D "32371 1904"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.8"}
@@ -1970,7 +1970,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "32418 1908"
+@@D "32427 1908"
 }
 {@@V @DupRunner} } }
  }
@@ -2273,7 +2273,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "32418 1908"
+@@D "32427 1908"
 }
 {@LUse @BookSetup} } }
 }
@@ -2320,7 +2320,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "38374 2269"
+@@D "38383 2269"
 }
 {?? @@V @Do ??} } }
 }

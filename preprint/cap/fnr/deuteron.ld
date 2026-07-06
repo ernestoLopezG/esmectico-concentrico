@@ -925,7 +925,31 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "8360 546"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "14593 903"
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.7"}
+  \b{Fuerza nuclear residual}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/fnr/deuteron.1"}
+  \b{Sistemas de dos nucleones}
+{ @LInput }} } }
+}
+{@SubSection
+  \a{"10.1227.cap/fnr/deuteron.2"}
+  \b{Deuterón}
+{ @LInput }} } }
 }
 {@Figure
   \a{"9.3806.cap/fnr/deuteron.3"}
@@ -1159,7 +1183,7 @@
 {{} @@V @SendRef dstate}}
 
 {@@E {
-@@D "8360 546"
+@@D "15105 927"
 }
 {@Figure
   \a{"9.3806.cap/fnr/deuteron.4"}
@@ -1178,7 +1202,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/fnr/deuteron.4"}}}
 
 {@@E {
-@@D "19132 1170"
+@@D "19519 1194"
 }
 {@NumberMarker
   \a{"9.3806.cap/fnr/deuteron.4"}
@@ -1187,7 +1211,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "8360 546"
+@@D "15105 927"
 }
 {@Figure
   \a{"9.3806.cap/fnr/deuteron.4"}
@@ -1209,7 +1233,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "15465 949"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @DupRunner} } }
  }
@@ -1471,7 +1501,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "23758 1438"
+@@D "24217 1468"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/fnr/deuteron.5"} } }
 }
@@ -1480,7 +1510,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/fnr/deuteron.5"}}}
 
 {@@E {
-@@D "24265 1472"
+@@D "24724 1502"
 }
 {@NumberMarker
   \a{"9.3806.cap/fnr/deuteron.5"}
@@ -1489,7 +1519,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "23688 1433"
+@@D "24147 1463"
 }
 {@Figure
   \a{"9.3806.cap/fnr/deuteron.5"}
@@ -1505,7 +1535,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "23758 1438"
+@@D "24217 1468"
 }
 {@@V @DupRunner} } }
  }
@@ -1763,7 +1793,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "23716 1435"
+@@D "24175 1465"
 }
 {@Section
   \a{"10.1196.cap/fnr/deuteron.1"}
@@ -1801,7 +1831,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "29197 1762"
+@@D "29656 1792"
 }
 {?? @@V @Do ??} } }
 }
