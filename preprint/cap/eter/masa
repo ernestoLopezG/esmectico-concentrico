@@ -2,10 +2,23 @@
 @Title { El esméctico como origen de partículas, fuerzas y masa }
 @Begin
 @BeginSubSections
+@DP
+En el Modelo Estándar existen tres categorías ontológicas separadas: partículas de materia (fermiones), partículas mediadoras de las fuerzas (bosones de gauge) y el campo de Higgs que da masa a las demás. Son tres tipos de objetos distintos que interaccionan entre sí mediante reglas precisas. En la hipótesis del esméctico, no hay tres categorías - hay una sola:
+@DP
+-  Una pulsación existe porque el esméctico está suficientemente ordenado para confinarla. Esa misma pulsación, al existir, modifica el índice de refracción local del esméctico y lo arrastra. Esas modificaciones son el origen de la fuerzas. No hay fuerzas sin pulsación que las origine, y no hay pulsación sin sustrato que la confine - y sin las fuerzas que emergen de ese confinamiento.
+@DP
+- Las partículas no interaccionan mediante el intercambio de otras partículas. Las pulsaciones modifican el medio -alteran el índice de refracción o producen corrientes de arrastre -, y esas modificaciones del medio influyen en otras pulsaciones. El fotón virtual no es una partícula mediadora - es la descripción en el lenguaje del Modelo Estándar de cómo los arrastres del medio producidos por una carga eléctrica afectan a otra carga eléctrica. Capta algo real, pero oculta el mecanismo subyacente.
+@D
+Pulsación y fuerza no son dos fenómenos que se causen mutuamente, sino dos descripciones de la misma perturbación del sustrato: la existencia confinada de la pulsación produce, simultáneamente, la modificación local del índice de refracción y los arrastres del medio que llamamos fuerza. No hay secuencia causal entre ambas porque no son dos hechos distintos. Todo - pulsación, fuerza, y su indisolubilidad - es consecuencia de que existe un sustrato capaz de ordenarse. @DP
+En los próximos puntos intentaremos desarrollar estos conceptos, empezando por el postulado cosmológico fundamental y su relación con la estructura de fases.
+
 
 @SubSection
 @Title {La cristalización como historia del universo}
 @Begin
+@DP
+En el Modelo Estándar, el mecanismo de Higgs es un añadido conceptualmente insatisfactorio: un campo escalar introducido expresamente para dar masa a partículas que de otro modo serían sin masa. No responde a la pregunta de por qué existe ese campo. En el esméctico, la respuesta es directa: la masa no se adquiere, emerge. A medida que el universo evoluciona, el esméctco cristaliza progresivamente:
+@DP
 @DP
   Orden de aparición de partículas y fuerzas. La masa como energía negativa de confinamiento emergente de la guía de onda - la imagen del campo de Higgs. Transferencia de entropía sustrato-pulsaciones.
 @End @SubSection

@@ -1823,7 +1823,65 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "29816 1763"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.5"}
+  \b{Los hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Aplicación de la ecuación de onda a las epícimas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/hadr.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
 }
 {{??} @@V @Do {??}} } }
 }
@@ -1936,7 +1994,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "32427 1908"
+@@D "33429 1966"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/hadr.8"} } }
 }
@@ -1945,7 +2003,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/hadr.8"}}}
 
 {@@E {
-@@D "32865 1937"
+@@D "33867 1995"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/hadr.8"}
@@ -1954,7 +2012,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "32371 1904"
+@@D "33373 1962"
 }
 {@Figure
   \a{"9.3806.cap/hadr/hadr.8"}
@@ -1970,7 +2028,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "32427 1908"
+@@D "33429 1966"
 }
 {@@V @DupRunner} } }
  }
@@ -2273,7 +2331,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "32427 1908"
+@@D "33429 1966"
 }
 {@LUse @BookSetup} } }
 }
@@ -2320,7 +2378,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "38383 2269"
+@@D "39385 2327"
 }
 {?? @@V @Do ??} } }
 }
