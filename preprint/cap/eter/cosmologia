@@ -1,30 +1,64 @@
 @Section
-@Title { Un postulado cosmológico: el Big Bang como toro de vorticidad}
+@Title { Un postulado cosmológico: el Big Bang como toro de vorticidad y su evolución}
 @Begin
 @PP
+Del capítulo 2 se deduce que la existencia de 2 dimensiones compactadas con topología elíptica y con 3 regiones concentricas se asocia la existencia de soluciones de la ecuación de onda que al modificar el sustrato permiten describir todas las partículas e interacciones conocidas- vease para más detalles los captítulos 4 y siguientes.
+@DP
+Existen varias teorías que utilizan dimensiones compactadas, pero prácticamente ninguna da razón de porque esto es asi.
+@DP
+Se postula aquí que estas propiedades no son dadas a priori sino que emergen de un proceso dinámico en el orígen del Universo: el llamado Big Bang- seguiremos utilizando el nombre, pero ya veremos que el proceso desarrollado aquí es distinto. Este postulado no es arbitrario - resuelve simultáneamente varios problemas que de otro modo quedarían sin explicación, por ejemplo resuelve simultáneamente por qué el punto triple no es una condición inicial arbitraria (postulado 6), por qué la contracción de las compactadas se detiene en vez de continuar indefinidamente (evitando así que varias constantes varien con el tiempo), y por qué el espacio 3D observable tiene la homogeneidad y planitud que tiene (bifurcación dimensional).
 
-La sección anterior concluye que el espacio-tiempo es un fluido con propiedades similares a las de un cristal líquido. Surge entonces de forma natural una pregunta: ¿cuál es el origen de su estructura? ¿Por qué existen exactamente dos dimensiones compactadas y tres extendidas? ¿Por qué las dimensiones compactadas tienen la topología elíptica descrita en el capítulo 2?
-@DP
-Se postula aquí que estas propiedades no son dadas a priori sino que emergen de un proceso dinámico: el Big Bang. Este postulado no es arbitrario - resuelve simultáneamente varios problemas que de otro modo quedarían sin explicación.
-@DP
-La hipótesis es que el Big Bang no es una explosión sino la formación de un toro de vorticidad - un anillo de humo - en el fluido primordial. En este proceso, tres dimensiones se expanden en la dirección del eje del toro y dos se contraen formando su sección transversal rotatoria. El volumen total se conserva: la expansión de las tres dimensiones extendidas se compensa exactamente con la contracción de las dos compactadas. No hay creación de energía desde la nada, sino una redistribución entre dimensiones.
-@DP
-Un toro de vorticidad tiene una propiedad fundamental, establecida por Helmholtz en 1858: se autopropulsa en la dirección de su eje sin ningún mecanismo externo. La vorticidad distribuida en la sección transversal induce un campo de velocidades con componente neta perpendicular al plano de rotación. Esta autopropulsión es el origen de la expansión acelerada del universo. El valor de la constante cosmológica  @Math {Lambda = 2H sub {0} sup {2} slash c sup {2} = 1.178 cdot 10 sup {-52} m sup {-2}}, calculado por el autor en López (2014) mediante el gradiente de índice de refracción producido por la expansión, es consistente con las observaciones actuales.
+@BeginSubSections
 
+@SubSection
+@Title {El toro de vorticidad }
+@Begin
+
+
+@DP
+La hipótesis es que el Big Bang no es una explosión sino la formación de un toro de vorticidad - un anillo de humo - en el fluido primordial, al que consideraremos superfluido y compresible. En los dos primeros capitulos se había postulado la necesidad de 3 dimensiones espaciales extendidas y de dos compactadas. Si aceptamos que se trata de un toro de vorticidad y que las velocidades en principio son inferiores a la velocidad crítica de Landau entonces podemos estudiar el fluido como si fuese incompresible. Notese que se trataría de un régimen subsónico, ya que la velocidad crítica de Landau se define como el mínimo de @Math {epsilon (p)"/"p} sobre el espectro de excitaciones y supuesto un espectro  puramente fonónico (@Math {epsilon =c_s cdot p}, sin rotones ni otras excitaciones), ese mínimo es exactamente c_s, la velocidad del sonido en ese sustrato.
+@DP
+Una vez supuesto el régimen subsónico la consecuencia primera es que en estos instantes iniciales tres dimensiones se expanden en la dirección del eje del toro y dos se contraen formando su sección transversal rotatoria. El volumen total se conserva: la expansión de las tres dimensiones extendidas se compensa exactamente con la contracción de las dos compactadas. No hay creación de energía desde la nada, sino una redistribución entre dimensiones.
+@DP
+Un toro de vorticidad tiene una propiedad fundamental, establecida por Helmholtz en 1858: se autopropulsa en la dirección de su eje sin ningún mecanismo externo. La vorticidad distribuida en la sección transversal induce un campo de velocidades con componente neta perpendicular al plano de rotación.
 @DP
 El toro tiene además una dirección de rotación definida - una quiralidad global. Esta quiralidad es el origen de la asimetría entre materia y antimateria: las pulsaciones elementales siempre aparecen por pares, un modo a favor y otro en contra de la corriente del torbellino, y el modo favorecido por la quiralidad es el que llamamos materia.
 @DP
 Existen dos hipótesis compatibles con el modelo sobre el alcance del torbellino. En la primera, el torbellino es local: el Big Bang es la formación de un toro en una región finita de un fluido primordial preexistente y potencialmente infinito, análogo en sentido inverso a un agujero negro multidimensional. En este caso, el universo real puede ser enormemente mayor que el universo observable - el horizonte de Hubble @Math {(r = c slash H sub {0})} no marca el límite del universo sino el límite causal del torbellino, más allá del cual existe fluido primordial sin estructura, sin partículas y sin tiempo medible en el sentido ordinario. En la segunda hipótesis, el torbellino es global: el universo preexistía en un estado de equilibrio y la inestabilidad produjo el torbellino en la totalidad del sistema, siendo el horizonte de Hubble simplemente el límite de causalidad. Ambas hipótesis son coherentes con las observaciones actuales - la distinción entre ellas requeriría información más allá del horizonte de Hubble, inaccesible por definición.
 @DP
-La contracción de las dimensiones compactadas tiene una consecuencia directa: genera el gradiente de presión que produce la estratificación del fluido en su estructura de cristal líquido. La estructura de fases del esméctico - descrita en la sección siguiente - no es una propiedad dada del sustrato sino que emerge del propio proceso cosmológico. El radio de compactación R_u decrece con el tiempo cósmico, y con él todas las escalas de longitud características de las partículas, de forma que la física local es invariante en primer orden. En segundo orden, sin embargo, el escalado diferencial entre distintas constantes físicas - en particular entre la carga eléctrica e y la constante de Planck @Math {hbar} - podría producir una variación lenta de la constante de estructura fina @Math {alpha} con el tiempo cósmico, del orden de @Math {10 sup {-5}} por gigaaño, cualitativamente consistente con algunas observaciones astronómicas.
-@DP
 La necesidad de una quiralidad definida en el torbellino (sección 3.6, asimetría materia-antimateria) parece a primera vista en tensión con la isotropía observada del CMB a 1 parte en @Math {10 sup {5}}. Sin embargo, ambas exigencias convergen en la misma conclusión: una rotación global muy lenta. La quiralidad no requiere velocidad angular apreciable - basta con que el sentido de giro esté definido, por pequeña que sea su magnitud, para que el trinquete geométrico (sección 12) actúe de forma sistemática y acumulativa a lo largo de toda la historia del universo.
 @DP
 Esta predicción interna del modelo es compatible con la cota observacional más exigente disponible: Godlowski & Szydlowski (2003), a partir de datos de supernovas tipo Ia, establecen @Math {omega sub {0} < 2.6×10 sup {-19} rad slash s} para la rotación global del universo - catorce órdenes de magnitud por debajo de la velocidad de rotación de la Tierra. La convergencia entre lo que el modelo necesita y lo que la observación permite no es una demostración, pero es una coincidencia que merece señalarse.
+
 @DP
-La dinámica clásica de vórtices (Hill, 1894) relaciona la rotación interna de un vórtice con su velocidad de traslación y su radio: @Math {omega similar U slash a sup {2}}. Aplicada de forma literal e ingenua al universo observable (tomando U como la velocidad de recesión en el horizonte y a como el radio observable), esta relación predice una rotación que supera el límite observacional en más de un orden de magnitud - un resultado que no debe sobreinterpretarse, ya que la fórmula de Hill presupone tanto un fluido exterior en reposo como un radio finito conocido, dos asunciones que el modelo no puede ni confirmar ni descartar (sección 3.2, nota a pie de tabla 3.3). El resultado favorece la idea de que el torbellino cósmico no se comporta como un vórtice clásico, o bien que su extensión real supera la del universo observable - pero no permite distinguir entre ambas posibilidades.
+Lo que sí se deriva con generalidad, sin presuponer la forma específica del vórtice, es una condición de volumen constante en el marco 5+1D: si las tres dimensiones extendidas se expanden con tasa E y las dos compactadas se contraen con tasa C, la condición 3E+2C=0 impone C=-3E"/"2 - la contracción de las dimensiones compactadas sería, en magnitud, una vez y media la tasa de expansión observada. Esta condición es, en espíritu, de la misma familia que las cosmologías anisótropas de tipo Bianchi I -de las que la solución de vacío de Kasner es el caso más conocido-, donde distintos bloques de dimensiones evolucionan con tasas distintas. Difiere de ella en un punto esencial: mientras que el vacío puro de Einstein exige que la suma ponderada de las tasas de expansión sea 1 (con crecimiento lineal del volumen total), aquí esa suma es 0 -volumen constante-, lo cual exige que el sustrato no sea vacío en el sentido estricto de la Relatividad General, coherente con que su propia energía y curvatura sostienen la partición. Esta relación, a diferencia de la anterior, no depende de ningún modelo particular de vórtice - solo de la geometría de la partición dimensional 3+2 y de la conservación del volumen total del sustrato.
 @DP
-Lo que sí se deriva con generalidad, sin presuponer la forma específica del vórtice, es una condición de volumen constante en el marco 5+1D: si las tres dimensiones extendidas se expanden con tasa E y las dos compactadas se contraen con tasa C, la condición 3E+2C=0 (que coincidiría con la generalización a cinco dimensiones de la primera condición de la solución de Kasner a las ecuaciones de la Relatividad General) impone C=-3E"/"2 - la contracción de las dimensiones compactadas sería, en magnitud, una vez y media la tasa de expansión observada. Esta relación, a diferencia de la anterior, no depende de ningún modelo particular de vórtice - solo de la geometría de la partición dimensional 3+2 y de la conservación del volumen total del sustrato.
+Un toro de vorticidad como el descrito no solo justifica la existencia de un grupo de dimensiones que se extiende junto con otro que se compacta - proporciona además una explicación de por qué el Universo se expande sin requerir ninguna fuente de energía nueva. No hay creación de espacio desde la nada, ni de energía desde el vacío: la condición de volumen constante implica que la expansión de las tres dimensiones extendidas es, literalmente, la contrapartida de la contracción de las dos compactadas - una redistribución del sustrato entre sus propios grados de libertad, no una creación.
+@DP
+Sin embargo, el mero hecho de disponer de un toro de vorticidad no es suficiente para explicar las propiedades del espacio-tiempo. El problema fundamental es que no puede confinar a las pulsaciones en las dimensiones compactadas, es necesario que suceda algo más.
+
+@End @SubSection
+
+@SubSection
+@Title {Compresión supersónica colisional. Cristalización y origen de las pulsaciones y la masa. }
+@Begin
+@DP
+La autopropulsión del torbellino (Helmholtz,1858) garantiza que el toro de vorticidad se mueva sin necesitar ninguna fuente de energía externa, pero no implica por sí sola que esa velocidad crezca con el tiempo. Se postula aquí, sin embargo, que en algún momento la velocidad relativa de contracción de las dimensiones compactadas superó la velocidad crítica de Landau del sustrato -entrando en régimen supersónico-, motivado no por la dinámica interna del vórtice sino por una exigencia observacional ineludible: el Universo actual contiene partículas con masa, y la masa, en este modelo, solo puede surgir de la cristalización que dicho régimen desencadena (postulado 13). Si el sustrato hubiese permanecido siempre en régimen subsónico, ninguna partícula con masa existiría hoy - la propia existencia de materia es, por tanto, la evidencia retrodictiva de que la transición tuvo que ocurrir, con independencia de que el mecanismo detallado de la aceleración no se derive aquí de la dinámica del vórtice.
+
+
+@End @SubSection
+
+@SubSection
+@Title {Bifurcación dimensional. Desgarro expansivo y congelación de la contracción de las dimensiones compactadas. }
+@Begin
+
+
+@End @SubSection
+
+
+@EndSubSections
+
+
 @NP
 
 
