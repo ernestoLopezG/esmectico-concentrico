@@ -298,7 +298,7 @@ El paso 2 de la derivación original (dividir por r para pasar de 5D a 6D) queda 
 @Math { mu sub {g} = -4 pi G hat m sub {0} slash  mu sub {0}}
 con @Math {G hat = 1} de orden cero. La corrección elíptica dada del capítulo 1 y la corrección de masa del Capítulo 4 son efectos de primer orden que juntos reproducen @Math {g slash 2} con una precisión del 0.05%, coherente con los términos de orden superior no incluidos.
 @DP
-Nota aclaratoria: La derivación original del paso 2 se apoyaba en un factor de ponderación @Math {1 slash r} efectivo al integrar sobre las dimensiones compactadas. Con el desarrollo posterior de la sección 2.2.2.4 - fuente puntual y mezcla de regímenes Stokes-Eckart - esta justificación quedó superada por un argumento más directo. Se conserva aquí como nota histórica, señalando que el factor 1 slash r sigue siendo aplicable a las ondas de interfaz por razones independientes desarrolladas en el Capítulo 3.
+Nota aclaratoria: La derivación original del paso 2 se apoyaba en un factor de ponderación @Math {1 slash r} efectivo al integrar sobre las dimensiones compactadas. Con el desarrollo posterior de la sección 2.2.2.4 - fuente puntual y mezcla de regímenes Inercial-Viscoso - esta justificación quedó superada por un argumento más directo. Se conserva aquí como nota histórica, señalando que el factor 1 slash r sigue siendo aplicable a las ondas de interfaz por razones independientes desarrolladas en el Capítulo 3.
 @DP
 @B {Arrastre sin disipación}
 @DP
@@ -309,6 +309,7 @@ La respuesta es que la pregunta está mal planteada. En el modelo, las pulsacione
 El promedio temporal del tensor de Lighthill gravitomagnético es no nulo precisamente porque la onda estacionaria tiene una distribución espacial fija de energía - no se cancela al promediar en el tiempo. El gradiente de esa distribución es la fuerza de arrastre gravitomagnético, y existe independientemente de si hay disipación o no. La disipación no crea el streaming - la naturaleza estacionaria de la onda es suficiente.
 @DP
 @B {Observación sobre la disipación y los regímenes de streaming. Efecto Andreev-Bashkin }
+@DP NOTA de Redacción: Esta observación sobre los regímnenes es incorrecta. Confunde los regímenes en base a la distancia a las paredes con con los diferentes regímenes en una corriente libre según esté cerca o lejos de la fuente puntual. A corregir
 @DP
 La literatura sobre streaming acústico distingue tres regímenes según la importancia relativa de las fuerzas viscosas e inerciales, caracterizados por el número de Reynolds acústico @Math {Re = U delta slash upsilon}:
 @DP
@@ -355,6 +356,9 @@ Es de observar que el carácter imaginario del radio puede interpretarse como una
 
 @B {Analogía entre el streaming gravitomagnético y la solución de Kerr}
 @DP La formalización de este punto surgió de forma espontanea por parte de Claude. El autor ha revisado el punto y asume plena responsabilidad sobre el.
+@DP
+@DP
+NOTA de redacción: Revisar si ese régimen debe llamarse de Stokes.
 @DP
 Dado que la solución de Kerr se estudia en las dimensiones extendidas el único régimen aplicable es el de Stokes dipolar sin viscosidad, ya que experimentalmente no se ha observado viscosidad en el espacio-tiempo en dichas dimensiones..
 @DP

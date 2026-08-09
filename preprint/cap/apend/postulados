@@ -1,35 +1,55 @@
+@DP
+@B {Nota epistemológica preliminar}
+@DP
+A diferencia de las partículas-pulsación, cuyas consecuencias son observables (masas, cargas, momentos magnéticos), el hyle mismo no admite verificación experimental directa: cualquier observación posible se realiza desde dentro del propio sustrato, por pulsaciones que son, ellas mismas, modos de ese sustrato - no existe, ni puede existir por construcción del modelo, un punto de observación externo al hyle desde el cual contrastar sus propiedades de forma independiente.
+@DP
+Esta limitación no es una laguna a resolver con más desarrollo futuro - es estructural, y condiciona el método con el que se construyen todos los postulados que siguen. Ante la imposibilidad de contraste directo, el criterio que rige la aceptación de cualquier mecanismo propuesto para el hyle no es su plausibilidad física aislada, sino:
+@DP
+(a) su coherencia interna - que no contradiga otras piezas ya establecidas del modelo, y que resuelva, sin forzar, más de un problema a la vez cuando sea posible; y
+@DP
+(b) su capacidad predictiva - que el conjunto, aplicado con honestidad, produzca consecuencias contrastables con datos externos al propio modelo, único juez final disponible.
+@DP
+De ello se sigue que la economía de supuestos -el menor número de mecanismos, fases o parámetros libres necesarios para sostener lo ya establecido- no es una preferencia estética, sino una necesidad epistémica: cualquier estructura añadida sin esa necesidad no tiene forma de distinguirse, dado el marco anterior, de un exceso simplemente inventado.
+@DP
+Por la misma razón, se mantiene deliberadamente el aparato matemático del modelo en el nivel más sencillo que las condiciones del problema permitan, incluso cuando existan generalizaciones más ricas disponibles en la literatura de referencia.
+@NP
 @DP 
  @NumberedList
-@ListItem { Todo lo que existe está formado por vibraciones de un sustrato que llamamos espacio-tiempo.}
+@ListItem { Todo lo que existe está formado por vibraciones de un sustrato genuinamente continuo que llamamos espacio-tiempo.}
  @ListItem { Existen cinco dimensiones espaciales y una temporal al estilo newtoniano clásico.
  @DP @I {Nota al postulado 2 (no postulado):} La coordenada imaginaria del espacio-tiempo de Minkowski no es un postulado independiente sino una consecuencia de este modelo: el movimiento de todas las partículas a la velocidad de la luz en las dimensiones compactadas introduce una fase imaginaria que, vista desde las tres dimensiones extendidas, es indistinguible de una dimensión temporal geométrica. La geometrización
 del tiempo de Minkowski es por tanto una proyección tridimensional de una realidad pentadimensional, no una propiedad fundamental del
 espacio-tiempo. }
 @ListItem {
-El espacio-tiempo se configura como un sustrato pentadimensional que se expande isotrópicamente en las 3 dimensiones observables y permanece estático en las 2 dimensiones adicionales, del orden del micrómetro. Esto no fue necesariamente así a lo largo del tiempo cosmológico: se postula que, al inicio, las dimensiones compactadas se comprimieron, vinculadas en aquel momento a la expansión de las extendidas por la condición de volumen constante del sustrato: 3E + 2C = 0, donde E y C son las tasas de expansión de las dimensiones extendidas y compactadas respectivamente. El período cosmológico en que esto sucedió podría corresponder, cualitativamente, a la fase de hiperinflación de la Cosmología Estándar - su correspondencia cuantitativa con los observables de la inflación estándar (índice espectral, e-folds, razón tensor-escalar) queda como problema abierto. Dicha compactación se interrumpió bruscamente al alcanzar el límite de compresibilidad del fluido, cristalizando en ese momento (ver postulado 12) - el origen de toda la materia y energía conocidas.
+El espacio-tiempo se configura como un sustrato pentadimensional que se expande isotrópicamente en las 3 dimensiones observables y permanece estático en las 2 dimensiones adicionales, empíricamente del orden del micrómetro. Esto no fue necesariamente así a lo largo del tiempo cosmológico: se postula que, al inicio, las dimensiones compactadas se comprimieron, vinculadas en aquel momento a la expansión de las extendidas por la condición de volumen constante del sustrato: 3E + 2C = 0, donde E y C son las tasas de expansión de las dimensiones extendidas y compactadas respectivamente (ver postulado 13). El período cosmológico en que esto sucedió podría corresponder, cualitativamente, a la fase de hiperinflación de la Cosmología Estándar - su correspondencia cuantitativa con los observables de la inflación estándar (índice espectral, e-folds, razón tensor-escalar) queda como problema abierto. Dicha compactación se interrumpió bruscamente al superar la velocidad crítica del sustrato (criterio de Landau, ver postulado 14), cristalizando en ese momento  - fenómeno que dio origen a toda la materia y energía conocidas.
 }
-@ListItem { Una de las dimensiones adicionales se identifica con la postulada por Kaluza en 1921, y está relacionada con la inversa de la masa de las partículas-pulsación realmente elementales - los tres neutrinos, el electrón y las epícimas.. A esta dimensión la llamaremos @Math {xi rightarrow xi sub {0}=  {hbar} over {2 m sub {0}c}} }
-@ListItem {
-El sustrato llamado espacio-tiempo es un superfluido cuántico cristalizado en fases concéntricas que dependen del radio en las
-dimensiones compactadas: esméctico A en la región exterior (donde existen los neutrinos y el electrón), esméctico C en la región
-intermedia (donde existen las epícimas), y fluido isótropo en el núcleo central. Las transiciones entre fases actúan como guías de
-onda que confinan y definen las partículas-pulsación.
-}
-@ListItem {
-Las propiedades termodinámicas del sustrato esméctico ((densidad @Math {rho sub {P}}, temperatura T_P) emergen de las unidades de Planck sin parámetros ajustados. El sustrato es compresible, no incompresible - su resistencia a la compactación crece según se reduce el espacio disponible a sus constituyentes, hasta alcanzar un límite de compactación (ver postulado 3 y pliego de condiciones del sustrato).
+@ListItem { Una de las dimensiones adicionales se identifica con la postulada por Kaluza en 1921, y está relacionada con la inversa de la masa de las partículas-pulsación realmente elementales - los tres neutrinos, el electrón y las epícimas. A esta dimensión la llamaremos @Math {xi rightarrow xi sub {0}=  {hbar} over {2 m sub {0}c}}.
 @DP
-El punto triple - donde coexisten en equilibrio las tres fases del esméctico (isótropa, C, A)- no es una condición inicial postulada de forma independiente: es el estado que el sustrato alcanza al llegar a ese límite de compactación, al final de la fase de hiperinflación descrita en el postulado 3. Alcanzar el punto triple es la condición necesaria e inmediata para la cristalización posterior (postulado 12) y el cambio del régimen de expansión.
+Nota: @Math {xi sub 0} caracteriza la posición del centro de gravedad de la distribución de cada pulsación (@Math {CDG = xi sub 0}), no necesariamente un máximo o cúspide - la forma funcional concreta (creciente, cúspide, o forma en U) varía según el tipo de solución, desarrollado en el Capítulo 2. El neutrino tauónico, cuya condición de existencia es topológica y no admite cálculo directo de CDG, es una excepción declarada.
 
 }
 @ListItem {
-Las partículas-pulsación están formadas por el segundo sonido del superfluido cuántico esméctico - variaciones locales de temperatura
-del sustrato que se propagan coherentemente. Por tanto, no pueden existir en el fluido isótropo central, donde la velocidad del segundo
-sonido se anula. Esta limitación explica tanto el confinamiento de las epícimas en el interior hadrónico como el horizonte de eventos de los
-agujeros negros: en ambos casos, la región de fluido isótropo a densidad @Math {rho sub P} actúa como barrera infranqueable para cualquier partícula-pulsación.}
+El sustrato - al que llamamos hyle, retomando el término griego de Aristóteles para la materia prima indeterminada- es un continuo genuino, sin constituyentes discretos, cuya viscosidad es fuertemente anisótropa: prácticamente rígido (permeación nula) en la dirección compactada @Math {xi}, y superfluido en las cuatro direcciones restantes (las 3 extendidas más la coordenada angular @Math {eta}). Esta anisotropía produce, según la escala radial en las dimensiones compactadas, un comportamiento que se asemeja -por analogía, no por composición literal- al de distintas fases de un cristal líquido: esméctico C en la región exterior (donde existen los neutrinos y el electrón), esméctico A en la región intermedia (donde existen las epícimas), y un régimen fluido isótropo en el núcleo central. Las transiciones entre estos regímenes actúan como guías de onda que confinan y definen las partículas-pulsación.
+}
 @ListItem {
- Muchas de las constantes físicas actuales son consecuencia de intentar formular fenómenos que ocurren en 5+1 dimensiones como si ocurriesen en 3+1 dimensiones. Entre ellas: la constante gravitatoria G (que en 6D es la superficie de las dimensiones compactadas, @Math { G = 2 pi cdot R_u sup 2}), la constante de estructura fina @Math {alpha} (que emerge de la geometría elíptica del toro), la carga eléctrica elemental e (relacionada con la carga electrofuerte de la epícima pesada mediante la misma geometría), y la constante cosmológica @Math {Lambda} (que en el modelo es @Math {2H sub {0} sup {2} slash c sup {2}}, verificado por pares).
+Las propiedades termodinámicas del hyle (densidad @Math {rho}, presión P) emergen de las unidades de Planck sin parámetros ajustados. El sustrato es compresible o incompresible según las condiciones de densidad y presión, al igual que los fluidos que conocemos.
+@DP
+El estado de máxima simetría "/" indistinción entre los tres regímenes (isótropo, A, C - ver postulado 5 para su disposición espacial) no es una condición inicial postulada de forma independiente: es el estado que el sustrato alcanza al llegar al punto de cristalización, al final de la fase de hiperinflación descrita en el postulado 3. Este estado es análogo a un punto tricrítico - con la relación @Math {T-T_tc proportional (S-S_tc) sup 2} ya derivada en el desarrollo termodinámico del modelo-, aunque no equivalente en todos sus aspectos a los puntos tricríticos de la materia condensada ordinaria, que emergen de constituyentes discretos descritos mediante aproximación de campo medio; en el hyle, la ausencia de constituyentes es genuina, no una aproximación de grano grueso. Alcanzar este estado es la condición necesaria e inmediata para la cristalización posterior (postulado 14) y el cambio del régimen de expansión.
+@DP
+**Nota sobre el número de fases**: tres fases (isótropo, esméctico A, esméctico C) es el número mínimo que el modelo requiere para sostener lo ya establecido - con menos (una única fase esméctica, sin distinguir A de C) se pierde la interfaz A-C de la que depende la propia existencia del electrón (postulado 4"/"9). Esto no excluye, en principio, que un desarrollo futuro exija una estructura más rica - los cristales
+líquidos reales admiten puntos multicríticos con más de tres fases -, pero cualquier fase adicional debe justificarse por una necesidad concreta del modelo, no incorporarse por generalización formal disponible en la literatura de referencia.
+
+}
+@ListItem {
+Dado que el sustrato es genuinamente continuo, le son de aplicación las leyes de la termodinámica racional o termodinámica de continuos. En este contexto, las partículas-pulsación forman parte de la temperatura del sustrato en sus fases no fluidas, y pueden interpretarse como variaciones locales de temperatura que se propagan coherentemente gracias al orden estructural de esas fases.
+@DP
+El fluido isótropo central, al carecer de esa estructura ordenada, no puede sostener variaciones de temperatura organizadas en un modo coherente - no es que las pulsaciones encuentren ahí una barrera que las detenga, es que esa región carece del tipo de orden que la propia noción de 'pulsación coherente` presupone. Esta limitación explica tanto el confinamiento de las epícimas en el interior hadrónico como el horizonte de eventos de los agujeros negros: en ambos casos, la ausencia de estructura ordenada en la región de fluido isótropo, a densidad de Planck @Math {rho sub P}, hace imposible la existencia de cualquier partícula-pulsación ahí
+
+}
+@ListItem {
+ Muchas de las constantes físicas actuales son consecuencia de la topología de las dimensiones compactadas y de su estado de cristalización actual. Entre ellas: la constante gravitatoria G (que expresa la capacidad de las partículas pulsación para modificar el indice de refracción del hyle), la constante de estructura fina y la carga eléctrica elemental e ( que dependen del radio @Math {xi 0} en el cual cambia de fase el hyle de esmectico A a C) y la constante cosmológica @Math {Lambda} (que en el modelo es @Math {2H sub {0} sup {2} slash c sup {2}}, verificado por pares).
  @DP
-Estas identificaciones son válidas para el estado del sustrato tal como existe hoy - es decir, desde el final de la hiperinflación (postulado 12), cuando la contracción de las dimensiones compactadas se congeló al alcanzar su límite de compactación. Durante la hiperinflación, R_u - y con él, G, @Math {alpha} y la carga elemental e - pudo evolucionar dinámicamente sin entrar en conflicto con ninguna observación actual, precisamente porque ese proceso ocurrió y terminó en una época anterior a cualquier ventana experimental (nucleosíntesis primordial, relojes atómicos, espectros de cuásares). Desde la congelación, estas cantidades son efectivamente constantes - no por una ley general de invariancia temporal, sino porque el proceso que las modificaba se detuvo.
+Estas identificaciones son válidas para el estado del sustrato tal como existe hoy - es decir, desde el final de la hiperinflación (postulado 14), cuando la contracción de las dimensiones compactadas se congeló al alcanzar su límite de compactación. Durante la hiperinflación, estas constantes pudieron evolucionar dinámicamente sin entrar en conflicto con ninguna observación actual, precisamente porque ese proceso ocurrió y terminó en una época anterior a cualquier ventana experimental (nucleosíntesis primordial, relojes atómicos, espectros de cuásares). Desde la congelación, estas cantidades son efectivamente constantes - no por una ley general de invariancia temporal, sino porque el proceso que las modificaba se detuvo.
 @DP
 No se postula, por tanto, que G, @Math {alpha} y e sean identidades geométricas dinámicas válidas en todo momento cósmico - se postula que lo son en el estado congelado que constituye nuestra realidad observable. Su evolución durante la hiperinflación queda como problema abierto, no derivado del modelo.
 @DP
@@ -39,36 +59,47 @@ La velocidad de la luz c y la constante de Planck @Math {hbar} son propiedades i
 
 }
 @ListItem {
-Las partículas-pulsación (materia) están formadas por el segundo sonido del sustrato esméctico - variaciones coherentes de temperatura que se
-propagan longitudinalmente. El movimiento de estas pulsaciones arrastra el sustrato generando ondas transversales denominadas ondas de arrastre. El fotón es la onda de arrastre transversal libre (sin masa en reposo) que se propaga a c en las dimensiones extendidas con k_c=0. De forma análoga existen ondas de arrastre electrofuertes y neutrónicas, aún no detectadas experimentalmente. La diferencia entre los tres tipos de ondas de arrastre reside en el nivel de la coordenada de Kaluza donde se generan: neutrónica en el esméctico A exterior, electromagnética en la interfaz C-A, y electrofuerte en el esméctico C interior.
+Las partículas-pulsación no son constituyentes que se mueven ni vibran dentro del sustrato - son sus modos propios de vibración interna, en el mismo sentido en que una única molécula sin partes últimas separables posee, sin embargo, un espectro de modos vibracionales bien definidos por su propia geometría. El sustrato es, en este sentido, una única entidad continua y extendida con un espectro -prácticamente infinito- de modos propios internos; lo que percibimos como masa y energía de una partícula es la energía localizada en uno de esos modos, no el movimiento de una sustancia contenida en el sustrato.
 }
 
 
- @ListItem { Las partículas-pulsación forman ondas estacionarias en las dimensiones compactadas que modifican el sustrato localmente - alterando su índice
-de refracción y generando arrastres a diferentes niveles de la coordenada de Kaluza. La modificación de las trayectorias de otras
-partículas-pulsación en este sustrato alterado es lo que se percibe como interacción entre ellas. No existen partículas mediadoras ni
-campos independientes del sustrato: este mecanismo de modificación del medio es el único modo de interacción existente en la naturaleza.
+ @ListItem { Las partículas-pulsación forman ondas estacionarias en las dimensiones compactadas que modifican el sustrato localmente -alterando su índice de refracción, generando arrastres con distinta intensidad según la región de la anisotropía del hyle, e induciendo, en ciertas condiciones, cambios de fase reversibles y transitorios en su entorno inmediato (ver postulado 5 y desarrollo del mecanismo generador en el Capítulo 2)-. La modificación de las trayectorias de otras partículas-pulsación en este sustrato alterado es lo que se percibe como interacción entre ellas. No existen partículas mediadoras ni campos independientes del sustrato: este mecanismo de modificación del medio es el único modo de interacción existente en la naturaleza.
 @DP
 Esta concepción recupera y formaliza la intuición de Lord Kelvin (1867), quien propuso que la materia era una estructura topológica
 - un nudo o torbellino - en un sustrato físico denominado éter. La caída del éter como concepto tras los experimentos de Michelson-Morley
-descartó prematuramente esta línea de pensamiento. El sustrato esméctico aquí propuesto no es el éter estático e incompatible con
-la relatividad de Kelvin, sino un superfluido cuántico dinámico cuyas propiedades son compatibles con la Relatividad Especial y General -
+descartó prematuramente esta línea de pensamiento. El sustrato -hyle- aquí propuesto no es el éter estático e incompatible con
+la relatividad de Einstein, sino un superfluido cuántico dinámico cuyas propiedades son compatibles con la Relatividad Especial y General -
 y que rehabilita la intuición original de que la materia es inseparable del medio en que existe.
  }
+
+@ListItem {A diferencia de un fluido ordinario, donde la disipación es universal y degrada la energía mecánica en calor desordenado, el hyle no disipa energía en ese sentido en ningún caso: cuando se producen, de forma excepcional, las condiciones necesarias (ver postulado 14, criterio de Landau), lo que en un fluido normal se traduciría en pérdida se manifiesta en el hyle como la aparición de nuevas pulsaciones coherentes -materia y energía- en vez de como desorden térmico irreversible. La ausencia de disipación genuina no es una idealización adicional del modelo, es la condición necesaria para que exista cualquier partícula estable en absoluto: sin ella, cualquier pulsación confinada decaería por fricción con el propio sustrato que la sostiene.}
+
+@ListItem {La respuesta del hyle a la energía"/"presión de la pulsación depende de su magnitud, dando lugar a tres regímenes de un mismo fenómeno de fondo: la permeación nula en la dirección @Math {xi} (postulado 5) obliga a que cualquier perturbación que una pulsación introduce en el hyle se exprese en la coordenada angular @Math {eta}, la única dirección abierta a esa interacción. Esta autoconsistencia -onda que modifica el medio, medio modificado que redefine la onda- es la que justifica el uso de la ecuación de Mathieu como marco general, con tres manifestaciones distintas según la intensidad de la pulsación:
+@DP
+@B{Neutrinos electrónico y muónico}. En este régimen, la incapacidad de las pulsaciones para generar cambios de fase apreciables en el hyle se traduce en ausencia de nucleación - justificando el uso de la ecuación de Mathieu con q=0.
+@DP
+@B{Neutrino tauónico}. Régimen débil, con @Math {q similar 0.64}. La pulsación es capaz de generar dos pequeñas nucleaciones transitorias, en posiciones diametralmente opuestas (@Math {eta } y @Math {eta + pi }), que actúan como un peine de dos púas de potenciales tipo delta. En este régimen de potencial débil, dicho peine es bien aproximado por el primer armónico de Mathieu (@Math {2q cdot cos 2 eta}). La condición topológica a=0 - ya establecida de forma independiente por el exponente de Floquet @Math {upsilon = half} (2.1.3.3) - resulta compatible con esta aproximación, sin depender de ella.
+@DP
+@B {Electrón y epícimas}. Régimen fuerte, con @Math {q similar 10 sup 13}. La pulsación produce una deformación geométrica real del hyle hacia una elipse, ya sea por presión de radiación o por la fusión de las nucleaciones transitorias en una estructura estable, unida a los núcleos preexistentes de la interfaz correspondiente. La ecuación de Mathieu describe entonces la geometría real del sustrato deformado, no una aproximación de un potencial puntual débil.
+}
+
 @ListInterruptItem @B {POSTULADOS COSMOLÓGICOS}
 
 @ListItem {
 
-El Big Bang no fue una explosión, sino la formación de un torbellino o vórtice del sustrato pentadimensional, de geometría toroidal y
-quiralidad definida. La rotación del torbellino fija una dirección preferente en las dimensiones compactadas - el eje del toro elíptico
-- y es el origen de la asimetría materia-antimateria observable. Como estamos en el interior de este torbellino no se puede saber si formamos
-parte de una estructura superior o el torbellino es todo lo que existe. La existencia del torbellino no se deriva de postulados anteriores: es
-el postulado cosmológico fundamental del modelo, análogo al papel que juega la condición inicial en cosmología estándar.
+El Big Bang no fue una explosión, sino la formación de un torbellino o vórtice del hyle pentadimensional, de geometría toroidal y quiralidad definida. La rotación del torbellino fija una dirección preferente en las dimensiones compactadas - el eje del toro elíptico-  y puede ser el origen de la asimetría materia-antimateria observable. Como estamos en el interior de este torbellino no se puede saber si formamos parte de una estructura superior o el torbellino es todo lo que existe. La existencia del torbellino no se deriva de postulados anteriores: es el postulado cosmológico fundamental del modelo, análogo al papel que juega la condición inicial en cosmología estándar.
 }
 
 @ListItem {
-Durante el Big Bang se produjo la cristalización del sustrato desde el punto triple (fase isótropa a densidad @Math {rho sub P} y temperatura @Math {T sub P}) hacia las fases esmécticas actuales. La cristalización se produjo cuando la contracción de las dimensiones compactadas alcanzó su límite de empaquetamiento - al hacerlo, la velocidad relativa de contracción superó necesariamente la velocidad crítica de Landau (1941) del superfluido. Por ese criterio, el exceso de energía -cinética y de cristalización- se convirtió directamente en masa de las partículas-pulsación, sin disipación térmica en el sustrato. Tras la cristalización, el sustrato deja de responder como fluido compresible en las dimensiones compactadas: la contracción se congela, y R_u permanece invariante desde entonces. Este proceso no es un postulado ad hoc: es consecuencia directa de los postulados 5 (naturaleza superfluida) y 6 (punto triple) - dado que el sustrato existe y alcanza ese estado, la cristalización y la congelación posterior son inevitables.
-
+Durante el Big Bang se produjo la cristalización del hyle desde el estado tricrítico (fase isótropa continua a densidad @Math {rho sub P} y temperatura @Math {T sub P} , postulado 6) hacia las fases esmécticas continuas actuales.
+@DP
+El disparador de este proceso no es una velocidad local dentro del sustrato, sino una propiedad global del propio hyle como objeto único: a medida que las dimensiones extendidas se expandían, la velocidad física asociada a esa expansión (tasa de expansión unitaria multiplicada por el tamaño global del hyle) alcanzó la velocidad crítica de Landau del superfluido -que, con espectro puramente fonónico, coincide exactamente con c (postulado 3.4.2)-. Este cruce, al depender de una escala global y no de una coordenada local, ocurre de forma simultánea e isótropa en todo el sistema, preservando la homogeneidad del universo observable; no implica ninguna señal ni objeto propagándose más rápido que c en ningún punto, del mismo modo que la fase global de un condensado de Bose-Einstein o las correlaciones del entrelazamiento cuántico son fenómenos colectivos del sistema como totalidad, no señales locales - sin contradicción alguna con la invariancia de c ya postulada (postulado 2).
+@DP
+Este cruce global constituye el Bang sónico: el disparador dinámico, análogo a otros eventos similares en fluidos naturales, que empuja al sistema hacia el estado tricrítico ya descrito. Que sea específicamente la dirección @Math {xi} , y no las extendidas ni @Math {eta}, la que efectivamente cristaliza, es una consecuencia de la anisotropía geométrica ya establecida (permeación nula en @Math {xi} , postulado 5) - no un segundo cruce de velocidad independiente.
+@DP
+Por ese criterio, el exceso de energía -cinética y de cristalización- se convirtió directamente en masa de las partículas-pulsación, sin disipación térmica en el sustrato. Tras la cristalización, el hyle deja de responder como fluido compresible en las dimensiones compactadas: la contracción se congela, y R_u permanece invariante desde entonces. Este proceso no es un postulado ad hoc: es consecuencia directa de los postulados 5 (naturaleza superfluida) y 6 (estado tricrítico) - dado que el sustrato existe y alcanza ese estado, la cristalización y la congelación posterior son inevitables.
+@DP
+@B {Nota sobre una simetría conceptual del modelo}. El hyle es, en el sentido descrito arriba, un único objeto sujeto a fenómenos globales (postulados 1, 14). Las partículas-pulsación son sus modos internos - pero estas, a su vez, pueden formar sustancias, similares en algunos aspectos al hyle y completamente distintas en otros, debido por un lado a su naturaleza discreta y por otro a la limitación estricta de sus constituyentes a la velocidad c. Estos fluidos se parecen más al hyle a temperaturas ultrafrías, cuando las longitudes de onda térmicas se solapan y las sustancias pierden en parte su naturaleza discreta - pero, a diferencia del hyle mismo (postulado 14), la limitación local a c de sus constituyentes se mantiene en todo momento: ninguna sustancia formada por pulsaciones comparte la propiedad global que permite al hyle, como totalidad, cruzar ese umbral sin violar la invariancia local de c
 
 
 
@@ -77,11 +108,7 @@ Durante el Big Bang se produjo la cristalización del sustrato desde el punto tri
 
 @ListItem {
 
-La masa aparece en el momento en que la cristalización permite que las dimensiones compactadas actúen como guía de onda, confinando las
-partículas-pulsación. En ese momento aparecen simultáneamente la masa inercial y la masa gravitatoria - dos aspectos del mismo fenómeno
-geométrico, no dos propiedades independientes que requieran un principio de equivalencia como postulado adicional. Es la interacción de la
-partícula-pulsación con el sustrato esméctico el verdadero origen de la masa, ya intuido por Higgs mediante un campo escalar: el esméctico es
-ese campo escalar, con la ventaja de tener una estructura física concreta y propiedades termodinámicas derivables.
+La masa aparece en el momento en que la cristalización permite que las dimensiones compactadas actúen como guía de onda, confinando las partículas-pulsación. En ese momento aparecen simultáneamente la masa inercial y la masa gravitatoria -dos aspectos del mismo fenómeno geométrico, no dos propiedades independientes que requieran un principio de equivalencia como postulado adicional. Es la interacción de la partícula-pulsación con el hyle el verdadero origen de la masa -un mecanismo geométrico de confinamiento, no de acoplamiento a un campo de fondo-, en el mismo espíritu con que Higgs intuyó que la masa requiere la existencia de un medio omnipresente que la partícula debe atravesar.
 
 }
 

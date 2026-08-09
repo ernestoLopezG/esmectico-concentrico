@@ -2,7 +2,7 @@
 @Title { Topología elíptica de las dimensiones compactadas.}
 @Begin
 @PP
-La aproximación elíptica adoptada aquí recuerda superficialmente a las órbitas de Sommerfeld, pero difiere en su naturaleza: no describe una trayectoria sino la topología de las dimensiones compactadas. Su justificación es el ajuste al momento magnético anómalo del electrón, pero la geometría exacta de las dimensiones compactadas requiere una derivación más profunda desde los postulados del modelo
+La aproximación elíptica adoptada aquí recuerda superficialmente a las órbitas de Sommerfeld, pero difiere en su naturaleza: no describe una trayectoria sino la topología de las dimensiones compactadas. Su justificación es el ajuste al momento magnético del electrón, pero la geometría exacta de las dimensiones compactadas requiere una derivación más profunda desde los postulados del modelo
 
 @PP
 
@@ -33,10 +33,6 @@ donde e representa la excentricidad de la la elipse. Se ha encontrado que el err
 No obstante es posible seguir utilizando  la hipótesis circular en muchos casos simplemente manteniendo la constante  @Math { G hat = 1,01807176} , que ahora se considera un factor de forma.
 @DP
 
-Si utilizamos esta corrección veremos que ahora la expresión : @DP
-@Math { sqrt {s(s+1)} cdot {8 pi G }over {c sup {4}} slash 1,01807176 =  1,7664 cdot 10 sup {-43}},@DP
-es prácticamente igual al factor @Math { hbar over {2c} = 1,7598 cdot 10 sup {-43}}
-@DP con s= @Char {onehalf}.
 
 
 @End @SubSection

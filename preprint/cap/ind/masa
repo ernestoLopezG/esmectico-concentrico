@@ -18,8 +18,6 @@ Por otro lado si consideramos la ecuación que relaciona la curvatura escalar R c
 
 donde el factor @Math {{8 pi G }over {c sup {4}}= 2,0766 cdot 10 sup {-43}}  es del mismo orden de magnitud @LP que el factor @Math {hbar over {2c}= 1,7588 cdot 10 sup {-43}} .
 @LP
-De hecho están relacionados por el mismo factor que relaciona el espín total de protones, neutrones y electrones con la proyección de éste en un eje, es decir: @DP
-@Math { sqrt {s(s+1)} cdot {8 pi G }over {c sup {4}} = 0,866 cdot 2,0766 cdot 10 sup {-43} =  1,7983 cdot 10 sup {-43}} @LP donde s= @Char {onehalf}
-@DP En el capítulo 2 se justificará formalmente de donde proviene esta aparente coincidencia numérica.
+Esta coincidencia numérica no está dimensionalmente homogeneizada; se presenta como motivación heurística, no como resultado con significado físico verificado.
 
 @End @SubSection

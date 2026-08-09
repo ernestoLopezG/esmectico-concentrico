@@ -103,22 +103,7 @@ Finalmente indicar que los cálculos realizados son relativamente simples y se ba
     M {-}
     N {@Ding a71}
 
-@Rowb
 
-A{Radio compactación R @Sub {u}  = @Sym radical (G"/" 2 @Sym pi )}
-B  {-}
-C  {-}
-D  {-}
-E  {-}
-F  {@Ding a71}
-G  {-}
-H  {-}
-I  {-}
-J  {@Ding a71}
-K  {-}
-L  {-}
-M  {-}
-N  {-}
 @Rowb
 
   A{Gravitomagnetismo 6D @Sym equivalence electromagnetismo 5D}
@@ -169,7 +154,7 @@ N  {-}
 @DP
  Problema explicado: @Ding a71 Problema parcialmente explicado: @Ding a81 No aplica: -.
 @DP
-En realidad, todos estos postulados se han ido reduciendo a dos, todo está formado por vibraciones de un sustrato - el espacio-tiempo, concebido como un superfluido cuántico con dimensiones compactadas - y un único mecanismo de interacción: la modificación del índice de refracción de ese sustrato.
+En realidad, todos estos postulados se han ido reduciendo a dos, todo está formado por vibraciones de un sustrato - el espacio-tiempo, concebido como un superfluido cuántico con dimensiones compactadas - y un único mecanismo de interacción: la modificación del sustrato por las ondas estacionarias que forman las partículas-pulsacin.
 @NP
 @B {Prefacio a la nueva revisión }
 @DP Transcurridos 5 años desde la publicación del preprint original en ResearchGate (2021), había llegado la hora de revisar los cálculos numéricos con las nuevas herramientas disponibles. Se decidió iniciar la revisión con la ayuda de Claude Sonnet 4.6, un modelo de lenguaje de gran escala desarrollado por Anthropic, en sesiones de trabajo realizadas durante 2026.
@@ -184,7 +169,7 @@ Las diferencias principales respecto al preprint anterior son:
 @DP
 - La formalización del streaming gravitomagnético mediante el tensor de Lighthill, con la justificación rigurosa de que las ondas estacionarias generan streaming sin necesidad de disipación - resolviendo una objeción conceptual importante respecto al preprint anterior.
 @DP
-- La justificación del exponente 0.75 en la ley @Math {q slash m sup {0.75}} desde el cruce entre los regímenes de Stokes y Eckart. La identificación de las unidades de Planck como propiedades intrínsecas del esméctco lleva al resultado notable de que todos los números adimensionales del cristal líquido son iguales a 1 en la escala de Planck - siendo el número de Reynolds unitario el origen del exponente 0.75.
+- La justificación del exponente 0.75 en la ley @Math {q slash m sup {0.75}} desde el cruce entre los regímenes de streaming inercial y viscoso. La identificación de las unidades de Planck como propiedades intrínsecas del esméctco lleva al resultado notable de que todos los números adimensionales del cristal líquido son iguales a 1 en la escala de Planck - siendo el número de Reynolds unitario el origen del exponente 0.75.
 @DP
 - La conexión formal entre el streaming gravitomagnético dipolar y la solución de Kerr, con la identificación del factor 2 del número de Dirac con el espín @Math {hbar slash 2} del electrón.
 @DP
