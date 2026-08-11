@@ -16,7 +16,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -324,7 +324,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -470,7 +470,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -839,7 +839,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -1045,7 +1045,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -1262,7 +1262,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -1463,7 +1463,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -1525,7 +1525,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section
@@ -1825,7 +1825,7 @@
 }
 {@Chapter
   \a{"10.1148.libro.lout.3"}
-  \b{Y de nuevo al principio, el éter.}
+  \b{Y de nuevo al principio, el hyle.}
 { @LInput }} } }
 }
 {@Section

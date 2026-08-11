@@ -96,11 +96,11 @@ Los cálculos numéricos de este capítulo fueron verificados con asistencia de Cla
 @End @Chapter
 
 @Chapter
-@Title { Y de nuevo al principio, el éter. }
+@Title { Y de nuevo al principio, el hyle. }
 @Begin
 @BeginSections
 	
-	@Include {"cap/eter/eter"}
+	@Include {"cap/eter/hyle"}
 	@Include {"cap/eter/cosmologia"}
 	@Include {"cap/eter/fases"}
 	@Include {"cap/eter/masa"}

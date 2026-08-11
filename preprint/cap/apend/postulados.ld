@@ -444,23 +444,3 @@
   \a{"4.1748.cap/apend/postulados.21"}
 ???}}
 
-{@@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "4864 385"
-}
-{@@V @MakeList 4} } }
-}
-{@@V @NormalItem} } }
-}
-{@NumberMarker
-  \a{"4.1200.cap/apend/postulados.44"}
-  \b{@@V type 4}}}
-
-{@@E {
-@@D "49 4"
-}
-{@@V listitem
-  \a{"4.1748.cap/apend/postulados.22"}
-???}}
-

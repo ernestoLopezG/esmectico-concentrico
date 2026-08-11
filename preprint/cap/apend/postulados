@@ -47,7 +47,7 @@ El fluido isótropo central, al carecer de esa estructura ordenada, no puede sost
 
 }
 @ListItem {
- Muchas de las constantes físicas actuales son consecuencia de la topología de las dimensiones compactadas y de su estado de cristalización actual. Entre ellas: la constante gravitatoria G (que expresa la capacidad de las partículas pulsación para modificar el indice de refracción del hyle), la constante de estructura fina y la carga eléctrica elemental e ( que dependen del radio @Math {xi 0} en el cual cambia de fase el hyle de esmectico A a C) y la constante cosmológica @Math {Lambda} (que en el modelo es @Math {2H sub {0} sup {2} slash c sup {2}}, verificado por pares).
+ Muchas de las constantes físicas actuales son consecuencia de la topología de las dimensiones compactadas y de su estado de cristalización actual. Entre ellas: la constante gravitatoria G (que expresa la capacidad de las partículas pulsación para modificar el indice de refracción del hyle), la constante de estructura fina @Math {alpha} y la carga eléctrica elemental e ( que dependen del radio @Math {xi 0} en el cual cambia de fase el hyle de esmectico A a C) y la constante cosmológica @Math {Lambda} (que en el modelo es @Math {2H sub {0} sup {2} slash c sup {2}}, verificado por pares).
  @DP
 Estas identificaciones son válidas para el estado del sustrato tal como existe hoy - es decir, desde el final de la hiperinflación (postulado 14), cuando la contracción de las dimensiones compactadas se congeló al alcanzar su límite de compactación. Durante la hiperinflación, estas constantes pudieron evolucionar dinámicamente sin entrar en conflicto con ninguna observación actual, precisamente porque ese proceso ocurrió y terminó en una época anterior a cualquier ventana experimental (nucleosíntesis primordial, relojes atómicos, espectros de cuásares). Desde la congelación, estas cantidades son efectivamente constantes - no por una ley general de invariancia temporal, sino porque el proceso que las modificaba se detuvo.
 @DP
@@ -59,7 +59,7 @@ La velocidad de la luz c y la constante de Planck @Math {hbar} son propiedades i
 
 }
 @ListItem {
-Las partículas-pulsación no son constituyentes que se mueven ni vibran dentro del sustrato - son sus modos propios de vibración interna, en el mismo sentido en que una única molécula sin partes últimas separables posee, sin embargo, un espectro de modos vibracionales bien definidos por su propia geometría. El sustrato es, en este sentido, una única entidad continua y extendida con un espectro -prácticamente infinito- de modos propios internos; lo que percibimos como masa y energía de una partícula es la energía localizada en uno de esos modos, no el movimiento de una sustancia contenida en el sustrato.
+Las partículas-pulsación no son constituyentes que se mueven ni vibran dentro del sustrato - son sus modos propios de vibración interna, en el mismo sentido en que una única molécula sin partes últimas separables posee, sin embargo, un espectro de modos vibracionales bien definidos por su propia geometría. El sustrato es, en este sentido, una única entidad continua y extendida con un espectro -prácticamente infinito- de modos propios internos; lo que percibimos como masa y energía de una partícula es la energía localizada en uno de esos modos, no el movimiento de una sustancia contenida en el sustrato. Esto no es óbice para que estos modos modifiquen localmente el hyle de forma transitoria mientras existen (ver postulado 10)
 }
 
 
@@ -91,7 +91,7 @@ El Big Bang no fue una explosión, sino la formación de un torbellino o vórtice d
 }
 
 @ListItem {
-Durante el Big Bang se produjo la cristalización del hyle desde el estado tricrítico (fase isótropa continua a densidad @Math {rho sub P} y temperatura @Math {T sub P} , postulado 6) hacia las fases esmécticas continuas actuales.
+Durante el Big Bang se produjo la cristalización del hyle (término usado por analogía funcional con la transición de fase de un fluido discreto  -cambio abrupto de régimen dinámico-, pero con características propias de un verdadero continuo) desde el estado tricrítico (fase isótropa continua a densidad @Math {rho sub P} y temperatura @Math {T sub P} , postulado 6) hacia las fases esmécticas continuas actuales.
 @DP
 El disparador de este proceso no es una velocidad local dentro del sustrato, sino una propiedad global del propio hyle como objeto único: a medida que las dimensiones extendidas se expandían, la velocidad física asociada a esa expansión (tasa de expansión unitaria multiplicada por el tamaño global del hyle) alcanzó la velocidad crítica de Landau del superfluido -que, con espectro puramente fonónico, coincide exactamente con c (postulado 3.4.2)-. Este cruce, al depender de una escala global y no de una coordenada local, ocurre de forma simultánea e isótropa en todo el sistema, preservando la homogeneidad del universo observable; no implica ninguna señal ni objeto propagándose más rápido que c en ningún punto, del mismo modo que la fase global de un condensado de Bose-Einstein o las correlaciones del entrelazamiento cuántico son fenómenos colectivos del sistema como totalidad, no señales locales - sin contradicción alguna con la invariancia de c ya postulada (postulado 2).
 @DP
@@ -126,24 +126,15 @@ en cualquier proceso físico accesible.
 
 
 @ListItem {
-Los hadrones son estados estacionarios del sustrato esméctico formados por combinaciones de epícimas confinadas en estratos concéntricos. Los
-bariones tienen estructura (n, n-1, 1) con n preferentemente impar - condición que garantiza momento magnético de tipo leptónico - y para
-ser estables deben estar formados por un mínimo de ~50 epícimas, aunque el más ligero posible se identifique con el muón, con n=3. Los mesones
-tienen estructura (n, n, 1, 1) para mesones cargados o (n, n) para algunos mesones neutros, con el número total de epícimas
-preferentemente divisible por 4 por consideraciones de simetría. En todos los casos
-relativamente estables, el radio del estrato más exterior coincide con la escala característica de la epícima ligera @Math {xi sub {0}(ep_l) = 8.49 fm} - condición geométrica que actúa como primera restricción del selector de combinaciones y que conecta la escala de las dimensiones extendidascon la escala de las dimensiones compactadas. Las masas y momentos magnéticos de los hadrones emergen de dos parámetros globales (m_l y m_p) obtenidos empíricamente, pues dependen del radio del fluido esméctico isótropo y de la interfaz A"/"C. Los valores base de estos
-parámetros fueron obtenidos inicialmente por Palazzi (2006) a partir de reglas de masa lineales en hadrones, y refinados posteriormente
-para obtener mejores ajustes simultáneos en masas y momentos magnéticos.
+Los hadrones son estados estacionarios del hyle esméctico continuo formados por combinaciones de epícimas confinadas en estratos concéntricos. Los bariones tienen estructura (n, n-1, 1), con n preferentemente impar -condición que garantiza momento magnético de tipo leptónico- y deben estar formados por un mínimo de 50-54 epícimas para ser estables; con menos epícimas, la estructura es posible pero decae rápidamente, coherente con la naturaleza inestable de partículas de vida corta.@B{ El modelo predice, de forma central y falsable, que el hadrón más ligero posible -con n=3, muy por debajo del umbral de estabilidad- se identifica con el muón, hasta ahora clasificado como leptón fundamental en el Modelo Estándar}. Los mesones tienen estructura (n, n, 1, 1) para mesones cargados o (n, n) para algunos mesones neutros, con el número total de epícimas preferentemente divisible por 4 por consideraciones de simetría. En todos los casos relativamente estables, el radio del estrato más exterior coincide con la escala característica de la epícima ligera @Math {xi sub 0 (ep_l)=8.49 fm} -condición geométrica que actúa como primera restricción del selector de combinaciones y que conecta la escala de las dimensiones extendidas con la escala de las dimensiones compactadas. Las masas y momentos magnéticos de los hadrones emergen de dos parámetros globales (m_l y m_p) obtenidos empíricamente, pues dependen del radio del fluido esméctico isótropo y de la interfaz A"/"C. Los valores base de estos parámetros fueron obtenidos inicialmente por Palazzi (2006) a partir de reglas de masa lineales en hadrones, y refinados posteriormente para obtener mejores ajustes simultáneos en masas y momentos magnéticos.
 
 }
-@ListInterruptItem @B {LÍMITES DEL MODELO - DECLARACIÓN HONESTA}
+@ListInterruptItem @B {LÍMITES DEL MODELO }
 
 @ListItem {
 La hipótesis aquí expuesta surgió como un intento de derivar los principios de la Mecánica Cuántica a partir de la Relatividad General,
 y aunque ha terminado trascendiendo ambos marcos - conteniéndolos como casos límite o consecuencias de un sustrato más fundamental - lleva
-implícita la Relatividad General en ella. No existe actualmente ninguna formalización estricta de su equivalencia matemática con la RG ni con
-la MC: ambas emergen del modelo cualitativamente, pero su derivación rigurosa requiere matemáticas fuera del alcance actual del autor y
-queda como problema abierto prioritario.}
+implícita la Relatividad General en ella. No existe actualmente ninguna formalización estricta de su equivalencia matemática con la Relatividad General ni con la Mecánica Cuántica: ambas emergen del modelo cualitativamente, como marcos con los que el hyle resulta compatible, no como casos límite derivados de una formalización matemática única y particularizable. Esta derivación rigurosa requiere matemáticas fuera del alcance actual del autor y queda como problema abierto prioritario. El modelo no pretende ser la única hipótesis capaz de sostener tal compatibilidad.}
 
 
 
@@ -156,21 +147,16 @@ queda como problema abierto prioritario.}
 @ListItem { La transición de fase del Big Bang como postulado secundario
 }
 @ListInterruptItem {
-La cristalización del sustrato (postulado 12) no es un postulado independiente sino una consecuencia de los postulados 5 y 6. Sin
+La cristalización del sustrato (postulado 14) no es un postulado independiente sino una consecuencia de los postulados 5 y 6. Sin
 embargo, el momento exacto en que se superaron las condiciones críticas de Landau - qué condición inicial del torbellino desencadenó la
-transición - no está derivado del modelo. Es un problema abierto dentro del postulado cosmológico fundamental (postulado 11).}
+transición - no está derivado del modelo. Es un problema abierto dentro del postulado cosmológico fundamental (postulado 13).}
 @ListItem {Los mesones - esbozo de sistema}
-@ListInterruptItem {La clasificación de mesones mediante los parámetros (@Math {n, Sigma, Delta}) y la comparación con la rejilla de Palazzi constituyen un esbozo de sistema, no una teoría completa. Los resultados cuantitativos disponibles (@Math {pi sup {0}}con error -0.015%, familia @Math {etha } superando a Palazzi en 7"/"9 estados) son prometedores, pero la verificación sistemática de otras familias mesónicas queda como trabajo pendiente para versiones futuras.}
+@ListInterruptItem {La clasificación de mesones mediante los parámetros (@Math {n, Sigma, Delta}) basandose en la rejilla de Palazzi constituyen un esbozo de sistema, no una teoría completa. Los resultados cuantitativos disponibles (@Math {pi sup {0}}con error -0.015%, familia @Math {eta } con mejores ajustes que los ya publicados actualmente) son prometedores, pero la verificación sistemática de otras familias mesónicas queda como trabajo pendiente para versiones futuras. Esta limitación no es estructural: la determinación fiable de la composición de epícimas de cada mesón requiere su momento magnético, dato experimental ausente para la gran mayoría de los mesones detectados -una limitación de disponibilidad de datos y de volumen de trabajo (estimado en uno o dos años), no una dificultad conceptual del propio modelo.}
 @ListItem {El confinamiento de epícimas - argumento físico sin formalización estricta}
 @ListInterruptItem {
-El postulado 14 describe un mecanismo físico coherente y bien motivado, pero no constituye una prueba matemática de que las epícimas libres sean imposibles. La formalización estricta del confinamiento - análoga en ambición a la prueba del confinement en QCD, que tampoco existe
+El postulado 16 describe un mecanismo físico coherente y bien motivado, pero no constituye una prueba matemática de que las epícimas libres sean imposibles. La formalización estricta del confinamiento - análoga en ambición a la prueba del confinement en QCD, que tampoco existe
 formalmente - queda como problema abierto de largo alcance.}
-@ListItem { La gravedad cuántica - implícita pero no formalizada}
-@ListInterruptItem {
-El modelo se derivó desde los principios de la Relatividad General (postulado 16), por lo que la gravedad cuántica está implícita en su
-estructura. Sin embargo, la conexión explícita entre la descripción del sustrato a escala de Planck y las ecuaciones de Einstein en el límite
-apropiado no está derivada formalmente. Esta formalización requiere matemáticas (geometría diferencial en espacios curvos de alta dimensión)
-fuera del alcance matemático del autor y se declara explícitamente como problema abierto.}
+
 @EndList
 
 
