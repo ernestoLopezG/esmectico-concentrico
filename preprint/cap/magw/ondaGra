@@ -2,7 +2,7 @@
 @Title { Ecuación de ondas gravitomagnéticas.}
 @Begin
 @LP
-Una advertencia al lector: los capítulos 2 y 3 nacieron separados, pero la hipótesis los ha ido entrelazando. La conclusión de que el medio de transmisión es un superfluido cuántico cristalizado en cristal líquido - con dos capas esméticas concéntricas y un núcleo en estado posiblemente líquido - no precede al capítulo 2 sino que emerge de él. Ambos capítulos deben leerse como un diálogo.
+Una advertencia al lector: este capítulo explora la posibilidad de que lo que llamamos partículas sean en realidad ondas en un espacio-tiempo pentadimensional con una topologia muy concreta. Esta hipótesis resuelve muchos problemas - como se verá en las siguientes secciones- pero a la vez resulta insuficiente en otros, estas carencias se harán explicitas en el último punto de este capítulo. La solución a estos inconvenientes es la asunción de un sustrato verdadero, lo que se desarrollará en el capítulo 3.
 @DP
 La ecuaciones del gravitomagnetismo son:@DP
 @CurveBox{
@@ -17,7 +17,7 @@ La ecuaciones del gravitomagnetismo son:@DP
 @Math {nabla times B sub {g} =-{4 pi G} over {c } cdot  j vec sub {m} + {1} over {c } { partial  E vec sub {g}} over {partial t}}
 }
 @DP
-Si tenemos en cuenta que hemos postulado que @Math {   {mu} hat sub {0g} }tiene que ser igual a la unidad  para 6D y por tanto B=H podemos plantear las ecuaciones del gravitomagnetismo en ausencia de masas.
+Si postulamos que B=H podemos plantear las ecuaciones del gravitomagnetismo en ausencia de masas.
 @DP
 @Math{ nabla vec E vec sub {g}= 0  }                                  @Verbatim{(a)}
 @DP
@@ -50,7 +50,7 @@ Análogamente podemos obtener:@DP
 
 Si suponemos que el campo tiene dependencia armónica con el tiempo de la forma. @DP
 
-@Math {   Psi vec =  bar    Psi vec sub {0}      e sup {-wt}  bar }
+@Math {   Psi vec =  bar    Psi vec sub {0}      e sup {-wti}  bar }
 
 @DP
 

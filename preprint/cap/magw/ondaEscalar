@@ -47,8 +47,8 @@ Y como es habitual en los cálculos de ondas guía podemos descomponer el número d
  donde {@Sym beta} se denomina constante de propagación y kc es el número de ondas de corte y representa la frecuencia mínima para que una onda pueda propagarse por la guía. @LP
 
 De tal forma que podemos obtener 2 ecuaciones: @DP
-@CurveBox @Math {{nabla {sup {2}} sub {xi, eta  } Phi( xi, eta)} over {Phi( xi, eta)} + k sub {c} sup {2} = 0 } (3) @DP 
-@CurveBox @Math {{nabla {sup {2}} sub {3D} Psi(x,y,z)} over {Psi(x,y,z)}+ beta sup {2} = 0 } @DP
+@CurveBox @Math {{nabla {sup {2}} sub {xi, eta  } Phi( xi, eta)} over {Phi( xi, eta)} - k sub {c} sup {2} = 0 } (3) @DP
+@CurveBox @Math {{nabla {sup {2}} sub {3D} Psi(x,y,z)} over {Psi(x,y,z)}- beta sup {2} = 0 } @DP
 
 
 

@@ -111,7 +111,31 @@
 
 {@@E {
 { @@A { @@E {
-@@D "7 1"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
 }
 {@SubSection
   \a{"10.1227.cap/magw/particula.1"}
@@ -126,7 +150,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "63 5"
+@@D "2019 117"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/particula.1"} } }
 }
@@ -135,7 +159,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/particula.1"}}}
 
 {@@E {
-@@D "2239 127"
+@@D "2630 151"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/particula.1"}
@@ -159,19 +183,398 @@
   \b{@@V @Caption}}}
 
 {@@E {
-@@D "63 5"
+{ @@B { { @@A { @@E {
+@@D "2019 117"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.42"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.2"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}}
 
 {@@E {
-@@D "1949 112"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@SubSection
+  \a{"10.1227.cap/magw/particula.1"}
+  \b{Solución para las dimensiones extendidas.}
+{ @LInput }} } }
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.2"}
@@ -181,7 +584,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "63 5"
+@@D "9231 551"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/particula.2"} } }
 }
@@ -190,7 +593,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/particula.2"}}}
 
 {@@E {
-@@D "3283 182"
+@@D "9837 585"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/particula.2"}
@@ -199,7 +602,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "1949 112"
+@@D "9161 546"
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.2"}
@@ -214,19 +617,419 @@
   \b{@@V @Caption}}}
 
 {@@E {
-@@D "63 5"
+{ @@B { { @@A { @@E {
+@@D "9231 551"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.42"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.4"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}}
 
 {@@E {
-@@D "1949 112"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@SubSection
+  \a{"10.1227.cap/magw/particula.1"}
+  \b{Solución para las dimensiones extendidas.}
+{ @LInput }} } }
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.3"}
@@ -235,7 +1038,7 @@
 ???}}
 
 {@@E {
-@@D "1949 112"
+@@D "16675 1001"
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.4"}
@@ -260,7 +1063,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/particula.3"}}}
 
 {@@E {
-@@D "4514 246"
+@@D "17545 1049"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/particula.3"}
@@ -269,7 +1072,31 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "1949 112"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "17559 1050"
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@SubSection
+  \a{"10.1227.cap/magw/particula.1"}
+  \b{Solución para las dimensiones extendidas.}
+{ @LInput }} } }
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.3"}
@@ -284,20 +1111,411 @@
   \b{@@V @Caption}}}
 
 {@@E {
-@@D "4528 247"
+{ @@B { { @@A { @@E {
+@@D "17559 1050"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.42"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.6"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}}
 
 {@@E {
 { @@A { @@E {
-@@D "4528 247"
+@@D "17559 1050"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/particula.4"} } }
 }
@@ -306,7 +1524,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/particula.4"}}}
 
 {@@E {
-@@D "5461 298"
+@@D "25205 1516"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/particula.4"}
@@ -315,7 +1533,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "1949 112"
+@@D "18082 1074"
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.4"}
@@ -330,19 +1548,431 @@
   \b{@@V @Caption}}}
 
 {@@E {
-@@D "4528 247"
+{ @@B { { @@A { @@E {
+@@D "17559 1050"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.42"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.8"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}}
 
 {@@E {
-@@D "1949 112"
+@@D "18082 1074"
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.5"}
@@ -352,7 +1982,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "4528 247"
+@@D "17559 1050"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/particula.5"} } }
 }
@@ -361,7 +1991,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/particula.5"}}}
 
 {@@E {
-@@D "6574 353"
+@@D "32902 1983"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/particula.5"}
@@ -370,7 +2000,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "1949 112"
+@@D "18082 1074"
 }
 {@Figure
   \a{"9.3806.cap/magw/particula.5"}
@@ -385,14 +2015,441 @@
   \b{@@V @Caption}}}
 
 {@@E {
-@@D "4528 247"
+{ @@B { { @@A { @@E {
+@@D "17559 1050"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "26114 1557"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.42"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/particula.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/magw/particula.10"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}}
 

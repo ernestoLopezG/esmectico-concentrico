@@ -10,7 +10,7 @@
 
 En el sistema de coordenadas elípticas  (3) puede reescribirse de la siguiente manera: @Cite {$mclachlan} @DP
 
-@Math { 2 over {f sup {2} ( cosh (2 xi) -cos ( 2 eta))} blpar {partial} over {partial xi} + {partial} over {partial eta}   brpar  D + k sup {2} sub {c} cdot D = 0} 
+@Math { 2 over {f sup {2} ( cosh (2 xi) -cos ( 2 eta))} blpar {partial} over {partial xi} + {partial} over {partial eta}   brpar  D - k sup {2} sub {c} cdot D = 0}
 
 @DP
 Y suponiendo que D puede escribirse como @Math {D(xi,eta)=G(xi)cdot N (eta) }nos quedaría:
@@ -22,7 +22,7 @@ Y suponiendo que D puede escribirse como @Math {D(xi,eta)=G(xi)cdot N (eta) }nos
 que puede ser separada mediante una constante que llamaremos a ( No confundir con el semieje mayor de la elipse)
 @DP
 @Math {G'' -(a-2q cosh 2 xi) G = 0} @DP
-@Math {N'' -(a-2q cos 2 eta) N = 0} @DP
+@Math {N'' +(a-2q cos 2 eta) N = 0} @DP
 
 
 
@@ -30,7 +30,7 @@ donde se ha definido: @DP
 
 @Math {q= {k sub{c} sup {2} f sup {2}} over {4}} y la constante de separación a solo depende del parámetro q, es decir a= a(q).@DP
 
-Es notable observar que para el caso límite en que q=0 todas las soluciones se reducen a las ya conocidas como funciones de Bessel. 
+Es notable observar que para el caso límite en que q=0, la ecuación angular se reduce a funciones circulares ordinarias (senos y cosenos) y la radial a exponenciales"/"hiperbólicas puras - ambas conocidas y fáciles de tratar. El límite distinto de topología genuinamente circular se conseguiría haciendo el foco nulo.
 
 				
 @End @SubSubSection	
@@ -241,7 +241,7 @@ B { Solución IoKo }
 @DP
 
 
-Nótese que dadas las condiciones de contorno existe la posibilidad de tener una única onda desplazándose en una dirección, como las representadas anteriormente,  o tener dos ondas desplazándose en direcciones opuestas.  Más adelante se verá que el primer caso corresponde a los fermiones y el segundo a los bosones. @LP
+Nótese que dadas las condiciones de contorno existe la posibilidad de tener una única onda desplazándose en una dirección, como las representadas anteriormente,  o tener dos ondas desplazándose en direcciones opuestas. Se postula que la materia se corresponde con el primer caso. @LP
 
 Podemos utilizar la topología circular  para calcular el momento angular de las partículas elementales atribuible a su giro en las dimensiones compactadas: @DP
 
@@ -280,7 +280,7 @@ Es fácil ver que se puede extrapolar el resultado para estimar el momento angula
 @DP
 
 
-Sin embargo esta definición del espín no puede explicar los experimentos de variación del espín mediante giros en las dimensiones extendidas. Más adelante (Punto 14)se proporcionará una solución satisfactoria a este problema. 
+Sin embargo esta definición del espín no puede explicar los experimentos de variación del espín mediante giros en las dimensiones extendidas. Más adelante (Capítulo 3) se proporcionará una solución satisfactoria a este problema.
 
 
 
@@ -298,16 +298,15 @@ Sin embargo esta definición del espín no puede explicar los experimentos de vari
 Si suponemos que los electrones son ondas gravitatorias para el caso de un electrón en reposo tendríamos que la constante de propagación {@Sym beta}=0, en ese caso:  @DP
 
 @Math {k sup {2} = 0 sup {2} + k sub {c} sup {2} =k sub {c} sup {2}} @DP
-
-Si asociamos esta frecuencia de corte a la vibración que presentan todos los electrones  y consideramos que la definición de número de onda debe ser diferente en las ondas gravitatorias ( ya que no pueden ser negativas )  entonces tendríamos :
- @DP
-@Math {k= {pi} over lambda} donde la longitud de onda debe ser igual al perímetro del movimiento circular de los electrones, es decir: @Math {lambda=h over {2m sub {0}c}}  lo que conlleva que:
 @DP
-@Math {k= k sub {c}={pi} over lambda = {2 pi m sub {0} c} over {h} = {m sub {0}c } over { hbar }}
+Si asociamos esta frecuencia de corte a la vibración que presentan todos los electrones, y exigimos que un ciclo completo de la oscilación encaje exactamente en la circunferencia del movimiento (coherente con la derivación de 1.3.1), obtenemos directamente
+@DP
+
+@Math {k= k sub {c}={2 pi} over lambda = {2 pi m sub {0} c} over {h} = {m sub {0}c } over { hbar }}
  y por tanto:  @Box @Math {xi sub {0}= {1} over {2 k sub {c}}}
 @DP
-
-El confinamiento de las ondas no se produce por el choque contra unas paredes metálicas, sino que es debida a la curvatura de las dimensiones compactadas. En estas condiciones se postula que kc sea imaginario. @DP
+El confinamiento de las ondas no se produce por el choque contra unas paredes metálicas, sino que es debido a la curvatura de las dimensiones compactadas. Un número de onda real implicaría, además, un desplazamiento efectivo de la partícula a lo largo de @Math {xi} - hacia el límite físico del dominio, R_u-, lo que el modelo prohíbe por construcción: ninguna partícula puede desplazarse más allá del propio radio del universo en las compactadas. En estas condiciones se postula que k_c sea imaginario, coherente además con la nota del postulado 2: el movimiento a la velocidad de la luz en las dimensiones compactadas - del que k_c imaginario es la expresión matemática- es lo que, proyectado sobre las tres dimensiones extendidas, produce la coordenada temporal imaginaria de Minkowski.
+@DP
 
 @CurveBox @Math {k sub {c} = {m sub {0}c } over { hbar } i}
 @DP
@@ -335,28 +334,37 @@ y finalmente @DP
 lo que nos permitirá establecer los límites de integración. @LP
 
 
-Las soluciones a las funciones de Mathieu se suelen expresar como series de funciones de Bessel o como series de productos de series de Bessel en el caso de funciones de orden entero, pero no existen publicadas soluciones análogas para el caso de funciones de orden semientero, por lo que tendremos que solucionar numéricamente las ecuaciones. @LP
+Las soluciones a las funciones de Mathieu se suelen expresar como series de funciones de Bessel o como series de productos de series de Bessel en el caso de funciones de orden entero, pero no existen publicadas soluciones análogas para el caso de funciones de orden semientero, por lo que de forma general tendremos que solucionar numéricamente las ecuaciones, aunque existan soluciones en algunos casos particulares, como por ejemplo cuando el parámetro q es igual a cero. @LP
 
 El procedimiento seguido ha sido el siguiente: @LP
 
-- Se han determinado el valor propio @I{a} para cada valor de q negativo utilizando el método de Numerov. En concreto se ha utilizado el programa escrito en Java The Schrödinger Numerov Eigensystem Model pensado para solucionar la ecuación de Schrodinger independiente del tiempo con un potencial arbitrario, pero que puede utilizarse para obtener los valores propios de la ecuación @LP
+- Se han determinado el valor propio @I{a} para cada valor de q negativo utilizando el método de determinantes infinitos de Hill, el cual plantea una solución en forma de serie de Fourier que conduce a un sistema homogéneo e infinito de ecuaciones algebraicas. Los valores de a son aquellos que hacen que el determinante de dicho sistema se anule.
 
 @Math {N'' -(a-2q cos 2 eta) N = 0}
 @DP
-simplemente introduciendo como potencial V(x)= q cos 2 {@Sym eta} y como limites de integración 0 y 2{@Sym pi}. El valor propio @B a será entonces igual al doble de la energía obtenida para n=1. Así por ejemplo para obtener a(-100) tenemos @DP
-@CNP
-0.7 @Scale @IncludeGraphic "img/fig37.eps" @DP
-@CNP
-@Figure 
-@Caption {  Estimación numérica del parámetro a (-100)}
-@Location {TryAfterLine}
-{
+Para dicho cálculo se ha implementado un sencillo script de python.
+@DP
+@Verbatim {
+import numpy as np
 
-0.7 @Scale @IncludeGraphic "img/fig38.eps" 
+def mathieu_fractional_eigenvalue(r, q, size=20):
+    k = np.arange(-size, size + 1)
+    diag = (2 * k + r) ** 2
+    off_diag = np.ones(len(k) - 1) * q
+    M = np.diag(diag) + np.diag(off_diag, 1) + np.diag(off_diag, -1)
+    eigenvalues = np.linalg.eigvals(M)
+    eigenvalues.sort()
+    return eigenvalues
+
+q_list = [0.0, -0.040, -0.047, -0.1,-0.2,-0.3,-0.4,-0.5,-0.6,-0.6393,-0.7,-0.8,-0.9,-1.0, -2.0, -3.0, -4.0, -5.0,-1000.0]
+for q in q_list:
+    evs = mathieu_fractional_eigenvalue(0.5, q)
+    print(f"{q:.4f} & {evs[0]:.4f}  ")
 }
 
+
 @NP
-Por lo que a (-100) = -180,254. Los resultados para un amplio rango de valores de q se muestran a continuación
+ Los resultados para un amplio rango de valores de q se muestran a continuación
 @DP
 
 @CentredDisplay @Tbl
@@ -403,78 +411,109 @@ Nótese que cuando q {@Sym arrowright} {@Sym infinity} entonces a {@Sym arrowrigh
 }
 
 @DP
-
-
-
-
-- Utilizando los valores de a obtenidos previamente se ha resuelto numéricamente la ecuación modificada de Mathieu para cada valor del parámetro q mediante el software gratuito wzgrapher. @DP
-
-- Se ha calculado el centro de gravedad del cuadrado de la función de onda, si este se encuentra en la coordenada @Math {xi over xi sub {0}= 1} se considera que se ha encontrado una solución. Los limites de integración se han obtenido de la relación
-@DP @Math {q = { ( a sup {2} - b sup {2}) cdot xi sub {u  } sup { 2 }} over {16 xi sub {0} sup {2}}} @DP
-
-Las condiciones para obtener cada solución han sido.  @DP
-
-@Underline{Soluciones tipo I}: @DP
-
-Dado que las posibles soluciones aparecerían a un valor muy bajo de q, Io se ha aproximado mediante la función de Bessel equivalente @DP
-
-@Math {I sub {1 slash 2} =sqrt { 2 over pi } {  Sinh(x)} over { x sup {1 slash 2} }} @DP
-
-@DP
-Esta función se ha obtenido resolviendo la ecuación
-@DP
-@Math {y'' =-( -0,125-2 cdot 0 cdot cosh(2x) ) y }
-@DP
-con los valores iniciales @Math {x sub {0}=0} , @Math { y(x sub {0})=1}, @Math {y'(x sub {0})=1}. @DP
-@DP
-Se usa q=0 porque las soluciones tipo I corresponden a valores de @Math {bar q bar} muy pequeños, donde el término @Math {2q cdot cosh(2x)} es despreciable frente al valor propio a= 0,25.
-@DP
-e Ie se ha obtenido resolviendo la ecuación @DP
-
-@Math {y'' =-( -0,125-2 cdot 0 cdot cosh(2x) ) y } @DP
-con los valores iniciales @Math {x sub {0}=0} , @Math {y(x sub {0})=1}, @Math {y'(x sub {0})=0}. @DP
-
-@Figure 
-@Caption { Parámetro a}
-@Location {TryAfterLine}
-{
- @Scale @IncludeGraphic "img/fig42.eps" 
-}
-
-@DP
-Los valores de q que cumplen con las condiciones de contorno son -0,0465 y -0,09477 @DP
-@DP
-Dado que las soluciones anteriores se obtuvieron hace años, se ha procedido su revisión con la asistencia de Claude 4.6 (2025)
-@DP
-Las soluciones exactas de ambas ecuaciones son:
-@DP
-Io: @Math{ y(x) = sinh(k cdot x) slash k},    Ie: @Math { y(x) = cosh(k cdot x)},  con @Math { k =  surd 0.125 = 0.35355}
-@DP
-La condición de contorno CDG = 1 determina L para cada solución (límites de integración), y luego @Math {q = (a sup {2}_ell - b sup {2}_ell) cdot L sup {2} slash 16 = 0.4336 cdot L sup {2} slash 16}.
-@DP
-Integrando se obtiene
+El procedimiento general que se va a utilizar en las próximas secciones para obtener los resultados para cada tipo de solución ha sido:
 @DP
 
-@Math {CDG_Io(L) = {L cdot sinh(2kL) slash (4k) - cosh(2kL) slash (8k sup {2}) + 1 slash (8k sup {2}) - L sup {2} slash 4}
-           over {sinh(2kL) slash (4k) - L slash 2}}
+- Utilizando los valores de a obtenidos previamente se ha resuelto numéricamente - cuando no existía solución analítica-  la ecuación modificada de Mathieu para cada valor del parámetro q mediante el software gratuito wzgrapher.
+@DP
+- Se utiliza el parámetro adimensional @Math {xi over xi sub {0}} y dado que en principio el radio del Universo en el plano de las dimensiones compactadas tiene que determinarse empíricamente se usará el parámetro @Math {L= R_u over xi sub {0}}, es decir el radio del Universo expresado en función de la @Math { xi sub {0}} de la pulsación.
+@DP
+- Se ha calculado el centro de gravedad del cuadrado de la función de onda ponderándola con el elemento de área elíptico. En coordenadas cilíndrico-elípticas, dicho elemento - tras integrar sobre la coordenada angular @Math {eta} en su dominio completo- resulta proporcional a @Math {cosh(2 xi)}, no a @Math {xi} (que sería el peso correspondiente a una geometría circular simple):
+@DP
+dA_efectivo @Math {proportional cosh(2 xi) cdot d xi}
+@DP
+Esta ponderación es puramente geométrica y válida para cualquier valor de q; para valores muy elevados de q, su efecto sobre el resultado final puede resultar despreciable frente a la propia forma de @Math {G(xi)}, cuestión que se comprobará caso por caso en las secciones siguientes.
+@DP
+Si el centro de gravedad, calculado con este peso,  se encuentra en la coordenada @Math {xi over xi sub {0}= 1} se considera que se ha encontrado una solución. Los relación entre los limites de integración y el parámetro q es la siguiente:
+@DP
+@Math {q = { ( a sup {2} - b sup {2}) cdot xi sub {u  } sup { 2 }} over {16 xi sub {0} sup {2}}= { ( a sup {2} - b sup {2}) cdot L sup { 2 }} over {16 }} @DP
+
+
+@End @SubSubSection
+
+
+@SubSubSection
+@Title { Estimación del orden de magnitud del tamaño de las dimensiones compactadas}
+@Begin
+@DP
+Ya que uno de los postulados del modelo nos dice que:@Math {xi sub {0} = hbar c slash 2m} los neutrinos, como las partículas con menor masa conocida nos pueden orientar en el tamaño aproximado del Universo en las dimensiones compactadas. Lamentablemente no se dispone de datos empíricos sobre la masa real de cada uno de los neutrinos, pero si se dispone de la estimación de la suma de sus masas gracias a la Cosmología.
+@DP
+Si se usa el modelo @Math {Lambda CDM} estándar, con los datos más recientes (DESI DR2+Lyman- @Math{alpha}, julio 2026) el límite superior es aproximadamente de 0.064 eV, mientras que estimandolo bajo modelos de energía oscura dinámica (@Math {w sub {0}waCDM}, motivados por los propios indicios de energía oscura evolutiva que el mismo DESI ha reportado) el límite se relaja hasta 0.15-0.22 eV. Tenemos por tanto una horquilla relativamente amplia:
+@DP
+@Math {Sigma m sub {nu} similar 0.06-0.22 eV}.
+@DP
+Dada la incertidumbre en esta medida no se va a utilizar un método muy preciso, ya que lo que pretendemos ahora mismo es proporcionar una estimación del orden de magnitud, por tanto supondremos que la masa de los tres neutrinos es similar y daremos por hecho que L=1 y por tanto @Math {xi sub {o} similar R_u}, lo cual por supuesto viola la propia condición de autoconsistencia del modelo, que exige que el baricentro de las soluciones se encuentre en @Math {xi sub {0}} y por tanto L es estrictamente superior a uno: : el centro de gravedad de cualquier distribución física está, por definición, contenido dentro del propio dominio de integración [0,R_u], de modo que @Math {xi sub {0} lessequal R_u} siempre - con igualdad solo en el límite asintótico en que toda la energía de la onda se concentrara exactamente en el borde R_u. Las estimaciones serían por tanto:
+@DP
+@Math { Sigma=0.06 eV arrowright m=0.02 eV arrowright xi sub {0}= hbar c slash (2m) = 1.973 cdot 10 sup {-7} slash (2 cdot 0.02) similar 4.93 mu m}
+@DP
+@Math { Sigma=0.22 eV arrowright m=0.0733 eV arrowright xi sub {0}= hbar c slash (2m) = 1.973 cdot 10 sup {-7} slash (2 cdot 0.0733) similar 1.35 mu m}
+@DP
+Es decir, en el rango de los micrómetros, coincide en este aspecto con el modelo ADD de dimensiones extra grandes, Arkani-Hamed, Dimopoulos & Dvali 1998. Es destacable que esta coincidencia en las estimaciones se consigue por vías completamente independientes, en nuestro caso mediante las masas de neutrinos cosmológicas y en el modelo ADD por el argumento de jerarquía electrodébil-Planck.
+
+
+@End @SubSubSection
+
+@SubSubSection
+@Title { Soluciones tipo I}
+@Begin
+@DP
+En principio, y dado el tamaño estimado en la sección anterior para R_u, las posibles soluciones tipo I aparecerían a un valor muy bajo de @Math {bar q bar}.
+@DP
+En estas condiciones se puede utilizar q=0 porque el término @Math {2q cdot cosh(2 x)} es despreciable frente al valor propio a= 0,25.
+
+@DP
+La ecuación a resolver será por tanto:
+@DP
+@Math {y'' =-( -0,5 - 2 cdot 0 cdot cosh(2 x) ) y  arrowright  y'' =- ( -0,5  ) y}
+@DP
+De soluciones conocidas para orden 1"/"2.
+@DP
+@Math {I sub {o}= sinh(0.5 x ) slash 0.5}
+@DP
+@Math {I sub {e}= cosh(0.5 x ) }
+@DP
+Donde recordemos que x es el parámetro adimensional @Math {xi slash xi sub {0}}
+@DP
+El baricentro de la pulsación se puede calcular de forma muy sencilla si lo ponderamos por el área elíptica:
+@DP
+@Math { CDG  = {int from {0} to {L} x cdot bar I sub {0} bar sup {2}  cosh (2x) dx} over {int from {0} to {L}  bar I sub {0} bar sup {2}  cosh (2x) dx}}
+@DP
+Para las dos soluciones se ha buscado el límite de integración L que proporcione un CDG igual a la unidad. Los resultados han sido:
+@DP
+Para la solución impar Io: Lo=1.215
+@DP
+Para la solución par Ie: Le=1.395
+@DP
+Lo que nos permitirá expresar sus masas en función de R_u:
+@DP
+@Math {m sub {1} = {hbar} over {2 cdot R_u slash 1.215 cdot c} cdot 5.61 cdot 10 sup {35} = {1.19737035 cdot 10 sup {-7}} over {R_u (m)} eV }
+@DP
+@Math {m sub {2} = {hbar} over {2 cdot R_u slash 1.395 cdot c} cdot 5.61 cdot 10 sup {35} = {1.37475855 cdot 10 sup {-7}} over {R_u (m)} eV }
 @DP
 
- @Math {CDG_Ie(L) = {L cdot sinh(2kL) slash (4k) - cosh(2kL) slash (8k sup {2}) + 1 slash (8k sup {2}) + L sup {2} slash 4}
-           over {sinh(2kL) slash (4k) + L slash 2}}
-@DP
-@B {Solución para @Math {I sub{o}}}
-@DP Se ha obtenido con la formula análitica un valor de q= -0.047719, lo que supone una variación del 2,6% frente a -0.0465. El L exacto ha sido de 1.326924. El error en q(Io)  no tiene consecuencias sobre la masa predicha (diferencia de 0.01 meV), ya que a masa depende de L, no directamente de q, y el L asociado a q=-0.0465 difiere del exacto en solo 1.6%.
-@DP
-@B {Solución para @Math{I sub{e}}}
-@DP Se ha obtenido con la formula análitica un valor de q= -0.094612, lo que supone una variación del 0.17% frente a -0.09477. El L exacto ha sido de 1.868421, lo que proporciona un valor de la masa de 0,02828 eV frente a 0,02830 eV anterior.
-@DP
+@End @SubSubSection
 
 
-@Underline{Soluciones tipo II}: @DP
+
+@SubSubSection
+@Title { Soluciones tipo II}
+@Begin
+@DP
+
 
 No se ha encontrado ninguna solución que cumpla las condiciones de contorno. @DP
 
-@Underline{Soluciones tipo II (bis)}: @DP
+
+@End @SubSubSection
+
+
+
+@SubSubSection
+@Title { Soluciones tipo II (bis)}
+@Begin
+@DP
+
+
 
 La solución tipo IIbis corresponde a q = -0.64, valor para el cual a(q) = 0 según la tabla de valores propios. @DP
 
@@ -485,24 +524,31 @@ En el cálculo numérico se ha podido constatar que:
 @DP
  La solución IIbis existe y es siempre positiva (verificado con mpmath).
 @DP
-y'(0) = -1.34975357285360861 (18 dígitos significativos).
+y'(0) = -1.349176976170204485 (18 dígitos significativos).
 @DP
  El mínimo se alcanza en @Math {x approxequal 3.19}, con @Math {y_min approxequal 3 cdot 10 sup {-12}} (prácticamente cero).
 @DP
-Sin embargo, existe una imposibilidad intrínseca para calcular numéricamente y(L)=1, ya que se trata de una separatriz exponencialmente inestable, lo que no permite el cálculo del baricentro de esta solución.
+Sin embargo, existe una imposibilidad intrínseca para calcular numéricamente y(L)=1, ya que se trata de una separatriz exponencialmente inestable, lo que no permite el cálculo del baricentro de esta solución. La separatriz se ha determinado numéricamente y el mejor resultado obtenible con wxmaxima se encuentra a la altura de @Math {xi slash xi sub {0} = 3.884}
 @DP
 Sin embargo, y a diferencia de las soluciones tipo I y tipo III, cuya condición de existencia es @Math {CDG= xi sub {0}}, la condición de existencia de la solución IIbis es de naturaleza topológica: el exponente de Floquet de la función angular de Mathieu toma el valor @Math {upsilon = 1 slash 2}, condición que equivale a que la onda se cierre coherentemente sobre sí misma tras cuatro períodos angulares @Math {(4 pi)}.
 @DP
-Esto se verifica numéricamente calculando la traza de la matriz de monodromía: @Math {Traza(M) = 2·cos(upsilon cdot pi) = 0} para @Math {upsilon  = 1 slash 2}. Con a = 0 y q = -0.64 se obtiene Traza = -0.00425, correspondiente a @Math {upsilon = 0.5007}, con desviación del 0.07% respecto a @Math {upsilon  = 1 slash 2} exacto, dentro de la precisión de la tabla a(q). El valor exacto de q que satisface Traza = 0 con a = 0 es q = -0.6393 (diferencia del 0.11% respecto a -0.64).
+Esto se verifica numéricamente calculando la traza de la matriz de monodromía: @Math {Traza(M) = 2·cos(upsilon cdot pi) = 0} para @Math {upsilon  = 1 slash 2}. Con a = 0 y q = -0.6393 se obtiene Traza = 0, correspondiente a @Math {upsilon = 0.5}, con desviación del 0.07% respecto a @Math {upsilon  = 1 slash 2} exacto, dentro de la precisión de la tabla a(q). El valor exacto de q que satisface Traza = 0 con a = 0 es q = -0.6393 (diferencia del 0.11% respecto a -0.64).
 @DP
 La condición @Math {upsilon  = 1 slash 2} es la signatura matemática del espín @Math {1 slash2}: la onda acumula una fase topológica de @Math {pi} por vuelta a la elipse, necesitando cuatro vueltas para recuperar su estado original - exactamente como un espinor fermiónico
+
+
+
+@End @SubSubSection
+
+
+
+@SubSubSection
+@Title { Soluciones tipo III}
+@Begin
 @DP
 
 
 
-
-@Underline{Soluciones tipo III}:
-@DP
 La condición física central del modelo es que el máximo de la solución debe situarse exactamente en @Math { xi slash xi sub {0}}, que es el radio de la propia partícula. La solución presenta una cúspide en ese punto - no un máximo diferenciable- donde las dos partes se unen con y(1)=1, pero con derivadas de signo opuesto.
 @DP
 Se han resuelto por separado la parte creciente y decreciente.

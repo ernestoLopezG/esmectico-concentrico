@@ -277,14 +277,6 @@
 {}}}
 
 {@@E {
-@@D "4557 265"
-}
-{@Table
-  \a{"9.4052.cap/magw/leptones.2"}
-  \b{Funciones angulares de Mathieu}
-{}}}
-
-{@@E {
 { @@A { @@E {
 @@D "63 5"
 }
@@ -295,7 +287,7 @@
   \b{@@V @RawTableNum "9.4052.cap/magw/leptones.1"}}}
 
 {@@E {
-@@D "4912 287"
+@@D "4802 279"
 }
 {@NumberMarker
   \a{"9.4052.cap/magw/leptones.1"}
@@ -398,7 +390,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "5783 338"
+@@D "5673 330"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -430,6 +422,14 @@
   \d{@MinorTitle}
   \e{"10.1196.libro.lout.3"}
   \f{@Prefix}}}
+
+{@@E {
+@@D "4557 265"
+}
+{@Table
+  \a{"9.4052.cap/magw/leptones.2"}
+  \b{Funciones angulares de Mathieu}
+{}}}
 
 {@@E {
 { @@A { @@E {
@@ -1050,7 +1050,7 @@
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.2"}
-  \b{Estimación numérica del parámetro a (-100)}
+  \b{Parámetro a}
   \i{TryAfterLine}
 ???}}
 
@@ -1065,7 +1065,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.2"}}}
 
 {@@E {
-@@D "18237 1057"
+@@D "18206 1057"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/leptones.2"}
@@ -1078,9 +1078,10 @@
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.2"}
-  \b{Estimación numérica del parámetro a (-100)}
+  \b{Parámetro a}
   \i{TryAfterLine}
-{{0.7} @Scale {@IncludeGraphic "img/fig38.eps"}}} } }
+{3 @Scale {@IncludeGraphic "img/fig41.eps"}
+//{@DisplayGap} 3 @Scale {@IncludeGraphic "img/fig40.eps"}}} } }
 }
 {@@V @FigureVal} } }
 }
@@ -1324,11 +1325,290 @@
   \f{@Prefix}}}
 
 {@@E {
+@@D "17527 1017"
+}
+{@@V @SubSubSectionList
+  \a{"10.290.cap/magw/leptones.4"}
+4}}
+
+{@@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.4"}
+  \b{Estimación del orden de magnitud del tamaño de las dimensiones compactadas}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
 { @@A { @@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.4"}
+  \b{Estimación del orden de magnitud del tamaño de las dimensiones compactadas}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1258.cap/magw/leptones.4"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Slope}
+  \h{@@V @SubSubSectionHeadingBreak}
+  \i{@Num @@V @SubSubSectionHeadingFormat @Body}
+  \k{No}
+  \l{@@V @SubSubSectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SubSubSectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SubSubSectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @SubSectionShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{No}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{No}
+  newpage{No}
+@@V @Body} } }
+ }
+{@@E {
 { @@A { @@E {
+@@D "23138 1342"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1258.cap/magw/leptones.4"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+@@D "23138 1342"
+}
+{@TitleMarker
+  \a{"10.1258.cap/magw/leptones.4"}
+  \b{@@V title}}}
+
+{@@E {
+@@D "17527 1017"
+}
+{@@V @SubSubSectionList
+  \a{"10.290.cap/magw/leptones.5"}
+5}}
+
+{@@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.5"}
+  \b{Soluciones tipo I}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
 { @@A { @@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.5"}
+  \b{Soluciones tipo I}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1258.cap/magw/leptones.5"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Slope}
+  \h{@@V @SubSubSectionHeadingBreak}
+  \i{@Num @@V @SubSubSectionHeadingFormat @Body}
+  \k{No}
+  \l{@@V @SubSubSectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SubSubSectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SubSubSectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @SubSectionShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{No}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{No}
+  newpage{No}
+@@V @Body} } }
+ }
+{@@E {
 { @@A { @@E {
+@@D "24369 1413"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1258.cap/magw/leptones.5"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+@@D "24369 1413"
+}
+{@TitleMarker
+  \a{"10.1258.cap/magw/leptones.5"}
+  \b{@@V title}}}
+
+{@@E {
+@@D "17527 1017"
+}
+{@@V @SubSubSectionList
+  \a{"10.290.cap/magw/leptones.6"}
+6}}
+
+{@@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.6"}
+  \b{Soluciones tipo II}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
 { @@A { @@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.6"}
+  \b{Soluciones tipo II}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1258.cap/magw/leptones.6"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Slope}
+  \h{@@V @SubSubSectionHeadingBreak}
+  \i{@Num @@V @SubSubSectionHeadingFormat @Body}
+  \k{No}
+  \l{@@V @SubSubSectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SubSubSectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SubSubSectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @SubSectionShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{No}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{No}
+  newpage{No}
+@@V @Body} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "25544 1484"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1258.cap/magw/leptones.6"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+@@D "25544 1484"
+}
+{@TitleMarker
+  \a{"10.1258.cap/magw/leptones.6"}
+  \b{@@V title}}}
+
+{@@E {
+@@D "17527 1017"
+}
+{@@V @SubSubSectionList
+  \a{"10.290.cap/magw/leptones.7"}
+7}}
+
+{@@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.7"}
+  \b{Soluciones tipo II (bis)}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "17471 1013"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.7"}
+  \b{Soluciones tipo II (bis)}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1258.cap/magw/leptones.7"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Slope}
+  \h{@@V @SubSubSectionHeadingBreak}
+  \i{@Num @@V @SubSubSectionHeadingFormat @Body}
+  \k{No}
+  \l{@@V @SubSubSectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SubSubSectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SubSubSectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @SubSectionShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{No}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{No}
+  newpage{No}
+@@V @Body} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "26726 1555"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1258.cap/magw/leptones.7"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+@@D "26726 1555"
+}
+{@TitleMarker
+  \a{"10.1258.cap/magw/leptones.7"}
+  \b{@@V title}}}
+
+{@@E {
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
@@ -1339,6 +1619,17 @@
 {@LUse @DocumentSetup} } }
 }
 {@LUse @BookSetup} } }
+}
+{@@V @SubSubSectionList
+  \a{"10.290.cap/magw/leptones.8"}
+8}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "27696 1611"
 }
 {@LUse @TblSetup} } }
 }
@@ -1358,19 +1649,93 @@
 { @LInput }} } }
 }
 {@SubSubSection
-  \a{"10.1258.cap/magw/leptones.3"}
-  \b{Solución numérica.}
+  \a{"10.1258.cap/magw/leptones.8"}
+  \b{Soluciones tipo III}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "27895 1627"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.8"}
+  \b{Soluciones tipo III}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1258.cap/magw/leptones.8"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Slope}
+  \h{@@V @SubSubSectionHeadingBreak}
+  \i{@Num @@V @SubSubSectionHeadingFormat @Body}
+  \k{No}
+  \l{@@V @SubSubSectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SubSubSectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SubSubSectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @SubSectionShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{No}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{No}
+  newpage{No}
+@@V @Body} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "28434 1656"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1258.cap/magw/leptones.8"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+@@D "28434 1656"
+}
+{@TitleMarker
+  \a{"10.1258.cap/magw/leptones.8"}
+  \b{@@V title}}}
+
+{@@E {
+{ @@A { @@E {
+@@D "27895 1627"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.8"}
+  \b{Soluciones tipo III}
 { @LInput }} } }
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.3"}
-  \b{Parámetro a}
+  \b{Solución cualitativa tipo III para q=-20}
+  \i{TryAfterLine}
+???}}
+
+{@@E {
+@@D "29399 1712"
+}
+{@Figure
+  \a{"9.3806.cap/magw/leptones.4"}
+  \b{Solución tipo III. Posición del cdg}
   \i{TryAfterLine}
 ???}}
 
 {@@E {
 { @@A { @@E {
-@@D "22961 1332"
+@@D "27710 1612"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.3"} } }
 }
@@ -1379,7 +1744,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.3"}}}
 
 {@@E {
-@@D "23626 1371"
+@@D "29791 1736"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/leptones.3"}
@@ -1388,14 +1753,13 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "22877 1326"
+@@D "29399 1712"
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.3"}
-  \b{Parámetro a}
+  \b{Solución cualitativa tipo III para q=-20}
   \i{TryAfterLine}
-{3 @Scale {@IncludeGraphic "img/fig41.eps"}
-//{@DisplayGap} 3 @Scale {@IncludeGraphic "img/fig40.eps"}}} } }
+{{} @Scale {@IncludeGraphic "img/fig43.eps"}}} } }
 }
 {@@V @FigureVal} } }
 }
@@ -1405,7 +1769,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "22961 1332"
+@@D "27710 1612"
 }
 {@@V @DupRunner} } }
  }
@@ -1661,52 +2025,7 @@
 
 {@@E {
 { @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@C
-}
-{@LUse @BasicSetup} } }
-}
-{@LUse @DocumentSetup} } }
-}
-{@LUse @BookSetup} } }
-}
-{@LUse @TblSetup} } }
-}
-{@Chapter
-  \a{"10.1148.libro.lout.2"}
-  \b{Matter as gravitational waves}
-{ @LInput }} } }
-}
-{@Section
-  \a{"10.1196.libro.lout.3"}
-  \b{Las partículas como pulsaciones gravitomagnéticas.}
-{ @LInput }} } }
-}
-{@SubSection
-  \a{"10.1227.cap/magw/leptones.1"}
-  \b{Solución para las dimensiones compactadas. Leptones.}
-{ @LInput }} } }
-}
-{@SubSubSection
-  \a{"10.1258.cap/magw/leptones.3"}
-  \b{Solución numérica.}
-{ @LInput }} } }
-}
-{@Figure
-  \a{"9.3806.cap/magw/leptones.4"}
-  \b{Parámetro a}
-  \i{TryAfterLine}
-???}}
-
-{@@E {
-{ @@A { @@E {
-@@D "28686 1668"
+@@D "27710 1612"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.4"} } }
 }
@@ -1715,7 +2034,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.4"}}}
 
 {@@E {
-@@D "29351 1707"
+@@D "34738 2026"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/leptones.4"}
@@ -1724,13 +2043,13 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "28602 1662"
+@@D "29399 1712"
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.4"}
-  \b{Parámetro a}
+  \b{Solución tipo III. Posición del cdg}
   \i{TryAfterLine}
-{{} @Scale {@IncludeGraphic "img/fig42.eps"}}} } }
+{{} @Scale {@IncludeGraphic "img/fig44.eps"}}} } }
 }
 {@@V @FigureVal} } }
 }
@@ -1740,7 +2059,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "28686 1668"
+@@D "27710 1612"
 }
 {@@V @DupRunner} } }
  }
@@ -2050,19 +2369,19 @@
 { @LInput }} } }
 }
 {@SubSubSection
-  \a{"10.1258.cap/magw/leptones.3"}
-  \b{Solución numérica.}
+  \a{"10.1258.cap/magw/leptones.8"}
+  \b{Soluciones tipo III}
 { @LInput }} } }
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.5"}
-  \b{Solución cualitativa tipo III para q=-20}
+  \b{Las combinaciones lineales de las soluciones tipo III conformarían al electrón.}
   \i{TryAfterLine}
 ???}}
 
 {@@E {
 { @@A { @@E {
-@@D "34665 2024"
+@@D "40076 2343"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.5"} } }
 }
@@ -2071,7 +2390,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.5"}}}
 
 {@@E {
-@@D "35359 2063"
+@@D "40810 2382"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/leptones.5"}
@@ -2080,13 +2399,13 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "34581 2018"
+@@D "39992 2337"
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.5"}
-  \b{Solución cualitativa tipo III para q=-20}
+  \b{Las combinaciones lineales de las soluciones tipo III conformarían al electrón.}
   \i{TryAfterLine}
-{{} @Scale {@IncludeGraphic "img/fig43.eps"}}} } }
+{{} @Scale {@IncludeGraphic "img/fig45.eps"}}} } }
 }
 {@@V @FigureVal} } }
 }
@@ -2096,7 +2415,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "34665 2024"
+@@D "40076 2343"
 }
 {@@V @DupRunner} } }
  }
@@ -2312,7 +2631,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.36"}
+  \g{"9.952.libro.lout.42"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -2393,17 +2712,135 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "34581 2018"
+@@D "40062 2342"
+}
+{@@V @SubSubSectionList
+  \a{"10.290.cap/magw/leptones.9"}
+9}}
+
+{@@E {
+@@D "40006 2338"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.9"}
+  \b{Interpretación de los resultados.}
+{ ??? }}}
+
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+@@D "40006 2338"
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.9"}
+  \b{Interpretación de los resultados.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1258.cap/magw/leptones.9"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Slope}
+  \h{@@V @SubSubSectionHeadingBreak}
+  \i{@Num @@V @SubSubSectionHeadingFormat @Body}
+  \k{No}
+  \l{@@V @SubSubSectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SubSubSectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SubSubSectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @SubSectionShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{No}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{No}
+  newpage{No}
+@@V @Body} } }
+ }
+{@@E {
+{ @@A { @@E {
+@@D "46647 2729"
+}
+{?? @@V @Do ??} } }
+}
+{@@V y}} }
+}
+{@NumberMarker
+  \a{"10.1258.cap/magw/leptones.9"}
+  \b{@@V @ShortNum}}}
+
+{@@E {
+@@D "46647 2729"
+}
+{@TitleMarker
+  \a{"10.1258.cap/magw/leptones.9"}
+  \b{@@V title}}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{{} @@V @SendRef olive}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@SubSection
+  \a{"10.1227.cap/magw/leptones.1"}
+  \b{Solución para las dimensiones compactadas. Leptones.}
+{ @LInput }} } }
+}
+{@SubSubSection
+  \a{"10.1258.cap/magw/leptones.9"}
+  \b{Interpretación de los resultados.}
+{ @LInput }} } }
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.6"}
-  \b{Solución tipo III. Posición del cdg}
+  \b{Apariencia de  las dimensiones compactadas. Nótese que no son trayectorias reales, sino la aproximación de rayo de las vibraciones.}
   \i{TryAfterLine}
 ???}}
 
 {@@E {
 { @@A { @@E {
-@@D "34665 2024"
+@@D "47832 2802"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.6"} } }
 }
@@ -2412,7 +2849,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.6"}}}
 
 {@@E {
-@@D "41068 2404"
+@@D "48632 2841"
 }
 {@NumberMarker
   \a{"9.3806.cap/magw/leptones.6"}
@@ -2421,13 +2858,13 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "34581 2018"
+@@D "47748 2796"
 }
 {@Figure
   \a{"9.3806.cap/magw/leptones.6"}
-  \b{Solución tipo III. Posición del cdg}
+  \b{Apariencia de  las dimensiones compactadas. Nótese que no son trayectorias reales, sino la aproximación de rayo de las vibraciones.}
   \i{TryAfterLine}
-{{} @Scale {@IncludeGraphic "img/fig44.eps"}}} } }
+{{} @Scale {@IncludeGraphic "img/fig46.eps"}}} } }
 }
 {@@V @FigureVal} } }
 }
@@ -2437,7 +2874,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "34665 2024"
+@@D "47832 2802"
 }
 {@@V @DupRunner} } }
  }
@@ -2665,7 +3102,7 @@
 {@@V y}} }
 }
 {@@V start @Runner
-  \g{"9.952.libro.lout.40"}
+  \g{"9.952.libro.lout.42"}
   \a{@@V majornum @@V @Dft @@V @LongNum}
   \b{@@V majortitle @@V @Dft @@V @ShortTitle}
   \c{dft @@V @Dft @@V @LongNum}
@@ -2755,76 +3192,21 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "34581 2018"
-}
-{@Figure
-  \a{"9.3806.cap/magw/leptones.7"}
-  \b{Las combinaciones lineales de las soluciones tipo III conformarían al electrón.}
-  \i{TryAfterLine}
-???}}
-
-{@@E {
-{ @@A { @@E {
-@@D "34665 2024"
-}
-{@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.7"} } }
-}
-{@@V @FigureCounterMarker
-  \a{"9.3770.cap/magw/leptones.7"}
-  \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.7"}}}
-
-{@@E {
-@@D "47128 2766"
-}
-{@NumberMarker
-  \a{"9.3806.cap/magw/leptones.7"}
-  \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/magw/leptones.7"}}}}}
-
-{@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "34581 2018"
-}
-{@Figure
-  \a{"9.3806.cap/magw/leptones.7"}
-  \b{Las combinaciones lineales de las soluciones tipo III conformarían al electrón.}
-  \i{TryAfterLine}
-{{} @Scale {@IncludeGraphic "img/fig45.eps"}}} } }
-}
-{@@V @FigureVal} } }
-}
-{@TitleMarker
-  \a{"9.3806.cap/magw/leptones.7"}
-  \b{@@V @Caption}}}
-
-{@@E {
-@@D "34665 2024"
-}
-{NonStart @Runner
-  \g{"9.952.cap/magw/leptones.18"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
-
-{@@E {
 { @@A { @@E {
-@@D "34665 2024"
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@LUse @BookSetup} } }
-}
-{@@V @SubSubSectionList
-  \a{"10.290.cap/magw/leptones.4"}
-4}}
-
-{@@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "48036 2812"
 }
 {@LUse @TblSetup} } }
 }
@@ -2844,165 +3226,40 @@
 { @LInput }} } }
 }
 {@SubSubSection
-  \a{"10.1258.cap/magw/leptones.4"}
-  \b{Interpretación de los resultados.}
-{ ??? }}}
-
-{@@E {
-{ @@B { { @@A { @@E {
-{ @@A { @@E {
-@@D "48165 2822"
-}
-{@SubSubSection
-  \a{"10.1258.cap/magw/leptones.4"}
-  \b{Interpretación de los resultados.}
-{ @LInput }} } }
-}
-{@@V @LargeScaleStructure
-  \a{"10.1258.cap/magw/leptones.4"}
-  \b{Minor}
-  \c{}
-  \d{@@V @Title}
-  \e{dft}
-  \g{Slope}
-  \h{@@V @SubSubSectionHeadingBreak}
-  \i{@Num @@V @SubSubSectionHeadingFormat @Body}
-  \k{No}
-  \l{@@V @SubSubSectionContentsIndent}
-  \n{Arabic}
-  \o{{@@V @SubSubSectionList&&preceding} @Tagged @@V @Tag}
-  \p{{@@V @SubSubSectionList&&{@@V @Tag}} @Open {num}}
-  \q{dft}
-  \r{@@V @SubSectionShortNum}
-  \t{@@V @MajorNum}
-  \u{@@V @MajorTitle}
-  \x{No}
-  \y{No}
-  \z{No}
-  intables{No}
-  infloaters{No}
-  inrunners{No}
-  newpage{No}
-@@V @Body} } }
- }
-{@@E {
-{ @@A { @@E {
-@@D "48718 2851"
-}
-{?? @@V @Do ??} } }
-}
-{@@V y}} }
-}
-{@NumberMarker
-  \a{"10.1258.cap/magw/leptones.4"}
-  \b{@@V @ShortNum}}}
-
-{@@E {
-@@D "48718 2851"
-}
-{@TitleMarker
-  \a{"10.1258.cap/magw/leptones.4"}
-  \b{@@V title}}}
-
-{@@E {
-@@D "34665 2024"
-}
-{{} @@V @SendRef olive}}
-
-{@@E {
-{ @@A { @@E {
-@@D "48165 2822"
-}
-{@SubSubSection
-  \a{"10.1258.cap/magw/leptones.4"}
+  \a{"10.1258.cap/magw/leptones.9"}
   \b{Interpretación de los resultados.}
 { @LInput }} } }
 }
 {@Figure
-  \a{"9.3806.cap/magw/leptones.8"}
-  \b{Apariencia de  las dimensiones compactadas. Nótese que no son trayectorias reales, sino la aproximación de rayo de las vibraciones.}
-  \i{TryAfterLine}
-???}}
-
-{@@E {
-{ @@A { @@E {
-@@D "34665 2024"
-}
-{@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.8"} } }
-}
-{@@V @FigureCounterMarker
-  \a{"9.3770.cap/magw/leptones.8"}
-  \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.8"}}}
-
-{@@E {
-@@D "50108 2927"
-}
-{@NumberMarker
-  \a{"9.3806.cap/magw/leptones.8"}
-  \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/magw/leptones.8"}}}}}
-
-{@@E {
-{ @@A { @@E {
-{ @@A { @@E {
-@@D "49749 2912"
-}
-{@Figure
-  \a{"9.3806.cap/magw/leptones.8"}
-  \b{Apariencia de  las dimensiones compactadas. Nótese que no son trayectorias reales, sino la aproximación de rayo de las vibraciones.}
-  \i{TryAfterLine}
-{{} @Scale {@IncludeGraphic "img/fig46.eps"}}} } }
-}
-{@@V @FigureVal} } }
-}
-{@TitleMarker
-  \a{"9.3806.cap/magw/leptones.8"}
-  \b{@@V @Caption}}}
-
-{@@E {
-@@D "34665 2024"
-}
-{NonStart @Runner
-  \g{"9.952.cap/magw/leptones.20"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
-
-{@@E {
-@@D "49749 2912"
-}
-{@Figure
-  \a{"9.3806.cap/magw/leptones.9"}
+  \a{"9.3806.cap/magw/leptones.7"}
   \b{Conjunto de soluciones posibles}
   \i{TryAfterLine}
 ???}}
 
 {@@E {
 { @@A { @@E {
-@@D "34665 2024"
+@@D "54690 3200"
 }
-{@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.9"} } }
+{@@V @FigureCounterIncrement "9.3806.cap/magw/leptones.7"} } }
 }
 {@@V @FigureCounterMarker
-  \a{"9.3770.cap/magw/leptones.9"}
-  \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.9"}}}
+  \a{"9.3770.cap/magw/leptones.7"}
+  \b{@@V @RawFigureNum "9.3806.cap/magw/leptones.7"}}}
 
 {@@E {
-@@D "51202 2982"
+@@D "55390 3239"
 }
 {@NumberMarker
-  \a{"9.3806.cap/magw/leptones.9"}
-  \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/magw/leptones.9"}}}}}
+  \a{"9.3806.cap/magw/leptones.7"}
+  \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/magw/leptones.7"}}}}}
 
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "49749 2912"
+@@D "54606 3194"
 }
 {@Figure
-  \a{"9.3806.cap/magw/leptones.9"}
+  \a{"9.3806.cap/magw/leptones.7"}
   \b{Conjunto de soluciones posibles}
   \i{TryAfterLine}
 {{0.5} @Scale {@IncludeGraphic "img/fig48.eps"}}} } }
@@ -3010,18 +3267,346 @@
 {@@V @FigureVal} } }
 }
 {@TitleMarker
-  \a{"9.3806.cap/magw/leptones.9"}
+  \a{"9.3806.cap/magw/leptones.7"}
   \b{@@V @Caption}}}
 
 {@@E {
-@@D "34665 2024"
+{ @@B { { @@A { @@E {
+@@D "54690 3200"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.2"}
+  \b{Matter as gravitational waves}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.libro.lout.3"}
+  \b{Las partículas como pulsaciones gravitomagnéticas.}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.libro.lout.3"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.libro.lout.42"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{{} @Join @@V @ShortNum}}} }
 }
 {NonStart @Runner
-  \g{"9.952.cap/magw/leptones.22"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \g{"9.952.cap/magw/ondaEscalar.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.2"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/magw/leptones.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.libro.lout.3"}
+  \f{@Prefix}}}
 

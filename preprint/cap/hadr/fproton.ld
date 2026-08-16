@@ -1988,7 +1988,13 @@
  }
 {@@E {
 { @@B { { @@A { @@E {
-@@D "28844 1689"
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
 }
 {@@V @DupRunner} } }
  }
@@ -2316,7 +2322,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.9"}}}
 
 {@@E {
-@@D "38993 2302"
+@@D "39063 2308"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.9"}
@@ -2329,7 +2335,7 @@
 { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "39007 2303"
+@@D "39077 2309"
 }
 {@LUse @BookSetup} } }
 }
@@ -2359,7 +2365,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "39007 2303"
+@@D "39077 2309"
 }
 {@@V @DupRunner} } }
  }
@@ -2677,7 +2683,7 @@
   \f{@Prefix}}}
 
 {@@E {
-@@D "39520 2327"
+@@D "39590 2333"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.10"}
@@ -2686,7 +2692,7 @@
 ???}}
 
 {@@E {
-@@D "39520 2327"
+@@D "39590 2333"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.11"}
@@ -2696,7 +2702,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "39007 2303"
+@@D "39077 2309"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.10"} } }
 }
@@ -2705,34 +2711,362 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.10"}}}
 
 {@@E {
-@@D "45487 2697"
+@@D "45557 2703"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.10"}
   \b{{{@@V @FigurePrefixMarker&&{@@V tag}} @Open {prefix}} @Join {Arabic @@V @Num {@@V @RawFigureNum "9.3806.cap/hadr/fproton.10"}}}}}
 
 {@@E {
-@@D "39021 2304"
+@@D "39091 2310"
 }
 {@TitleMarker
   \a{"9.3806.cap/hadr/fproton.10"}
   \b{}}}
 
 {@@E {
-@@D "39007 2303"
+{ @@B { { @@A { @@E {
+@@D "39077 2309"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Factor de forma del protón}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Factor de forma del protón}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/fproton.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/hadr/fproton.22"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}}
 
 {@@E {
 { @@A { @@E {
-@@D "39007 2303"
+@@D "39077 2309"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.11"} } }
 }
@@ -2741,7 +3075,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.11"}}}
 
 {@@E {
-@@D "46129 2733"
+@@D "51558 3067"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.11"}
@@ -2750,7 +3084,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "39520 2327"
+@@D "39590 2333"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.11"}
@@ -2765,16 +3099,359 @@
   \b{@@V @Caption}}}
 
 {@@E {
-@@D "39007 2303"
+{ @@B { { @@A { @@E {
+@@D "39077 2309"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+@@D "46170 2734"
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@@V @DupRunner} } }
+ }
+{@@E {
+{ @@B { { @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Factor de forma del protón}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+ }
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@C
+}
+{@LUse @BasicSetup} } }
+}
+{@LUse @DocumentSetup} } }
+}
+{@LUse @BookSetup} } }
+}
+{@LUse @TblSetup} } }
+}
+{@Chapter
+  \a{"10.1148.libro.lout.6"}
+  \b{Estructura de los Hadrones.}
+{ @LInput }} } }
+}
+{@Section
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Factor de forma del protón}
+{ @LInput }} } }
+}
+{@@V @LargeScaleStructure
+  \a{"10.1196.cap/hadr/fproton.1"}
+  \b{Minor}
+  \c{}
+  \d{@@V @Title}
+  \e{dft}
+  \g{Bold}
+  \h{@@V @SectionHeadingBreak}
+  \i{@Num @@V @SectionHeadingFormat @Body}
+  \k{Yes}
+  \l{@@V @SectionContentsIndent}
+  \n{Arabic}
+  \o{{@@V @SectionList&&preceding} @Tagged @@V @Tag}
+  \p{{@@V @SectionList&&{@@V @Tag}} @Open {num}}
+  \q{dft}
+  \r{@@V @ChapterShortNum}
+  \t{@@V @MajorNum}
+  \u{@@V @MajorTitle}
+  \x{No}
+  \y{Yes}
+  \z{No}
+  intables{No}
+  infloaters{No}
+  inrunners{Yes}
+  newpage{No}
+@@V @Body} } }
+}
+{@@V @Heading} } }
+}
+{@@V @Run @@V @StartIfMajor} } }
+}
+{{??} @@V @Do {??}} } }
+}
+{@@V y}} }
+}
+{@@V start @Runner
+  \g{"9.952.cap/hadr/fproton.1"}
+  \a{@@V majornum @@V @Dft @@V @LongNum}
+  \b{@@V majortitle @@V @Dft @@V @ShortTitle}
+  \c{dft @@V @Dft @@V @LongNum}
+  \d{dft @@V @Dft @@V @ShortTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{{} @Join @@V @ShortNum}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.4"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.6"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.8"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.10"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.12"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.14"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.16"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.18"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.20"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
+}
+{NonStart @Runner
+  \g{"9.952.cap/hadr/fproton.22"}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}} }
 }
 {NonStart @Runner
   \g{"9.952.cap/hadr/fproton.24"}
-  \a{}
-  \b{}
-  \c{}
-  \d{}
-  \e{}
-  \f{}}}
+  \a{@MajorNum}
+  \b{@MajorTitle}
+  \c{@MinorNum}
+  \d{@MinorTitle}
+  \e{"10.1196.cap/hadr/fproton.1"}
+  \f{@Prefix}}}
 
 {@@E {
 { @@A { @@E {
@@ -2810,12 +3487,12 @@
 ???}}
 
 {@@E {
-@@D "47050 2783"
+@@D "58085 3460"
 }
 {{} @@V @SendRef slac}}
 
 {@@E {
-@@D "46994 2779"
+@@D "58029 3456"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.13"}
@@ -2827,7 +3504,7 @@
 { @@B { { @@A { @@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "47008 2780"
+@@D "58043 3457"
 }
 {@Section
   \a{"10.1196.cap/hadr/fproton.1"}
@@ -2865,7 +3542,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "47699 2826"
+@@D "58734 3503"
 }
 {?? @@V @Do ??} } }
 }
@@ -2882,7 +3559,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "47050 2783"
+@@D "58085 3460"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.12"} } }
 }
@@ -2891,7 +3568,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.12"}}}
 
 {@@E {
-@@D "48775 2883"
+@@D "59810 3560"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.12"}
@@ -2900,7 +3577,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "46994 2779"
+@@D "58029 3456"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.12"}
@@ -2916,7 +3593,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "47050 2783"
+@@D "58085 3460"
 }
 {@@V @DupRunner} } }
  }
@@ -2983,7 +3660,7 @@
  }
 {@@E {
 { @@A { @@E {
-@@D "49604 2923"
+@@D "60639 3600"
 }
 {{??} @@V @Do {??}} } }
 }
@@ -3009,7 +3686,7 @@
 
 {@@E {
 { @@A { @@E {
-@@D "47050 2783"
+@@D "58085 3460"
 }
 {@@V @FigureCounterIncrement "9.3806.cap/hadr/fproton.13"} } }
 }
@@ -3018,7 +3695,7 @@
   \b{@@V @RawFigureNum "9.3806.cap/hadr/fproton.13"}}}
 
 {@@E {
-@@D "51163 3010"
+@@D "62198 3687"
 }
 {@NumberMarker
   \a{"9.3806.cap/hadr/fproton.13"}
@@ -3027,7 +3704,7 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "46994 2779"
+@@D "58029 3456"
 }
 {@Figure
   \a{"9.3806.cap/hadr/fproton.13"}
@@ -3043,7 +3720,7 @@
 
 {@@E {
 { @@B { { @@A { @@E {
-@@D "47050 2783"
+@@D "58085 3460"
 }
 {@@V @DupRunner} } }
  }
