@@ -528,7 +528,7 @@ y'(0) = -1.349176976170204485 (18 dígitos significativos).
 @DP
  El mínimo se alcanza en @Math {x approxequal 3.19}, con @Math {y_min approxequal 3 cdot 10 sup {-12}} (prácticamente cero).
 @DP
-Sin embargo, existe una imposibilidad intrínseca para calcular numéricamente y(L)=1, ya que se trata de una separatriz exponencialmente inestable, lo que no permite el cálculo del baricentro de esta solución. La separatriz se ha determinado numéricamente y el mejor resultado obtenible con wxmaxima se encuentra a la altura de @Math {xi slash xi sub {0} = 3.884}
+Sin embargo, existe una imposibilidad intrínseca para calcular numéricamente y(L)=1, ya que se trata de una separatriz exponencialmente inestable, lo que no permite el cálculo del baricentro de esta solución. La separatriz se ha determinado numéricamente y el mejor resultado obtenible con wxmaxima se encuentra a la altura de @Math {xi slash xi sub {0} = 3.884}. Este valor depende de la precisión de la condición inicial y'(0) empleada y, de forma menos intuitiva, del propio paso de integración numérica: al refinar ambos parámetros se obtienen valores algo mayores (hasta 3.939 con un paso más grueso), sin que se haya podido determinar con certeza el límite exacto al que converge la secuencia. Se retoma esta cuestión en el Capítulo 3, donde el valor de L adquiere significado físico directo al intervenir en el cálculo de la masa del neutrino tauónico.
 @DP
 Sin embargo, y a diferencia de las soluciones tipo I y tipo III, cuya condición de existencia es @Math {CDG= xi sub {0}}, la condición de existencia de la solución IIbis es de naturaleza topológica: el exponente de Floquet de la función angular de Mathieu toma el valor @Math {upsilon = 1 slash 2}, condición que equivale a que la onda se cierre coherentemente sobre sí misma tras cuatro períodos angulares @Math {(4 pi)}.
 @DP
@@ -606,7 +606,7 @@ En cuanto a la parte decreciente  [1, L] con @Math {L approxequal 27} para q=-20
 @DP
 @Math {tau _ crec  approxequal  surd (2 bar q bar cdot cosh 2)  approxequal  surd ( 7.52 cdot bar q bar)}
 @DP
-Cualquier error en y'(1) se amplifica como @Math {e^(tau cdot x)}. Para q=-20, @Math {tau approxequal 10.9} , y la solución errónea crece como @Math {e sup {(10.9 cdot x)}}, desbordando en aproximadamente en x= 5. Los valores L de la figura 2.7 del preprint (L=1.99 para q=-20 en lugar de L=27.2) son el límite hasta el que wzgrapher podía integrar antes del desbordamiento.
+Cualquier error en y'(1) se amplifica como @Math {e sup {(tau cdot x)}}. Para q=-20, @Math {tau approxequal 10.9} , y la solución errónea crece como @Math {e sup {(10.9 cdot x)}}, desbordando en aproximadamente en x= 5. Los valores L de la figura 2.7 del preprint (L=1.99 para q=-20 en lugar de L=27.2) son el límite hasta el que wzgrapher podía integrar antes del desbordamiento.
 @DP
 La contribución de la parte decreciente al CDG es despreciable: su norma es proporcional a @Math {1 slash tau _crec approxequal 1 slash surd bar q bar }, frente a norma de orden 1 de la parte creciente. Por tanto la figura 2.7 (CDG de la parte creciente sola) es físicamente correcta.
 @DP

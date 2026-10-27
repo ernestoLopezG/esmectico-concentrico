@@ -383,19 +383,15 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-{ @@A { @@E {
-@@D "49 4"
+@@D "35 3"
 }
-{@RawList
-  \a{{num}.}} } }
-}
-{@@V @MakeList 1} } }
+{@@V @MakeList 19} } }
 }
 {@@V @NormalItem} } }
 }
 {@NumberMarker
   \a{"4.1200.cap/apend/postulados.38"}
-  \b{@@V type 1}}}
+  \b{@@V type 19}}}
 
 {@@E {
 @@D "49 4"
@@ -407,15 +403,19 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "4864 385"
+{ @@A { @@E {
+@@D "49 4"
 }
-{@@V @MakeList 2} } }
+{@RawList
+  \a{{num}.}} } }
+}
+{@@V @MakeList 1} } }
 }
 {@@V @NormalItem} } }
 }
 {@NumberMarker
   \a{"4.1200.cap/apend/postulados.40"}
-  \b{@@V type 2}}}
+  \b{@@V type 1}}}
 
 {@@E {
 @@D "49 4"
@@ -427,20 +427,40 @@
 {@@E {
 { @@A { @@E {
 { @@A { @@E {
-@@D "4864 385"
+@@D "5116 405"
 }
-{@@V @MakeList 3} } }
+{@@V @MakeList 2} } }
 }
 {@@V @NormalItem} } }
 }
 {@NumberMarker
   \a{"4.1200.cap/apend/postulados.42"}
-  \b{@@V type 3}}}
+  \b{@@V type 2}}}
 
 {@@E {
 @@D "49 4"
 }
 {@@V listitem
   \a{"4.1748.cap/apend/postulados.21"}
+???}}
+
+{@@E {
+{ @@A { @@E {
+{ @@A { @@E {
+@@D "5116 405"
+}
+{@@V @MakeList 3} } }
+}
+{@@V @NormalItem} } }
+}
+{@NumberMarker
+  \a{"4.1200.cap/apend/postulados.44"}
+  \b{@@V type 3}}}
+
+{@@E {
+@@D "49 4"
+}
+{@@V listitem
+  \a{"4.1748.cap/apend/postulados.22"}
 ???}}
 
